@@ -1,0 +1,844 @@
+{
+ "_meta": {
+  "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
+  "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
+  "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen."
+ },
+ "abbreviations": {
+  "א\"א": {
+   "he": "אֲרִיךְ אַנְפִּין",
+   "en": "Arikh Anpin"
+  },
+  "א\"ח": {
+   "he": "אֹרַח חַיִּים",
+   "en": "Orah Hayyim"
+  },
+  "א\"כ": {
+   "he": "אִם כֵּן",
+   "en": "if so"
+  },
+  "א\"ל": {
+   "he": "אָמַר לוֹ",
+   "en": "he said to him"
+  },
+  "א\"נ": {
+   "he": "אִי נַמֵי",
+   "en": "alternatively"
+  },
+  "א\"ס": {
+   "he": "אֵין סוֹף",
+   "en": "the Infinite (Ein Sof)"
+  },
+  "א\"ת": {
+   "he": "חִלּוּף א\"ת ב\"שׁ",
+   "en": "the atbash letter-substitution cipher"
+  },
+  "אבג\"ד": {
+   "he": "סֵדֶר הָאוֹתִיּוֹת א-ב-ג-ד",
+   "en": "the letters in their normal order (alef, bet, gimel, dalet …)"
+  },
+  "אבי\"ע": {
+   "he": "אֲצִילוּת בְּרִיאָה יְצִירָה עֲשִׂיָּה",
+   "en": "the four worlds: Atzilut, Beriah, Yetzirah, Asiyah"
+  },
+  "אדנ\"י": {
+   "he": "שֵׁם אֲדֹנָ\"י",
+   "en": "the Name Adonai"
+  },
+  "אהי\"ה": {
+   "he": "שֵׁם אֶהְיֶ\"ה",
+   "en": "the Name Ehyeh"
+  },
+  "או\"ח": {
+   "he": "אֹרַח חַיִּים",
+   "en": "Orah Hayyim (section of the Shulhan Arukh)"
+  },
+  "אח\"כ": {
+   "he": "אַחַר כָּךְ",
+   "en": "afterwards"
+  },
+  "אחה\"ע": {
+   "he": "אוֹתִיּוֹת הַגָּרוֹן אחה\"ע",
+   "en": "the guttural letters (alef, he, het, ayin)"
+  },
+  "אלקי\"ם": {
+   "he": "שֵׁם אֱלֹקִי\"ם",
+   "en": "the Name Elohim"
+  },
+  "אע\"פ": {
+   "he": "אַף עַל פִּי",
+   "en": "even though"
+  },
+  "אעפ\"י": {
+   "he": "אַף עַל פִּי",
+   "en": "even though"
+  },
+  "אפ\"ה": {
+   "he": "אֲפִלּוּ הָכִי",
+   "en": "even so"
+  },
+  "ב\"ב": {
+   "he": "בָּבָא בַּתְרָא",
+   "en": "tractate Bava Batra"
+  },
+  "ב\"ה": {
+   "he": "בָּרוּךְ הוּא",
+   "en": "blessed be He"
+  },
+  "ב\"מ": {
+   "he": "בָּבָא מְצִיעָא",
+   "en": "tractate Bava Metzia"
+  },
+  "ב\"ן": {
+   "he": "שֵׁם ב\"ן (52)",
+   "en": "the Name of gematria 52"
+  },
+  "ב\"נ": {
+   "he": "בֶּן נֹחַ",
+   "en": "a Noahide"
+  },
+  "ב\"ק": {
+   "he": "בָּבָא קַמָּא",
+   "en": "tractate Bava Kamma"
+  },
+  "בב\"א": {
+   "he": "בִּמְהֵרָה בְּיָמֵינוּ אָמֵן",
+   "en": "speedily in our days, Amen"
+  },
+  "בד\"א": {
+   "he": "בַּמֶּה דְּבָרִים אֲמוּרִים",
+   "en": "in what circumstances is this said"
+  },
+  "בהכ\"נ": {
+   "he": "בֵּית הַכְּנֶסֶת",
+   "en": "the synagogue"
+  },
+  "בהמ\"ק": {
+   "he": "בֵּית הַמִּקְדָּשׁ",
+   "en": "the Temple"
+  },
+  "בי\"ד": {
+   "he": "בֵּית דִּין",
+   "en": "court of law"
+  },
+  "בי\"ע": {
+   "he": "בְּרִיאָה יְצִירָה עֲשִׂיָּה",
+   "en": "the worlds Beriah, Yetzirah, Asiyah"
+  },
+  "ביהמ\"ד": {
+   "he": "בֵּית הַמִּדְרָשׁ",
+   "en": "the study hall"
+  },
+  "ביהמ\"ק": {
+   "he": "בֵּית הַמִּקְדָּשׁ",
+   "en": "the Temple"
+  },
+  "בכ\"ז": {
+   "he": "בְּכָל זֹאת",
+   "en": "nevertheless"
+  },
+  "בכמהר\"ר": {
+   "he": "בֶּן כְּבוֹד מוֹרֵנוּ הָרַב רַבִּי",
+   "en": "son of our honoured teacher, Rabbi"
+  },
+  "במהר\"ב": {
+   "he": "בִּמְהֵרָה בְּיָמֵינוּ",
+   "en": "speedily in our days"
+  },
+  "בס\"ד": {
+   "he": "בְּסִיַּעְתָּא דִּשְׁמַיָּא",
+   "en": "with the help of Heaven"
+  },
+  "בעה\"ב": {
+   "he": "בַּעַל הַבַּיִת",
+   "en": "the householder"
+  },
+  "בעה\"ו": {
+   "he": "בְּעֶזְרַת הָאֵל וִישׁוּעָתוֹ",
+   "en": "with the help of God and His salvation"
+  },
+  "בעזה\"י": {
+   "he": "בְּעֶזְרַת הַשֵּׁם יִתְבָּרֵךְ",
+   "en": "with the help of God, blessed be He"
+  },
+  "בשה\"ט": {
+   "he": "בְּשֻׁלְחָן הַטָּהוֹר",
+   "en": "in the Shulhan Arukh"
+  },
+  "ד\"ה": {
+   "he": "דִּבּוּר הַמַּתְחִיל",
+   "en": "s.v. (the comment beginning)"
+  },
+  "ד\"מ": {
+   "he": "דֶּרֶךְ מָשָׁל",
+   "en": "by way of example"
+  },
+  "ה\"ה": {
+   "he": "הוּא הַדִּין",
+   "en": "the same rule applies"
+  },
+  "ה\"י": {
+   "he": "הַשֵּׁם יִשְׁמְרֵהוּ",
+   "en": "may God protect him"
+  },
+  "ה\"נ": {
+   "he": "הָכִי נַמֵי",
+   "en": "so too"
+  },
+  "האר\"י": {
+   "he": "הָאֱלֹהִי רַבִּי יִצְחָק לוּרְיָא",
+   "en": "the Ari (R. Yitzhak Luria)"
+  },
+  "האריז\"ל": {
+   "he": "הָאֱלֹהִי רַבִּי יִצְחָק לוּרְיָא זִכְרוֹנוֹ לִבְרָכָה",
+   "en": "the Ari, of blessed memory"
+  },
+  "הו\"א": {
+   "he": "הֲוָה אָמִינָא",
+   "en": "one might have thought"
+  },
+  "הוי\"ה": {
+   "he": "שֵׁם הֲוָיָ\"ה",
+   "en": "the Tetragrammaton"
+  },
+  "הויו\"ת": {
+   "he": "שְׁמוֹת הֲוָיָ\"ה (רַבִּים)",
+   "en": "Tetragrammaton names (plural)"
+  },
+  "הטו\"ר": {
+   "he": "הַטּוּר (רַבֵּנוּ יַעֲקֹב בַּעַל הַטּוּרִים)",
+   "en": "the Tur"
+  },
+  "הי\"ו": {
+   "he": "הַשֵּׁם יִשְׁמְרֵהוּ וִיחַיֵּיהוּ",
+   "en": "may HaShem protect and preserve him"
+  },
+  "הנ\"ל": {
+   "he": "הַנִּזְכָּר לְעֵיל",
+   "en": "the aforementioned"
+  },
+  "הנז\"ל": {
+   "he": "הַנִּזְכָּר לְעֵיל",
+   "en": "the aforementioned"
+  },
+  "הצל\"ח": {
+   "he": "צִיּוּן לְנֶפֶשׁ חַיָּה (רַבִּי יְחֶזְקֵאל לַנְדָא)",
+   "en": "the Tzelah (R. Yehezkel Landau)"
+  },
+  "הקב\"ה": {
+   "he": "הַקָּדוֹשׁ בָּרוּךְ הוּא",
+   "en": "the Holy One, blessed be He"
+  },
+  "הר\"ן": {
+   "he": "רַבֵּנוּ נִסִּים",
+   "en": "the Ran (Rabbenu Nissim)"
+  },
+  "הרַהַ\"ג": {
+   "he": "הָרַב הַגָּאוֹן",
+   "en": "the eminent Rabbi"
+  },
+  "הרא\"ש": {
+   "he": "רַבֵּנוּ אָשֵׁר",
+   "en": "the Rosh (Rabbenu Asher)"
+  },
+  "הרד\"ק": {
+   "he": "רַבִּי דָּוִד קִמְחִי",
+   "en": "Radak (R. David Kimhi)"
+  },
+  "הרדב\"ז": {
+   "he": "רַבִּי דָּוִד בֶּן זִמְרָא",
+   "en": "Radbaz (R. David ibn Zimra)"
+  },
+  "הרה\"ג": {
+   "he": "הָרַב הַגָּאוֹן",
+   "en": "the eminent Rabbi"
+  },
+  "הרי\"ף": {
+   "he": "רַבֵּנוּ יִצְחָק אַלְפָסִי",
+   "en": "Rif (R. Yitzhak Alfasi)"
+  },
+  "הריטב\"א": {
+   "he": "רַבִּי יוֹם טוֹב בֶּן אַבְרָהָם אִשְׁבִּילִי",
+   "en": "Ritva (R. Yom Tov ben Avraham Ishbili)"
+  },
+  "הרמב\"ם": {
+   "he": "רַבֵּנוּ מֹשֶׁה בֶּן מַימוֹן",
+   "en": "Rambam (Maimonides)"
+  },
+  "הרמב\"ן": {
+   "he": "רַבֵּנוּ מֹשֶׁה בֶּן נַחְמָן",
+   "en": "Ramban (Nachmanides)"
+  },
+  "הרש\"ש": {
+   "he": "רַבִּי שָׁלוֹם שַׁרְעָבִּי",
+   "en": "the Rashash (R. Shalom Sharabi)"
+  },
+  "הרשב\"א": {
+   "he": "רַבֵּנוּ שְׁלֹמֹה בֶּן אַדֶּרֶת",
+   "en": "Rashba (R. Shelomo ibn Aderet)"
+  },
+  "הש\"ס": {
+   "he": "הַשִּׁשָּׁה סְדָרִים (הַתַּלְמוּד)",
+   "en": "the Talmud"
+  },
+  "השי\"ת": {
+   "he": "הַשֵּׁם יִתְבָּרֵךְ",
+   "en": "God, blessed be He"
+  },
+  "ו\"ה": {
+   "he": "וָא\"ו הֵ\"א (שתי אותיות אחרונות של השם)",
+   "en": "the letters vav-he of the Name"
+  },
+  "ו\"ו": {
+   "he": "הָאוֹת וָא\"ו",
+   "en": "the letter vav"
+  },
+  "ו\"ק": {
+   "he": "וָא\"ו קְצָווֹת",
+   "en": "the six extremities (vav ketzavot)"
+  },
+  "ודו\"ק": {
+   "he": "וְדוֹק הֵיטֵב",
+   "en": "examine this closely"
+  },
+  "וז\"ל": {
+   "he": "וְזֶה לְשׁוֹנוֹ",
+   "en": "and these are his words"
+  },
+  "וז\"ש": {
+   "he": "וְזֶהוּ שֶׁאָמַר",
+   "en": "and this is what he said"
+  },
+  "וכ\"ש": {
+   "he": "וְכָל שֶׁכֵּן",
+   "en": "and all the more so"
+  },
+  "וכו'": {
+   "he": "וְכוּלֵּי",
+   "en": "etc."
+  },
+  "וכיו\"ב": {
+   "he": "וְכַיּוֹצֵא בּוֹ",
+   "en": "and the like"
+  },
+  "ז\"א": {
+   "he": "זְעֵיר אַנְפִּין",
+   "en": "Ze'ir Anpin"
+  },
+  "ז\"ל": {
+   "he": "זִכְרוֹנוֹ לִבְרָכָה",
+   "en": "of blessed memory"
+  },
+  "זו\"ן": {
+   "he": "זְעֵיר אַנְפִּין וְנוּקְבָא",
+   "en": "Ze'ir Anpin and Nukva"
+  },
+  "זיע\"א": {
+   "he": "זְכוּתוֹ יָגֵן עָלֵינוּ אָמֵן",
+   "en": "may his merit shield us, Amen"
+  },
+  "זלה\"ה": {
+   "he": "זִכְרוֹנוֹ לְחַיֵּי הָעוֹלָם הַבָּא",
+   "en": "may his memory be for the life of the World to Come"
+  },
+  "זצ\"ל": {
+   "he": "זֵכֶר צַדִּיק לִבְרָכָה",
+   "en": "may the memory of the righteous be a blessing"
+  },
+  "זצוק\"ל": {
+   "he": "זֵכֶר צַדִּיק וְקָדוֹשׁ לִבְרָכָה",
+   "en": "may the memory of the righteous and holy be a blessing"
+  },
+  "ח\"ו": {
+   "he": "חַס וְשָׁלוֹם",
+   "en": "God forbid"
+  },
+  "חֲזַ\"ל": {
+   "he": "חֲכָמֵינוּ זִכְרָם לִבְרָכָה",
+   "en": "our Sages, of blessed memory"
+  },
+  "חג\"ת": {
+   "he": "חֶסֶד גְּבוּרָה תִּפְאֶרֶת",
+   "en": "Hesed, Gevura, Tiferet"
+  },
+  "חו\"ב": {
+   "he": "חָכְמָה וּבִינָה",
+   "en": "Hokhma and Bina"
+  },
+  "חול\"ם": {
+   "he": "נִקּוּד חוֹלָ\"ם",
+   "en": "the holam vocalization"
+  },
+  "חז\"ל": {
+   "he": "חֲכָמֵינוּ זִכְרָם לִבְרָכָה",
+   "en": "our Sages, of blessed memory"
+  },
+  "חיד\"א": {
+   "he": "חַיִּים יוֹסֵף דָּוִד אֲזוּלַאי",
+   "en": "the Hida (R. Hayyim Yosef David Azulai)"
+  },
+  "חיר\"ק": {
+   "he": "נִקּוּד חִירִ\"ק",
+   "en": "the hirik vocalization"
+  },
+  "י\"ה": {
+   "he": "שֵׁם יָ\"הּ",
+   "en": "the Name Yah"
+  },
+  "י\"ל": {
+   "he": "יֵשׁ לוֹמַר",
+   "en": "one could say"
+  },
+  "יו\"ד": {
+   "he": "יוֹרֶה דֵּעָה",
+   "en": "Yore De'a (section of the Shulhan Arukh)",
+   "alt": "הָאוֹת יוֹ\"ד"
+  },
+  "יודי\"ן": {
+   "he": "מִלּוּי יוֹדִי\"ן",
+   "en": "the spelling-out with yods"
+  },
+  "יע\"א": {
+   "he": "יְכוֹנְנֶהָ עֶלְיוֹן אָמֵן",
+   "en": "may the Most High establish it, Amen"
+  },
+  "יע\"ש": {
+   "he": "יְעֻיַּן שָׁם",
+   "en": "see there"
+  },
+  "יצה\"ט": {
+   "he": "יֵצֶר הַטּוֹב",
+   "en": "the good inclination"
+  },
+  "יצה\"ר": {
+   "he": "יֵצֶר הָרַע",
+   "en": "the evil inclination"
+  },
+  "כ\"ד": {
+   "he": "כֹּה דִּבְרֵי",
+   "en": "thus are the words of"
+  },
+  "כ\"כ": {
+   "he": "כָּל כָּךְ",
+   "en": "so much"
+  },
+  "כ\"ש": {
+   "he": "כָּל שֶׁכֵּן",
+   "en": "all the more so"
+  },
+  "כה\"ר": {
+   "he": "כְּבוֹד הָרַב",
+   "en": "the honoured Rabbi"
+  },
+  "כמ\"ש": {
+   "he": "כְּמוֹ שֶׁכָּתוּב",
+   "en": "as it is written",
+   "alt": "כְּמוֹ שֶׁכָּתַב — wenn ein Autor gemeint ist"
+  },
+  "כמהר\"ר": {
+   "he": "כְּבוֹד מוֹרֵנוּ הָרַב רַבִּי",
+   "en": "our honoured teacher, Rabbi"
+  },
+  "כנ\"ז": {
+   "he": "כַּנִּזְכָּר",
+   "en": "as mentioned"
+  },
+  "כנ\"ל": {
+   "he": "כַּנִּזְכָּר לְעֵיל",
+   "en": "as mentioned above"
+  },
+  "ל\"ק": {
+   "he": "לָא קַשְׁיָא",
+   "en": "it is not difficult"
+  },
+  "למ\"ד": {
+   "he": "הָאוֹת ל",
+   "en": "the letter lamed",
+   "alt": "לְמַאן דְּאָמַר — in der Wendung \"בשלמא למ״ד…\"; das Lektorat entscheidet im Kontext"
+  },
+  "לפ\"ד": {
+   "he": "לְפִי דַּעְתִּי",
+   "en": "in my opinion"
+  },
+  "לפ\"ז": {
+   "he": "לְפִי זֶה",
+   "en": "according to this"
+  },
+  "מ\"ד": {
+   "he": "מַאן דְּאָמַר",
+   "en": "the one who says"
+  },
+  "מ\"ד2": {
+   "he": "מַיִּין דּוּכְרִין",
+   "en": "mayin dukhrin (descending waters)"
+  },
+  "מ\"ה": {
+   "he": "שֵׁם מ\"ה (45)",
+   "en": "the Name of gematria 45"
+  },
+  "מ\"מ": {
+   "he": "מִכָּל מָקוֹם",
+   "en": "in any case"
+  },
+  "מ\"ן": {
+   "he": "מַיִּין נוּקְבִין",
+   "en": "mayin nukvin (ascending waters)"
+  },
+  "מ\"ש": {
+   "he": "מַה שֶּׁכָּתַב",
+   "en": "what he wrote",
+   "alt": "מַה שֶּׁאָמַר"
+  },
+  "מ\"ת": {
+   "he": "מַתַּן תּוֹרָה",
+   "en": "the giving of the Torah"
+  },
+  "מהר\"י": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי יַעֲקֹב",
+   "en": "Mahari (R. Yaakov)",
+   "alt": "רַבִּי יוֹסֵף"
+  },
+  "מהר\"ם": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי מֵאִיר",
+   "en": "Maharam (R. Meir)"
+  },
+  "מהרח\"ו": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי חַיִּים וִיטָאל",
+   "en": "R. Hayyim Vital"
+  },
+  "מהרש\"א": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל אֱלִיעֶזֶר אֵידֶלְס",
+   "en": "Maharsha (R. Shemuel Eliezer Edels)"
+  },
+  "מו\"ר": {
+   "he": "מוֹרִי וְרַבִּי",
+   "en": "my teacher and master"
+  },
+  "מט\"ט": {
+   "he": "מֶטַטְרוֹ\"ן",
+   "en": "Metatron"
+  },
+  "מנצפ\"ך": {
+   "he": "הָאוֹתִיּוֹת הַסּוֹפִיּוֹת מנצפ\"ך",
+   "en": "the five final letters"
+  },
+  "מצפ\"ץ": {
+   "he": "שֵׁם מצפ\"ץ (חִלּוּף א\"ת ב\"שׁ שֶׁל שֵׁם הֲוָיָ\"ה)",
+   "en": "the Name MTzPTz (atbash of the Tetragrammaton)"
+  },
+  "משא\"כ": {
+   "he": "מַה שֶּׁאֵין כֵּן",
+   "en": "unlike the case of"
+  },
+  "נ\"ל": {
+   "he": "נִרְאֶה לִי",
+   "en": "it seems to me"
+  },
+  "נה\"י": {
+   "he": "נֶצַח הוֹד יְסוֹד",
+   "en": "Netzah, Hod, Yesod"
+  },
+  "נר\"ו": {
+   "he": "נַטְרֵיהּ רַחֲמָנָא וּפָרְקֵיהּ",
+   "en": "may the Merciful One guard and redeem him"
+  },
+  "נר\"ן": {
+   "he": "נֶפֶשׁ רוּחַ נְשָׁמָה",
+   "en": "nefesh, ruah, neshama"
+  },
+  "נרנח\"י": {
+   "he": "נֶפֶשׁ רוּחַ נְשָׁמָה חַיָּה יְחִידָה",
+   "en": "the five levels of soul"
+  },
+  "ס\"ג": {
+   "he": "שֵׁם ס\"ג (63)",
+   "en": "the Name of gematria 63"
+  },
+  "ס\"ד": {
+   "he": "סָלְקָא דַּעְתָּךְ",
+   "en": "one might have thought"
+  },
+  "ס\"ט": {
+   "he": "סִפְרָא טָבָא",
+   "en": "honorific appended to a name"
+  },
+  "ס\"ל": {
+   "he": "סְבִירָא לֵיהּ",
+   "en": "he holds / he is of the opinion"
+  },
+  "ס\"ת": {
+   "he": "סֵפֶר תּוֹרָה",
+   "en": "a Torah scroll"
+  },
+  "סגו\"ל": {
+   "he": "נִקּוּד סֶגּוֹ\"ל",
+   "en": "the segol vocalization"
+  },
+  "סה\"ק": {
+   "he": "הַסֵּפֶר הַקָּדוֹשׁ",
+   "en": "the holy book"
+  },
+  "ע\"א": {
+   "he": "עַמּוּד א",
+   "en": "side a of the folio"
+  },
+  "ע\"ב": {
+   "he": "עַמּוּד ב",
+   "en": "side b of the folio",
+   "alt": "שֵׁם ע\"ב (72) — im kabbalistischen Kontext"
+  },
+  "ע\"ה": {
+   "he": "עָלָיו הַשָּׁלוֹם",
+   "en": "peace be upon him"
+  },
+  "ע\"ז": {
+   "he": "עֲבוֹדָה זָרָה",
+   "en": "tractate Avoda Zara / idolatry"
+  },
+  "ע\"י": {
+   "he": "עַל יְדֵי",
+   "en": "by means of"
+  },
+  "ע\"כ": {
+   "he": "עַל כֵּן",
+   "en": "therefore",
+   "alt": "עַד כָּאן"
+  },
+  "ע\"ש": {
+   "he": "עַיֵּן שָׁם",
+   "en": "see there"
+  },
+  "עו\"ה": {
+   "he": "עֲוֹנוֹתֵינוּ הָרַבִּים",
+   "en": "our many sins"
+  },
+  "עוה\"ב": {
+   "he": "עוֹלָם הַבָּא",
+   "en": "the World to Come"
+  },
+  "עוה\"ז": {
+   "he": "עוֹלָם הַזֶּה",
+   "en": "this world"
+  },
+  "עי\"כ": {
+   "he": "עַל יְדֵי כָּךְ",
+   "en": "thereby"
+  },
+  "עי\"ש": {
+   "he": "עַיֵּן שָׁם",
+   "en": "see there"
+  },
+  "עכ\"ל": {
+   "he": "עַד כָּאן לְשׁוֹנוֹ",
+   "en": "end of his words"
+  },
+  "עכ\"פ": {
+   "he": "עַל כָּל פָּנִים",
+   "en": "in any event"
+  },
+  "עכו\"ם": {
+   "he": "עוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת",
+   "en": "worshippers of stars and constellations, i.e. idolaters"
+  },
+  "עפ\"ז": {
+   "he": "עַל פִּי זֶה",
+   "en": "accordingly"
+  },
+  "עפ\"י": {
+   "he": "עַל פִּי",
+   "en": "according to"
+  },
+  "פירש\"י": {
+   "he": "פֵּרֵשׁ רַשִׁ\"י",
+   "en": "Rashi explained"
+  },
+  "פרד\"ס": {
+   "he": "פְּשָׁט רֶמֶז דְּרַשׁ סוֹד",
+   "en": "the four levels of interpretation"
+  },
+  "פת\"ח": {
+   "he": "נִקּוּד פַּתָ\"ח",
+   "en": "the patah vocalization"
+  },
+  "צ\"ל": {
+   "he": "צָרִיךְ לוֹמַר",
+   "en": "it should read"
+  },
+  "צ\"ע": {
+   "he": "צָרִיךְ עִיּוּן",
+   "en": "requires further study"
+  },
+  "צל\"ח": {
+   "he": "צִיּוּן לְנֶפֶשׁ חַיָּה (רַבִּי יְחֶזְקֵאל לַנְדָא)",
+   "en": "Tzelah (R. Yehezkel Landau)"
+  },
+  "צר\"י": {
+   "he": "נִקּוּד צֵירֵ\"י",
+   "en": "the tzere vocalization"
+  },
+  "ק\"ש": {
+   "he": "קְרִיאַת שְׁמַע",
+   "en": "the recitation of Shema"
+  },
+  "קב\"ה": {
+   "he": "קֻדְשָׁא בְּרִיךְ הוּא",
+   "en": "the Holy One, blessed be He"
+  },
+  "קבו\"ץ": {
+   "he": "נִקּוּד קֻבּוּ\"ץ",
+   "en": "the kubbutz vocalization"
+  },
+  "קמ\"ל": {
+   "he": "קָא מַשְׁמַע לָן",
+   "en": "it teaches us"
+  },
+  "קמ\"ץ": {
+   "he": "נִקּוּד קָמָ\"ץ",
+   "en": "the kamatz vocalization"
+  },
+  "ר\"ה": {
+   "he": "רֹאשׁ הַשָּׁנָה",
+   "en": "Rosh Hashana"
+  },
+  "ר\"י": {
+   "he": "רַבִּי יְהוּדָה",
+   "en": "R. Yehuda",
+   "alt": "רַבִּי יוֹחָנָן / רַבִּי יִצְחָק — nach Kontext"
+  },
+  "ר\"ל": {
+   "he": "רוֹצֶה לוֹמַר",
+   "en": "that is to say",
+   "alt": "רֵישׁ לָקִישׁ"
+  },
+  "ר\"מ": {
+   "he": "רַבִּי מֵאִיר",
+   "en": "Rabbi Meir"
+  },
+  "ר\"פ": {
+   "he": "רַב פָּפָא",
+   "en": "Rav Pappa"
+  },
+  "ר\"ת": {
+   "he": "רַבֵּנוּ תָּם",
+   "en": "Rabbenu Tam",
+   "alt": "רָאשֵׁי תֵּבוֹת = Akronym"
+  },
+  "רא\"ש": {
+   "he": "רַבֵּנוּ אָשֵׁר בֶּן יְחִיאֵל",
+   "en": "Rosh (R. Asher ben Yehiel)"
+  },
+  "רבב\"ח": {
+   "he": "רַבָּה בַּר בַּר חָנָה",
+   "en": "Rabba bar bar Hana"
+  },
+  "ריב\"ל": {
+   "he": "רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי",
+   "en": "R. Yehoshua ben Levi"
+  },
+  "רמ\"א": {
+   "he": "רַבִּי מֹשֶׁה אִיסֶרְלִישׂ",
+   "en": "Rema (R. Moshe Isserles)"
+  },
+  "רמ\"ז": {
+   "he": "רַבִּי מֹשֶׁה זַכּוּת",
+   "en": "Ramaz (R. Moshe Zacuto)"
+  },
+  "רמב\"ם": {
+   "he": "רַבִּי מֹשֶׁה בֶּן מַיְמוֹן",
+   "en": "Rambam (Maimonides)"
+  },
+  "רנב\"י": {
+   "he": "רַב נַחְמָן בַּר יִצְחָק",
+   "en": "Rav Nahman bar Yitzhak"
+  },
+  "רש\"י": {
+   "he": "רַבִּי שְׁלֹמֹה יִצְחָקִי",
+   "en": "Rashi (R. Shelomo Yitzhaki)"
+  },
+  "רשב\"י": {
+   "he": "רַבִּי שִׁמְעוֹן בַּר יוֹחַאי",
+   "en": "R. Shimon bar Yohai"
+  },
+  "רשב\"ם": {
+   "he": "רַבֵּנוּ שְׁמוּאֵל בֶּן מֵאִיר",
+   "en": "Rashbam (R. Samuel ben Meir)"
+  },
+  "ש\"ס": {
+   "he": "שִׁשָּׁה סְדָרִים (הַתַּלְמוּד)",
+   "en": "the Talmud"
+  },
+  "שב\"א": {
+   "he": "נִקּוּד שְׁוָ\"א",
+   "en": "the sheva vocalization"
+  },
+  "שד\"י": {
+   "he": "שֵׁם שַׁדַּ\"י",
+   "en": "the Name Shaddai"
+  },
+  "שה\"ס": {
+   "he": "שֵׁם הַסּוֹד",
+   "en": "the mystical Name"
+  },
+  "שו\"ע": {
+   "he": "שֻׁלְחָן עָרוּךְ",
+   "en": "Shulhan Arukh"
+  },
+  "שור\"ק": {
+   "he": "נִקּוּד שׁוּרֻ\"ק",
+   "en": "the shuruk vocalization"
+  },
+  "ת\"ח": {
+   "he": "תַּלְמִיד חָכָם",
+   "en": "a Torah scholar"
+  },
+  "ת\"ל": {
+   "he": "תַּלְמוּד לוֹמַר",
+   "en": "the verse teaches"
+  },
+  "ת\"ת": {
+   "he": "תַּלְמוּד תּוֹרָה",
+   "en": "Torah study",
+   "alt": "תִּפְאֶרֶת (kabbalistisch)"
+  },
+  "תוב\"ב": {
+   "he": "תִּבָּנֶה וְתִכּוֹנֵן בִּמְהֵרָה בְיָמֵינוּ",
+   "en": "may it be rebuilt and established speedily in our days"
+  },
+  "תנ\"ך": {
+   "he": "תּוֹרָה נְבִיאִים וּכְתוּבִים",
+   "en": "Tanakh (Torah, Prophets, and Writings)"
+  },
+  "תרי\"ג": {
+   "he": "תַּרְיַ\"ג מִצְווֹת (613)",
+   "en": "the 613 commandments"
+  },
+  "תשר\"ק": {
+   "he": "סֵדֶר הָאוֹתִיּוֹת לְמַפְרֵעַ ת-ש-ר-ק",
+   "en": "the letters in reverse order (tav, shin, resh, kof …)"
+  }
+ },
+ "letter_names": {
+  "אל\"ף": "א",
+  "בי\"ת": "ב",
+  "גימ\"ל": "ג",
+  "דל\"ת": "ד",
+  "ה\"א": "ה",
+  "וא\"ו": "ו",
+  "זי\"ן": "ז",
+  "חי\"ת": "ח",
+  "טי\"ת": "ט",
+  "יו\"ד": "י",
+  "כ\"ף": "כ",
+  "למ\"ד": "ל",
+  "מ\"ם": "מ",
+  "נו\"ן": "נ",
+  "סמ\"ך": "ס",
+  "עי\"ן": "ע",
+  "פ\"ה": "פ",
+  "צד\"י": "צ",
+  "קו\"ף": "ק",
+  "רי\"ש": "ר",
+  "שי\"ן": "ש",
+  "תי\"ו": "ת"
+ }
+}
