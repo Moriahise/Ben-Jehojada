@@ -1,0 +1,985 @@
+﻿BEN YEHOYADA · VERBINDLICHE ARBEITSANLEITUNG
+Aktuelle Fassung: 1.3 · Stand: 24.09.2026
+Passendes Skript: Ben_Yehoyada_Bilingual_Book_Manager_v2_0_12.jsx
+Passende Datenpipeline: ben-yehoyada-pipeline v3.1
+Passende Übersetzungsanweisung: Fassung 1.2 vom 22.09.2026
+
+Diese Datei ist die fortlaufend aktualisierte Hauptanleitung für das gesamte Projekt.
+Bei jeder Änderung am Skript, an der Pipeline, an der Segmentierung, am Übersetzungsablauf oder am Layout wird diese Anleitung mitaktualisiert.
+
+======================================================================
+WAS SICH GEGENÜBER FASSUNG 1.2 GEÄNDERT HAT
+======================================================================
+
+Erstens: Der verbindliche Book Manager ist jetzt v2.0.12.
+Für neue Produktionsläufe wird ausschließlich
+Ben_Yehoyada_Bilingual_Book_Manager_v2_0_12.jsx verwendet.
+Ältere Fassungen bleiben nur zu Vergleichs- und Archivzwecken erhalten.
+
+Zweitens: Die verbindliche Datenpipeline ist jetzt v3.1.
+Sie enthält die am 24.09.2026 eingebauten Korrekturen für:
+- Erhalt des Dibbur-ha-Matchil als <lemma>, auch wenn kein sicherer Talmud-ref gefunden wurde.
+- robustere Zuordnung der Talmud-Kopfbänder gegen Dicta haser.
+- längste/exakte Abkürzungstreffer vor kürzeren enthaltenen Treffern.
+- keine verschachtelten oder überlappenden automatischen Fußnoten.
+- Vorrang sicherer Senlake-<small>[…]</small>-Erklärungen.
+- kontextabhängige Behandlung mehrdeutiger Kürzel.
+- kein blindes Gematria-Fallback für lexikalische Abkürzungen.
+- zusätzliche Abnahmeprüfung mit blockierenden FEHLER-Befunden.
+
+Drittens: Der gemeinsame Bulk-Merge ist seit v2.0.6 für Ben Yehoyada
+produktiv freigegeben. Er prüft und übernimmt <en> UND <band_en>.
+Er verwirft unter anderem:
+- verändertes <he> oder <band_he>,
+- falsche oder veränderte daf/ref-Attribute,
+- fehlendes oder widersprüchliches <band_en>,
+- hebräische Zeichen in <band_en>,
+- verlorene führende oder abschließende Auslassungszeichen,
+- Widersprüche zwischen englischem <lemma> und <band_en>,
+- doppelte oder überlappende BYH-ID-Bereiche.
+Der Einzelmerge „Nach IDs zusammenführen“ bleibt weiterhin gültig.
+
+Viertens: Seit v2.0.7/v2.0.8 gelten zusätzliche Satzregeln:
+- das hebräische Talmud-Kopfband steht mit 72 Prozent Schwarz, nicht 8 Prozent;
+- Talmud-Kopfbänder werden zusammengehalten;
+- Daf-Überschriften werden mit dem folgenden Kopfband zusammengehalten;
+- HE- und EN-Daf-Wechsel müssen auf derselben physischen Seite liegen;
+- typografische Varianten von Gershayim/Anführungszeichen dürfen die Daf-Erkennung nicht stören;
+- „Bulk fortsetzen“ ist für bereits eingespielten englischen Text verfügbar.
+
+Fünftens: Seit v2.0.9/v2.0.10 gelten harte Layoutgrenzen.
+Produktionsstandard des Dividers:
+- HE-Unterkante: 126,00 mm
+- EN-Oberkante: 129,00 mm
+- Abstand: immer 3,00 mm
+
+Zulässiger Produktionsbereich:
+- HE-Unterkante: 111,00 bis 141,00 mm
+- EN-Oberkante: 114,00 bis 144,00 mm
+
+Harte Prioritäten, in genau dieser Reihenfolge:
+1. kein ungelöster Übersatz;
+2. Divider innerhalb des zulässigen ±15-mm-Bereichs;
+3. HE- und EN-Daf-Titel auf derselben physischen Seite.
+
+Die BYH-Seitenanker bleiben ein wichtiges Optimierungsziel, sind aber gegenüber
+diesen drei Sicherheitsbedingungen nachrangig.
+
+Sechstens: v2.0.11 enthält die verbindliche Mikrotypografie des Talmud-Kopfbandes:
+- Abstand der oberen Linie: 3,5 mm
+- Abstand der unteren Linie: 2,0 mm
+- spaceBefore: 7 pt
+- spaceAfter: 4 pt
+- obere Linie: 0,8 pt
+- untere Linie: 0,4 pt
+
+Siebtens: v2.0.12 ergänzt in Reiter 3 den neuen Produktionsweg
+„GESAMTBAND · Ganzen Band angleichen · EN bereits vorhanden“.
+
+Dieser Lauf ist für einen neu aufgebauten InDesign-Band gedacht, dessen
+vollständig übersetzter englischer Text bereits im gewählten BILINGUAL-Master
+und im InDesign-Dokument vorhanden ist.
+
+Der Gesamtbandlauf:
+- benötigt kein Bulk_Set-Manifest;
+- benötigt keinen MERGED-Status in der BatchQueue;
+- spielt Englisch NICHT erneut ein;
+- prüft den vorhandenen HE-/EN-Textfluss gegen den gewählten Master;
+- verlangt einen vollständig englisch gefüllten Band-Master;
+- teilt den Band intern in temporäre Layoutbereiche zu je 12 Segmenten;
+- verarbeitet diese Bereiche in aufsteigender BYH-ID-Reihenfolge;
+- verwendet den geschützten Bulk-Balancer;
+- behält Divider-Hard-Limits, Daf-Synchronität und Übersatzkontrolle bei;
+- erstellt INDD-Sicherung, Layout-Snapshots und ein Laufprotokoll;
+- kann kontrolliert zweisprachige Seiten ergänzen, solange die 600-Seiten-Grenze eingehalten wird;
+- verändert weder den Band-Master noch BatchQueue/MERGED-Status.
+
+Achtens: Die Übersetzungsanweisung bleibt vorläufig Fassung 1.2.
+Ihre inhaltlichen Übersetzungsregeln bleiben gültig. Neue Translation_Batches
+aus v2.0.12 verweisen auf die gültigen Anweisungsdateien.
+
+======================================================================
+WAS DIESES PROJEKT VOM BEN ISH CHAI UNTERSCHEIDET
+======================================================================
+
+Der Ben Yehoyada ist der Aggada-Kommentar zum babylonischen Talmud.
+Daraus ergeben sich vier Grundunterschiede:
+
+A. Ein Bandsatz je Traktat, nicht ein Werk in vier Bänden.
+   Berakhot ist der Referenztraktat; 36 weitere folgen demselben Grundweg.
+
+B. Die Abschnitte sind Talmudblätter (Daf), keine Paraschot.
+   Die englischen Blattangaben erzeugt die Pipeline.
+   Die Übersetzung verändert vorhandene <en_title>-Felder nicht.
+
+C. Jedes Segment trägt ein Talmud-Kopfband:
+   <band_he> = aramäisch/hebräische Talmud-Grundstelle aus Dicta haser
+   <band_en> = eigene englische Übersetzung dieser Grundstelle
+
+D. Der Fußnotenapparat löst Abkürzungen und Schriftverweise auf.
+   Die hebräischen Fußnoten erzeugt die Pipeline.
+   Die englischen Fußnoten werden nach der verbindlichen Übersetzungsanweisung gesetzt.
+
+======================================================================
+TEIL A · DATEN AUFBEREITEN MIT DER PIPELINE v3.1
+======================================================================
+
+Dieser Teil läuft vor InDesign und erzeugt die Banddateien.
+
+1. Zwei Quelldateien je Traktat bereitlegen:
+   - Ben-Yehoyada-Rohdatei im Senlake-Format,
+     zum Beispiel Ben_Yehoyada_on_Shabbat.txt
+   - Dicta-Talmudtext in der Variante haser,
+     zum Beispiel שבת.combinedfullhaser.txt,
+     sinnvoll umbenannt nach Shabbat_Dicta_haser.txt
+
+   Die Talmuddatei betrifft den TALMUD, nicht den Ben Yehoyada.
+   Die maleh-Variante wird nicht verwendet.
+   Eine englische Talmuddatei wird nicht benötigt.
+
+2. Die Rohdatei nach source/ legen,
+   die Talmuddatei nach source/talmud/.
+
+3. Die Pipeline mit den Produktionsparametern laufen lassen:
+
+   python3 run_pipeline.py --in source/Ben_Yehoyada_on_Shabbat.txt --tractate Shabbat --talmud-he source/talmud/Shabbat_Dicta_haser.txt --band-words 42 --band-en empty --sample-daf 12a
+
+   Bedeutung:
+   --talmud-he
+      verweist auf die Dicta-haser-Datei.
+
+   --band-words 42
+      erzeugt ein begrenztes Kopfband um die zitierte Stelle.
+      Gekürzte Ränder werden mit … gekennzeichnet.
+
+   --band-en empty
+      lässt das englische Kopfband leer, damit es im Übersetzungslauf
+      projektintern übersetzt wird.
+
+4. Den Bericht out/<traktat>.report.txt vollständig lesen.
+
+   Kontrollieren:
+   - Zahl der Einträge und Daf-Bereiche plausibel;
+   - entries_freeform bzw. Freitextfälle plausibel;
+   - Mapping möglichst über 95 Prozent;
+   - „Kopfband ohne die Stelle“ = 0;
+   - review-/Wortlautabweichungen einzeln oder stichprobenartig kontrollieren;
+   - Glossarabdeckung und häufigste offene Kürzel prüfen.
+
+   WICHTIG:
+   Eine niedrigere Glossarabdeckung ist nicht automatisch ein Qualitätsverlust.
+   Pipeline v3.1 lässt mehrdeutige Kürzel lieber ungelöst, als eine falsche
+   Gematria- oder Abkürzungsauflösung in das Buch zu schreiben.
+
+5. Die häufigsten wirklich sicheren offenen Abkürzungen in glossary_he.json ergänzen.
+   Danach die Pipeline erneut laufen lassen.
+
+   Keine Auflösung nur deshalb ergänzen, damit die Prozentzahl steigt.
+   Kontextabhängige oder mehrdeutige Kürzel müssen sicher bleiben.
+
+6. Die Pipeline-Abnahmeprüfung ausführen.
+
+   Beispiel:
+   python3 by_validate.py --in out/indesign/Ben_Yehoyada_Shabbat_Band_01_BILINGUAL.txt --expect <Segmentzahl> --json validation.json
+
+   Blockierende FEHLER dürfen vor dem Übersetzungsstart nicht vorhanden sein.
+
+   Besonders kritisch sind:
+   - fehlende oder doppelte BYH-IDs;
+   - falsche Reihenfolge;
+   - fehlende Pflichtfelder;
+   - verlorenes <lemma> bei vorhandenem Kopfband;
+   - Kopfband trägt das Lemma nicht ausreichend;
+   - eindeutig lexikalische Kürzel wurden fälschlich als Gematria erklärt;
+   - geschützte Felder wurden gegenüber einer Vergleichsfassung verändert.
+
+   PRUEFEN bedeutet:
+   Die Stelle ist nicht automatisch falsch, braucht aber eine bewusste Kontrolle,
+   typischerweise wegen einer Textvariante zwischen Senlake und Dicta.
+
+7. Die Musterseite out/<traktat>_<daf>.html öffnen und ansehen.
+
+   Kontrollieren:
+   - Talmud-Kopfband plausibel;
+   - Lemma entspricht dem kommentierten Stichwort;
+   - hebräischer Kommentar vollständig;
+   - Fußnoten plausibel;
+   - englische Zone und <band_en> bei einem frischen Produktionsmaster noch leer.
+
+8. Den Bandplan
+   out/indesign/Ben_Yehoyada_<Traktat>_Bandplan.txt
+   prüfen.
+
+   Kein Band darf über 588 geschätzte Textseiten liegen.
+   12 Seiten werden als Reserve bis zum harten Maximum von 600 Seiten gehalten.
+
+   Die Bandplanung wird immer NACH dem Talmud-Mapping gerechnet.
+
+9. Stichprobe im Band-Master:
+   Jedes Segment muss ein <band_en></band_en> enthalten.
+   Vor der Übersetzung muss es leer sein, wenn --band-en empty verwendet wurde.
+
+10. Ergebnis je Traktat:
+    - Ben_Yehoyada_<Traktat>_Band_01_BILINGUAL.txt und gegebenenfalls weitere Bände
+    - Ben_Yehoyada_<Traktat>_GLOSSAR.tsv
+    - Ben_Yehoyada_<Traktat>_Bandplan.txt
+    - Pipeline-Bericht
+    - Validatorbericht
+
+======================================================================
+TEIL B · DEN INDESIGN-BAND ERZEUGEN
+======================================================================
+
+11. Prüfen, ob die Produktionsschriften installiert sind:
+
+    Hebräisch:
+    - Frank Ruhl Hofshi Regular
+    - Frank Ruhl Hofshi Bold
+
+    Englisch:
+    - Minion Pro Regular
+    - Minion Pro Italic
+
+    Fehlt eine Produktionsschrift, den Band nicht erzeugen.
+    Der Book Manager darf nicht stillschweigend auf eine fremde Schriftfamilie ausweichen.
+
+12. Das Skript
+    Ben_Yehoyada_Bilingual_Book_Manager_v2_0_12.jsx
+    in den InDesign-Skripteordner legen.
+
+    Ältere Versionen aus dem produktiven Skripteordner entfernen
+    oder eindeutig in einen Archivordner verschieben.
+
+13. Im InDesign-Skripte-Bedienfeld das Skript doppelt anklicken.
+
+14. Versionsanzeige kontrollieren.
+
+    Oben muss stehen:
+    „Ben Jehojada · Zweisprachiger Buchmanager v2.0.12“
+
+    Steht dort etwas anderes:
+    Produktionslauf abbrechen und die richtige Version öffnen.
+
+    Der UI-Titel verwendet weiterhin die deutsche Umschrift „Ben Jehojada“.
+    Dateinamen und Projektbezeichnung verwenden „Ben Yehoyada“.
+    Das bezeichnet dasselbe Werk.
+
+15. Reiter „3 · InDesign-Band“ öffnen.
+
+16. Bei „Banddatei“ die gewünschte BILINGUAL-Datei auswählen.
+
+17. Kontrollieren:
+    Layout fest: 177,8 × 254 mm
+
+18. „Neuen InDesign-Band erstellen“ ausführen.
+
+    Während der Erzeugung:
+    - InDesign nicht schließen;
+    - nicht in das entstehende Dokument klicken;
+    - keine manuellen Format-, Seiten- oder Rahmenänderungen vornehmen.
+
+19. Nach erfolgreichem Abschluss das Dokument speichern.
+
+    Die INDD-Datei liegt im selben Projektbereich wie die Banddatei.
+    Vor automatischem Gesamtband-/Bulk-Layout MUSS das Dokument gespeichert sein.
+
+20. Dokumentformat kontrollieren:
+
+    Breite: 177,8 mm
+    Höhe: 254 mm
+    Hochformat
+    Doppelseiten aktiviert
+
+21. Dokumentvorgaben kontrollieren:
+
+    Oberer Rand: 16 mm
+    Unterer Rand: 20 mm
+    Innen: 19,1 mm
+    Außen: 14 mm
+    Anschnitt: 0 mm
+
+    Der Bundsteg von 19,1 mm ist die Produktionsvorgabe für die geplante
+    KDP-Seitenklasse und darf nicht eigenmächtig verkleinert werden.
+
+22. Standard-Seitengeometrie kontrollieren:
+
+    Hebräischer Textrahmen:
+    21,0 bis 126,0 mm
+
+    Englischer Textrahmen:
+    129,0 bis 229,0 mm
+
+    Standard-Abstand:
+    3,0 mm
+
+    Linke Seite:
+    Textrahmen, Haarlinie und linke Seitenzahl gemeinsam 5 mm nach rechts korrigiert.
+
+    Rechte Seite:
+    Referenzgeometrie unverändert.
+
+    Seitenzahl:
+    außen im Fußsteg bei 237,0 bis 245,0 mm.
+
+23. Zulässige automatische Layoutbewegung:
+
+    Standard:
+    HE-Unterkante 126,00 mm
+    EN-Oberkante 129,00 mm
+
+    Harte Grenzen:
+    HE-Unterkante 111,00 bis 141,00 mm
+    EN-Oberkante 114,00 bis 144,00 mm
+
+    Abstand HE/EN:
+    immer 3,00 mm
+
+    Kein automatischer Lauf darf diese Grenzen verlassen.
+
+24. Textdarstellung kontrollieren:
+
+    Talmud-Kopfband hebräisch:
+    - Frank Ruhl Hofshi Bold
+    - 12 pt
+    - Zeilenabstand 17 pt
+    - Textfarbe 72 Prozent Schwarz
+    - obere Linie 0,8 pt
+    - untere Linie 0,4 pt
+    - ruleAboveOffset 3,5 mm
+    - ruleBelowOffset 2,0 mm
+    - spaceBefore 7 pt
+    - spaceAfter 4 pt
+
+    Talmud-Kopfband englisch:
+    - Minion Pro Italic
+    - 9 pt
+    - Zeilenabstand 12 pt
+    - dieselben Linienabstände und Absatzabstände des Kopfband-Systems
+
+    Kommentar hebräisch:
+    - Frank Ruhl Hofshi Regular
+    - 11 pt
+    - Zeilenabstand 16 pt
+    - rechtsläufig
+
+    Kommentar englisch:
+    - Minion Pro Regular
+    - 9,5 pt
+    - Zeilenabstand 12,8 pt
+
+    Fußnoten:
+    - 7,5 pt
+    - Zeilenabstand 9,5 pt
+    - am Fuß des jeweiligen HE-/EN-Rahmens
+
+    Lemma:
+    fett
+
+    Segmentnummern:
+    [n] sichtbar und fett
+
+25. Kopfband-/Daf-Zusammenhalt kontrollieren:
+
+    - Ein Talmud-Kopfband darf nicht unnötig über einen Seitenwechsel zerbrechen.
+    - Eine Daf-Überschrift wird mit dem folgenden Kopfband zusammengehalten.
+    - Bei gesetztem HE und EN müssen zugehörige HE-/EN-Daf-Wechsel
+      auf derselben physischen Seite liegen.
+
+26. „Aktiven Band prüfen“ ausführen.
+
+    Kontrollieren:
+    - höchstens 600 physische Seiten;
+    - gleich viele HE- und EN-Rahmen;
+    - Rahmenketten vollständig;
+    - kein HE-Übersatz;
+    - kein EN-Übersatz;
+    - richtige Bandnummer;
+    - richtige BILINGUAL-Quelle;
+    - keine offenen Daf-Synchronitätsfehler.
+
+27. Wenn alles korrekt ist:
+    Dokument speichern und Sicherungskopie behalten.
+
+28. Bei einer Fehlermeldung:
+    nichts manuell „zurechtschieben“.
+
+    Stattdessen:
+    - vollständige Fehlermeldung sichern;
+    - Book-Manager-Version sichtbar dokumentieren;
+    - verwendete Banddatei notieren;
+    - betroffenen Arbeitsschritt notieren;
+    - vorhandenes Laufprotokoll/Snapshot erhalten.
+
+======================================================================
+TEIL C · ENGLISCHE ÜBERSETZUNGEN SCHRITTWEISE ERGÄNZEN
+======================================================================
+
+DAUERREGEL FÜR DIE DATEIÜBERGABE
+
+Zum Übersetzen genügt normalerweise die frisch exportierte Translation_Batch-Datei.
+Die große BILINGUAL-Banddatei muss nicht jedes Mal mitgegeben werden.
+Die verbindliche Übersetzungsanweisung bleibt Fassung 1.2, solange keine
+ausdrücklich freigegebene Nachfolgefassung vorliegt.
+
+Die Glossardatei
+Ben_Yehoyada_<Traktat>_GLOSSAR.tsv
+wird für die englischen Fußnoten bereitgehalten.
+
+29. Vier Dateitypen unterscheiden:
+
+    A. Ben_Yehoyada_<Traktat>_Band_XX_BILINGUAL.txt
+       dauerhafter Band-Master
+
+    B. Translation_Batch_...txt
+       Übersetzungsportion
+
+    C. Translation_Batch_..._EN_FERTIG.txt
+       vollständig übersetzte Portion
+
+    D. Ben_Yehoyada_<Traktat>_GLOSSAR.tsv
+       kontrollierte Abkürzungshilfe
+
+30. Reiter „2 · Übersetzungsportionen“ öffnen.
+
+31. Band-Master auswählen.
+
+32. Batch-Kontingent kontrollieren:
+
+    Höchstens Segmente: 12
+    Höchstens hebräische Zeichen: 30000
+
+    Kein Segment wird geteilt.
+    Das Kopfband zählt zum Übersetzungsumfang.
+
+33. Einzelbatch:
+    „Einzelbatch exportieren“ verwenden.
+
+    Das Skript nimmt die nächsten noch offenen <en>-Felder
+    und die zugehörigen leeren <band_en>-Felder.
+
+34. Bulk-Export:
+    darf verwendet werden, wenn mehrere getrennte Batches auf einmal erzeugt werden sollen.
+
+    BatchQueue.tsv und Bulk_Set-Manifest verhindern doppelte ID-Bereiche.
+    Jeder Translation_Batch bleibt eine eigene TXT-Datei.
+
+35. Die Batch-Datei vollständig nach der verbindlichen Übersetzungsanweisung übersetzen.
+
+    Gefüllt werden:
+    - <band_en>
+    - <en>
+
+    Geschützt bleiben insbesondere:
+    - id
+    - n
+    - daf
+    - ref
+    - <he_title>
+    - <en_title>, wenn bereits gefüllt
+    - <band_he>
+    - <he>
+
+36. Das englische <lemma> muss wortgleich mit der entsprechenden
+    Formulierung in <band_en> sein.
+
+37. Im <band_en>:
+    - keine <fn>-Tags;
+    - keine hebräischen Unicode-Zeichen;
+    - führende/abschließende … erhalten;
+    - keine fremde englische Talmudübersetzung übernehmen.
+
+38. Einzelmerge:
+
+    Für einen einzelnen fertigen Batch:
+    „Nach IDs zusammenführen“ verwenden.
+
+    Der Einzelmerge bleibt ein freigegebener Produktionsweg.
+
+39. Gemeinsamer Bulk-Merge:
+
+    Seit Book Manager v2.0.6 und damit auch in v2.0.12
+    ist der gemeinsame Bulk-Merge für Ben Yehoyada freigegeben.
+
+    Vor dem Schreiben werden ALLE ausgewählten Dateien vollständig geprüft.
+    Erst nach bestandener Vorprüfung:
+    - genau eine Master-Sicherung;
+    - Merge von <en> und <band_en>;
+    - ein Master-Schreibvorgang;
+    - Queue-Status der passenden Bereiche auf MERGED.
+
+    Bei einem Fehler wird der Master nicht teilweise beschrieben.
+
+40. Nach dem Merge Erfolgsmeldung kontrollieren.
+
+    Die Zahl der gefüllten <en>- und <band_en>-Felder muss zum
+    zusammengeführten ID-Bereich passen.
+
+41. Danach das zugehörige InDesign-Dokument öffnen und Reiter 3 verwenden.
+
+42. Für den normalen EINZELBATCH-LAYOUTWEG:
+
+    - denselben _EN_FERTIG-Batch auswählen;
+    - „Batch analysieren“ ausführen;
+    - danach „EN aktualisieren + angleichen“ ausführen.
+
+    Der Lauf:
+    - aktualisiert den englischen Textfluss aus dem Master;
+    - lokalisiert den Batch anhand stabiler BYH-IDs;
+    - gleicht den betroffenen Bereich an;
+    - hält Divider innerhalb der Hard Limits;
+    - prüft Daf-Synchronität;
+    - repariert kontrolliert Übersatz durch vollständige zweisprachige Seiten;
+    - stoppt spätestens bei 600 physischen Seiten.
+
+43. Nach jedem Layoutlauf kontrollieren:
+
+    HARD:
+    1. kein Übersatz;
+    2. Divider innerhalb 111–141 / 114–144 mm;
+    3. HE-/EN-Daf-Titel auf derselben physischen Seite.
+
+    Zusätzlich:
+    - [n] oben und unten gehören zusammen;
+    - Kopfband HE/EN inhaltlich passend;
+    - englisches <lemma> wortgleich im <band_en>;
+    - Fußnoten in der richtigen Sprachzone;
+    - keine unterbrochene Rahmenkette.
+
+44. Diesen Zyklus wiederholen, bis der Band-Master vollständig übersetzt ist.
+
+======================================================================
+TEIL D · BULK-LAYOUT, BULK-FORTSETZEN, GESAMTBAND UND KOPFZEILEN
+======================================================================
+
+44a. Workflowfarben in v2.0.12:
+
+     BLAU
+     Projekt, Band, InDesign-Basis und Kopfzeilen.
+
+     GRÜN
+     Einzelbatch-Ablauf.
+
+     MAGENTA
+     Bulk-, Bulk-Fortsetzen- und Gesamtband-Abläufe.
+
+     ORANGE
+     Sicherung, Rückgängig und Reparatur.
+
+     Farbe ist nie die einzige Kennzeichnung.
+     Die Oberfläche verwendet zusätzlich sichtbare Tags und Tooltips.
+
+44b. FRISCHER BULK-LAYOUTLAUF
+
+     Verwenden, wenn:
+     - ein gültiges Bulk_Set-Manifest vorhanden ist;
+     - die enthaltenen Batches korrekt gemerged sind;
+     - der EN-Text für diese Bulk-Gruppe noch nicht als aktueller Gesamtfluss
+       in das Dokument eingespielt wurde.
+
+     Ablauf:
+     1. Bulk-Gruppe laden.
+     2. Manifest/Queue/MERGED-Status prüfen lassen.
+     3. „Bulk: EN 1× aktualisieren + alle angleichen“ ausführen.
+
+     Englisch wird genau EINMAL für den vollständigen Bulk-Lauf aktualisiert.
+     Danach werden die Batches in BYH-Reihenfolge neu lokalisiert und angeglichen.
+
+44c. BULK FORTSETZEN
+
+     Verwenden, wenn:
+     - ein Bulk-Lauf bereits begonnen wurde;
+     - der passende EN-Text bereits im InDesign-Dokument steht;
+     - derselbe inhaltliche BILINGUAL-Master verwendet wird;
+     - Englisch NICHT noch einmal eingespielt werden soll.
+
+     Button:
+     „Bulk fortsetzen · EN nicht neu einspielen“
+
+     Der vorhandene Textfluss wird vorab gegen den Master geprüft.
+     Danach werden nur die Layoutbereiche weiterbearbeitet.
+
+44d. NEU IN v2.0.12 · GESAMTBAND
+
+     Button:
+     „Ganzen Band angleichen · EN bereits vorhanden“
+
+     Zweck:
+     Einen neu aufgebauten oder neu erzeugten vollständigen InDesign-Band
+     aus einer bereits vollständig übersetzten BILINGUAL-Datei in einem
+     kontrollierten Gesamtlauf angleichen.
+
+     Dieser Weg ist unabhängig von einem früheren Translation-Bulk-Set.
+
+44e. Voraussetzungen für „Ganzen Band angleichen“:
+
+     - InDesign-Dokument geöffnet;
+     - Dokument bereits gespeichert;
+     - richtige Banddatei in Reiter 3 gewählt;
+     - Bandnummer des Dokuments passt zur BILINGUAL-Datei;
+     - Segmentreihenfolge und BYH-IDs sind vollständig;
+     - der BILINGUAL-Master ist vollständig englisch gefüllt;
+     - der vorhandene englische InDesign-Textfluss entspricht dem gewählten Master;
+     - HE- und EN-Rahmenketten sind vorhanden;
+     - vor dem Start kein ungelöster Übersatz.
+
+     Ist ein <en>-Feld noch leer, bricht der Gesamtbandlauf ab.
+     Fehlende Übersetzungen werden NICHT durch diesen Button ergänzt.
+
+44f. Was der Gesamtbandlauf intern macht:
+
+     1. Prüft Master, Bandnummer, BYH-ID-Reihenfolge und vorhandenen Textfluss.
+
+     2. Erzeugt temporäre Layoutbereiche zu je 12 Segmenten.
+
+     3. Legt diese Bereiche nur als Audit-/Arbeitsdateien im
+        BYH_Layout_Snapshots-Bereich ab.
+
+     4. Erstellt eine Vollband-Bereichsliste bzw. ein Laufmanifest.
+
+     5. Verändert weder den BILINGUAL-Master noch BatchQueue/MERGED-Status.
+
+     6. Spielt Englisch NICHT neu ein.
+
+     7. Verarbeitet alle Bereiche in aufsteigender BYH-ID-Reihenfolge
+        mit derselben geschützten Balancing-Logik wie der Bulk-Lauf.
+
+     8. Erstellt automatische INDD-Sicherung, Snapshots und Laufprotokoll.
+
+     9. Kontrolliert nach jedem Bereich:
+        - Übersatz;
+        - Divider-Hard-Limits;
+        - Daf-Synchronität.
+
+     10. Ergänzt bei echtem Übersatz kontrolliert vollständige zweisprachige Seiten,
+         solange das harte 600-Seiten-Limit nicht überschritten wird.
+
+44g. Einstellungen beim Gesamtbandlauf:
+
+     Geschützte Seiten:
+     optional, zum Beispiel 12,13,18-21.
+     Diese Seiten werden vom automatischen Balancing nicht verändert.
+
+     Schnellmodus:
+     Standard und empfohlen.
+
+     Präzisionsmodus:
+     Kontroll-/Fallbackmodus, deutlich langsamer.
+
+44h. Wann welcher Layoutbutton benutzt wird:
+
+     EINZEL · „EN aktualisieren + angleichen“
+     = einzelner fertiger Batch; EN soll aus dem Master aktualisiert werden.
+
+     BULK · „EN 1× aktualisieren + alle angleichen“
+     = frische zusammengehörige Bulk-Gruppe mit Manifest/Queue.
+
+     BULK FORTSETZEN
+     = derselbe Bulk-Lauf, EN steht bereits korrekt im Dokument.
+
+     GESAMTBAND · „Ganzen Band angleichen · EN bereits vorhanden“
+     = vollständiger übersetzter Band-Master, kein Bulk_Set/Queue nötig,
+       EN steht bereits im neu aufgebauten InDesign-Band.
+
+     Keinen dieser Wege gleichzeitig oder ohne passende Ausgangslage mischen.
+
+44i. Nach einem erfolgreichen Gesamtbandlauf:
+
+     „Aktiven Band prüfen“ ausführen.
+
+     Zusätzlich das Laufprotokoll kontrollieren:
+     - Start-/Endseitenzahl;
+     - hinzugefügte Seiten;
+     - bearbeitete Bereiche;
+     - Hard-Reparaturen;
+     - mögliche SOFT-Ankerabweichungen;
+     - Abschlussstatus.
+
+     Danach stichprobenartig prüfen:
+     - erste Seiten;
+     - Daf-Wechsel;
+     - Seiten mit stark verschobenem Divider;
+     - automatisch hinzugefügte Seiten;
+     - letzte Doppelseiten des Bandes.
+
+44j. REPARATUR-/SICHERHEITSFUNKTIONEN
+
+     „Letzten Batch rückgängig“
+     stellt den Zustand vor dem letzten automatischen Einzelbatch-Layout wieder her.
+
+     „Snapshot wiederherstellen …“
+     stellt einen gespeicherten Layoutzustand wieder her.
+
+     Die Standardtrennungs-Reparatur setzt betroffene Seiten auf
+     126,00 / 129,00 mm zurück.
+
+     Manuelle Rahmenverschiebungen sind nicht der bevorzugte Reparaturweg.
+
+44k. KOPFZEILEN
+
+     Kopfzeilen erst produktiv setzen, wenn:
+     - Übersetzung abgeschlossen;
+     - EN-Textfluss final;
+     - HE/EN-Abgleich abgeschlossen;
+     - Gesamtband-/Bulk-Layout endgültig geprüft.
+
+     Reiter „4 · Kopfzeilen“ öffnen.
+
+     Vorgehen:
+     1. BILINGUAL-TXT auswählen oder „Quelle aus Dokument“ verwenden.
+     2. Traktat EN/HE kontrollieren.
+     3. „Kopfzeilen analysieren“.
+     4. „Aktuelle Doppelseite testen“.
+     5. optisch kontrollieren.
+     6. „Alle Kopfzeilen erstellen / aktualisieren“.
+     7. abschließend „Kopfzeilen prüfen“.
+
+     Standard:
+     links Englisch:
+     BEN YEHOYADA · BERAKHOT · Daf 4b
+
+     rechts Hebräisch:
+     בן יהוידע · ברכות · דף ד ע״ב
+
+44l. Kopfzeilengeometrie und Typografie:
+
+     Kopfsteg:
+     8–15 mm, vollständig oberhalb der Haarlinie bei 20 mm.
+
+     Englisch:
+     Minion Pro 7,5 pt
+     Tracking +30
+
+     Hebräisch:
+     Frank Ruhl Hofshi 8 pt
+
+     Farbe:
+     85 Prozent Schwarz
+
+     Linke Seiten:
+     Englisch
+
+     Rechte Seiten:
+     Hebräisch
+
+     Die Kopfzeilenfunktion verändert weder Seitenzahlen noch Haarlinie
+     noch HE-/EN-Haupttextrahmen.
+
+======================================================================
+TEIL E · FESTE PROJEKTREGELN
+======================================================================
+
+45. Die vollständige Ben-Yehoyada-Quelldatei und die Dicta-haser-Datei
+    bleiben unverändert als Referenz erhalten.
+
+46. Die BILINGUAL-TXT ist der zweisprachige Arbeitsmaster.
+    Das InDesign-Dokument ist die gesetzte Ausgabe, nicht die alleinige Textquelle.
+
+47. Jeder Band wird als eigenes InDesign-Dokument geführt.
+
+48. Kein Band darf mehr als 600 physische Seiten haben.
+
+49. BYH-IDs und Segmentreihenfolge dürfen nach Beginn der Übersetzung
+    nicht manuell verändert werden.
+
+50. <he>, <band_he>, <he_title> und die strukturellen Attribute
+    dürfen im Übersetzungsprozess nicht verändert werden.
+
+51. Vor jedem größeren Arbeitsschritt:
+    Band-Master und INDD sichern.
+    Automatische Backups/Snapshots des Book Managers nicht löschen,
+    solange der Lauf nicht endgültig abgenommen ist.
+
+52. Die Umwandlung von <fn>-Marken in echte InDesign-Fußnoten
+    ist im gesetzten Dokument nicht mit der TXT-Markierung gleichzusetzen.
+    Die BILINGUAL-TXT bleibt deshalb die Textreferenz.
+
+53. Ausschließlich die neueste freigegebene Produktionskombination verwenden:
+
+    Book Manager:
+    v2.0.12
+
+    Pipeline:
+    v3.1
+
+    Arbeitsanleitung:
+    Fassung 1.3 · 24.09.2026
+
+    Übersetzungsanweisung:
+    Fassung 1.2 · 22.09.2026
+
+54. HARTE LAYOUTREGELN bleiben unabhängig vom gewählten Workflow identisch:
+
+    1. kein ungelöster Übersatz;
+    2. Divider innerhalb ±15 mm vom Produktionsstandard;
+    3. HE-/EN-Daf auf derselben physischen Seite;
+    4. maximal 600 physische Seiten.
+
+55. Normale BYH-Seitenanker sind SOFT-Ziele.
+    Sie dürfen bei einer notwendigen HARD-Reparatur vorübergehend schlechter werden.
+    Solche Abweichungen werden protokolliert.
+
+56. Lizenzlage:
+
+    Der hebräische Ben-Yehoyada-Text ist gemeinfrei.
+
+    Der vokalisierte aramäische Talmudtext in <band_he> stammt aus
+    Dicta — The Israel Center for Text Analysis — und steht nach der
+    im Projekt verwendeten Ausgabe unter CC BY-SA 4.0.
+
+    Im Impressum ist die Dicta-Namensnennung vorzusehen.
+
+    Der englische Text in <band_en> und <en> ist projektintern erstellte Übersetzung.
+
+    Es wird keine fremde englische Talmudübersetzung übernommen.
+
+    Die genaue Auswirkung der Share-alike-Bedingung auf die kommerzielle
+    Gesamtausgabe ist vor endgültiger Veröffentlichung rechtlich zu prüfen.
+
+======================================================================
+AKTUELLER TECHNISCHER REFERENZSTAND · 24.09.2026
+======================================================================
+
+57. Referenztraktat:
+    Berakhot
+
+58. Segmentierung:
+    680 eindeutige Segmente
+    BYH-0000001 bis BYH-0000680
+    100 Daf-Bereiche
+    2a bis 64a
+
+59. Pipeline v3.1 · aktueller Berakhot-Referenzlauf:
+
+    Einträge:
+    680
+
+    mit Lemma:
+    679
+
+    Freiform:
+    1
+
+    Talmud-Mapping gegen Dicta haser:
+    671/680 = 98,7 Prozent
+
+    Zuordnungsmethoden:
+    aligned 201
+    contains 325
+    skeleton 124
+    aligned+nachbar 2
+    skeleton+nachbar 1
+    review 13
+    contains+nachbar 2
+    override 3
+
+    Kopfband ohne die zitierte Stelle:
+    0
+
+    Wortlautabweichungen Senlake/Dicta:
+    106
+    Diese sind Lektorats-/PRUEFEN-Fälle, nicht automatisch Fehler.
+
+60. Glossar-/Fußnotenstand der Pipeline v3.1:
+
+    2.522 von 3.052 Abkürzungstreffern sicher aufgelöst
+    = 82,6 Prozent
+
+    Mechanismen:
+    curated 1902
+    letter 126
+    prefix 283
+    context 29
+    inline_numeric 75
+    gematria_context 87
+    inline 20
+
+    offen:
+    413 verschiedene Kürzel
+
+    Die niedrigere Quote gegenüber der alten Pipeline ist beabsichtigt:
+    unsichere Deutungen werden nicht mehr durch falsche Gematria ersetzt.
+
+61. Aktueller Bandplan Berakhot:
+
+    Pipeline-Gesamtschätzung:
+    ca. 856 Seiten
+
+    Band 01:
+    ca. 438 Seiten
+    338 Segmente
+    BYH-0000001 bis BYH-0000338
+    Daf 2a bis 28a
+    1.526 hebräische Fußnoten
+
+    Band 02:
+    ca. 422 Seiten
+    342 Segmente
+    BYH-0000339 bis BYH-0000680
+    Daf 28b bis 64a
+    1.360 hebräische Fußnoten
+
+    Die Einzelbandschätzungen sind gerundet; maßgeblich bleibt die
+    tatsächliche physische Seitenzahl nach vollständiger Übersetzung und Satz.
+
+62. Berakhot Band 02 wurde am 24.09.2026 gegen Senlake und Dicta nachgeprüft.
+
+    Ergebnis der Reparatur:
+    - vollständige Segmentfolge erhalten;
+    - verlorene Lemmas wiederhergestellt;
+    - notwendige Kopfband-/ref-Zuordnungen korrigiert;
+    - problematische automatische Fußnoten entfernt bzw. neu erzeugt;
+    - Validator ohne blockierende FEHLER.
+
+63. Für den Übersetzungsstand wird in dieser Anleitung bewusst kein
+    statischer Zähler mehr festgeschrieben.
+
+    Maßgeblich ist immer der aktuell gewählte BILINGUAL-Master:
+    - offene <en>-Felder;
+    - offene <band_en>-Felder;
+    - BatchQueue/MERGED-Status;
+    - tatsächlicher InDesign-Textfluss.
+
+    Dadurch veraltet die Arbeitsanleitung nicht bei jedem übersetzten Batch.
+
+64. Aktuelle Skriptversion:
+    2.0.12
+
+65. Aktuelle Pipeline:
+    v3.1
+
+66. Aktuelles festes Seitenformat:
+    177,8 × 254 mm
+    7 × 10 Zoll
+    Hochformat
+    Doppelseiten
+    linksbindend
+
+67. KDP-Grundrichtung:
+    Anmeldung als englisches Buch mit linksbindender Leserichtung,
+    solange die gewählte KDP-Ausstattung dies erfordert und die Zielausgabe
+    als englischsprachige bilinguale Edition geführt wird.
+
+68. Verbindliche Übersetzungsanweisung:
+    Fassung 1.2 vom 22.09.2026
+
+69. Empfohlener Produktionsweg ab jetzt:
+
+    Für neue Traktate:
+    1. Pipeline v3.1
+    2. Validator ohne FEHLER
+    3. Band-Master erzeugen
+    4. InDesign-Band mit v2.0.12 erzeugen
+    5. Übersetzungsbatches exportieren
+    6. Einzel- oder Bulk-Merge
+    7. laufender Einzel-/Bulk-Abgleich
+    8. nach vollständiger Übersetzung bei neu aufgebautem Band:
+       „Ganzen Band angleichen · EN bereits vorhanden“
+    9. „Aktiven Band prüfen“
+    10. Kopfzeilen final erzeugen
+    11. abschließende PDF-/KDP-Kontrolle
+
+70. Diese Anleitung wird bei jeder freigegebenen Änderung an
+    Book Manager, Pipeline, Übersetzungsanweisung oder Produktionslayout
+    erneut aktualisiert.
+
+ENDE · FASSUNG 1.3 · STAND 24.09.2026

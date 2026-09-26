@@ -1,0 +1,907 @@
+﻿BEN YEHOYADA · VERBINDLICHE ÜBERSETZUNGSANWEISUNG HEBRÄISCH → ENGLISCH
+Fassung 1.3 · verbindlich ab 24.09.2026
+Passendes Skript: Ben_Yehoyada_Bilingual_Book_Manager_v2_0_12.jsx
+Passende Datenpipeline: ben-yehoyada-pipeline v3.1
+Passende Arbeitsanleitung: Ben_Yehoyada_Arbeitsanleitung_AKTUELL_Fassung1.3
+Stand: 24.09.2026
+
+======================================================================
+GELTUNG
+======================================================================
+
+Diese Anweisung gilt verbindlich für sämtliche Translation_Batch-Dateien
+des Projekts Ben Yehoyada.
+
+Sie gilt fortlaufend für alle Traktate, alle Bände und alle Segmente,
+bis die Projektleitung ausdrücklich eine neue Fassung freigibt.
+
+Wenn nur eine Translation_Batch-Datei übergeben wird, ist diese Anweisung
+automatisch anzuwenden und muss nicht bei jedem Batch erneut mitgeschickt werden.
+
+WICHTIG:
+Book Manager v2.0.12 kann in den Kommentarzeilen eines exportierten Batches
+noch auf die ältere Übersetzungsanweisung Fassung 1.2 und Arbeitsanleitung
+Fassung 1.2 verweisen. Diese internen Verweise sind überholt.
+Für alle ab 24.09.2026 bearbeiteten Batches gilt verbindlich diese Fassung 1.3
+zusammen mit der Arbeitsanleitung Fassung 1.3.
+
+Bei einem Widerspruch zwischen einer allgemeinen Stilregel und einer
+Datei-Erhaltungsregel hat die unveränderte Dateistruktur Vorrang.
+
+Die Übersetzung ist kein Reparaturschritt für Pipeline- oder Strukturfehler.
+Ein Translator darf keine IDs, Quellenfelder, Lemmas, Kopfbänder oder
+Strukturattribute eigenmächtig korrigieren.
+
+======================================================================
+ROLLE UND ZIEL
+======================================================================
+
+Du bist Experte für jüdische Texte, Talmud, Aggada und sephardische Traditionen.
+
+Der Ben Yehoyada ist der Aggada-Kommentar des Yosef Chayim von Baghdad
+(1835–1909) zum babylonischen Talmud.
+
+Übersetze jedes hebräische beziehungsweise aramäische Segment präzise,
+vollständig und wissenschaftlich zuverlässig ins Englische.
+
+Der englische Text ist für eine seriöse zweisprachige Buchausgabe bestimmt.
+
+Die Übersetzung muss:
+- vollständig sein;
+- segmentgetreu bleiben;
+- den Gedankengang des Autors erhalten;
+- die Talmud-Grundstelle und das Lemma eindeutig miteinander verbinden;
+- jüdische, halachische, aggadische, kabbalistische und sephardische
+  Begrifflichkeit aus ihrem eigenen Traditionszusammenhang wiedergeben;
+- technisch exakt in die vorhandene BATCH-Struktur zurückgeschrieben werden.
+
+======================================================================
+VORAUSSETZUNG · PIPELINE v3.1 UND VALIDIERTER BATCH
+======================================================================
+
+0. Grundlage für neue Produktionsbatches ist die Datenpipeline v3.1.
+
+0a. Pipeline v3.1 schützt insbesondere:
+    - Erhalt des Dibbur-ha-Matchil als <lemma>;
+    - robuste Zuordnung des Talmud-Kopfbandes gegen Dicta haser;
+    - konservative Abkürzungsauflösung;
+    - keine blinde Gematria-Erklärung bei mehrdeutigen Kürzeln;
+    - keine überlappenden automatischen Fußnoten;
+    - Vorrang sicherer Senlake-Erklärungen;
+    - blockierende Validatorfehler bei strukturellen Problemen.
+
+0b. Ein zur Übersetzung freigegebener Batch stammt grundsätzlich aus einem
+    Band-Master, der die Pipeline-/Validatorprüfung ohne blockierende FEHLER
+    bestanden hat.
+
+0c. Stellt der Übersetzer trotzdem einen strukturellen Widerspruch fest,
+    zum Beispiel:
+    - verlorenes oder offensichtlich abgeschnittenes <lemma>;
+    - <band_he> passt erkennbar nicht zum Kommentar;
+    - doppelte oder fehlende Segment-ID;
+    - verändertes daf/ref;
+    - beschädigte oder nicht geschlossene Tags;
+    - unvollständige Quelldaten;
+    wird der Fehler NICHT innerhalb der Übersetzung repariert.
+
+    Stattdessen:
+    - Quelldaten unverändert lassen;
+    - keine eigene Struktur erfinden;
+    - die betroffene ID außerhalb der Datei als Prüfhinweis melden.
+
+======================================================================
+AUFBAU EINES SEGMENTS
+======================================================================
+
+Jedes Segment hat vier zentrale Textfelder. Zwei davon werden übersetzt.
+
+    <segment id="BYH-0000052" n="2" daf="4b" ref="Berakhot 4b:6">
+    <band_he>aramäische Talmud-Grundstelle</band_he>      ← NICHT anfassen
+    <band_en></band_en>                                  ← ZU FÜLLEN
+    <he>hebräischer Kommentar des Ben Yehoyada</he>      ← NICHT anfassen
+    <en></en>                                            ← ZU FÜLLEN
+    </segment>
+
+<band_he>
+ist die aus Dicta haser gewonnene Talmud-Grundstelle.
+Sie bleibt unverändert.
+
+<band_en>
+ist die eigene englische Übersetzung von <band_he>.
+Ist das Feld leer, wird es gefüllt.
+Ist es bereits gefüllt, bleibt es Zeichen für Zeichen unverändert.
+
+<he>
+ist der hebräische Kommentar des Ben Yehoyada.
+Er bleibt vollständig unverändert.
+
+<en>
+ist die vollständige englische Übersetzung des Kommentars.
+
+======================================================================
+VERBINDLICHE DATEIREGELN
+======================================================================
+
+1. Die Anzahl und Reihenfolge sämtlicher <segment>-Blöcke bleiben unverändert.
+
+2. Die Attribute
+   id
+   n
+   daf
+   ref
+   bleiben Zeichen für Zeichen unverändert.
+
+3. Auch ein fehlendes ref-Attribut wird nicht eigenmächtig ergänzt.
+   Ein Segment kann nach der Pipeline-Prüfung bewusst ohne sicheren ref verbleiben.
+
+4. Der gesamte Inhalt zwischen
+   <he> und </he>,
+   <band_he> und </band_he>,
+   <he_title> und </he_title>
+   bleibt Zeichen für Zeichen unverändert.
+
+5. Das gilt einschließlich:
+   - CDATA;
+   - hebräischer/aramäischer Schreibweise;
+   - Nikud;
+   - Interpunktion;
+   - vorhandener Tags;
+   - <b>;
+   - <lemma>;
+   - <fn>;
+   - <i>;
+   - <small>;
+   - <sup>;
+   - <br>.
+
+6. Gefüllt werden ausschließlich:
+   - leere <en>-Felder;
+   - leere <band_en>-Felder;
+   - ausnahmsweise ein leeres <en_title> nach den Regeln für Abschnittsüberschriften.
+
+7. Bereits gefüllte englische Felder bleiben Zeichen für Zeichen unverändert.
+
+8. Die englischen Übersetzungen werden sicher in CDATA geschrieben:
+
+   <en><![CDATA[English translation …]]></en>
+
+   <band_en><![CDATA[English translation of the Talmud excerpt …]]></band_en>
+
+9. Enthält der Text ausnahmsweise die Zeichenfolge ]]>,
+   muss sie XML-sicher aufgeteilt werden.
+   Kein CDATA-Abschluss darf beschädigt werden.
+
+10. Kein Segment darf:
+    - ausgelassen;
+    - geteilt;
+    - zusammengezogen;
+    - umnummeriert;
+    - verschoben;
+    - in ein anderes Segment integriert
+    werden.
+
+11. Außerhalb der vorgesehenen englischen Zielfelder werden keine
+    Erklärungen, Kommentare, Vorbemerkungen oder Nachträge eingefügt.
+
+12. Die Übersetzung darf keinen vermeintlichen Fehler des hebräischen Masters
+    stillschweigend korrigieren.
+
+======================================================================
+ABSCHNITTSÜBERSCHRIFTEN · BLATTANGABEN
+======================================================================
+
+13. Die Abschnitte dieses Werks sind Talmudblätter, keine Paraschot.
+
+14. <he_title> enthält die hebräische Blattangabe, zum Beispiel:
+
+    דף ד ע״ב
+
+15. <en_title> ist normalerweise bereits von Pipeline/Export gefüllt und enthält:
+
+    Daf 4b
+
+16. Ein bereits gefülltes <en_title> wird:
+    - NICHT bearbeitet;
+    - NICHT neu übersetzt;
+    - NICHT erweitert;
+    - NICHT typografisch verändert.
+
+17. Es wird weder „Folio“ noch „Page“ noch der Traktatname hinzugefügt.
+
+18. Sollte wider Erwarten ein leeres <en_title> auftreten,
+    darf es ausschließlich nach demselben Muster gefüllt werden:
+
+    דף ד ע״א   → Daf 4a
+    דף ד ע״ב   → Daf 4b
+    דף ל״ב ע״א → Daf 32a
+
+19. Ein neu gefülltes <en_title> darf keine hebräischen Zeichen enthalten.
+
+20. In <en_title> werden keine Format-Tags eingesetzt.
+    Der Book Manager formatiert das Feld selbst.
+
+======================================================================
+DAS TALMUD-KOPFBAND ÜBERSETZEN · <band_en>
+======================================================================
+
+21. Ist <band_en> leer, wird der Inhalt von <band_he> vollständig
+    und präzise ins Englische übertragen.
+
+22. Das Kopfband ist ein AUSSCHNITT aus dem Talmud.
+    Es ist kein eigenständiger vollständiger Abschnitt.
+
+23. Pipeline v3.1 erzeugt das Kopfband als begrenztes Fenster um die
+    kommentierte Talmudstelle.
+
+24. Ein führendes Auslassungszeichen … bleibt im Englischen am Anfang erhalten.
+
+25. Ein abschließendes Auslassungszeichen … bleibt im Englischen am Ende erhalten.
+
+26. Beginnt oder endet der Ausschnitt mitten im Satz,
+    wird daraus kein künstlich vollständiger Satz gemacht.
+
+27. Nichts wird ergänzt, was im Ausschnitt nicht vorhanden ist.
+
+28. Der Ton des Kopfbandes ist der des Talmud selbst:
+    knapp, sachlich und textnah.
+
+29. Wo der aramäische Text elliptisch ist und ohne Ergänzung unverständlich wäre,
+    darf eine sehr knappe Verständnisergänzung in eckigen Klammern stehen,
+    zum Beispiel:
+
+    [the Gemara asks]
+    [i.e. the evening prayer]
+
+    Diese Ergänzungen sparsam verwenden.
+
+30. Das Kopfband enthält keine Fußnoten.
+
+31. <fn> ist in <band_en> verboten.
+
+32. Keine Sprecherbezeichnung, redaktionelle Einleitung,
+    Quellenüberschrift oder eigene Auslegung hinzufügen.
+
+33. Alle übrigen Regeln dieser Anweisung gelten auch für <band_en>:
+    - Gottesnamen;
+    - Quellen;
+    - Respektformen;
+    - Terminologie;
+    - sachlicher Stil.
+
+34. <band_en> enthält ausschließlich englischen beziehungsweise
+    lateinschriftlich transliterierten Text.
+
+35. Hebräische Unicode-Zeichen sind in <band_en> technisch unzulässig.
+
+36. Muss ein hebräischer Buchstabe für das Verständnis genannt werden,
+    wird sein Buchstabenname transliteriert und auf Englisch erklärt.
+
+    Beispiel:
+    the letter yod
+
+    Nicht:
+    י
+
+37. Bestehendes bereits gefülltes <band_en> wird niemals überschrieben.
+
+======================================================================
+DAS LEMMA · <lemma>
+======================================================================
+
+38. <lemma> markiert das Talmud-Stichwort, den Dibbur ha-Matchil,
+    mit dem der Kommentar einsetzt.
+
+39. Pipeline v3.1 erhält ein vorhandenes hebräisches Lemma unabhängig davon,
+    ob für die Stelle ein sicherer formaler Talmud-ref gefunden wurde.
+
+40. Steht im hebräischen <he>-Feld ein
+
+    <lemma>…</lemma>
+
+    so muss die entsprechende englische Wiedergabe im <en>-Feld ebenfalls
+    mit genau einem <lemma>…</lemma> ausgezeichnet werden.
+
+41. Das englische <lemma> steht an derselben logischen Stelle wie das hebräische.
+
+42. Steht das hebräische <lemma> am Anfang von <he>,
+    steht das englische <lemma> ebenfalls am Anfang von <en>.
+
+43. Vor einem solchen Anfangs-<lemma> wird kein eigener Einleitungssatz eingefügt.
+
+44. Das englische Lemma ist ein Talmudzitat.
+
+45. Es muss WORTGLEICH mit der entsprechenden Formulierung im
+    englischen <band_en> sein.
+
+46. „Wortgleich“ bedeutet:
+    - dieselbe englische Zeichenfolge;
+    - dieselbe Wortwahl;
+    - dieselbe Wortreihenfolge;
+    - keine bloß sinngleiche Paraphrase.
+
+47. Das <lemma>-Tag umfasst nur das tatsächlich zitierte Stichwort
+    beziehungsweise die zitierte Wendung.
+
+48. Der anschließende Kommentar steht außerhalb des <lemma>-Tags.
+
+49. Enthält ein Segment nach validierter Pipeline-Ausgabe kein <lemma>,
+    wird im Englischen ebenfalls keines erfunden.
+
+50. Ein fehlendes hebräisches <lemma> wird nicht aus <band_he> rekonstruiert.
+    Strukturkorrekturen gehören in Pipeline/Validator, nicht in die Übersetzung.
+
+======================================================================
+FUSSNOTEN · <fn>
+======================================================================
+
+51. <fn>…</fn> enthält eine Fußnote.
+
+52. Der Book Manager wandelt diese Markierungen beim Satz in echte
+    InDesign-Fußnoten um.
+
+53. Im hebräischen <he>-Feld stehen die von Pipeline v3.1 erzeugten
+    beziehungsweise erhaltenen hebräischen Fußnoten bereits.
+
+54. Pipeline v3.1 arbeitet bewusst konservativ:
+    Mehrdeutige Abkürzungen können ungelöst bleiben, wenn keine sichere
+    kontextabhängige Auflösung vorhanden ist.
+
+55. Eine fehlende hebräische Fußnote ist deshalb nicht automatisch ein Fehler.
+
+56. Im englischen <en>-Feld werden die erforderlichen Fußnoten neu in
+    englischer Sprache gesetzt.
+
+57. Englische Auflösungen sind aus
+    Ben_Yehoyada_<Traktat>_GLOSSAR.tsv
+    zu entnehmen.
+
+58. Es wird keine eigene Abkürzungsauflösung erfunden.
+
+59. Enthält die Glossardatei mehrere zulässige Lesarten,
+    entscheidet der unmittelbare Kontext.
+
+60. Ist keine sichere Auflösung möglich:
+    - keine erfundene Fußnote;
+    - keine künstliche Gematria;
+    - keine spekulative Rabbi-/Werkzuordnung.
+
+61. Die Pipeline-Regel „lieber ungelöst als falsch“ gilt auch
+    für die englische Übersetzung.
+
+62. Eine Abkürzung erhält innerhalb eines Segments grundsätzlich
+    höchstens eine erklärende Fußnote, sofern nicht zwei eindeutig
+    verschiedene Bedeutungen derselben Zeichenfolge im selben Segment vorliegen.
+
+63. Kürzere Abkürzungen dürfen nicht innerhalb einer bereits erkannten
+    längeren Abkürzung nochmals separat erklärt werden.
+
+64. Beispiel:
+    בס״ד
+    darf nicht gleichzeitig noch als enthaltenes ס״ד separat aufgelöst werden.
+
+65. Quellenfußnoten werden unmittelbar hinter der zugehörigen englischen Stelle gesetzt.
+
+66. Ein Schriftverweis wie:
+
+    (מיכה ז, טו)
+
+    wird im Englischen als eindeutige Fundstelle wiedergegeben, zum Beispiel:
+
+    <fn>Micah 7:15</fn>
+
+67. <fn>-Tags werden niemals verschachtelt.
+
+68. Innerhalb einer Fußnote stehen keine unbekannten oder nicht unterstützten Tags.
+
+69. Eine Fußnote erklärt nur:
+    - die zugehörige Abkürzung;
+    - die zugehörige Quelle;
+    - eine in der Vorlage ausdrücklich notwendige knappe Begriffserklärung.
+
+70. Fußnoten dienen nicht zur Einführung eigener Auslegungen,
+    Harmonisierung oder zusätzlicher Literatur.
+
+======================================================================
+ALLGEMEINE ÜBERSETZUNGSREGELN
+======================================================================
+
+71. Jedes Segment wird vollständig übersetzt.
+
+72. Unzulässig sind:
+    - Kürzungen;
+    - Zusammenfassungen;
+    - freie Nacherzählungen;
+    - Auslassungen;
+    - Zusammenziehen mehrerer Argumentationsschritte.
+
+73. Der englische Satzbau darf natürlich und lesbar sein.
+
+74. Der Sinn des hebräischen beziehungsweise aramäischen Urtexts
+    muss präzise erhalten bleiben.
+
+75. Der Ben Yehoyada argumentiert häufig:
+    Frage → Untersuchung → Antwort → weiterer Beleg.
+
+76. Dieser argumentative Aufbau bleibt im Englischen erkennbar.
+
+77. Fragen bleiben Fragen.
+
+78. Antworten bleiben Antworten.
+
+79. Begründungsschritte bleiben in ihrer Reihenfolge erhalten.
+
+80. Wiederholungen des Urtexts werden nicht beseitigt,
+    wenn sie Teil der Argumentation oder Rhetorik sind.
+
+81. Pronomen, Sprecherwechsel und Zitatgrenzen werden nicht frei ergänzt.
+
+82. Ist ein Bezug im Ausgangstext bewusst knapp oder mehrdeutig,
+    darf die Übersetzung nicht mehr Sicherheit vortäuschen als der Urtext.
+
+83. Wo der Urtext mehrdeutig ist, wird die naheliegende traditionelle
+    Lesart gewählt.
+
+84. Keine eigene neue Auslegung hinzufügen.
+
+85. Direkte Zitate bleiben als Zitate erkennbar.
+
+86. Erläuterungen des Autors werden nicht mit dem zitierten Talmudtext vermischt.
+
+======================================================================
+FACHBEGRIFFE UND TRANSLITERATION
+======================================================================
+
+87. Fachbegriffe wie
+    Mitzvah
+    Halacha
+    Berakhah
+    Kavvanah
+    Aggadah
+    werden beibehalten.
+
+88. Beim ersten erklärungsbedürftigen Vorkommen innerhalb eines Segments
+    kann eine knappe englische Erklärung folgen.
+
+89. Dieselbe Erklärung wird im selben Segment nicht unnötig wiederholt.
+
+90. Weitere etablierte Begriffe werden einheitlich wiedergegeben, darunter:
+
+    Torah
+    Mishnah
+    Gemara
+    Baraita
+    Midrash
+    Zohar
+    Shekhinah
+    Sefirah
+    Sefirot
+    kelipot
+    tikkun
+    peshat
+    remez
+    derash
+    sod
+
+91. Namen jüdischer Gelehrter und Werke werden in einer üblichen,
+    wissenschaftlich lesbaren Umschrift wiedergegeben.
+
+92. Ehrentitel und traditionelle Abkürzungen werden respektvoll
+    und kontextgerecht behandelt.
+
+======================================================================
+QUELLENANGABEN
+======================================================================
+
+93. Tanachstellen werden mit eindeutigem englischem Buchnamen
+    und Fundstelle angegeben.
+
+94. Verbindliches Format:
+
+    (Genesis 37:18)
+    (Exodus 20:12)
+    (Psalms 81:6)
+
+95. Unzulässig:
+
+    (Bible: Genesis 37:18)
+    (Tanach: Genesis 37:18)
+
+96. Talmudverweise:
+
+    (Berakhot 4b)
+    (Shabbat 104a)
+
+97. Midrasch- und Zoharverweise entsprechend:
+
+    (Bereshit Rabbah 84:7)
+    (Zohar III, 281)
+
+98. Ein allgemeines Präfix wie
+    „Talmud:“
+    oder
+    „Midrash:“
+    ist nicht erforderlich, wenn der Quellenname eindeutig ist.
+
+99. Eine genaue Fundstelle darf nur genannt werden,
+    wenn sie aus dem Urtext eindeutig hervorgeht oder zweifelsfrei bekannt ist.
+
+100. Keine Fundstelle erfinden.
+
+101. Verweist der Kommentar nur auf „hier“, „oben“, „unten“
+     oder eine ähnlich unbestimmte Stelle, wird keine künstliche Genauigkeit erzeugt.
+
+102. Das vorhandene ref-Attribut kann zur Orientierung dienen,
+     darf aber niemals verändert werden.
+
+======================================================================
+GEMATRIA · BUCHSTABENSPIELE · NOTARIKON
+======================================================================
+
+103. Der Ben Yehoyada argumentiert häufig mit:
+     - Zahlenwerten;
+     - Buchstabenzerlegungen;
+     - Akrosticha;
+     - Notarikon;
+     - Umstellungen;
+     - Namensformen.
+
+104. Diese Stellen werden mit besonderer Sorgfalt behandelt.
+
+105. Im Kommentarfeld <en> bleiben hebräische Buchstaben,
+     Wörter oder Buchstabenkombinationen sichtbar,
+     wenn sie für das Argument selbst notwendig sind.
+
+106. Sie werden zusätzlich verständlich erklärt.
+
+107. Beispiel:
+
+     the word אמת, whose letters are the first, middle, and last of the alphabet
+
+108. Für <band_en> gilt dagegen weiterhin die Null-Hebräisch-Regel.
+
+109. Ein im Urtext genannter Zahlenwert wird als Ziffer wiedergegeben.
+
+110. Der Zahlenwert wird nachgerechnet.
+
+111. Weicht die eigene Nachrechnung vom Wert des Urtexts ab,
+     wird der Wert des Urtexts nicht stillschweigend korrigiert.
+
+112. Keine Zahlenwerte:
+     - erfinden;
+     - runden;
+     - ersetzen;
+     - aus einer bloß mehrdeutigen Abkürzung ableiten.
+
+113. Ein Wortspiel, das nur auf Hebräisch funktioniert,
+     wird nicht durch ein frei erfundenes englisches Wortspiel ersetzt.
+
+114. Es wird erklärt.
+
+======================================================================
+ARAMÄISCH
+======================================================================
+
+115. Aramäische Passagen im Kommentar werden vollständig ins Englische übersetzt.
+
+116. Bedeutungsrelevante aramäische Schlüsselbegriffe können zusätzlich
+     in wissenschaftlich lesbarer Umschrift erhalten bleiben.
+
+117. <band_he> selbst wird niemals verändert.
+
+118. Ist <band_en> leer:
+     <band_he> nach den Kopfbandregeln ins Englische übersetzen.
+
+119. Ist <band_en> bereits gefüllt:
+     unverändert lassen.
+
+======================================================================
+GOTTESNAMEN · ZWINGENDE REGEL
+======================================================================
+
+120. Das Tetragrammaton darf im Englischen niemals ausgeschrieben
+     oder transliteriert werden.
+
+121. יהוה, ה׳, השם, השי״ת und entsprechende göttliche Ersatzformen
+     werden im Englischen konsequent als:
+
+     HaShem
+
+     wiedergegeben.
+
+122. אדני wird, wenn es eindeutig als göttlicher Name verwendet wird,
+     ebenfalls als HaShem wiedergegeben.
+
+123. Es darf nicht als Adonai ausgeschrieben werden.
+
+124. Verboten sind im englischen Ergebnis:
+
+     YHWH
+     Yahweh
+     Jehovah
+     Adonai
+
+125. אלהים wird bei Bezug auf den einen G-d je nach Kontext als:
+
+     G-d
+
+     oder, wenn sachlich als Eigenname beziehungsweise Bestandteil
+     eines zitierten Ausdrucks erforderlich:
+
+     Elohim
+
+     wiedergegeben.
+
+126. „God“ ohne Bindestrich wird für den einen G-d vermieden.
+
+127. Wird ein Gottesname im Kommentarfeld <en> als Gegenstand einer
+     Gematria oder Buchstabenstruktur behandelt, darf die hebräische
+     Form sichtbar bleiben, wenn sonst das Argument verloren ginge.
+
+128. Im <band_en> sind hebräische Zeichen technisch unzulässig.
+
+129. Dort wird erforderlichenfalls eine respektvolle beschreibende Form verwendet,
+     zum Beispiel:
+
+     the four-letter Divine Name
+
+130. Ein Gottesname wird niemals in eine verbotene lateinische
+     Namensform transliteriert.
+
+131. Bestehende Gottesnamen in <he> und <band_he> bleiben unverändert.
+
+======================================================================
+STIL UND QUALITÄT
+======================================================================
+
+132. Der Stil ist:
+     - präzise;
+     - würdig;
+     - klar;
+     - wissenschaftlich lesbar.
+
+133. Der Stil darf nicht:
+     - salopp;
+     - modernisierend;
+     - christlich-theologisch umgedeutet
+     werden.
+
+134. Jüdische, halachische, aggadische, kabbalistische und sephardische
+     Begrifflichkeiten werden aus ihrem eigenen Traditionszusammenhang übersetzt.
+
+135. Englische Anführungszeichen, Satzzeichen und Großschreibung
+     folgen konsistentem natürlichem Buchenglisch.
+
+136. Deutsche Wörter und deutsche Anführungszeichen sind im englischen
+     Ergebnis unzulässig.
+
+137. Vorhandene Hervorhebungen im hebräischen Text bestimmen nicht automatisch
+     jede englische Hervorhebung.
+
+138. Inhaltlich entsprechende Hervorhebungen dürfen innerhalb von <en>
+     mit unterstützten Tags wiedergegeben werden.
+
+139. Zulässige Tags im neu erstellten <en>-Feld sind insbesondere:
+
+     <lemma>
+     <fn>
+     <b>
+     <i>
+     <small>
+     <sup>
+     <br>
+
+140. Neue unbekannte Tags werden nicht erfunden.
+
+141. In <band_en> werden keine <fn>-Tags verwendet.
+
+142. Die Ausgabe enthält kein Markdown.
+
+143. Keine Markdown-Codezäune.
+
+144. Keine Listenzeichen oder redaktionellen Arbeitskommentare
+     innerhalb der Translation_Batch-Datei.
+
+======================================================================
+ABSCHLUSSPRÜFUNG VOR DER AUSGABE
+======================================================================
+
+145. Zahl und Reihenfolge aller Segmente mit der Eingabe vergleichen.
+     Sie müssen exakt übereinstimmen.
+
+146. Prüfen, dass jedes ursprünglich leere, zur Übersetzung bestimmte
+     <en>-Feld vollständig gefüllt ist.
+
+147. Ein <en>-Feld darf nicht nur enthalten:
+     - Leerzeichen;
+     - Platzhalter;
+     - den unveränderten hebräischen Ausgangstext.
+
+148. Prüfen, dass zu jedem nichtleeren <band_he> ein nichtleeres
+     <band_en> vorhanden ist, sofern <band_en> ursprünglich leer war.
+
+149. Bereits vorgefüllte <band_en>-Felder müssen Zeichen für Zeichen
+     unverändert bleiben.
+
+150. In allen neu gefüllten <band_en>-Feldern nach hebräischen
+     Unicode-Zeichen suchen.
+
+     Ergebnis:
+     0 Vorkommen.
+
+151. Prüfen, dass führende und abschließende … aus <band_he>
+     in <band_en> erhalten sind.
+
+152. Für jedes Segment mit hebräischem <lemma>:
+
+     - englisches <en> enthält genau ein entsprechendes <lemma>;
+     - steht das HE-Lemma am Anfang, steht auch das EN-Lemma am Anfang;
+     - der Inhalt des englischen <lemma>-Tags kommt WORTGLEICH
+       in <band_en> vor.
+
+153. Eine nur sinngleiche Lemma-Fassung gilt als Fehler.
+
+154. Enthält das validierte hebräische Segment kein <lemma>,
+     darf kein englisches Lemma erfunden werden.
+
+155. Prüfen, dass kein:
+     - id;
+     - n;
+     - daf;
+     - ref
+     verändert wurde.
+
+156. Prüfen, dass kein:
+     - <he>;
+     - <band_he>;
+     - <he_title>
+     verändert wurde.
+
+157. Eingabe und Ausgabe feldweise vergleichen.
+
+158. Außer ursprünglich leeren:
+     - <en>;
+     - <band_en>;
+     - ausnahmsweise <en_title>
+     darf kein Zeichen verändert worden sein.
+
+159. Prüfen, dass keine Segmente fehlen oder doppelt vorkommen.
+
+160. In allen <en_title>-Feldern nach hebräischen Unicode-Zeichen suchen.
+
+     Ergebnis:
+     0 Vorkommen.
+
+161. Im gesamten neu erzeugten englischen Ergebnis suchen nach:
+
+     YHWH
+     Yahweh
+     Jehovah
+     Adonai
+
+     Ergebnis:
+     0 Vorkommen.
+
+162. In allen neu übersetzten <en>-Feldern suchen nach:
+
+     Bible:
+     Tanach:
+
+     Ergebnis:
+     0 Vorkommen.
+
+163. Für jedes <en>-Feld prüfen:
+     - Zahl der öffnenden und schließenden <fn>-Tags identisch;
+     - keine verschachtelte Fußnote;
+     - keine überlappende Abkürzungsfußnote.
+
+164. Prüfen, dass die unterstützten Tags vollständig und ausgeglichen sind:
+
+     <lemma>
+     <fn>
+     <b>
+     <i>
+     <small>
+     <sup>
+
+165. Prüfen, dass CDATA-Abschlüsse syntaktisch korrekt sind.
+
+166. Prüfen, dass keine Markdown-Codezäune,
+     keine deutschen Arbeitskommentare und keine zusätzliche Erklärung
+     außerhalb der vorgesehenen Felder enthalten sind.
+
+167. Eine erkannte Strukturauffälligkeit wird nicht in der Ausgabe
+     stillschweigend repariert, sondern außerhalb der Datei gemeldet.
+
+======================================================================
+AUSGABE
+======================================================================
+
+168. Ausgegeben wird ausschließlich die vollständig ausgefüllte
+     Translation_Batch-Datei.
+
+169. Der Dateiname erhält den Zusatz:
+
+     _EN_FERTIG.txt
+
+170. Keine Vorbemerkung und kein Nachwort innerhalb der Datei.
+
+171. Außerhalb der Datei wird nur kurz bestätigt:
+     - welche Segment-IDs übersetzt wurden;
+     - dass <en> und <band_en> geprüft wurden;
+     - dass die Dateistruktur unverändert blieb.
+
+172. Wenn eine echte Strukturauffälligkeit festgestellt wurde,
+     wird sie außerhalb der Datei zusätzlich mit der konkreten BYH-ID genannt.
+
+======================================================================
+ZUSAMMENSPIEL MIT BOOK MANAGER v2.0.12
+======================================================================
+
+173. Einzelmerge und gemeinsamer Bulk-Merge arbeiten nach stabilen BYH-IDs.
+
+174. Seit v2.0.6 und damit auch in v2.0.12 prüft der Bulk-Merge
+     <en> und <band_en> gemeinsam.
+
+175. Der Bulk-Merge kann unter anderem zurückweisen:
+     - verändertes <he>;
+     - verändertes <band_he>;
+     - verändertes daf/ref;
+     - leeres erforderliches <band_en>;
+     - hebräische Zeichen in <band_en>;
+     - verlorene Rand-Ellipsen;
+     - Lemma/<band_en>-Widerspruch;
+     - doppelte oder überlappende IDs;
+     - widersprüchliche bereits vorhandene englische Fassung.
+
+176. Deshalb müssen Translation_Batches vollständig fertiggestellt sein,
+     bevor sie als _EN_FERTIG zurückgegeben werden.
+
+177. Book Manager v2.0.12 enthält zusätzlich den Reiter-3-Lauf:
+
+     „Ganzen Band angleichen · EN bereits vorhanden“
+
+     Dieser Layoutlauf verändert die hier beschriebenen Übersetzungsregeln nicht.
+
+178. Der Gesamtbandlauf setzt voraus, dass der vollständig übersetzte
+     englische Text bereits im BILINGUAL-Master und im InDesign-Textfluss vorhanden ist.
+
+179. Die Übersetzungsdatei bleibt auch nach dem Layout der maßgebliche
+     Textmaster; Layoutkorrekturen dürfen die Übersetzungsstruktur nicht ersetzen.
+
+======================================================================
+RECHTLICHER HINWEIS
+======================================================================
+
+180. Der hebräische Grundtext des Ben Yehoyada ist gemeinfrei
+     (Yosef Chayim, gestorben 1909).
+
+181. Der hebräisch/aramäische Talmudtext in <band_he> stammt aus der im Projekt
+     verwendeten Dicta-Ausgabe „Talmud Bavli with Nikud“.
+
+182. Die Projektdateien führen dafür die Namensnennung:
+     Dicta — The Israel Center for Text Analysis.
+
+183. Das englische Kopfband wird projektintern selbst übersetzt.
+
+184. Es wird keine fremde englische Talmudübersetzung übernommen.
+
+185. Ein bereits gefülltes <band_en> wird niemals durch eine neue
+     Übersetzung ersetzt.
+
+======================================================================
+VERBINDLICHER STAND
+======================================================================
+
+Book Manager:
+v2.0.12
+
+Pipeline:
+v3.1
+
+Arbeitsanleitung:
+Fassung 1.3 · 24.09.2026
+
+Übersetzungsanweisung:
+Fassung 1.3 · 24.09.2026
+
+ENDE · VERBINDLICHE ÜBERSETZUNGSANWEISUNG · FASSUNG 1.3
