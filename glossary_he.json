@@ -2,7 +2,8 @@
  "_meta": {
   "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
   "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
-  "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen."
+  "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen.",
+  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת)"
  },
  "abbreviations": {
   "א\"א": {
@@ -19,7 +20,8 @@
   },
   "א\"ל": {
    "he": "אָמַר לוֹ",
-   "en": "he said to him"
+   "en": "he said to him",
+   "alt": "Pesachim BYH-0000072/0000245/0000256 ebenso (Buchstaben Alef-Lamed)"
   },
   "א\"נ": {
    "he": "אִי נַמֵי",
@@ -28,6 +30,10 @@
   "א\"ס": {
    "he": "אֵין סוֹף",
    "en": "the Infinite (Ein Sof)"
+  },
+  "א\"ר": {
+   "he": "אָמַר רַבִּי",
+   "en": "Rabbi … said"
   },
   "א\"ת": {
    "he": "חִלּוּף א\"ת ב\"שׁ",
@@ -61,6 +67,10 @@
    "he": "אוֹתִיּוֹת הַגָּרוֹן אחה\"ע",
    "en": "the guttural letters (alef, he, het, ayin)"
   },
+  "אכדט\"ם": {
+   "he": "שֵׁם אכדט\"ם",
+   "en": "the Name AKhDTM"
+  },
   "אלקי\"ם": {
    "he": "שֵׁם אֱלֹקִי\"ם",
    "en": "the Name Elohim"
@@ -84,6 +94,15 @@
   "ב\"ה": {
    "he": "בָּרוּךְ הוּא",
    "en": "blessed be He"
+  },
+  "ב\"ח": {
+   "he": "בַּיִת חָדָשׁ",
+   "en": "the Bah (Bayit Hadash, R. Yoel Sirkes)"
+  },
+  "ב\"י": {
+   "he": "בֵּית יוֹסֵף",
+   "en": "the Beit Yosef (R. Yosef Karo)",
+   "alt": "Quelle (Pesachim BYH-0000253): ohne Fussnote; Lektorat pruefen"
   },
   "ב\"מ": {
    "he": "בָּבָא מְצִיעָא",
@@ -173,13 +192,18 @@
    "he": "דֶּרֶךְ מָשָׁל",
    "en": "by way of example"
   },
+  "דצח\"ם": {
+   "he": "דּוֹמֵם צוֹמֵחַ חַי מְדַבֵּר",
+   "en": "inanimate, vegetable, animal and speaking"
+  },
   "ה\"ה": {
    "he": "הוּא הַדִּין",
    "en": "the same rule applies"
   },
   "ה\"י": {
    "he": "הַשֵּׁם יִשְׁמְרֵהוּ",
-   "en": "may God protect him"
+   "en": "may God protect him",
+   "alt": "הָאוֹת ה\"י — Buchstabe He in Namensausschreibungen (Pesachim BYH-0000091/0000118)"
   },
   "ה\"נ": {
    "he": "הָכִי נַמֵי",
@@ -237,6 +261,10 @@
    "he": "הָרַב הַגָּאוֹן",
    "en": "the eminent Rabbi"
   },
+  "הרא\"ם": {
+   "he": "רַבִּי אֵלִיָּהוּ מִזְרָחִי",
+   "en": "the Re'em (R. Eliyahu Mizrahi)"
+  },
   "הרא\"ש": {
    "he": "רַבֵּנוּ אָשֵׁר",
    "en": "the Rosh (Rabbenu Asher)"
@@ -277,6 +305,10 @@
    "he": "רַבֵּנוּ שְׁלֹמֹה בֶּן אַדֶּרֶת",
    "en": "Rashba (R. Shelomo ibn Aderet)"
   },
+  "הרשב\"ץ": {
+   "he": "רַבִּי שִׁמְעוֹן בֶּן צֶמַח דּוּרָן",
+   "en": "Rashbatz (R. Shimon ben Tzemah Duran)"
+  },
   "הש\"ס": {
    "he": "הַשִּׁשָּׁה סְדָרִים (הַתַּלְמוּד)",
    "en": "the Talmud"
@@ -284,6 +316,10 @@
   "השי\"ת": {
    "he": "הַשֵּׁם יִתְבָּרֵךְ",
    "en": "God, blessed be He"
+  },
+  "השל\"ה": {
+   "he": "שְׁנֵי לוּחוֹת הַבְּרִית (רַבִּי יְשַׁעְיָה הוֹרוֹוִיץ)",
+   "en": "the Shelah (R. Yeshaya Horowitz)"
   },
   "ו\"ה": {
    "he": "וָא\"ו הֵ\"א (שתי אותיות אחרונות של השם)",
@@ -357,6 +393,10 @@
    "he": "חֲכָמֵינוּ זִכְרָם לִבְרָכָה",
    "en": "our Sages, of blessed memory"
   },
+  "חב\"ד": {
+   "he": "חָכְמָה בִּינָה דַּעַת",
+   "en": "Hokhma, Bina, Da'at"
+  },
   "חג\"ת": {
    "he": "חֶסֶד גְּבוּרָה תִּפְאֶרֶת",
    "en": "Hesed, Gevura, Tiferet"
@@ -364,6 +404,14 @@
   "חו\"ב": {
    "he": "חָכְמָה וּבִינָה",
    "en": "Hokhma and Bina"
+  },
+  "חו\"ג": {
+   "he": "חֶסֶד וּגְבוּרָה",
+   "en": "Hesed and Gevura"
+  },
+  "חו\"ל": {
+   "he": "חוּץ לָאָרֶץ",
+   "en": "outside the Land of Israel"
   },
   "חול\"ם": {
    "he": "נִקּוּד חוֹלָ\"ם",
@@ -416,7 +464,8 @@
   },
   "כ\"ד": {
    "he": "כֹּה דִּבְרֵי",
-   "en": "thus are the words of"
+   "en": "thus are the words of",
+   "alt": "Pesachim BYH-0000063/0000223 ebenso (Zahl 24)"
   },
   "כ\"כ": {
    "he": "כָּל כָּךְ",
@@ -429,6 +478,14 @@
   "כה\"ר": {
    "he": "כְּבוֹד הָרַב",
    "en": "the honoured Rabbi"
+  },
+  "כוז\"ו": {
+   "he": "שֵׁם כוז\"ו",
+   "en": "the Name KWZW"
+  },
+  "כח\"ב": {
+   "he": "כֶּתֶר חָכְמָה בִּינָה",
+   "en": "Keter, Hokhma, Bina"
   },
   "כמ\"ש": {
    "he": "כְּמוֹ שֶׁכָּתוּב",
@@ -450,6 +507,10 @@
   "ל\"ק": {
    "he": "לָא קַשְׁיָא",
    "en": "it is not difficult"
+  },
+  "ליקבה\"ו": {
+   "he": "לְשֵׁם יִחוּד קֻדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּיהּ",
+   "en": "for the sake of the unification of the Holy One, blessed be He, and His Shekhina"
   },
   "למ\"ד": {
    "he": "הָאוֹת ל",
@@ -502,6 +563,15 @@
    "he": "מוֹרֵנוּ הָרַב רַבִּי מֵאִיר",
    "en": "Maharam (R. Meir)"
   },
+  "מהר\"ר": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי",
+   "en": "our teacher, Rabbi"
+  },
+  "מהר\"ש": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁלֹמֹה",
+   "en": "the Maharash (R. Shelomo [Alkabetz])",
+   "alt": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל (יָפֶה אַשְׁכְּנַזִי) — Pesachim BYH-0000220"
+  },
   "מהרח\"ו": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי חַיִּים וִיטָאל",
    "en": "R. Hayyim Vital"
@@ -509,6 +579,15 @@
   "מהרש\"א": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל אֱלִיעֶזֶר אֵידֶלְס",
    "en": "Maharsha (R. Shemuel Eliezer Edels)"
+  },
+  "מהרש\"ו": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל וִיטָאל",
+   "en": "Maharashu (R. Shemuel Vital)"
+  },
+  "מו\"ם": {
+   "he": "מַשָּׂא וּמַתָּן",
+   "en": "commerce (buying and selling)",
+   "alt": "מִקָּח וּמִמְכָּר — Pesachim BYH-0000189 (Ben Yehoyada liest so das Talmudwort מום)"
   },
   "מו\"ר": {
    "he": "מוֹרִי וְרַבִּי",
@@ -560,15 +639,21 @@
   },
   "ס\"ט": {
    "he": "סִפְרָא טָבָא",
-   "en": "honorific appended to a name"
+   "en": "honorific appended to a name",
+   "alt": "מִסְפָּר 69 — Blattangabe \"דף ס\"ט ע\"ב\" (Pesachim BYH-0000123)"
   },
   "ס\"ל": {
    "he": "סְבִירָא לֵיהּ",
    "en": "he holds / he is of the opinion"
   },
+  "ס\"מ": {
+   "he": "סמא\"ל",
+   "en": "Samael"
+  },
   "ס\"ת": {
    "he": "סֵפֶר תּוֹרָה",
-   "en": "a Torah scroll"
+   "en": "a Torah scroll",
+   "alt": "סוֹפֵי תֵּבוֹת — Endbuchstaben (Pesachim BYH-0000100: HE-Fussnote \"ספר תורה\" dort falsch)"
   },
   "סגו\"ל": {
    "he": "נִקּוּד סֶגּוֹ\"ל",
@@ -577,6 +662,14 @@
   "סה\"ק": {
    "he": "הַסֵּפֶר הַקָּדוֹשׁ",
    "en": "the holy book"
+  },
+  "סט\"א": {
+   "he": "סִטְרָא אָחֳרָא",
+   "en": "the Other Side (sitra ahra)"
+  },
+  "סת\"ם": {
+   "he": "סְפָרִים תְּפִלִּין מְזוּזוֹת",
+   "en": "STaM (Torah scrolls, tefillin and mezuzot)"
   },
   "ע\"א": {
    "he": "עַמּוּד א",
@@ -608,6 +701,10 @@
    "he": "עַיֵּן שָׁם",
    "en": "see there"
   },
+  "עה\"ק": {
+   "he": "עִיר הַקֹּדֶשׁ",
+   "en": "the Holy City"
+  },
   "עו\"ה": {
    "he": "עֲוֹנוֹתֵינוּ הָרַבִּים",
    "en": "our many sins"
@@ -620,6 +717,10 @@
    "he": "עוֹלָם הַזֶּה",
    "en": "this world"
   },
+  "עט\"ר": {
+   "he": "עֲטֶרֶת רֹאשִׁי",
+   "en": "the crown of my head"
+  },
   "עי\"כ": {
    "he": "עַל יְדֵי כָּךְ",
    "en": "thereby"
@@ -627,6 +728,10 @@
   "עי\"ש": {
    "he": "עַיֵּן שָׁם",
    "en": "see there"
+  },
+  "עכ\"ד": {
+   "he": "עַד כָּאן דְּבָרָיו",
+   "en": "end of his words"
   },
   "עכ\"ל": {
    "he": "עַד כָּאן לְשׁוֹנוֹ",
@@ -639,6 +744,10 @@
   "עכו\"ם": {
    "he": "עוֹבְדֵי כּוֹכָבִים וּמַזָּלוֹת",
    "en": "worshippers of stars and constellations, i.e. idolaters"
+  },
+  "עכת\"ד": {
+   "he": "עַד כָּאן תּוֹכֵן דְּבָרָיו",
+   "en": "end of the gist of his words"
   },
   "עפ\"ז": {
    "he": "עַל פִּי זֶה",
@@ -683,6 +792,10 @@
   "קב\"ה": {
    "he": "קֻדְשָׁא בְּרִיךְ הוּא",
    "en": "the Holy One, blessed be He"
+  },
+  "קבה\"ו": {
+   "he": "קֻדְשָׁא בְּרִיךְ הוּא וּשְׁכִינְתֵּיהּ",
+   "en": "the Holy One, blessed be He, and His Shekhina"
   },
   "קבו\"ץ": {
    "he": "נִקּוּד קֻבּוּ\"ץ",
@@ -731,9 +844,17 @@
    "he": "רַבָּה בַּר בַּר חָנָה",
    "en": "Rabba bar bar Hana"
   },
+  "רד\"ק": {
+   "he": "רַבִּי דָּוִד קִמְחִי",
+   "en": "Radak (R. David Kimhi)"
+  },
   "ריב\"ל": {
    "he": "רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי",
    "en": "R. Yehoshua ben Levi"
+  },
+  "רלב\"ג": {
+   "he": "רַבִּי לֵוִי בֶּן גֵּרְשׁוֹם",
+   "en": "Ralbag (R. Levi ben Gershom)"
   },
   "רמ\"א": {
    "he": "רַבִּי מֹשֶׁה אִיסֶרְלִישׂ",
@@ -766,6 +887,10 @@
   "ש\"ס": {
    "he": "שִׁשָּׁה סְדָרִים (הַתַּלְמוּד)",
    "en": "the Talmud"
+  },
+  "ש\"ע": {
+   "he": "שֻׁלְחָן עָרוּךְ",
+   "en": "the Shulhan Arukh"
   },
   "שב\"א": {
    "he": "נִקּוּד שְׁוָ\"א",
@@ -800,9 +925,17 @@
    "en": "Torah study",
    "alt": "תִּפְאֶרֶת (kabbalistisch)"
   },
+  "תו\"מ": {
+   "he": "תִּפְאֶרֶת וּמַלְכוּת",
+   "en": "Tiferet and Malkhut"
+  },
   "תוב\"ב": {
    "he": "תִּבָּנֶה וְתִכּוֹנֵן בִּמְהֵרָה בְיָמֵינוּ",
    "en": "may it be rebuilt and established speedily in our days"
+  },
+  "תובב\"ב": {
+   "he": "תִּבָּנֶה וְתִכּוֹנֵן בִּמְהֵרָה בְיָמֵינוּ אָמֵן",
+   "en": "may it be rebuilt and established speedily in our days, Amen"
   },
   "תנ\"ך": {
    "he": "תּוֹרָה נְבִיאִים וּכְתוּבִים",
