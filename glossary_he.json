@@ -3,7 +3,7 @@
   "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
   "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
   "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen.",
-  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten)"
+  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten) + Rosh Hashanah Band 01 (Pipeline v3.2: 5 neue Eintraege: הגה\"ה, מהר\"ח, מהרי\"ש, רבש\"ע, רז\"ל; Belege: einheitlicher Gebrauch in allen Senlake-Traktaten (רז\"ל 158x), Senlake-Erklaerungen [מורינו הרב רבי חיים] (Kiddushin), [יוסף שאול נתנזון] (Yoma), [מורינו הרב יוסף שאול] (Chagigah); מהר\"ח nur woertlich aufgeloest, da verschiedene Traeger (Palagi, ben Attar, Volozhin); bewusst offen: הט\"ז (auch Zahl 16, Sotah), ש\"ך (auch 320), מהרש\"ם, מהרי\"א)"
  },
  "abbreviations": {
   "א\"א": {
@@ -220,6 +220,10 @@
   "האריז\"ל": {
    "he": "הָאֱלֹהִי רַבִּי יִצְחָק לוּרְיָא זִכְרוֹנוֹ לִבְרָכָה",
    "en": "the Ari, of blessed memory"
+  },
+  "הגה\"ה": {
+   "he": "הַגָּהָה",
+   "en": "gloss (emendation)"
   },
   "הו\"א": {
    "he": "הֲוָה אָמִינָא",
@@ -566,6 +570,10 @@
    "he": "מַתַּן תּוֹרָה",
    "en": "the giving of the Torah"
   },
+  "מהר\"ח": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי חַיִּים",
+   "en": "Maharah (R. Hayyim)"
+  },
   "מהר\"י": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי יַעֲקֹב",
    "en": "Mahari (R. Yaakov)",
@@ -587,6 +595,10 @@
   "מהרח\"ו": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי חַיִּים וִיטָאל",
    "en": "R. Hayyim Vital"
+  },
+  "מהרי\"ש": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי יוֹסֵף שָׁאוּל נָתַנְזוֹן",
+   "en": "Maharish (R. Yosef Shaul Nathanson)"
   },
   "מהרש\"א": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל אֱלִיעֶזֶר אֵידֶלְס",
@@ -864,9 +876,17 @@
    "he": "רַבָּה בַּר בַּר חָנָה",
    "en": "Rabba bar bar Hana"
   },
+  "רבש\"ע": {
+   "he": "רִבּוֹנוֹ שֶׁל עוֹלָם",
+   "en": "Master of the world"
+  },
   "רד\"ק": {
    "he": "רַבִּי דָּוִד קִמְחִי",
    "en": "Radak (R. David Kimhi)"
+  },
+  "רז\"ל": {
+   "he": "רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה",
+   "en": "our Rabbis, of blessed memory"
   },
   "ריב\"ל": {
    "he": "רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי",
