@@ -3,7 +3,7 @@
   "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
   "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
   "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen.",
-  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת)"
+  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten)"
  },
  "abbreviations": {
   "א\"א": {
@@ -70,6 +70,10 @@
   "אכדט\"ם": {
    "he": "שֵׁם אכדט\"ם",
    "en": "the Name AKhDTM"
+  },
+  "אלהי\"ם": {
+   "he": "שֵׁם אֱלֹקִי\"ם",
+   "en": "the Name Elohim"
   },
   "אלקי\"ם": {
    "he": "שֵׁם אֱלֹקִי\"ם",
@@ -289,6 +293,10 @@
    "he": "רַבִּי יוֹם טוֹב בֶּן אַבְרָהָם אִשְׁבִּילִי",
    "en": "Ritva (R. Yom Tov ben Avraham Ishbili)"
   },
+  "הרמ\"ק": {
+   "he": "רַבִּי מֹשֶׁה קוֹרְדוֹבֵירוֹ",
+   "en": "Ramak (R. Moshe Cordovero)"
+  },
   "הרמב\"ם": {
    "he": "רַבֵּנוּ מֹשֶׁה בֶּן מַימוֹן",
    "en": "Rambam (Maimonides)"
@@ -454,6 +462,10 @@
    "he": "יְעֻיַּן שָׁם",
    "en": "see there"
   },
+  "יעב\"ץ": {
+   "he": "רַבִּי יַעֲקֹב בֶּן צְבִי (עֶמְדִּין)",
+   "en": "Yaavetz (R. Yaakov Emden)"
+  },
   "יצה\"ט": {
    "he": "יֵצֶר הַטּוֹב",
    "en": "the good inclination"
@@ -592,6 +604,14 @@
   "מו\"ר": {
    "he": "מוֹרִי וְרַבִּי",
    "en": "my teacher and master"
+  },
+  "מוהרי\"ש": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי יוֹסֵף שָׁאוּל נָתַנְזוֹן",
+   "en": "Maharish (R. Yosef Shaul Nathanson)"
+  },
+  "מור\"ם": {
+   "he": "מוֹרֵנוּ הָרַב מֹשֶׁה אִיסֶרְלִישׂ",
+   "en": "Rema (R. Moshe Isserles)"
   },
   "מט\"ט": {
    "he": "מֶטַטְרוֹ\"ן",
@@ -863,6 +883,10 @@
   "רמ\"ז": {
    "he": "רַבִּי מֹשֶׁה זַכּוּת",
    "en": "Ramaz (R. Moshe Zacuto)"
+  },
+  "רמ\"ק": {
+   "he": "רַבִּי מֹשֶׁה קוֹרְדוֹבֵירוֹ",
+   "en": "Ramak (R. Moshe Cordovero)"
   },
   "רמב\"ם": {
    "he": "רַבִּי מֹשֶׁה בֶּן מַיְמוֹן",
