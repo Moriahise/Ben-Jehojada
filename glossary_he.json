@@ -3,7 +3,7 @@
   "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
   "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
   "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen.",
-  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten) + Rosh Hashanah Band 01 (Pipeline v3.2: 5 neue Eintraege: הגה\"ה, מהר\"ח, מהרי\"ש, רבש\"ע, רז\"ל; Belege: einheitlicher Gebrauch in allen Senlake-Traktaten (רז\"ל 158x), Senlake-Erklaerungen [מורינו הרב רבי חיים] (Kiddushin), [יוסף שאול נתנזון] (Yoma), [מורינו הרב יוסף שאול] (Chagigah); מהר\"ח nur woertlich aufgeloest, da verschiedene Traeger (Palagi, ben Attar, Volozhin); bewusst offen: הט\"ז (auch Zahl 16, Sotah), ש\"ך (auch 320), מהרש\"ם, מהרי\"א)"
+  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten) + Rosh Hashanah Band 01 (Pipeline v3.2: 5 neue Eintraege: הגה\"ה, מהר\"ח, מהרי\"ש, רבש\"ע, רז\"ל; Belege: einheitlicher Gebrauch in allen Senlake-Traktaten (רז\"ל 158x), Senlake-Erklaerungen [מורינו הרב רבי חיים] (Kiddushin), [יוסף שאול נתנזון] (Yoma), [מורינו הרב יוסף שאול] (Chagigah); מהר\"ח nur woertlich aufgeloest, da verschiedene Traeger (Palagi, ben Attar, Volozhin); bewusst offen: הט\"ז (auch Zahl 16, Sotah), ש\"ך (auch 320), מהרש\"ם, מהרי\"א) + Uebersetzung Rosh Hashanah Band 01 (5 neue Eintraege: אה\"י, דפח\"ח, יע\"ל, מהרש\"ק, קג\"ם; Belege: Senlake-Erklaerungen [אהל יעקב] und [שלמה קלוגער] (Rosh Hashanah, einziger Beleg in allen Senlake-Traktaten, Werk Tuv Ta'am va-Da'at), דפח\"ח einheitlich mit Senlake-Erklaerung [דברי פי חכם חן] in 13 Traktaten, יע\"ל קג\"ם einheitlich als Merkwort der sechs Halakhot nach Abaye (Bava Metzia 22b) in Makkot, Taanit, Rosh Hashanah; alt ergaenzt bei ה\"ה, ד\"ה, א\"ל, כ\"ד (fehlaufgeloeste HE-Fussnoten im Band); weiterhin bewusst offen: הט\"ז, ש\"ך (im Band BYH-0000090/0000110 kontextuell Taz/Shakh), מהרש\"ם, מהרי\"א, ע\"ג (Spalte 3 vs. Zahl 73), ס\"ג in \"ילקוט ישעיה ס\"ו ס\"ג\")"
  },
  "abbreviations": {
   "א\"א": {
@@ -21,7 +21,7 @@
   "א\"ל": {
    "he": "אָמַר לוֹ",
    "en": "he said to him",
-   "alt": "Pesachim BYH-0000072/0000245/0000256 ebenso (Buchstaben Alef-Lamed)"
+   "alt": "Pesachim BYH-0000072/0000245/0000256 ebenso (Buchstaben Alef-Lamed); Rosh Hashanah BYH-0000048 ebenso (Gottesname El)"
   },
   "א\"נ": {
    "he": "אִי נַמֵי",
@@ -50,6 +50,10 @@
   "אדנ\"י": {
    "he": "שֵׁם אֲדֹנָ\"י",
    "en": "the Name Adonai"
+  },
+  "אה\"י": {
+   "he": "אֹהֶל יַעֲקֹב",
+   "en": "Ohel Yaakov"
   },
   "אהי\"ה": {
    "he": "שֵׁם אֶהְיֶ\"ה",
@@ -190,11 +194,16 @@
   },
   "ד\"ה": {
    "he": "דִּבּוּר הַמַּתְחִיל",
-   "en": "s.v. (the comment beginning)"
+   "en": "s.v. (the comment beginning)",
+   "alt": "Rosh Hashanah BYH-0000044: Buchstaben Dalet-He (4+5 = 9)"
   },
   "ד\"מ": {
    "he": "דֶּרֶךְ מָשָׁל",
    "en": "by way of example"
+  },
+  "דפח\"ח": {
+   "he": "דִּבְרֵי פִּי חָכָם חֵן",
+   "en": "the words of a wise man's mouth are gracious"
   },
   "דצח\"ם": {
    "he": "דּוֹמֵם צוֹמֵחַ חַי מְדַבֵּר",
@@ -202,7 +211,8 @@
   },
   "ה\"ה": {
    "he": "הוּא הַדִּין",
-   "en": "the same rule applies"
+   "en": "the same rule applies",
+   "alt": "Rosh Hashanah BYH-0000066/0000076: Buchstabe He mit Fuellung He (ה\"ה = 10)"
   },
   "ה\"י": {
    "he": "הַשֵּׁם יִשְׁמְרֵהוּ",
@@ -462,6 +472,10 @@
    "he": "יְכוֹנְנֶהָ עֶלְיוֹן אָמֵן",
    "en": "may the Most High establish it, Amen"
   },
+  "יע\"ל": {
+   "he": "סִימָן: יֵאוּשׁ שֶׁלֹּא מִדַּעַת, עֵד זוֹמֵם, לֶחִי הָעוֹמֵד מֵאֵלָיו",
+   "en": "YAL (mnemonic for rulings like Abaye: ye'ush she-lo mi-da'at, ed zomem, lehi ha-omed me-elav)"
+  },
   "יע\"ש": {
    "he": "יְעֻיַּן שָׁם",
    "en": "see there"
@@ -481,7 +495,7 @@
   "כ\"ד": {
    "he": "כֹּה דִּבְרֵי",
    "en": "thus are the words of",
-   "alt": "Pesachim BYH-0000063/0000223 ebenso (Zahl 24)"
+   "alt": "Pesachim BYH-0000063/0000223 ebenso (Zahl 24); Rosh Hashanah BYH-0000058 ebenso (מכ\"ד: 24 Kombinationen)"
   },
   "כ\"כ": {
    "he": "כָּל כָּךְ",
@@ -607,6 +621,10 @@
   "מהרש\"ו": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁמוּאֵל וִיטָאל",
    "en": "Maharashu (R. Shemuel Vital)"
+  },
+  "מהרש\"ק": {
+   "he": "מוֹרֵנוּ הָרַב רַבִּי שְׁלֹמֹה קְלוּגֶער",
+   "en": "Maharshak (R. Shelomo Kluger)"
   },
   "מו\"ם": {
    "he": "מַשָּׂא וּמַתָּן",
@@ -832,6 +850,10 @@
   "קבו\"ץ": {
    "he": "נִקּוּד קֻבּוּ\"ץ",
    "en": "the kubbutz vocalization"
+  },
+  "קג\"ם": {
+   "he": "סִימָן: קִדּוּשִׁין שֶׁלֹּא נִמְסְרוּ לְבִיאָה, גִּלּוּי דַּעְתָּא בְּגִטָּא, מוּמָר",
+   "en": "KGM (mnemonic for rulings like Abaye: kiddushin she-lo nimseru le-vi'ah, gilui da'ata be-gitta, mumar)"
   },
   "קמ\"ל": {
    "he": "קָא מַשְׁמַע לָן",
