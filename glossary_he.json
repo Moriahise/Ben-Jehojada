@@ -3,7 +3,7 @@
   "purpose": "Kuratierte Abkuerzungstabelle fuer die zweisprachige Ben-Jehojada-Reihe. Wird von by_glossary.py geladen. Beim naechsten Traktat einfach hier ergaenzen - der Code bleibt unveraendert.",
   "fields": "he = hebraeische Auflösung, en = englische Auflösung fuer die Fussnote, alt = alternative Lesart wenn mehrdeutig",
   "note": "Praefixe (ו ש ל ב כ מ ה ד), Buchstabennamen und reine Zahlwerte werden algorithmisch aufgeloest und muessen hier NICHT stehen.",
-  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten) + Rosh Hashanah Band 01 (Pipeline v3.2: 5 neue Eintraege: הגה\"ה, מהר\"ח, מהרי\"ש, רבש\"ע, רז\"ל; Belege: einheitlicher Gebrauch in allen Senlake-Traktaten (רז\"ל 158x), Senlake-Erklaerungen [מורינו הרב רבי חיים] (Kiddushin), [יוסף שאול נתנזון] (Yoma), [מורינו הרב יוסף שאול] (Chagigah); מהר\"ח nur woertlich aufgeloest, da verschiedene Traeger (Palagi, ben Attar, Volozhin); bewusst offen: הט\"ז (auch Zahl 16, Sotah), ש\"ך (auch 320), מהרש\"ם, מהרי\"א) + Uebersetzung Rosh Hashanah Band 01 (5 neue Eintraege: אה\"י, דפח\"ח, יע\"ל, מהרש\"ק, קג\"ם; Belege: Senlake-Erklaerungen [אהל יעקב] und [שלמה קלוגער] (Rosh Hashanah, einziger Beleg in allen Senlake-Traktaten, Werk Tuv Ta'am va-Da'at), דפח\"ח einheitlich mit Senlake-Erklaerung [דברי פי חכם חן] in 13 Traktaten, יע\"ל קג\"ם einheitlich als Merkwort der sechs Halakhot nach Abaye (Bava Metzia 22b) in Makkot, Taanit, Rosh Hashanah; alt ergaenzt bei ה\"ה, ד\"ה, א\"ל, כ\"ד (fehlaufgeloeste HE-Fussnoten im Band); weiterhin bewusst offen: הט\"ז, ש\"ך (im Band BYH-0000090/0000110 kontextuell Taz/Shakh), מהרש\"ם, מהרי\"א, ע\"ג (Spalte 3 vs. Zahl 73), ס\"ג in \"ילקוט ישעיה ס\"ו ס\"ג\") + Uebersetzung Yoma Band 01 (7 neue Eintraege: ב\"ד, בומ\"ף, בשכמל\"ו, טנת\"א, ס\"ק, ראב\"ע, רמב\"ח; Belege: בומ\"ף als Buchstabengruppe der Lippenlaute wie אחה\"ע (Yoma BYH-0000125 'אותיות של השפה הם בומ\"ף', HE-Fussnote BYH-0000142 'בומ\"פ מהשפתים'); Senlake-Erklaerungen [ברוך שם כבוד מלכותו לעולם ועד] (Yoma, Arakhin), [הרבי אברהם בן עזרא] (Yoma, Megillah), [הרב משה בן חביב] (Yoma, einziger Beleg), [הטעמים, נקודות, תגין, אותיות] (Menachot, Shabbat, Sanhedrin, Yevamot), ב\"ד im Kontext 'אב ב\"ד' (Yoma BYH-0000023), ס\"ק im Kontext 'סימן קי\"ט סק\"ג' (Yoma BYH-0000038) wie in Horayot, Shabbat, Beitzah; ראב\"ע mit alt (Chagigah: R. Elazar ben Azaryah), ב\"ד mit alt; alt ergaenzt bei מהר\"ם, ע\"ה, כ\"ד, יו\"ד, ה\"ה, מ\"ד (fehlaufgeloeste HE-Fussnoten bzw. kabbalistischer Gebrauch im Band); bewusst offen: נ\"ב (BYH-0000033), מהרד\"ך (BYH-0000112), גו\"ר (BYH-0000126), ההי\"ב (BYH-0000176/0000192), דו\"ר (BYH-0000175), ש\"מ (BYH-0000239), מהרי\"ו (BYH-0000257), ק\"ל (BYH-0000282: קשיא ליה oder קיימא לן; sonst auch Zahl 130)) + Sukkah Band 01 (Pipeline v3.2.1: 8 neue Eintraege: אטב\"ח, חנכ\"ל, יצ\"ו, ציר\"י, ק\"ך, ריב\"ז, ריב\"ש, שצ\"ם; Belege: Senlake-Erklaerung [שבתאי, צדק, מאדים, חמה, נוגה, כוכב, לבנה] (Sukkah 52b, einziger Beleg von שצ\"ם/חנכ\"ל im Korpus); ציר\"י 11x in 9 Traktaten durchweg Vokal Zere (wie צר\"י); ק\"ך 34x in 15 Traktaten ausnahmslos Zahl 120 (Senlake-Erklaerung [120] unmittelbar hinter ק\"ך in Berakhot; im Kontext gleich 120 auch Chagigah, Pesachim); אטב\"ח als Buchstabentausch in Kiddushin und Sukkah (Talmudzitat 52b); יצ\"ו nach Ben Yehoyadas eigener Erklaerung (Sukkah BYH-0000066 'ראשי תיבות ישמרהו צורו ויחיהו'); ריב\"ז (Sukkah BYH-0000026, im selben Satz 'רבן יוחנן בן זכאי') und ריב\"ש (Sukkah BYH-0000017 'הנימוקי יוסף והריב\"ש') je einziger Beleg im Korpus; bewusst offen: נ\"ך (Nevi'im u. Ketuvim, aber als Buchstabengruppe 'הנ\"ך' in Bava Batra, Kiddushin, Sotah - Praefixaufloesung waere falsch), מה\"ש (Sukkah BYH-0000119: einer der 72 Namen; allgemein auch מלאכי השרת), ש\"ש (Sukkah BYH-0000034 'הרב ש\"ש', im Korpus auch לשם שמים, Buchstaben שי\"ן), פ\"א/ה\"ב (Jeruschalmi-Stellenangabe vs. Zahl), Zahlwerte י\"ד, י\"ח, ל\"ו, י\"ב, כ\"ו, ל\"ב, כ\"ג, ק\"מ, ע\"ד, תס\"ט, תרע\"א ohne Zahlkontext, Buchstabengruppen und -fuellungen (אב\"ג דה\"ו זחט\"י כלמ\"נ סע\"פ, אל\"ף/רי\"ש/צד\"י-Bruchstuecke ל\"ף, י\"ש, ד\"י, ו\"ף, ל\"ת), Anfuehrungszeichen nach Praefix (בְּ\"הוֹדוּ, כְּ\"קָח) sind keine Kuerzel; alt ergaenzt bei כ\"ד, א\"ל, מהר\"ם, מ\"ד, למ\"ד, ר\"י (12 fehlaufgeloeste HE-Fussnoten im Band, siehe Sukkah-Pruefbericht)) + Beitzah Band 01 (Pipeline v3.2.1: 5 neue Eintraege: הרא\"ה, יר\"ל, כמה\"ר, לו\"ו, מהריק\"ש; Belege: Senlake-Erklaerung [רבי יעקב קאשֹטרו] (Beitzah 25b; beide Korpusbelege von מהריק\"ש in Beitzah); לו\"ו 3x im Korpus, nur Beitzah, jeweils der 19. der 72 Namen ('הנקרא לו\"ו והוא שם י\"ט מן ע\"ב שמות', Beitzah BYH-0000032; die Praefixaufloesung 'ל + האות וא\"ו' war falsch); יר\"ל nach Ben Yehoyadas eigener Erklaerung (Beitzah BYH-0000057 'ראשי תיבות יעקב לאה רחל'); הרא\"ה (Beitzah BYH-0000004 'הקשה הרא\"ה ז\"ל' zu Beitzah 2a) und כמה\"ר (Beitzah BYH-0000053 'החכם השלם כמה\"ר משה נר\"ו', wie כמהר\"ר) je einziger Beleg im Korpus; bewusst offen: ר\"ן (Beitzah BYH-0000009 = רב נחמן, im Korpus auch Ran und Zahl 250), ה\"ר (BYH-0000062 'הרב ה\"ר שלום ישראל', einziger Beleg), שו\"ג (BYH-0000072 'שו\"ג סימן תצ\"ח ס\"ק י\"ב'; Kandidat Shulhan Gavoha, kein Korpusbeleg), הט\"ז (wie bisher), ד\"ר (Buchstaben), אלפי\"ן/ההי\"ן (im Korpus Fuellung und Plural der Buchstabennamen), פאטו\"ר und הגבאו\"ת (keine Kuerzel), Zahlwerte ohne Zahlkontext (דף י\"א, ל\"ה, ל\"ז, קי\"ב, קמ\"ד; סימן תכ\"ב, תרפ\"ח, תצ\"ז, תצ\"ח; ס\"ק י\"ב; י\"ג, י\"ט, ק\"ל); alt ergaenzt bei ע\"ב, יו\"ד, ה\"י, ה\"ה, מהר\"ם, ב\"י (8 fehlaufgeloeste und 3 ungenaue HE-Fussnoten im Band, siehe Beitzah-Pruefbericht)) + Uebersetzung Beitzah Band 01 (1 neuer Eintrag: תנצב\"ה; Belege: Senlake-Erklaerungen [תהי נפשו (או נשמתו) צרורה בצרור החיים] (Beitzah BYH-0000062) und [תהי נפשו צרורה בצרור החיים] (Shabbat), einheitlich auch Makkot (3 Belege im Korpus); bewusst offen: בד\"ק (Beitzah 3x 'כנזכר בד\"ק' = בדברי קדשו/קדשם nach Senlake-Erklaerung, im Korpus aber auch Buchstabengruppe 'בד\"ק חי\"ה' in Shabbat, Taanit); im Englischen nur kontextuell gelesen, ohne Glossareintrag (mehrdeutig): ר\"ן = Rav Nahman (BYH-0000009), הט\"ז = Taz (BYH-0000024), ה\"ר = R. (BYH-0000062), באלפי\"ן/בההי\"ן = Fuellung mit Alef/He (BYH-0000036); im Englischen unaufgeloest belassen: שו\"ג (BYH-0000072), ב\"י in 'מורי הרב בב\"י' (BYH-0000016), Wortformen הגבאו\"ת und פאטו\"ר (BYH-0000065); Zahlwerte (Blatt-, Siman-, Se'if-Angaben) im Englischen als Ziffern, siehe Beitzah-Uebersetzungsbericht)"
+  "stand": "Pesachim Band 01 (Pipeline: 218 Eintraege) + Uebersetzung Pesachim Band 01 (13 neue Eintraege: א\"ר, ב\"ח, ב\"י, דצח\"ם, חב\"ד, חו\"ג, כח\"ב, ליקבה\"ו, מהר\"ש, מו\"ם, סת\"ם, קבה\"ו, ש\"ע; alt ergaenzt bei א\"ל, ה\"י, כ\"ד, ס\"ט, ס\"ת) + Yoma Band 01 (Pipeline v3.1 mit Korrektur 2026-10-05: 6 neue Eintraege: אלהי\"ם, הרמ\"ק, יעב\"ץ, מוהרי\"ש, מור\"ם, רמ\"ק; Belege: Senlake-Erklaerungen [רבי משה קורדובירו], [יוסף שאול נתנזון] und einheitlicher Gebrauch in allen Senlake-Traktaten) + Rosh Hashanah Band 01 (Pipeline v3.2: 5 neue Eintraege: הגה\"ה, מהר\"ח, מהרי\"ש, רבש\"ע, רז\"ל; Belege: einheitlicher Gebrauch in allen Senlake-Traktaten (רז\"ל 158x), Senlake-Erklaerungen [מורינו הרב רבי חיים] (Kiddushin), [יוסף שאול נתנזון] (Yoma), [מורינו הרב יוסף שאול] (Chagigah); מהר\"ח nur woertlich aufgeloest, da verschiedene Traeger (Palagi, ben Attar, Volozhin); bewusst offen: הט\"ז (auch Zahl 16, Sotah), ש\"ך (auch 320), מהרש\"ם, מהרי\"א) + Uebersetzung Rosh Hashanah Band 01 (5 neue Eintraege: אה\"י, דפח\"ח, יע\"ל, מהרש\"ק, קג\"ם; Belege: Senlake-Erklaerungen [אהל יעקב] und [שלמה קלוגער] (Rosh Hashanah, einziger Beleg in allen Senlake-Traktaten, Werk Tuv Ta'am va-Da'at), דפח\"ח einheitlich mit Senlake-Erklaerung [דברי פי חכם חן] in 13 Traktaten, יע\"ל קג\"ם einheitlich als Merkwort der sechs Halakhot nach Abaye (Bava Metzia 22b) in Makkot, Taanit, Rosh Hashanah; alt ergaenzt bei ה\"ה, ד\"ה, א\"ל, כ\"ד (fehlaufgeloeste HE-Fussnoten im Band); weiterhin bewusst offen: הט\"ז, ש\"ך (im Band BYH-0000090/0000110 kontextuell Taz/Shakh), מהרש\"ם, מהרי\"א, ע\"ג (Spalte 3 vs. Zahl 73), ס\"ג in \"ילקוט ישעיה ס\"ו ס\"ג\") + Uebersetzung Yoma Band 01 (7 neue Eintraege: ב\"ד, בומ\"ף, בשכמל\"ו, טנת\"א, ס\"ק, ראב\"ע, רמב\"ח; Belege: בומ\"ף als Buchstabengruppe der Lippenlaute wie אחה\"ע (Yoma BYH-0000125 'אותיות של השפה הם בומ\"ף', HE-Fussnote BYH-0000142 'בומ\"פ מהשפתים'); Senlake-Erklaerungen [ברוך שם כבוד מלכותו לעולם ועד] (Yoma, Arakhin), [הרבי אברהם בן עזרא] (Yoma, Megillah), [הרב משה בן חביב] (Yoma, einziger Beleg), [הטעמים, נקודות, תגין, אותיות] (Menachot, Shabbat, Sanhedrin, Yevamot), ב\"ד im Kontext 'אב ב\"ד' (Yoma BYH-0000023), ס\"ק im Kontext 'סימן קי\"ט סק\"ג' (Yoma BYH-0000038) wie in Horayot, Shabbat, Beitzah; ראב\"ע mit alt (Chagigah: R. Elazar ben Azaryah), ב\"ד mit alt; alt ergaenzt bei מהר\"ם, ע\"ה, כ\"ד, יו\"ד, ה\"ה, מ\"ד (fehlaufgeloeste HE-Fussnoten bzw. kabbalistischer Gebrauch im Band); bewusst offen: נ\"ב (BYH-0000033), מהרד\"ך (BYH-0000112), גו\"ר (BYH-0000126), ההי\"ב (BYH-0000176/0000192), דו\"ר (BYH-0000175), ש\"מ (BYH-0000239), מהרי\"ו (BYH-0000257), ק\"ל (BYH-0000282: קשיא ליה oder קיימא לן; sonst auch Zahl 130)) + Sukkah Band 01 (Pipeline v3.2.1: 8 neue Eintraege: אטב\"ח, חנכ\"ל, יצ\"ו, ציר\"י, ק\"ך, ריב\"ז, ריב\"ש, שצ\"ם; Belege: Senlake-Erklaerung [שבתאי, צדק, מאדים, חמה, נוגה, כוכב, לבנה] (Sukkah 52b, einziger Beleg von שצ\"ם/חנכ\"ל im Korpus); ציר\"י 11x in 9 Traktaten durchweg Vokal Zere (wie צר\"י); ק\"ך 34x in 15 Traktaten ausnahmslos Zahl 120 (Senlake-Erklaerung [120] unmittelbar hinter ק\"ך in Berakhot; im Kontext gleich 120 auch Chagigah, Pesachim); אטב\"ח als Buchstabentausch in Kiddushin und Sukkah (Talmudzitat 52b); יצ\"ו nach Ben Yehoyadas eigener Erklaerung (Sukkah BYH-0000066 'ראשי תיבות ישמרהו צורו ויחיהו'); ריב\"ז (Sukkah BYH-0000026, im selben Satz 'רבן יוחנן בן זכאי') und ריב\"ש (Sukkah BYH-0000017 'הנימוקי יוסף והריב\"ש') je einziger Beleg im Korpus; bewusst offen: נ\"ך (Nevi'im u. Ketuvim, aber als Buchstabengruppe 'הנ\"ך' in Bava Batra, Kiddushin, Sotah - Praefixaufloesung waere falsch), מה\"ש (Sukkah BYH-0000119: einer der 72 Namen; allgemein auch מלאכי השרת), ש\"ש (Sukkah BYH-0000034 'הרב ש\"ש', im Korpus auch לשם שמים, Buchstaben שי\"ן), פ\"א/ה\"ב (Jeruschalmi-Stellenangabe vs. Zahl), Zahlwerte י\"ד, י\"ח, ל\"ו, י\"ב, כ\"ו, ל\"ב, כ\"ג, ק\"מ, ע\"ד, תס\"ט, תרע\"א ohne Zahlkontext, Buchstabengruppen und -fuellungen (אב\"ג דה\"ו זחט\"י כלמ\"נ סע\"פ, אל\"ף/רי\"ש/צד\"י-Bruchstuecke ל\"ף, י\"ש, ד\"י, ו\"ף, ל\"ת), Anfuehrungszeichen nach Praefix (בְּ\"הוֹדוּ, כְּ\"קָח) sind keine Kuerzel; alt ergaenzt bei כ\"ד, א\"ל, מהר\"ם, מ\"ד, למ\"ד, ר\"י (12 fehlaufgeloeste HE-Fussnoten im Band, siehe Sukkah-Pruefbericht)) + Beitzah Band 01 (Pipeline v3.2.1: 5 neue Eintraege: הרא\"ה, יר\"ל, כמה\"ר, לו\"ו, מהריק\"ש; Belege: Senlake-Erklaerung [רבי יעקב קאשֹטרו] (Beitzah 25b; beide Korpusbelege von מהריק\"ש in Beitzah); לו\"ו 3x im Korpus, nur Beitzah, jeweils der 19. der 72 Namen ('הנקרא לו\"ו והוא שם י\"ט מן ע\"ב שמות', Beitzah BYH-0000032; die Praefixaufloesung 'ל + האות וא\"ו' war falsch); יר\"ל nach Ben Yehoyadas eigener Erklaerung (Beitzah BYH-0000057 'ראשי תיבות יעקב לאה רחל'); הרא\"ה (Beitzah BYH-0000004 'הקשה הרא\"ה ז\"ל' zu Beitzah 2a) und כמה\"ר (Beitzah BYH-0000053 'החכם השלם כמה\"ר משה נר\"ו', wie כמהר\"ר) je einziger Beleg im Korpus; bewusst offen: ר\"ן (Beitzah BYH-0000009 = רב נחמן, im Korpus auch Ran und Zahl 250), ה\"ר (BYH-0000062 'הרב ה\"ר שלום ישראל', einziger Beleg), שו\"ג (BYH-0000072 'שו\"ג סימן תצ\"ח ס\"ק י\"ב'; Kandidat Shulhan Gavoha, kein Korpusbeleg), הט\"ז (wie bisher), ד\"ר (Buchstaben), אלפי\"ן/ההי\"ן (im Korpus Fuellung und Plural der Buchstabennamen), פאטו\"ר und הגבאו\"ת (keine Kuerzel), Zahlwerte ohne Zahlkontext (דף י\"א, ל\"ה, ל\"ז, קי\"ב, קמ\"ד; סימן תכ\"ב, תרפ\"ח, תצ\"ז, תצ\"ח; ס\"ק י\"ב; י\"ג, י\"ט, ק\"ל); alt ergaenzt bei ע\"ב, יו\"ד, ה\"י, ה\"ה, מהר\"ם, ב\"י (8 fehlaufgeloeste und 3 ungenaue HE-Fussnoten im Band, siehe Beitzah-Pruefbericht)) + Uebersetzung Beitzah Band 01 (1 neuer Eintrag: תנצב\"ה; Belege: Senlake-Erklaerungen [תהי נפשו (או נשמתו) צרורה בצרור החיים] (Beitzah BYH-0000062) und [תהי נפשו צרורה בצרור החיים] (Shabbat), einheitlich auch Makkot (3 Belege im Korpus); bewusst offen: בד\"ק (Beitzah 3x 'כנזכר בד\"ק' = בדברי קדשו/קדשם nach Senlake-Erklaerung, im Korpus aber auch Buchstabengruppe 'בד\"ק חי\"ה' in Shabbat, Taanit); im Englischen nur kontextuell gelesen, ohne Glossareintrag (mehrdeutig): ר\"ן = Rav Nahman (BYH-0000009), הט\"ז = Taz (BYH-0000024), ה\"ר = R. (BYH-0000062), באלפי\"ן/בההי\"ן = Fuellung mit Alef/He (BYH-0000036); im Englischen unaufgeloest belassen: שו\"ג (BYH-0000072), ב\"י in 'מורי הרב בב\"י' (BYH-0000016), Wortformen הגבאו\"ת und פאטו\"ר (BYH-0000065); Zahlwerte (Blatt-, Siman-, Se'if-Angaben) im Englischen als Ziffern, siehe Beitzah-Uebersetzungsbericht) + Uebersetzung Sukkah Band 01 (3 neue Eintraege: בכ\"מ, ית\"ץ, פ\"ר; Belege: Senlake-Erklaerungen [בכמה מקומות] (Sukkah BYH-0000053, einziger Beleg im Korpus) und [אָנָּא בְּכֹחַ גְּדֻלַּת יְמִינֶךָ תַּתִּיר צְרוּרָה] hinter 'אב\"ג ית\"ץ' (Sukkah BYH-0000119, Bava Batra; beide Male mit Zahlwert [506]); פ\"ר 25x in 7 Traktaten ausnahmslos Zahl 280 ('פ\"ר דינין' der fuenf Gevurot/מנצפ\"ך; Senlake-Erklaerungen [280] in Shabbat und Sotah, [56×5=280] in Sanhedrin; im Band BYH-0000010 'שהם מספר פ\"ר'), Ableitung wie ק\"ך; alt ergaenzt bei ס\"ד, ש\"ע, ב\"ח, יודי\"ן (fehlaufgeloeste HE-Fussnoten BYH-0000005, 0000126, 0000071, 0000021); alt korrigiert bei למ\"ד (BYH-0000103: Blatt 30, nicht 34); Pruffaelle ohne Aenderung: ח\"ו (en 'God forbid' kollidiert mit Uebersetzungsanweisung 1.3 Nr. 126), אדנ\"י (en 'the Name Adonai' kollidiert mit Nr. 122-124), צד\"י in letter_names (BYH-0000071 Vokal Zere, nicht Buchstabe), ב\"ש (in 'בא\"ת ב\"ש' Teil von Atbash, sonst Beit Shammai), אב\"ג (Name אב\"ג ית\"ץ vs. Buchstabengruppe אב\"ג דה\"ו, BYH-0000126), הרי\"ף (BYH-0000034, Alfasi oder R. Yoshiyahu Pinto), יהי\"ה, מנו\"ח, ד\"ק (kabbalistische Kombinationen BYH-0000083/0000010), Pluralformen von Buchstabennamen (למדי\"ן, מימי\"ן, אלפי\"ן) und Zahlwerte ohne Glossarbedarf (יב\"ק, רכ\"א, אר\"ך, של\"ו, תל\"ה u. a.); weiterhin offen: נ\"ך, מה\"ש, ש\"ש, פ\"א/ה\"ב) + Taanit Band 01 (Pipeline v3.2.1: 4 neue Eintraege: אתנ\"ח, הח\"ש, מח\"י, עסמ\"ב; Belege: אתנ\"ח 10x in 4 Traktaten (Kiddushin, Megillah, Sanhedrin, Taanit) durchweg der Akzent Etnachta (Taanit BYH-0000071 'אם יש אתנ\"ח חשיב זה סיום פסוק'); עסמ\"ב 6x in 4 Traktaten (Berakhot, Sanhedrin, Shabbat, Taanit) durchweg die vier Fuellungen des Namens Havayah (Berakhot 'ארבעה מילואים של שם הוי\"ה שהם עסמ\"ב'; Taanit BYH-0000015 'ט\"ל אותיות של עסמ\"ב'); הח\"ש und מח\"י nach Ben Yehoyadas eigener Angabe Namen der 72 Namen (Taanit BYH-0000088 'שם הח\"ש שבשמות ע\"ב, של ויסע ויבא ויט' und 'משם מח\"י דשמות ע\"ב'), je einziger Beleg im Korpus, wie לו\"ו; bewusst offen: מהר\"א (7x in 7 Traktaten fuer verschiedene Personen: Galante, HaKohen, Nahum, Eliyahu von Wilna, Palagi; Taanit BYH-0000267 'מהר\"א פלאגי'), מ\"א (BYH-0000008 'מה שאמר מ\"א ז\"ל', Person/Werk unbestimmt; HE-Fussnote 'מספר 41' fehlaufgeloest), בה\"כ (BYH-0000198: Ben Yehoyada erwaegt selbst 'בבית הכנסת' statt 'בית הכסא' - mehrdeutig), ר\"א/הר\"א בונג\"י (BYH-0000212, Person unbestimmt), Namen mit Gershayim (סמא\"ל, סנדלפו\"ן), Buchstabengruppen (שעטנ\"ז ג\"ץ, בד\"ק חי\"ה, מו\"ל ש', ג\"ב ור\"ה, כ\"ח ת\"ל ה\"ן), Pluralformen von Buchstabennamen (אלפי\"ן, ההי\"ן, כפי\"ן), Zahlwerte ohne Glossarbedarf (u. a. י\"א, ט\"ו, ט\"ל, רנ\"ה, רד\"ו, ק\"ן, Sefer-ha-Hinukh-Mitzwot רכ\"ה/שמ\"ח/שע\"ח/רצ\"ב, Siman רל\"ג, Blatt ס\"א); alt ergaenzt bei ע\"ה, יו\"ד, מהר\"ם, כ\"ד, ה\"ה (12 fehlaufgeloeste und 1 ungenaue HE-Fussnote im Band, dazu 3 ohne Glossareintrag: מ\"א, לט\"ו, תי\"ו; siehe Taanit-Pruefbericht))"
  },
  "abbreviations": {
   "א\"א": {
@@ -99,6 +99,10 @@
    "he": "אֲפִלּוּ הָכִי",
    "en": "even so"
   },
+  "אתנ\"ח": {
+   "he": "טַעַם אֶתְנַחְתָּא",
+   "en": "the etnahta (pausal cantillation accent)"
+  },
   "ב\"ב": {
    "he": "בָּבָא בַּתְרָא",
    "en": "tractate Bava Batra"
@@ -114,7 +118,8 @@
   },
   "ב\"ח": {
    "he": "בַּיִת חָדָשׁ",
-   "en": "the Bah (Bayit Hadash, R. Yoel Sirkes)"
+   "en": "the Bah (Bayit Hadash, R. Yoel Sirkes)",
+   "alt": "Buchstaben Bet-Chet; Sukkah BYH-0000071: 'הוא ב\"ח דמזבח ... כי ב\"ח מספר עשרה' = Buchstaben ב+ח, Zahlwert 10 (HE-Fussnote 'בית חדש' fehlaufgeloest)"
   },
   "ב\"י": {
    "he": "בֵּית יוֹסֵף",
@@ -177,6 +182,10 @@
    "he": "בְּכָל זֹאת",
    "en": "nevertheless"
   },
+  "בכ\"מ": {
+   "he": "בְּכַמָּה מְקוֹמוֹת",
+   "en": "in several places"
+  },
   "בכמהר\"ר": {
    "he": "בֶּן כְּבוֹד מוֹרֵנוּ הָרַב רַבִּי",
    "en": "son of our honoured teacher, Rabbi"
@@ -229,7 +238,7 @@
   "ה\"ה": {
    "he": "הוּא הַדִּין",
    "en": "the same rule applies",
-   "alt": "Rosh Hashanah BYH-0000066/0000076: Buchstabe He mit Fuellung He (ה\"ה = 10); Yoma BYH-0000190: 'הה\"ה' = der 41. der 72 Namen (HE-Fussnote 'ה + הוא הדין' fehlaufgeloest); Beitzah BYH-0000036 ebenso (Fuellung 'יו\"ד ה\"י וא\"ו ה\"ה'; HE-Fussnote 'הוא הדין' fehlaufgeloest)"
+   "alt": "Rosh Hashanah BYH-0000066/0000076: Buchstabe He mit Fuellung He (ה\"ה = 10); Yoma BYH-0000190: 'הה\"ה' = der 41. der 72 Namen (HE-Fussnote 'ה + הוא הדין' fehlaufgeloest); Beitzah BYH-0000036 ebenso (Fuellung 'יו\"ד ה\"י וא\"ו ה\"ה'; HE-Fussnote 'הוא הדין' fehlaufgeloest); Taanit BYH-0000125: 'אור ה\"ה' = Buchstaben He-He (5+5, zwei Tafeln zu je fuenf Geboten) (HE-Fussnote 'הוא הדין' fehlaufgeloest)"
   },
   "ה\"י": {
    "he": "הַשֵּׁם יִשְׁמְרֵהוּ",
@@ -263,6 +272,10 @@
   "הויו\"ת": {
    "he": "שְׁמוֹת הֲוָיָ\"ה (רַבִּים)",
    "en": "Tetragrammaton names (plural)"
+  },
+  "הח\"ש": {
+   "he": "שֵׁם הח\"ש (מִשֵּׁמוֹת ע\"ב)",
+   "en": "the Name HHSh (one of the 72 Names)"
   },
   "הטו\"ר": {
    "he": "הַטּוּר (רַבֵּנוּ יַעֲקֹב בַּעַל הַטּוּרִים)",
@@ -491,11 +504,12 @@
   "יו\"ד": {
    "he": "יוֹרֶה דֵּעָה",
    "en": "Yore De'a (section of the Shulhan Arukh)",
-   "alt": "הָאוֹת יוֹ\"ד; Yoma BYH-0000126: 'סימן יו\"ד' = Zahl 10; Beitzah BYH-0000007: 'לקמן דף יו\"ד' = Blatt 10 (HE-Fussnote 'האות יו\"ד'); Beitzah BYH-0000036: Fuellung 'יו\"ד ה\"י וא\"ו ה\"ה' = Buchstabe Yod (HE-Fussnote 'מספר 20' fehlaufgeloest)"
+   "alt": "הָאוֹת יוֹ\"ד; Yoma BYH-0000126: 'סימן יו\"ד' = Zahl 10; Beitzah BYH-0000007: 'לקמן דף יו\"ד' = Blatt 10 (HE-Fussnote 'האות יו\"ד'); Beitzah BYH-0000036: Fuellung 'יו\"ד ה\"י וא\"ו ה\"ה' = Buchstabe Yod (HE-Fussnote 'מספר 20' fehlaufgeloest); Taanit BYH-0000025: 'ירושלם כתיב בלא יו\"ד' = Buchstabe Yod (HE-Fussnote 'מספר 20' fehlaufgeloest); Taanit BYH-0000116: 'ליו\"ד ספירות' = zehn Sefirot (HE-Fussnote 'ל + האות יו\"ד' ungenau)"
   },
   "יודי\"ן": {
    "he": "מִלּוּי יוֹדִי\"ן",
-   "en": "the spelling-out with yods"
+   "en": "the spelling-out with yods",
+   "alt": "Plural von יו\"ד (zwei/mehrere Jod); Sukkah BYH-0000021: 'נקודת ציר\"י שהוא שני יודי\"ן שמספרם עשרים' = die zwei Jod-Punkte des Zere, keine Fuellung (HE-Fussnote 'מלוי יודי\"ן' fehlaufgeloest)"
   },
   "יע\"א": {
    "he": "יְכוֹנְנֶהָ עֶלְיוֹן אָמֵן",
@@ -529,10 +543,14 @@
    "he": "יַעֲקֹב לֵאָה רָחֵל",
    "en": "Jacob, Leah, Rachel"
   },
+  "ית\"ץ": {
+   "he": "אָנָּא בְּכֹחַ גְּדֻלַּת יְמִינְךָ תַּתִּיר צְרוּרָה (שֵׁם אב\"ג ית\"ץ)",
+   "en": "the Name Avag Yatatz (initials of Ana be-khoah gedullat yeminkha tattir tzerurah)"
+  },
   "כ\"ד": {
    "he": "כֹּה דִּבְרֵי",
    "en": "thus are the words of",
-   "alt": "Pesachim BYH-0000063/0000223 ebenso (Zahl 24); Rosh Hashanah BYH-0000058 ebenso (מכ\"ד: 24 Kombinationen); Yoma BYH-0000120 (כ\"ד סאין: 24) und BYH-0000282 ('דף כ\"ד': Blatt 24) ebenso; Sukkah BYH-0000010/0000029 ('בכ\"ד שעות': 24 Stunden), BYH-0000098 ('נפלו כ\"ד אלף': 24.000), BYH-0000124 ('סימן כ\"ד': Kapitel 24) ebenso"
+   "alt": "Pesachim BYH-0000063/0000223 ebenso (Zahl 24); Rosh Hashanah BYH-0000058 ebenso (מכ\"ד: 24 Kombinationen); Yoma BYH-0000120 (כ\"ד סאין: 24) und BYH-0000282 ('דף כ\"ד': Blatt 24) ebenso; Sukkah BYH-0000010/0000029 ('בכ\"ד שעות': 24 Stunden), BYH-0000098 ('נפלו כ\"ד אלף': 24.000), BYH-0000124 ('סימן כ\"ד': Kapitel 24) ebenso; Taanit BYH-0000023 ('שהם כ\"ד כ\"ד': 24 und 24), BYH-0000063 ('בכ\"ד ספרים': 24 Buecher) und BYH-0000242 ('כ\"ד וכ\"ד ... כ\"ד מעמדות': 24) ebenso"
   },
   "כ\"כ": {
    "he": "כָּל כָּךְ",
@@ -590,7 +608,7 @@
   "למ\"ד": {
    "he": "הָאוֹת ל",
    "en": "the letter lamed",
-   "alt": "לְמַאן דְּאָמַר — in der Wendung \"בשלמא למ״ד…\"; das Lektorat entscheidet im Kontext; Sukkah BYH-0000103: 'דקידושין דף למ\"ד' = Blatt 34 (HE-Fussnote 'האות ל' passt dort nicht)"
+   "alt": "לְמַאן דְּאָמַר — in der Wendung \"בשלמא למ״ד…\"; das Lektorat entscheidet im Kontext; Sukkah BYH-0000103: 'דקידושין דף למ\"ד' = Blatt 30 (Lamed = 30; Kiddushin 30b), HE-Fussnote 'האות ל' nennt nur den Buchstaben (Korrektur 2026-10-22: bisher irrtuemlich 'Blatt 34')"
   },
   "לפ\"ד": {
    "he": "לְפִי דַּעְתִּי",
@@ -642,7 +660,7 @@
   "מהר\"ם": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי מֵאִיר",
    "en": "Maharam (R. Meir)",
-   "alt": "Yoma BYH-0000104: 'מהר\"ם אלשיך' = מוֹרֵנוּ הָרַב רַבִּי מֹשֶׁה אַלְשֵׁיךְ (HE-Fussnote 'מורנו הרב רבי מאיר' passt dort nicht); Sukkah BYH-0000066 ebenso ('רבינו מהר\"ם אלשיך'); Beitzah BYH-0000025 ebenso ('רבינו מהר\"ם אלשיך')"
+   "alt": "Yoma BYH-0000104: 'מהר\"ם אלשיך' = מוֹרֵנוּ הָרַב רַבִּי מֹשֶׁה אַלְשֵׁיךְ (HE-Fussnote 'מורנו הרב רבי מאיר' passt dort nicht); Sukkah BYH-0000066 ebenso ('רבינו מהר\"ם אלשיך'); Beitzah BYH-0000025 ebenso ('רבינו מהר\"ם אלשיך'); Taanit BYH-0000031/0000032/0000058/0000086 ebenso ('רבינו מהר\"ם אלשיך')"
   },
   "מהר\"ר": {
    "he": "מוֹרֵנוּ הָרַב רַבִּי",
@@ -694,6 +712,10 @@
    "he": "מוֹרֵנוּ הָרַב מֹשֶׁה אִיסֶרְלִישׂ",
    "en": "Rema (R. Moshe Isserles)"
   },
+  "מח\"י": {
+   "he": "שֵׁם מח\"י (מִשֵּׁמוֹת ע\"ב)",
+   "en": "the Name MHY (one of the 72 Names)"
+  },
   "מט\"ט": {
    "he": "מֶטַטְרוֹ\"ן",
    "en": "Metatron"
@@ -736,7 +758,8 @@
   },
   "ס\"ד": {
    "he": "סָלְקָא דַּעְתָּךְ",
-   "en": "one might have thought"
+   "en": "one might have thought",
+   "alt": "Sukkah BYH-0000005: 'בגמרא דיבמות דף ס\"ד ע\"א' = Blatt 64 (HE-Fussnote 'סלקא דעתך' fehlaufgeloest)"
   },
   "ס\"ט": {
    "he": "סִפְרָא טָבָא",
@@ -788,7 +811,7 @@
   "ע\"ה": {
    "he": "עָלָיו הַשָּׁלוֹם",
    "en": "peace be upon him",
-   "alt": "Yoma BYH-0000115: 'סימן שע\"ה' = Zahl 375 (HE-Fussnote 'ש + עליו השלום' fehlaufgeloest)"
+   "alt": "Yoma BYH-0000115: 'סימן שע\"ה' = Zahl 375 (HE-Fussnote 'ש + עליו השלום' fehlaufgeloest); Taanit BYH-0000013 ('אברהם אבינו ע\"ה') und BYH-0000253 ('דוד המלך ע\"ה'): עליו השלום (HE-Fussnote 'מספר 75' durch Gematria-Kontext fehlaufgeloest)"
   },
   "ע\"ז": {
    "he": "עֲבוֹדָה זָרָה",
@@ -855,6 +878,10 @@
    "he": "עַד כָּאן תּוֹכֵן דְּבָרָיו",
    "en": "end of the gist of his words"
   },
+  "עסמ\"ב": {
+   "he": "ע\"ב ס\"ג מ\"ה ב\"ן — אַרְבָּעָה מִלּוּאֵי שֵׁם הוי\"ה",
+   "en": "the four spellings-out of the Name Havayah (72, 63, 45, 52)"
+  },
   "עפ\"ז": {
    "he": "עַל פִּי זֶה",
    "en": "accordingly"
@@ -862,6 +889,10 @@
   "עפ\"י": {
    "he": "עַל פִּי",
    "en": "according to"
+  },
+  "פ\"ר": {
+   "he": "מִסְפָּר 280",
+   "en": "numerical value 280"
   },
   "פירש\"י": {
    "he": "פֵּרֵשׁ רַשִׁ\"י",
@@ -1037,7 +1068,8 @@
   },
   "ש\"ע": {
    "he": "שֻׁלְחָן עָרוּךְ",
-   "en": "the Shulhan Arukh"
+   "en": "the Shulhan Arukh",
+   "alt": "Zahl 370 im kabbalistischen Kontext; Sukkah BYH-0000126: 'מן ש\"ע נהורין דאריך' = 370 Lichter (HE-Fussnote 'שולחן ערוך' fehlaufgeloest)"
   },
   "שב\"א": {
    "he": "נִקּוּד שְׁוָ\"א",
