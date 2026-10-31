@@ -1,0 +1,666 @@
+[
+  {
+    "segment_id": "BYH-0000002",
+    "claim": "מס = 100",
+    "calculated_left": 100,
+    "comparison_right": 100,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000016",
+    "claim": "כבוד + 26 = 58",
+    "calculated_left": 58,
+    "comparison_right": 58,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000016",
+    "claim": "58 + כולל = יום + 3 Buchstaben",
+    "calculated_left": 59,
+    "comparison_right": 59,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000016",
+    "claim": "ידם + 20 + כולל = לילה",
+    "calculated_left": 75,
+    "comparison_right": 75,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000020",
+    "claim": "חלב דבש = רצון",
+    "calculated_left": 346,
+    "comparison_right": 346,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000022",
+    "claim": "קסרי = עש",
+    "calculated_left": 370,
+    "comparison_right": 370,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000022",
+    "claim": "ירושלם = אריה שלם",
+    "calculated_left": 586,
+    "comparison_right": 586,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000022",
+    "claim": "ירושלם = חרבה קסרי + כולל",
+    "calculated_left": 586,
+    "comparison_right": 586,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000022",
+    "claim": "ירושלים im ausgeschriebenen Milui = תפארת",
+    "calculated_left": 1077,
+    "comparison_right": 1081,
+    "equal": false,
+    "note": "PRUEFEN: Der Kommentar schreibt die Fuellungen nicht aus. Die hier offen dokumentierte gewoehnliche Fuellung ergibt 1077, nicht 1081. Kein Beweis, dass keine andere beabsichtigt sein kann; keine Ergaenzung in EN."
+  },
+  {
+    "segment_id": "BYH-0000024",
+    "claim": "erste Zusatzbuchstaben נון חית שין: ו י י",
+    "calculated_left": 26,
+    "comparison_right": 26,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000024",
+    "claim": "erste Zusatzbuchstaben שין טית נון: י י ו",
+    "calculated_left": 26,
+    "comparison_right": 26,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000026",
+    "claim": "יסוד = 80 = עמלק / 3",
+    "calculated_left": 80,
+    "comparison_right": 80.0,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000037",
+    "claim": "ארור - ברוך = קטע",
+    "calculated_left": 179,
+    "comparison_right": 179,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000041",
+    "claim": "תלמי = לילית",
+    "calculated_left": 480,
+    "comparison_right": 480,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000041",
+    "claim": "תלמי = תלמוד",
+    "calculated_left": 480,
+    "comparison_right": 480,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000041",
+    "claim": "חסד = 72",
+    "calculated_left": 72,
+    "comparison_right": 72,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000050",
+    "claim": "שם = ספר",
+    "calculated_left": 340,
+    "comparison_right": 340,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000051",
+    "claim": "נעצוץ = שו = 306",
+    "calculated_left": 306,
+    "comparison_right": 306,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000051",
+    "claim": "רב = 72 + 130",
+    "calculated_left": 202,
+    "comparison_right": 202,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000052",
+    "claim": "חולם = 84 = עדי",
+    "calculated_left": 84,
+    "comparison_right": 84,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000055",
+    "claim": "טרף = 289",
+    "calculated_left": 289,
+    "comparison_right": 289,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000055",
+    "claim": "אנ + 289 = שם",
+    "calculated_left": 340,
+    "comparison_right": 340,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000058",
+    "claim": "שכורה = פתאים",
+    "calculated_left": 531,
+    "comparison_right": 531,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000064",
+    "claim": "בלשצר = 623",
+    "calculated_left": 622,
+    "comparison_right": 623,
+    "equal": false,
+    "note": "PRUEFEN: Quelltext wechselt zwischen בלשצר (622) und בלשצאר (623). Die genannte 623 passt zur ebenfalls im Absatz stehenden Form mit Alef."
+  },
+  {
+    "segment_id": "BYH-0000064",
+    "claim": "בלשצאר = 623 (ebenfalls belegte Quellform)",
+    "calculated_left": 623,
+    "comparison_right": 623,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000064",
+    "claim": "אחשורוש = 821",
+    "calculated_left": 821,
+    "comparison_right": 821,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000064",
+    "claim": "אחשורוש - בלשצר = צחק",
+    "calculated_left": 198,
+    "comparison_right": 198,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000064",
+    "claim": "אחשורוש - בלשצר = חיצים",
+    "calculated_left": 198,
+    "comparison_right": 158,
+    "equal": false,
+    "note": "PRUEFEN: Der Unterschied der im Kommentar angegebenen Werte ist 198; חיצים ergibt 158."
+  },
+  {
+    "segment_id": "BYH-0000075",
+    "claim": "צרעת זנב + כולל = 819",
+    "calculated_left": 820,
+    "comparison_right": 819,
+    "equal": false,
+    "note": "PRUEFEN: צרעת זנב ergibt bereits ohne כולל 819; mit כולל 820. Der Quellwert 819 wird nicht korrigiert."
+  },
+  {
+    "segment_id": "BYH-0000075",
+    "claim": "ויו שין תיו יוד = im Text genannte 819",
+    "calculated_left": 818,
+    "comparison_right": 819,
+    "equal": false,
+    "note": "PRUEFEN: Die ausgeschriebenen Buchstaben ergeben 818; eine weitere Gesamteinheit ergibt 819, wird rechts nicht ausdruecklich genannt. EN behaelt die Quellenaussage."
+  },
+  {
+    "segment_id": "BYH-0000089",
+    "claim": "ישראל + Namensfuellung 72 = 248 + 365",
+    "calculated_left": 613,
+    "comparison_right": 613,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000092",
+    "claim": "חיים + כולל = הדס",
+    "calculated_left": 69,
+    "comparison_right": 69,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000094",
+    "claim": "ירק = שי = כתר / 2",
+    "calculated_left": 310,
+    "comparison_right": 310.0,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000094",
+    "claim": "חחן + 3 Buchstaben = הדס",
+    "calculated_left": 69,
+    "comparison_right": 69,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000115",
+    "claim": "100 Talente × 100 = 10000",
+    "calculated_left": 10000,
+    "comparison_right": 10000,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000117",
+    "claim": "בהן = מוטב = זן",
+    "calculated_left": 57,
+    "comparison_right": 57,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000117",
+    "claim": "אל + vierbuchstabiger Name 26 = זן = אוכל",
+    "calculated_left": 57,
+    "comparison_right": 57,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000117",
+    "claim": "האם = אמה = 46",
+    "calculated_left": 46,
+    "comparison_right": 46,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000125",
+    "claim": "קרן mit Schluss-Nun 700 = 1000",
+    "calculated_left": 1000,
+    "comparison_right": 1000,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000125",
+    "claim": "תשמרני = 1000",
+    "calculated_left": 1000,
+    "comparison_right": 1000,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000133",
+    "claim": "זי = טוב",
+    "calculated_left": 17,
+    "comparison_right": 17,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000148",
+    "claim": "המן = טולמי",
+    "calculated_left": 95,
+    "comparison_right": 95,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000149",
+    "claim": "פגטץ = 182",
+    "calculated_left": 182,
+    "comparison_right": 182,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000149",
+    "claim": "26 × 7 = 182",
+    "calculated_left": 182,
+    "comparison_right": 182,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000149",
+    "claim": "26 + 65 + 65 + 26 = 182",
+    "calculated_left": 182,
+    "comparison_right": 182,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000153",
+    "claim": "קפט = 63 × 3 = 189",
+    "calculated_left": 189,
+    "comparison_right": 189,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000155",
+    "claim": "פקו = קלון",
+    "calculated_left": 186,
+    "comparison_right": 186,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000155",
+    "claim": "פקו = אבן נגף",
+    "calculated_left": 186,
+    "comparison_right": 186,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000158",
+    "claim": "מל = 70",
+    "calculated_left": 70,
+    "comparison_right": 70,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000158",
+    "claim": "כת gegen die genannten ת\"ק = 500",
+    "calculated_left": 420,
+    "comparison_right": 500,
+    "equal": false,
+    "note": "PRUEFEN: כת = 420, der Quelltext nennt aber ת\"ק = 500 Jahre. EN nennt 500, kein Eingriff in HE."
+  },
+  {
+    "segment_id": "BYH-0000162",
+    "claim": "לחן = פח",
+    "calculated_left": 88,
+    "comparison_right": 88,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "12 - 2 = 10",
+    "calculated_left": 10,
+    "comparison_right": 10,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "16 - 2 = 14",
+    "calculated_left": 14,
+    "comparison_right": 14,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "28 - 2 = 26",
+    "calculated_left": 26,
+    "comparison_right": 26,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "24 - 2 = 22",
+    "calculated_left": 22,
+    "comparison_right": 22,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "60 - 2 = 58",
+    "calculated_left": 58,
+    "comparison_right": 58,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "200 - 2 = 198",
+    "calculated_left": 198,
+    "comparison_right": 198,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "דוד = 14",
+    "calculated_left": 14,
+    "comparison_right": 14,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "חן = אזן = 58",
+    "calculated_left": 58,
+    "comparison_right": 58,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "כבוד + Divine Name 26 = 58",
+    "calculated_left": 58,
+    "comparison_right": 58,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000165",
+    "claim": "סגול × 2 = 198",
+    "calculated_left": 198,
+    "comparison_right": 198,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000176",
+    "claim": "כוכבים - עפר = שח mit Schluss-Mem 600",
+    "calculated_left": 308,
+    "comparison_right": 308,
+    "equal": true,
+    "note": "Mit Standardwerten waere 98 - 350 = -252; der im Text gemeinte positive Unterschied 308 ist mit Schluss-Mem 600 nachvollziehbar. Diese Konvention wird hier im Bericht, nicht als neue Autorauslegung im EN, offengelegt."
+  },
+  {
+    "segment_id": "BYH-0000177",
+    "claim": "ההו = 16",
+    "calculated_left": 16,
+    "comparison_right": 16,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000185",
+    "claim": "כי + 2 Buchstaben = לב",
+    "calculated_left": 32,
+    "comparison_right": 32,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000187",
+    "claim": "יין ישן = 430",
+    "calculated_left": 430,
+    "comparison_right": 430,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000187",
+    "claim": "חסד × 5 = ישן",
+    "calculated_left": 360,
+    "comparison_right": 360,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000188",
+    "claim": "תעלא = ראש",
+    "calculated_left": 501,
+    "comparison_right": 501,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000189",
+    "claim": "Fuellungszusatz von שדי = 500",
+    "calculated_left": 500,
+    "comparison_right": 500,
+    "equal": true,
+    "note": "Die HE-Fussnote schreibt verkürzt שין דלת יוד=500. Voller Milui = 814; Zusatz = 500. Der Kommentar miluo ist als Zusatzwert verstanden."
+  },
+  {
+    "segment_id": "BYH-0000189",
+    "claim": "6 × 500 = 12 × נר",
+    "calculated_left": 3000,
+    "comparison_right": 3000,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000190",
+    "claim": "ו + י + י = 26",
+    "calculated_left": 26,
+    "comparison_right": 26,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000197",
+    "claim": "אל × 3 = מגן",
+    "calculated_left": 93,
+    "comparison_right": 93,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000197",
+    "claim": "אלים = כסא",
+    "calculated_left": 81,
+    "comparison_right": 81,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000203",
+    "claim": "10 + 4 + 8 + 4 + 5 = אל",
+    "calculated_left": 31,
+    "comparison_right": 31,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000206",
+    "claim": "ככה = לוט = מה = גאולה",
+    "calculated_left": 45,
+    "comparison_right": 45,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000206",
+    "claim": "ככה = לב אחד",
+    "calculated_left": 45,
+    "comparison_right": 45,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000217",
+    "claim": "כ פ מ ק = מר = באל זר",
+    "calculated_left": 240,
+    "comparison_right": 240,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000217",
+    "claim": "שין תיו = genannte 766",
+    "calculated_left": 776,
+    "comparison_right": 766,
+    "equal": false,
+    "note": "PRUEFEN: Nachrechnung 776; Quellwert 766 unveraendert uebersetzt."
+  },
+  {
+    "segment_id": "BYH-0000217",
+    "claim": "משיסה = genannte 766",
+    "calculated_left": 415,
+    "comparison_right": 766,
+    "equal": false,
+    "note": "PRUEFEN: Nachrechnung 415; keine erfundene Harmonisierung."
+  },
+  {
+    "segment_id": "BYH-0000227",
+    "claim": "וכן למר = רצון",
+    "calculated_left": 346,
+    "comparison_right": 346,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000243",
+    "claim": "Schluss-Nun = 700",
+    "calculated_left": 700,
+    "comparison_right": 700,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000244",
+    "claim": "Zusatzbuchstaben לף י וד א = ענוה",
+    "calculated_left": 131,
+    "comparison_right": 131,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000246",
+    "claim": "15 × 24 = 6 × 60 = 360",
+    "calculated_left": 360,
+    "comparison_right": 360,
+    "equal": true,
+    "note": ""
+  },
+  {
+    "segment_id": "BYH-0000246",
+    "claim": "שין = 360",
+    "calculated_left": 360,
+    "comparison_right": 360,
+    "equal": true,
+    "note": ""
+  }
+]

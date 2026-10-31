@@ -1,0 +1,27 @@
+[
+  {
+    "file": "Ben_Yehoyada_Megillah_Band_01_BILINGUAL.txt",
+    "sha256": "5ccb71ff61769c7442f1e1ae5bf709d6618ec4af8b1c6acb964cbbd68ca720d1",
+    "bytes": 628355
+  },
+  {
+    "file": "Ben_Yehoyada_Megillah_GLOSSAR.tsv",
+    "sha256": "9e9f9ae3ba2cf19f65cbbd05556fae5feb9a2962aad36269f730180c42815e34",
+    "bytes": 21549
+  },
+  {
+    "file": "Ben_Yehoyada_VERBINDLICHE_Uebersetzungsanweisung_EN_Fassung1.3_20260924.txt",
+    "sha256": "f09b6474c6d93d034e39e42bcb309c0dee5599a613f2c0d9bf1173f354b01289",
+    "bytes": 28929
+  },
+  {
+    "file": "Ben_Yehoyada_Arbeitsanleitung_AKTUELL_Fassung1.5_20261005.txt",
+    "sha256": "b1e4fdea8ad4b49c922dd53b5e96d20f118cb6133aa96d80cd3d4305aee7ff5b",
+    "bytes": 57021
+  },
+  {
+    "file": "ben-yehoyada-pipeline-v3_2_1_2026-10-05.zip",
+    "sha256": "47a42c16dc672cb967c1cbf3230b86b239973082e8871e3e54bdb4a1194ba357",
+    "bytes": 680332
+  }
+]

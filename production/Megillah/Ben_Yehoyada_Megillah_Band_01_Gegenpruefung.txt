@@ -1,0 +1,30 @@
+== GEGENPRUEFUNG == Ben-Jehojada/production/Megillah/Ben_Yehoyada_Megillah_Band_01_BILINGUAL_EN_FERTIG.txt
+segmente                  : 247
+senlake_absaetze          : 247
+senlake_kaputte_tags      : 0
+senlake_maskiertes_markup : 0
+quellkorrekturen_angewandt: 3
+senlake_absaetze_im_band  : 247
+dafim                     : 39
+he_wortgleich             : 247
+ref_nachbarblatt          : 7
+      BYH-0000002 daf=2b ref=Megillah 3a:1
+      BYH-0000045 daf=9a ref=Megillah 9b:3
+      BYH-0000105 daf=13b ref=Megillah 13a:11
+      BYH-0000127 daf=14a ref=Megillah 14b:13
+      BYH-0000147 daf=15a ref=Megillah 15b:2
+      BYH-0000167 daf=16a ref=Megillah 15b:22
+      BYH-0000246 daf=31b ref=Megillah 32a:17
+kopfband_aus_dicta        : 246
+kopfband_lemma_rueckfall  : 1
+freitext_ohne_kopfband    : 0
+fussnoten                 : 877
+lemma_mehrteilig          : 1
+A Struktur                        : OK
+B Hebraeischer Text vollstaendig  : OK
+C Kopfband aus Dicta              : OK
+D Fussnoten                       : OK
+E Uebersetzungsfelder             : OK
+F Tag-Ausgleich                   : OK
+G Lemma-Sichtliste (HINWEIS)      : 1 Lemma(ta) aus mehreren fetten Stuecken — bitte ansehen
+        BYH-0000247: תָּנוּ רַבָּנָן: מֹשֶׁה תִּקֵּן לָהֶם לְיִשְׂרָאֵל שֶׁיִּהוּ שׁוֹאֲלִין וְדוֹרְשִׁין בְּעִנְיָנוֹ שֶׁל יוֹם הִלְכוֹת פֶּסַח בַּפֶּסַח הִלְכוֹת עֲצֶרֶת בַּעֲצֶרֶ
