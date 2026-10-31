@@ -1,0 +1,688 @@
+{
+  "head": "ea5ed0ee1c28dbbac35ccbe8191a6fcda01e06c6",
+  "verified_source_files": 34,
+  "uses": {
+    "חח\"ן": [
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "חוט של חסד משוך עליה, פירוש קו ימין של העשר ספירות שהוא חסד והוא חח\"ן שהם חכמה חסד נצח, ולכן 'ותהי אסתר נשאת חן בעיני כל ראיה' (אסתר ב, טו) שהיה לה חן כפול בעין החושית ובעין השכלית, והיינו תצרף ח\"ח ש"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "טו) שהיה לה חן כפול בעין החושית ובעין השכלית, והיינו תצרף ח\"ח של חח\"ן עם נו\"ן של חח\"ן פעמיים יהיה מזה חן חן. ולכן נקראת הדס כי החוט של חסד שהוא קו ימין שהוא חח\"ן מספרם עם כולל ג' אותיות הוא עולה מספר"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "פול בעין החושית ובעין השכלית, והיינו תצרף ח\"ח של חח\"ן עם נו\"ן של חח\"ן פעמיים יהיה מזה חן חן. ולכן נקראת הדס כי החוט של חסד שהוא קו ימין שהוא חח\"ן מספרם עם כולל ג' אותיות הוא עולה מספר הדס [69] ולכן נ"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": " יהיה מזה חן חן. ולכן נקראת הדס כי החוט של חסד שהוא קו ימין שהוא חח\"ן מספרם עם כולל ג' אותיות הוא עולה מספר הדס [69] ולכן נקראת הדסה על שם ההדס.\n(אסתר ב, ט) 'ואת שבע הנערות הראיות לתת לה מבית המלך' מ"
+      }
+    ],
+    "שה\"י": [
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": " דארעא ח\"ו.\n(אסתר ג, ח) 'ואת דתי המלך אינם עשים' דמפקי לכלא שתא בשה\"י פה\"י. פירש רש\"י ז\"ל שה\"י ראשי תיבות שבת היום, פה\"י ראשי תיבות פסח היום. ויש להקשות בשלמא שבת מצוי בכל שבוע, לכן אמר מפקי לשתא כול"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "ואת דתי המלך אינם עשים' דמפקי לכלא שתא בשה\"י פה\"י. פירש רש\"י ז\"ל שה\"י ראשי תיבות שבת היום, פה\"י ראשי תיבות פסח היום. ויש להקשות בשלמא שבת מצוי בכל שבוע, לכן אמר מפקי לשתא כולה בשבת היום, אך פסח הוא ב"
+      }
+    ],
+    "פה\"י": [
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "א ח\"ו.\n(אסתר ג, ח) 'ואת דתי המלך אינם עשים' דמפקי לכלא שתא בשה\"י פה\"י. פירש רש\"י ז\"ל שה\"י ראשי תיבות שבת היום, פה\"י ראשי תיבות פסח היום. ויש להקשות בשלמא שבת מצוי בכל שבוע, לכן אמר מפקי לשתא כולה בשב"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "פקי לכלא שתא בשה\"י פה\"י. פירש רש\"י ז\"ל שה\"י ראשי תיבות שבת היום, פה\"י ראשי תיבות פסח היום. ויש להקשות בשלמא שבת מצוי בכל שבוע, לכן אמר מפקי לשתא כולה בשבת היום, אך פסח הוא בניסן דוקא, ואיך אמר מפקי ל"
+      }
+    ],
+    "מהר\"א": [
+      {
+        "corpus_index": 3,
+        "source_path": "Ben Yehoyada on Bava Kamma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "a005f40002d337cca8e3721279aea0891ec88caf",
+        "context": "לפולו.\n\nDaf 117b\n\nחזא דהוה הדרא ליה עכנא. הרב פתח עינים הביא בשם מהר\"א [הרב אברהם] גאלאנטי ז\"ל שזה העכנא הוא היצר הרע של הצדיקים אשר לא היה יכול להחטיאם בחייהם יתהפך אחר פטירתם לעכנא וישמור אותם עיין "
+      },
+      {
+        "corpus_index": 4,
+        "source_path": "Ben Yehoyada on Bava Metzia - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "85e7f4722d6ff71163b08963c14e4d34c243b4cf",
+        "context": " המקים בעצמו כך, סוף בא לידי כך. נראה הכונה על פי המעשה שכתב הרב מהר\"א הכהן ז\"ל באחד שהיה לו אב זקן ולא היה חס עליו להביאו בתוך ביתו להאכילו ולהלבישו אלא היה הזקן הזה דר עם העניים שבעיר. ויהי היום בימ"
+      },
+      {
+        "corpus_index": 8,
+        "source_path": "Ben Yehoyada on Chagigah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "2c2cd66ff0a6bf8eeec4fee2c0e15b61b60333d0",
+        "context": "הווה גוף חדש שתתלבש בו הנפש ויהיו נידונים שניהם בגיהנם וכמו שכתב מהר\"א הכהן ז\"ל.\nפושעי ישראל, אין אור של גיהנם שולטת בהן, קלוחמר ממזבח הזהב. כתב הגאון מהרי\"ש [מורינו הרב יוסף שאול] ז\"ל בדברי שאול, העו"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "ודבורה אשה נביאה'?ונראה לי בס\"ד על דרך מה שכתב הרב פתח עינים בשם מהר\"א נחום ז\"ל גבי מרים, דסלקא דעתך דאיכא תרתי מרים הנביאה, ולהכי כתיב (שמות טו, כ) 'אחות אהרן' לאפוקי האחרת, כמו שאמרו בשני יוסף בן שמ"
+      },
+      {
+        "corpus_index": 21,
+        "source_path": "Ben Yehoyada on Nedarim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "0df4c40faeca3533150fc0f5909d1b82c927abd4",
+        "context": "ממש ונידונין הנפש והגוף הזה בגיהנם ונידונין יחד שם.וכמו שכתב הרב מהר\"א הכהן ז\"ל וזה לשונו: גם מן העברות שהאדם עושה מתפעל ונברא גוף טמא מצד הקליפות ובצאת נפש הרשע מגופו מכניסין אותה באותו הגוף הטמא ונד"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "ל שם כבוד מלכותו (שמות יב, ב). נראה לי בס\"ד על פי מה שפירש הגאון מהר\"א [רבי אליהו] מווילנא ז\"ל בנוסח תפלת מוסף שאומרים 'גלה כבוד מלכותך עלינו מהרה' והוא דאיתא בגמרא דחגיגה (חגיגה יג:) בחרבן בית המקדש "
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": "ס\"ד אומרם הא בזוג ראשון הא בזוג שני, ואקדים מעשה נורא שהובאה בשם מהר\"א הכהן ז\"ל [הרב אליהו הכהן האיתמרי בעל שבט מוסר] על הרב יצחק פאסי ז\"ל שנשא אשה אלמנה וכל זמן שהיא חוץ מפניו היה אש אהבתה בוער בלבו,"
+      },
+      {
+        "corpus_index": 30,
+        "source_path": "Ben Yehoyada on Taanit - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "ee8ee099dca64f7a318c3ed5ebf39bf36eb829e7",
+        "context": "מראה האצבע וכפל הפסוק, דאמרי ב' פעמים 'קוינו' בהקדים מה שכתב הרב מהר\"א פלאגי ז\"ל בשם הגאון השל\"ה ז\"ל, דעשר אצבעות הם כנגד עשרת הדברות וכשמניחין אותם גודל אצל גודל יהיה זרת ימין כנגד אנכי וקמיצה דימין "
+      }
+    ],
+    "מהרלב\"ח": [
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "חר שיהרוג את נבל, שאז תהיה פנויה, וכמו שכתב הרי\"ף ז\"ל, וכמו שכתב מהרלב\"ח [רבי לוי בן חביב] ז\"ל בתשובה סימן קכ\"ו יעוין שם, ולכן לא אמר לו אחר כך שהצלתיני מן גילוי עריות, דבאמת לא היה רוצה שיבא עליה בעודה"
+      }
+    ],
+    "נהי\"ם": [
+      {
+        "corpus_index": 1,
+        "source_path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+        "context": "0] שמספרו שבעים ועולם הזה בנויה על פי שבעת ספירות הבנין שהם חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] שכל אחת כלולה מעשר הרי שבעים כמנין 'כן' ולכן ימים הקצובים לאדם הם שבעים שנה (תהלים צ, "
+      },
+      {
+        "corpus_index": 1,
+        "source_path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+        "context": "נס בה במקום תפילין של ראש שיש בו שני שינין של ז' וויהן כנגד חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] ששם סוד בת שבע וזאת לי לעדות 'כי פקודיך' נצרתי' כשלקחתי בת שבע שהיתה גרושה ואפילו תשעי"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "ור הבינה כמה הוי הארתו ביום זה? ופירש ארבע פרסי רמז לארבע ספירות נהי\"ם [נצח הוד יסוד מלכות] של בינה שהם סוד מ' של מלך המאירים במלכות ביום זה. ולגרסת ארבעין גם כן יבא נכון כי כל ספירה מן נהי\"ם [נצח הוד"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "ירים במלכות ביום זה. ולגרסת ארבעין גם כן יבא נכון כי כל ספירה מן נהי\"ם [נצח הוד יסוד מלכות] כלולה מעשר והם ארבעים וכי משכא דצואריה תלתא פרסי שהם שלשה ספירות חג\"ת [חסד גבורה תפארת] שרומזים באות ל' של מ"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "אשר קפלו העולם הם שבעה. והנה המה כנגד שבעה ספירות הבנין שהם חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] שעולם הזה נבנה מהם בימי בראשית ועל זה אמר חכמות בנתה ביתה חצבה עמודיה שבעה (משלי ט, א)"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "\"ת [26×7=182] של שבעה ספירות הבנין, שהם חג\"ת [חסד, גבורה, תפארת] נהי\"ם [נצח, הוד, יסוד, מלכות], שבכל ספירה יש הוי\"ה אחת ובהם היא הנהגת העולם, וזה הרמז נרמז בראש צדיק אחד. ועוד יש רמז בראש צדיק שני שהו"
+      },
+      {
+        "corpus_index": 20,
+        "source_path": "Ben Yehoyada on Nazir - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "88d71e96d92941728c55dfc7955cddb543589bb0",
+        "context": "נפשע'.והא דקרי לאברהם אבינו עליו השלום קרית עז כי ז' ספירות חג\"ת נהי\"ם [חסד גבורה תפארת נצח הוד יסוד מלכות] הם קריה שהם נקראים שבעת ספירות הבנין ואחוזים בהם אברהם יצחק יעקב משה אהרן יוסף דוד [76] שראש"
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "וד והנתבע מלכות, ולכן העולם שנבנה בשבעת ימי בראשית שהם כנגד חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] מתקיים על ידי הדין, ולזה אמר כל דין שדן דין אמת לאמתו, אפלו שעה אחת, מעלה עליו הכתוב, "
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "הובות. והא דקראה אמת הבנין מפני כי ז\"ס [זה סוד] תחתונות שהם חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] המה נקראים בלשון חכמים ספירות הבנין, בשביל שבהם נבנו סדרי בראשית בשבעת ימי בראשית.\nגר "
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": "נם כי דוד המלך ע\"ה היה כנגד לאה וכנגד רחל שהם סוד ז' ספירות חג\"ת נהי\"ם [חסד גבורה תפארת נצח הוד יסוד מלכות] ולכן החולק על מלכותו ראוי שיפול בשבעה מדורי גיהנם. ולכך אמר ז' פעמים בני להוציאו משם והיינו "
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": "ילת יעקב ז\"ל בשם הזוהר דשבעה חלונות יש ברקיע כנגד ז' ספירות חג\"ת נהי\"ם [חסד, גבורה, תפארת, נצח, הוד, יסוד, מלכות] והחלון שהוא כנגד היסוד נקרא חלון גביע ובו כוכב הנקרא אשכול הכופר וכוכב זה מרבה שלום בע"
+      }
+    ],
+    "כה\"ת": [
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "א דאמרי רב ששת נתן עיניו בו רצונו לומר עין השכלית, שעשה כונה בשם כה\"ת שבו הרג משה רבינו ע\"ה אות המצרי, וכן כל הצדיקים מענישים את הרשעים בכונתם בשם זה. ונראה לי בס\"ד ששם זה רמוז בשתי עינים, כי שם זה ב"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": " לרמוז בדבריהם גודל צדקתו של רבי עקיבה, שהיה יכול להציל עצמו בשם כה\"ת לכוין בו על האויב להמית ובו, ועם כל זה סבר וקביל ולא עשה הצלה לנפשו! והענין הוא כי שם כה\"ת רמוז בראשי תיבות, (תהלים קנ, ו) כל הנש"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "ית ובו, ועם כל זה סבר וקביל ולא עשה הצלה לנפשו! והענין הוא כי שם כה\"ת רמוז בראשי תיבות, (תהלים קנ, ו) כל הנשמה תהלל יה, ופסוק זה בפרקי שירה אומרת אותו החלדה, אשר אינה מצויה אלא רק ביבשה ולא יש כנגדה "
+      },
+      {
+        "corpus_index": 8,
+        "source_path": "Ben Yehoyada on Chagigah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "2c2cd66ff0a6bf8eeec4fee2c0e15b61b60333d0",
+        "context": "ה דמ\"ה ביום.ובאופן אחר נראה לי בס\"ד 'חוט של חסד' [425] עולה מספר כה\"ת והוא שם קדוש משמות ע\"ב ויוצא מן ראשי תיבות כל הנשמה תהלל (תהלים קנ, ו) וסופי תיבות לא עזבת דרשיך ה' (תהלים ט, יא) והוא עזר לישראל"
+      },
+      {
+        "corpus_index": 8,
+        "source_path": "Ben Yehoyada on Chagigah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "2c2cd66ff0a6bf8eeec4fee2c0e15b61b60333d0",
+        "context": "ה שהוא זמן תיקון המלכות ושליטת הגבורות זוכה להיות נשפע משם זה של כה\"ת שהוא מספר 'חוט של חסד' והא דהביא מאמר זה דריש לקיש של עסק התורה בלילה באמצע מאמר של ז' רקיעים אחר מאמר של מעון ללמד טעם שכיבדם בי"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "שהם מתגברים על המן והוא עקב שלהם. וסופי תיבות 'עוררה את גבורתך' 'כה\"ת' שם קדוש שבו ממיתים את שונאי ישראל והוא ראשי תיבות (תהלים קנ, ו) 'כל הנשמה תהלל יה' וסופי תיבות 'ולכה לישעתה לנו' הה\"ו שהוא מספר "
+      }
+    ],
+    "הש\"ית": [
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "כ\"י שהביא הרב ז\"ל שם יעוין שם.ובזה פירשתי בס\"ד רמז הכתוב מה שאמר הש\"ית למשה רבינו ע\"ה אחר מעשה העגל, (שמות לג, יט) 'אני אעביר כל טובי על פניך' תיבת טובי תחלקנה לשתים וקרי בה 'ט\"ו בי' פירוש בשביל תיקון"
+      }
+    ],
+    "וי\"ו": [
+      {
+        "corpus_index": 0,
+        "source_path": "Ben Yehoyada on Arakhin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b6158558ae6ea63738be32f9b3193c3c89585313",
+        "context": "יקר' רמז לפי דרכו ענין אחד דידוע שורש השינים שהם י\"ו בלחי העליון וי\"ו בלחי התחתון הוא רמוז באות אל\"ף שציורו יו\"ד מכאן ויו\"ד מכאן ואות וא\"ו באמצע ואם תחלק אות וא\"ו שבנתים לחצאין כזה [הציור חסר] אז תהי"
+      },
+      {
+        "corpus_index": 1,
+        "source_path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+        "context": "). נראה לי בס\"ד 'חוט של חסד' הוא שם הויה במילוי יודי\"ן [יו\"ד ה\"י וי\"ו ה\"י=72] שעולה מספר חסד [72] והיינו כי שם ישראל [541] הוא שם כללי לכל אחד ואחד מישראל ומספרו תקמ\"א ואין החשבון מכוון למספר תרי\"ג ש"
+      },
+      {
+        "corpus_index": 1,
+        "source_path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+        "context": "ם.\nכל הנשמות שבגוף (ישעיה נז, טז). נראה לי בס\"ד גוף במלואו גימ\"ל וי\"ו פ\"ה [190] עולה קץ [190] לרמוז דהקץ תלוי בתיקון אוצר גוף.\nארבעה חשובים כמתים כמת. נראה לי בס\"ד דנקיט להו כסדרן במציאותם בעולם ולא "
+      },
+      {
+        "corpus_index": 1,
+        "source_path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+        "context": "ספר ר\"ל בתוך החשבון מספר רל\"א שהוא מנין 'גאוה' במלואה גימ\"ל אל\"ף וי\"ו ה\"י [231] לרמוז שהגאולה תהיה בהעדר הגאוה דכתיב כי אתה עם עני תושיע ועינים רמות תשפיל (תהלים יח, כח).ומה שהיה 'שני אלפים תוהו' כנג"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "ם וכמו שכתב הגאון חיד\"א ז\"ל ואות ו' בשם ע\"ב שהוא במלוי יודין כזה וי\"ו עולה כ\"ב ולכן בזכות שהוא החיה כל נפשות אלו נתנו לו חיים כמנין וי\"ו הרומז לחיים שהוא במלוי שם ע\"ב שהוא סוד חכמה כי ידוע דהחיים הם "
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "\"ו עולה כ\"ב ולכן בזכות שהוא החיה כל נפשות אלו נתנו לו חיים כמנין וי\"ו הרומז לחיים שהוא במלוי שם ע\"ב שהוא סוד חכמה כי ידוע דהחיים הם מחכמה בסוד והחכמה תחיה בעליה.או נראה לי בס\"ד טעם לכ\"ב שנים כי הוא ה"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": " שאמר רבינו מורנו הרב רבי חיים ויטאל ז\"ל (בשערי קדושה חלק ג' שער וי\"ו) עיין שם וזהו דלינן גלי שעלינו למעלה מן הגלים וגברנו עליהם עד דחזינא בי מרבעתא דכוכבא זוטא כי ממקום הקליפות עברנו למקום אור המלאכ"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "\"ד שהם כנגד ארבעה יודין דשם הויה במלוי יודין העולה ע\"ב [יו\"ד ה\"י וי\"ו ה\"י =72] שהוא כמנין חסד [72] והתורה נתנה בחסד דכתיב מימינו אש דת למו (דברים לג, ב) ונקראת בשם תורת חסד דכתיב ותורת חסד על לשונה ("
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "י דידיה, והאי, מרבי דידיה. נראה לי בס\"ד צפון במלואו כזה צד\"י פ\"ה וי\"ו נ\"ון אותיות המלוי עולים מספר מאכל [91] לרמוז כי הצפון מרבי דידיה שהוא המאכל והמזון ולכן הרוצה להעשיר יצפין.גם אותיות דרום במילואם"
+      },
+      {
+        "corpus_index": 2,
+        "source_path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+        "context": "זון ולכן הרוצה להעשיר יצפין.גם אותיות דרום במילואם כזה דל\"ת רי\"ש וי\"ו מ\"ם אותיות המלוי הם אותיות שתולים וידוע כי האדם עץ השדה (דברים כ, יט) אך עם הארץ דומה לעץ תלוש וחכם דומה לעץ שתול דכתיב ועמך כלם "
+      },
+      {
+        "corpus_index": 4,
+        "source_path": "Ben Yehoyada on Bava Metzia - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "85e7f4722d6ff71163b08963c14e4d34c243b4cf",
+        "context": "יה נט, כא). נראה לי בס\"ד כנגד ארבעה יודי\"ן שיש בשם ע\"ב [יו\"ד ה\"י וי\"ו ה\"י] שהוא סוד חכמה וסך הכל ק\"ך למתק ק\"ך צרופים של שם אלקים שהם ה׳ גבורות מנצפ\"ך ובאלו הק\"ך תעניתא נעשה סמך לו ולזרעו בקיום התורה "
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "שם הוי\"ה עולה ע\"ב [שם ע\"ב נוצר משם הוי\"ה במילוי יו\"דים: יו\"ד ה\"י וי\"ו ה\"י], והרבוע אינו רחמים כמו הפשוט, אלא הוא דין לגבי אותיות הפשוט, גם ידוע מה שכתב הרמ\"ז ז\"ל שם אלהים ברבועו עולה ר', ועם חמשה אות"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "להיכם חיים כלכם היום, דשם הוי\"ה במילוי יודי\"ן ע\"ב [72] [יו\"ד ה\"י וי\"ו ה\"י], וישראל תקמ\"א [541], הרי תרי\"ג [613], ובזה נשמרים כל רמ\"ח [248] אברים ושס\"ה [365] גידים שלהם, וזהו חיים כלכם דייקא, ובעגל נס"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": ", כי מילוי האות הוא עובי האות, והנה אותיות קורה במילואם כזה קו\"ף וי\"ו רי\"ש ה\"ה [417] המילוי לבדו עולה מספר זית [417], וידוע שאמרו רבותינו ז\"ל ישראל נמשלו לזית מה זית בין בסוותא בין בקייטא לא אתאבידו "
+      },
+      {
+        "corpus_index": 9,
+        "source_path": "Ben Yehoyada on Chullin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "3d89ff4ae7f8388b769a801a2e01fb8073c58007",
+        "context": "רז ליקח המאכלת במהירות כדי לשחוט.ומה שאמר רבי חייא רבי חייא לרב 'וי\"ו דכתיב אאופתא קאמר לך' הכונה דהבקעת עשויה חריצין כעין ווי\"ן אך אלו הווי\"ן שוים לא יש בהם אחד רחב יותר משאר אשר אצלו שם כן כאן אין "
+      },
+      {
+        "corpus_index": 9,
+        "source_path": "Ben Yehoyada on Chullin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "3d89ff4ae7f8388b769a801a2e01fb8073c58007",
+        "context": "י ישמע רבי מה שהם מדברים זה בזה ועם כל זה לא חש רבי חייא באומרו 'וי\"ו דכתיב אאופתא קאמר' פן יקפיד רבי בדבריו אלו.\n\nDaf 16b\n\n\n\nDaf 17a\n\n\n\nDaf 17b\n\n\n\nDaf 18a\n\n\n\nDaf 18b\n\n\n\nDaf 19a\n\n\n\nDaf 19b\n\n\n\nDaf 20a"
+      },
+      {
+        "corpus_index": 9,
+        "source_path": "Ben Yehoyada on Chullin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "3d89ff4ae7f8388b769a801a2e01fb8073c58007",
+        "context": " המזון שצריך לכוין בה בשבת בברכה ראשנה בחתימתה בשם ע\"ב [יו\"ד ה\"י וי\"ו ה\"י=72] ובברכה שניה בחתימתה בשם ס\"ג [יו\"ד ה\"י וא\"ו ה\"י=63] ובברכה שלישית בשם מ\"ה [יו\"ד ה\"א וא\"ו ה\"א =45] ובברכה רביעית בתחלתה בשם"
+      },
+      {
+        "corpus_index": 11,
+        "source_path": "Ben Yehoyada on Eruvin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+        "context": "לזיתים' והיינו אותיות 'רבי יוסי' במילואם כזה רי\"ש בי\"ת יו\"ד יו\"ד וי\"ו סמ\"ך יו\"ד [1124] עולה מספרם אלף וקכ\"ד ועם נקודת חיר\"ק של רבי וחול\"ם וציר\"י של יוסי עולה אלף וקס\"ד [1164] כמנין שמו\"ת א\"ל אלקי\"ם מ"
+      },
+      {
+        "corpus_index": 12,
+        "source_path": "Ben Yehoyada on Gittin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "8adc8493fea3608b7df4bc46d64ced27ed236589",
+        "context": "בשוט לשון תחבא (איוב ה, כא) כי אותיות לשון במילואם כזה למ\"ד שי\"ן וי\"ו נו\"ן עולה המלוי הנחבא בתוך הפשוט מספר צפו דבחטא הלשון תתגבר ח\"ו.ומה שאמר בחרחורי לשון תחבא נראה דסמיך על פסוק הקודם (איוב ה, כ) ב"
+      },
+      {
+        "corpus_index": 16,
+        "source_path": "Ben Yehoyada on Makkot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "de835912fd183358fe24ed2fcba27871f771e8ee",
+        "context": "יש לו זכות בתורה זו שלימדה להם.והנה בתוך אותיות המון כזה ה\"ה מ\"ם וי\"ו נו\"ן יש אותיות 'המון' שני נמצא הם המון מבחוץ והמון מבפנים שאין מאבדים כלום מתורתם. גם עוד המלוי הנזכר כולו עם הכולל כמנין חכמים ["
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": " כן.ויש לרמוז 'צרעת זנב' עם הכולל תתי\"ט [819] כמנין ושתי במילואה וי\"ו שי\"ן תי\"ו יו\"ד, ולזה דריש כהני תרתי 'ואת אשר נגזר עליה' תיבת עליה דייקא, דודאי הא והא איתא ותרתי עבדו לה.והא דחירפה וגידפה אותו ע"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "רגין זכינו לתפילין שהוא שמונה פרשיות ביד ובראש שהם מכוסים בבתים.\nוי\"ו ד'ויזתא' צריך למימתחה בזקיפא כמורדיא דלברות. הכי איתא במציעא (בבא מציעא פז.) ופירש הערוך 'לברות' שם הנהר והוא אגם, כלומר צריכה ו'"
+      },
+      {
+        "corpus_index": 18,
+        "source_path": "Ben Yehoyada on Menachot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "c1e897d339caf3be21b6e3b87a198b49b3a479df",
+        "context": "האר\"י ז\"ל (בשער המצות פרשת עקב) ששם זה במלוי יודי\"ן כזה אל\"ף ה\"י וי\"ו ה\"י [163] עולה 'אצבע' [163] וטוב לאדם שיביט ויסתכל כל שעה באצבעותיו ויכוין בכל אצבע מהם שם אהו‏ה דמלוי יודי\"ן שהוא מספר 'אצבע' עי"
+      },
+      {
+        "corpus_index": 18,
+        "source_path": "Ben Yehoyada on Menachot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "c1e897d339caf3be21b6e3b87a198b49b3a479df",
+        "context": " ז\"ל (בשער הכונות בדף לב) שזה האור הוא שם הויה דיודי\"ן [יו\"ד ה\"י וי\"ו ה\"י=72] שהוא מספר חסד [72] וגנזו הקדוש ברוך הוא ביסוד ואין יוצא ומתפשט ממנו הארה בחול אלא נ\"ה חלקים מן ע\"ב חלקים ונשאר מספר טו\"ב "
+      },
+      {
+        "corpus_index": 18,
+        "source_path": "Ben Yehoyada on Menachot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "c1e897d339caf3be21b6e3b87a198b49b3a479df",
+        "context": " שיש מ\"ו בחכמה כי מלוי שם ע\"ב שהוא בחכמה עולה מספר מ\"ו [יו\"ד ה\"י וי\"ו ה\"י=46] ויש מ\"ו בבינה שנקראת האם [46] שהוא מספר מ\"ו ויש כנגד זה מ\"ו רע שבקליפה הנוקבא נקראת מ\"ו שהוא כמנין אמה [46] ולכן הנחש שהי"
+      },
+      {
+        "corpus_index": 22,
+        "source_path": "Ben Yehoyada on Niddah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "dad1a2153784c9ad7b5cd89ffab3fca68ba76c0d",
+        "context": " = 68] והם כגגד ד' אותיות השם אשר במלוי יודין עולה חסד [יו\"ד ה\"י וי\"ו ה\"י=72] לכן סיים הכתוב 'חיים וחסד עשית עמדי'.\n\nDaf 25b\n\n\n\nDaf 26a\n\n\n\nDaf 26b\n\n\n\nDaf 27a\n\nאחיכו עליה; מאי שנא? פשיטא. יש להקשות על"
+      },
+      {
+        "corpus_index": 23,
+        "source_path": "Ben Yehoyada on Pesachim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "0ae3e9bb2d596324977f2120f529c8d6fe6f729f",
+        "context": "יום טוב' שעולה ע\"ג לה' שהוא מספר שם הוי\"ה במלוי יודי'ן [יו\"ד ה\"י וי\"ו ה\"י=72] עם הכולל ומספר שם השני שהוא מועד בלשון תורה נחשב אותו על חצי השני של היום כי 'מועד' גימטריא ק\"ך שעולה מספר 'מזון טוב' [12"
+      },
+      {
+        "corpus_index": 24,
+        "source_path": "Ben Yehoyada on Rosh Hashanah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "cde0fe15971c9174f21f33b12d5d726f4baa3b2b",
+        "context": "אותיות התורה שהם סוד כלים יהיו מלאים אורות של שמות ע\"ב [יו\"ד ה\"י וי\"ו ה\"י = 72] ס\"ג [יו\"ד ה\"י וא\"ו ה\"י = 63] מ\"ה [יו\"ד ה\"א וא\"ו ה\"א = 45] ב\"ן [יו\"ד ה\"ה ו\"ו ה\"ה = 52] שהם ט\"ל אותיות. ולזה אמר אני הוא "
+      },
+      {
+        "corpus_index": 24,
+        "source_path": "Ben Yehoyada on Rosh Hashanah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "cde0fe15971c9174f21f33b12d5d726f4baa3b2b",
+        "context": "גם 'מסתכלין כלפי מעלה' רוצה לומר שם הוי\"ה במלוי יודי\"ן [יו\"ד ה\"י וי\"ו ה\"י = 72] שהוא העליון שבארבעה מילואים שבו נשלם מספר ישראל [541] למספר תרי\"ג כי ע\"ב ותקמ\"א גימטריא תרי\"ג [541+72=613] כאשר כתבתי ב"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "אה לי בס\"ד אם תמלא אותיות אלפא ביתא כזה אל\"ף בי\"ת גימ\"ל דל\"ת ה\"י וי\"ו זיי\"ן חי\"ת טי\"ת יו\"ד תמצא בהם שלושים אותיות נמצא אות יו\"ד משלמת מספר שלושים ולכן נחשבת בשלושים ושני יודי\"ן יש ביין הרי כאן ששים ו"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "49] דהיינו שלשים ו\"י ואחד טוב.אי נמי אותיות מואב במילואם כזה מ\"ם וי\"ו אל\"ף בי\"ת יהיה המלוי אותיות 'מפולת וי' כלומר מפולת שיש בה שיעור שראוי לומר עליה וי.\n באותה שעה, ירדו שונאיהם של ישראל למדרגה התחת"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "יו\"ד נו\"ן וראש המלוי שאחר הפשוט הוא שני ווי\"ן ואם תמלא שני ווי\"ן וי\"ו וי\"ו עולים מספר דם [44] ולזה אמר יין אחריתו דם, שנרמז באותיות המלוי שעומדין אחר אותיות הפשוט של יין.ונראה לרמוז בס\"ד קודם אותיות "
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "נו\"ן וראש המלוי שאחר הפשוט הוא שני ווי\"ן ואם תמלא שני ווי\"ן וי\"ו וי\"ו עולים מספר דם [44] ולזה אמר יין אחריתו דם, שנרמז באותיות המלוי שעומדין אחר אותיות הפשוט של יין.ונראה לרמוז בס\"ד קודם אותיות יין י"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "ף 'וארגמן' אור פנימי.ונראה לרמוז אותיות 'ומה בר נדרי' במלואם כזה וי\"ו מ\"ם ה\"י בי\"ת רי\"ש נו\"ן דל\"ת רי\"ש יו\"ד [2109] יעלה מספרם ב' אלפים וק\"ט כמנין 'שאלה יהא לי בן זריז ומלובן ומלא בתורה והגון לנביאות'"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "ולא בתורה והגון לנביאות=2109] גם אותיות 'ומה בר בטני' במלואם כזה וי\"ו מ\"ם ה\"י בי\"ת רי\"ש בי\"ת טי\"ת נו\"ן יו\"ד [1996] עולים מספר אלף תתקצ\"ו כמנין אני דחקתי ונכנסתי שיהיה לי בן מזורז ומלובן [1995].\nהכל י"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": " (תהלים צא, טז) ומספר ארבעים כנגד ארבעה יודי\"ן דשם ע\"ב [יו\"ד ה\"י וי\"ו ה\"י] שעולה חסד [72] וכנגד זכות התורה שנתנה בארבעים יום ובזכות התורה שנקראת אש יהיו ארבעים שנה אלו כי ראשי תיבות אש 'ארבעים שנה' ו"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "א בב\"א [במהרה בימינו אמן] גם כן נקרא בשם דוד ואם תמלאהו כזה דל\"ת וי\"ו דל\"ת [70] תמצא בראש המלוי מספר שבעים נמצא זמן שליטתו רמוז בשמו הטוב.ובזה יובן (ירמיה ל, כא) 'והיה אדירו ממנו' כלומר ממשלתו ממנו ה"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "הלים סח, כ). נראה לי בס\"ד רמז לפי דרכו מלוי אותיות עמסו שהם עי\"ן וי\"ו מ\"ם סמ\"ך ו\"ו עולים אותיות המלוי קפ \"ב [182] כמנין שם פאי [91] ושם סאל [91] שמהם נמשך טוב הפרנסה כאשר מכוונים בהם בפסוק פותח את יד"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "ונים בהם בפסוק פותח את ידך (תהלים קמה, טז) וזהו 'מלא עומסו' ואות וי\"ו ראשונה תתמלא ביו\"ד ואחרונה בלא יו\"ד ובזה יהיה החשבון מכוון.ועוד נראה לי בס\"ד מה שאמרו מלא עומסו רמז שישלשל לו מן חמשה ספירות הבני"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "הנקרא 'חכה' רמוז באחורי אותיות 'לוט' כי אחורי למ\"ד יש כ\"ף ואחורי וי\"ו יש ה\"א ואחורי טי\"ת יש חי\"ת והיא הביטה בכח המושך אשר באויר ומשך אותה למקום המטר של אש וגפרית מלח ולכך ותהי נציב מלח.והנה בלעם היה "
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "כזה ת\"ו ו\"ו רי\"ש ה\"א אותיות המילוי שהם פנימיות הפשוט המה אותיות 'וי\"ו אש' רמז לתורה שבעל פה שנקראת 'אש' ויש בה 'ששה' סדרים כמנין וי\"ו, ונרמז אות וי\"ו במלוי יו\"ד כדי שיהא מספרו כ\"ב כמנין כ\"ב אותיות הת"
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "'וי\"ו אש' רמז לתורה שבעל פה שנקראת 'אש' ויש בה 'ששה' סדרים כמנין וי\"ו, ונרמז אות וי\"ו במלוי יו\"ד כדי שיהא מספרו כ\"ב כמנין כ\"ב אותיות התורה, נמצא המסורת שהיא בעל פה הנקראת אש נרמזה בפנימיות אותיות התו"
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "ורה שבעל פה שנקראת 'אש' ויש בה 'ששה' סדרים כמנין וי\"ו, ונרמז אות וי\"ו במלוי יו\"ד כדי שיהא מספרו כ\"ב כמנין כ\"ב אותיות התורה, נמצא המסורת שהיא בעל פה הנקראת אש נרמזה בפנימיות אותיות התורה, וז\"ש לא נשא "
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "פעמים חכמה נבנה העולם! ונראה לי בס\"ד, במלוי אותיות עולם כזה עי\"ן וי\"ו למ\"ד מ\"ם יש אותיות 'דמיונים' שהתורה הנגלה שבה הם דברים דמיונים לדברים הנסתרים העליונים, ולכן סתרי תורה נקראים כבשונו של עולם, 'כב"
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "בים יונקים משם הוי\"ה דמילוי יודי\"ן אשר מילואו מספר מ\"ו [יו\"ד ה\"י וי\"ו ה\"י=46], אך הרעים מהפכים מספר מ\"ו למספר בדיל [73] כי החשבון שוה.\nאמר עולא: אין ירושלים נפדית, אלא בצדקה שנאמר: (ישעיהו א, כז) \"צי"
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": "י זה בסיני ובערבות מואב שהיו על ידי משה רבינו ע\"ה היו ל\"ב בריתות וי\"ו הנשארים היו על ידי יהושע בהר גריזים ובהר עיבל, והיינו דמשה רבינו ע\"ה היה לבן של ישראל לכן היה על ידו מספר ל\"ב אבל ביהושע דהיה כפנ"
+      },
+      {
+        "corpus_index": 29,
+        "source_path": "Ben Yehoyada on Sukkah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "d265806546e5cec9962d0de3d34fa7b63434bc0b",
+        "context": "בע שהם ע\"ב ש' שבע שהם ע\"ב ש' ואם תמלא שם הוי\"ה ביודי\"ן [יו\"ד ה\"י וי\"ו ה\"י = 72] ושם אלקים בריבוע [אלקים בריבוע הוא כזה: א, א\"ל, אל\"ה, אלה\"י, אלהי\"ם = 200] יהיה צירוף 'רעב' שהוא ר' מספר שם אלקים וע\"ב "
+      },
+      {
+        "corpus_index": 32,
+        "source_path": "Ben Yehoyada on Yoma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "21ddf1e77fedfcf7e090b5cc3dbc6e02687f99e8",
+        "context": "יבור ומעשה. גם צמו ע\"ב שעות כנגד שם הוי\"ה במלוי יודי\"ן [יו\"ד ה\"י וי\"ו ה\"י=72] ואחר שעשו התיקון הראו להם מן השמים דבר אחד שנראה לעיניהם שיצא ניצוץ אש מבית קודש קדשים שהוא כנגד הלב כמו שאמרו בירושלמי. "
+      },
+      {
+        "corpus_index": 32,
+        "source_path": "Ben Yehoyada on Yoma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "21ddf1e77fedfcf7e090b5cc3dbc6e02687f99e8",
+        "context": " ביש מיניה? ונראה לי בס\"ד דרבוי הכוסות נרמז במילוי 'כוס' כזה כ\"ף וי\"ו סמ\"ך שעולה מספר יוסף [156] דהשותה רוצה להוסיף על הכוסות. וזהו שנאמר 'כי יתן בכוס' אמר בכוס, רוצה לומר במה שרמוז בתוך אותיות כוס ש"
+      }
+    ],
+    "הט\"ז": [
+      {
+        "corpus_index": 4,
+        "source_path": "Ben Yehoyada on Bava Metzia - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "85e7f4722d6ff71163b08963c14e4d34c243b4cf",
+        "context": "צא אין התחתון מוחזק והוא אבעיא דלא אפשיטא משום הכי חולקין עכ\"ל. והט\"ז סבירא ליה דהרמב\"ם והטור פליגי עיין שם.ואנא עבדא נסתפקתי בענין זה לענין מודר הנאה מן העליון הן בנידון הרמב\"ם ז\"ל הן בנידון הטור ז\""
+      },
+      {
+        "corpus_index": 5,
+        "source_path": "Ben Yehoyada on Beitzah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "c68830cb4d9de331f1fde01575f2e6212a15adb6",
+        "context": "\"ל כתב שצוה אותם על סעודת הלילה. וראיתי להרב בפתח עינים שהקשה על הט\"ז ז\"ל על מה שכתב בנוסח 'מלוך על כל העולם כולו' מלשון הברייתא כאן, יעוין שם. ואין כאן קושיא כלל כי לשון תפלה ושבח לחוד ולשון חכמים ב"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "קים בא\"ח סי' פ\"ד אסור לקרא לאדם ששמו שלום בבית הכסא ובית המרחץ, והט\"ז התיר, והעלה הגאון חיד\"א בברכי יוסף סי' פ\"ה סק\"ט דלתת שלום, או להחזיר בבית הכסא ובית המרחץ אסור, אבל לקרא איש ששמו שלום מותר, עיין"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "בין תיבת 'להם' נראית לשון יתר. ונראה לי בס\"ד על פי מה שכתב הגאון הט\"ז ז\"ל על מה שכתוב בשולחן ערוך סימן תכ\"ט שואלין בהלכות הפסח קודם שלשים יום, דנפקא מינה לענין ממון דאיתא בפרק השואל (בבבא מציעא דף צז"
+      },
+      {
+        "corpus_index": 24,
+        "source_path": "Ben Yehoyada on Rosh Hashanah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "cde0fe15971c9174f21f33b12d5d726f4baa3b2b",
+        "context": "ר לחבירו איני מקבל ממך אם היית כמשה מלקין אותו משום בזיון. ופירש הט\"ז ז\"ל מפני דלפי דבריו אפשר שיזדמן אחד כמשה רבינו ע\"ה וזה בלתי אפשר דהרי כתיב (דברים לד, י) 'ולא קם כמשה' עיין שם. ולפי זה קשה איך א"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": ") דאם אמר אדם לחבירו איני שומע לך אם תהיה כמשה מנדין אותו, ופירש הט\"ז משום דכתיב ולא קם נביא וכו'?ונראה לי דכאן לא איירי על נבואה אלא על רוח הקודש שאינו שומע קול מדבר אליו כמו ששומע הנביא אלא דברים ה"
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": "היה אות ע' הוא אות הששה עשר ונמצא אות ח' שהוא אות השמיני הנה חצי הט\"ז.אך באמת אינו חצי שלם כי הוא חצי במנין האותיות אך אינו חצי באיכותן כי האותיות שיש מן א' עד ח' הם אחדים ואשר יש עד ע' הם בעשרות ונמ"
+      }
+    ],
+    "ש\"ר": [
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "ל כן זה שלא בא לבית הכנסת שהוא כן עשר נקרא שכן רע כי אותיות כ\"ן עש\"ר יהפכו לו לצרוף שכ\"ן ר\"ע שהאותיות שוים הם. ועדיין יש להקשות למה האריך כ\"כ ודי לומר כל מי שאינו מתפלל בבית הכנסת שבעירו נקרא שכן רע"
+      },
+      {
+        "corpus_index": 11,
+        "source_path": "Ben Yehoyada on Eruvin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+        "context": ") ושד מלכים תינקי. וזהו שאמר כל הלוהג בהן, טועם בהן טעם 'בשר' ב' ש\"ר רוצה לומר אור חיות של ב' שרים דאדום ודישמעאל.או יובן בס\"ד דאמרו רבותינו ז\"ל (פסחים מ:) 'עם הארץ אסור לאכול בשר' ופירש רבינו ז\"ל ה"
+      },
+      {
+        "corpus_index": 15,
+        "source_path": "Ben Yehoyada on Kiddushin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "2225a630630f82a2113dc6b7eb9238007b5dde9d",
+        "context": "ו שכל המצות צוה את ישראל בעבור טובתם ופעולתם.\nאלא מסוף דברך נכר, ש\"ראש דברך אמת\". הקשה מהרש\"א ז\"ל היכן הוזכר סוף דברך במקרא? ונדחק בזה עיין שם.ונראה לי בס\"ד דהמפרשים פירשו המאמר הנזכר בתחילה חשבו 'ל"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "רוש נביאים כתב דנעמן הרגו והוא היפך תרגום יונתן עיין שם. ולא זכר ש\"ר דמה שפירש רש\"י ז\"ל הוא דברי רבותינו ז\"ל במדרש שוחר טוב בפסוק (מלכים א' כב, לד) 'ואיש משך בקשת לתמו' אמר רבי יהודה בר סימון זה אחד"
+      },
+      {
+        "corpus_index": 26,
+        "source_path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+        "context": "רש דוי, שאז כל משכבו שהם הער\"ש והדו\"י הפכת לו בחליו לטוב שנעשים עש\"ר ויו\"ד ועי\"כ מתרפא עי\"ש. וידוע שנקוד הפת\"ח הוא בחכמה, ולכן החולה שהיה לו החולי מחמת שאור החכמה נסתלק ממנו ונהפך לו היו\"ד שהיא חכמה"
+      }
+    ],
+    "כ\"מ": [
+      {
+        "corpus_index": 11,
+        "source_path": "Ben Yehoyada on Eruvin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+        "context": "אותיות קטנות באור הלבנה בשופי ולא היה נצרך לאור הנר! וראיתי בספר כ\"מ שאם האדם יוכל ללמוד לאור הלבנה יעשה בזה תיקון גדול בבחינת הלבנה שהוא סוד המלכות טפי מאור הנר, ואחד היה לומד באור הלבנה בצער כדי ל"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "אה ליה בגין דעזים אינון מסטרא דדינא קשייא עיין שם. ולכן כתב בספר כ\"מ שלא יגדל אדם עז בתוך ביתו. ובזה מובן הטעם כאן שאומר עזי דבי טבחא וכו' כי העזים מאחר שהם מצד כוחות הדינין, לכך השידים תאותם להתאחז"
+      },
+      {
+        "corpus_index": 29,
+        "source_path": "Ben Yehoyada on Sukkah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "d265806546e5cec9962d0de3d34fa7b63434bc0b",
+        "context": " חצבה עמודיה שבעה'.ועוד נראה לי בס\"ד טעם לפסוק זה כי מצאתי כתוב בכ\"מ [בכמה מקומות] סגולה שתתעבר האשה בבן זכר שיכוין הבעל קודם הזווג בעוד ידיו טהורות בשם זה בנקודות אלו והוא 'תצלממקי' ושם זה יוצא מן "
+      }
+    ],
+    "מהר\"ן": [
+      {
+        "corpus_index": 3,
+        "source_path": "Ben Yehoyada on Bava Kamma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "a005f40002d337cca8e3721279aea0891ec88caf",
+        "context": "וב [17] שבלוע בקליפתו חלק טוב אשר על ידי כך תהיה קליפתו קשה וכתב מהר\"ן [רבי נתן נטע שפירא] ז\"ל דקליפת חזיר היא 'רע עין' ולכן החזיר התחתון אם יסמו את עיניו ימות וכתב דעשו דבוק בקליפת חזיר לכן היה רע עי"
+      },
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "נקראים ראש, שהם שלי שהאצלתי אותם להנהיג בהם העולמות. ושוב ראיתי למהר\"ן ז\"ל בהגהות פרי עץ חיים שער הקדשים מה שכתב במאמר זה יעוין שם, ובזה ניחא לשון ולא עוד דנקיט כאן דלשון זה יורה שלא היה ראוי מן הדין "
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": "ואתך. נראה לי בס\"ד טעם לנשיקה וטיפוח שעשו על ראשה, על פי מה שאמר מהר\"ן שפירא ז\"ל דמ\"ם סתומה רומזת לגלות, וביציאת מצרים נפתחה מעט ונעשית מ\"ם פתוחה ונגאלו, ולעתיד תפתח לגמרי באלכסון ותהיה שני דלתי\"ן יעו"
+      },
+      {
+        "corpus_index": 28,
+        "source_path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+        "context": " ד). נראה לי בס\"ד טעם לטיפוח על ראשה לעת עתה כי ידוע מה שכתב הרב מהר\"ן [מורינו הרב נתן נטע] שפירא ז\"ל דמם סתומה רומזת לזמן הגלות וביציאת מצרים נפתח מן הצד ונעשית מם פתוחה ובזה יצאו אבותינו ממצרים אך ל"
+      }
+    ],
+    "מא\"א": [
+      {
+        "corpus_index": 7,
+        "source_path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+        "context": "ראה לי בס\"ד על דרך הסוד ידוע כל ג' ספירות נקראים פרסה, וכמו שכתב מא\"א ז\"ל וידוע שבחינת וא\"ו דשם הוי\"ה הנקרא ישראל יש בו רק ט' ספירות שהם ג' פרסאות, והמלכות שהיא סוד ה\"א אחרונה משלמתו לעשר, וידוע שישר"
+      },
+      {
+        "corpus_index": 11,
+        "source_path": "Ben Yehoyada on Eruvin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+        "context": "מעלתו שראוי לכבדו.ועוד נראה לי בס\"ד על דרך הסוד, כי ידוע מה שכתב מא\"א ז\"ל דמט\"ט נקרא 'דקל'. גם ידוע מה שכתב רבינו ז\"ל (בשער הכונות) דמט\"ט הוא בששה קצוות דיצירה ולכן יש בו ששה אותיות כנגד ו\"ק דיצירה ע"
+      },
+      {
+        "corpus_index": 17,
+        "source_path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+        "context": " הוא סל וכתב בספר מאורי אור ז\"ל יסוד דמלכות נקרא סל, גם כתב בספר מא\"א ז\"ל קמח הוא כינוי דמלכות בסוד (משנה אבות ג, יז) אם אין קמח, אין תורה. גם כתוב בספר הלקוטים פרשת עקב בסוד שבעת המינין כי דבש שהוא "
+      },
+      {
+        "corpus_index": 23,
+        "source_path": "Ben Yehoyada on Pesachim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "0ae3e9bb2d596324977f2120f529c8d6fe6f729f",
+        "context": "הנקם מהם באלף השישי שהוא בחינת היסוד הנקרא קולמוס כמו שאמרו בספר מא\"א ז\"ל, קולמוס כינוי ליסוד שכותב בספר המלכות יעוין שם, ולכן בו יהיה נקמה לעשו שהחריב את אריאל שהוא מספר קולמוס ויבנה בית שלישי שהיא "
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "גמרי והוא פלא גדול בעיני וכו' וכשאנו רואין אדם שיש לו סימן מובהק מא\"א [אריך אנפין] זה מורה שיש לו יניקה מא\"א [אריך אנפין] מעט יותר משאר אדם עד כאן לשונו.ואפשר על זה קאמר כאן 'מאן דאית ליה מעברתא בדיק"
+      },
+      {
+        "corpus_index": 25,
+        "source_path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+        "git_blob_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+        "context": "אין אדם שיש לו סימן מובהק מא\"א [אריך אנפין] זה מורה שיש לו יניקה מא\"א [אריך אנפין] מעט יותר משאר אדם עד כאן לשונו.ואפשר על זה קאמר כאן 'מאן דאית ליה מעברתא בדיקניה' שהוא ארחא פנוי בלתי שער למעלה בשפה"
+      }
+    ]
+  }
+}

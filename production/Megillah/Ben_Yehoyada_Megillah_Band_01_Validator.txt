@@ -1,0 +1,62 @@
+== ABNAHMEPRUEFUNG == Ben-Jehojada/production/Megillah/Ben_Yehoyada_Megillah_Band_01_BILINGUAL_EN_FERTIG.txt
+Segmente          : 247
+mit Lemma geprueft: 247
+  Kopfband traegt die Stelle : 194
+  Wortlaut weicht ab         : 53
+  ohne Kopfband              : 0
+ohne Lemma (Freitext): 0
+Befunde: FEHLER 0 · PRUEFEN 53 · HINWEIS 0
+
+  [PRUEFEN] BYH-0000001    band_wortlaut          Wortlaut weicht ab (Deckung 0.5) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000002    band_wortlaut          Wortlaut weicht ab (Deckung 0.375) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000005    band_wortlaut          Wortlaut weicht ab (Deckung 0.615) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000026    band_wortlaut          Wortlaut weicht ab (Deckung 0.818) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000032    band_wortlaut          Wortlaut weicht ab (Deckung 0.714) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000043    band_wortlaut          Wortlaut weicht ab (Deckung 0.429) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000044    band_wortlaut          Wortlaut weicht ab (Deckung 0.524) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000046    band_wortlaut          Wortlaut weicht ab (Deckung 0.533) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000050    band_wortlaut          Wortlaut weicht ab (Deckung 0.842) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000051    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000052    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000053    band_wortlaut          Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000079    band_wortlaut          Wortlaut weicht ab (Deckung 0.625) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000082    band_wortlaut          Wortlaut weicht ab (Deckung 0.846) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000083    band_wortlaut          Wortlaut weicht ab (Deckung 0.5) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000095    band_wortlaut          Wortlaut weicht ab (Deckung 0.533) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000100    band_wortlaut          Wortlaut weicht ab (Deckung 0.826) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000104    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000105    band_wortlaut          Wortlaut weicht ab (Deckung 0.429) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000109    band_wortlaut          Wortlaut weicht ab (Deckung 0.625) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000114    band_wortlaut          Wortlaut weicht ab (Deckung 0.667) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000116    band_wortlaut          Wortlaut weicht ab (Deckung 0.577) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000120    band_wortlaut          Wortlaut weicht ab (Deckung 0.667) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000121    band_wortlaut          Wortlaut weicht ab (Deckung 0.615) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000124    band_wortlaut          Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000130    band_wortlaut          Wortlaut weicht ab (Deckung 0.812) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000137    band_wortlaut          Wortlaut weicht ab (Deckung 0.778) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000139    band_wortlaut          Wortlaut weicht ab (Deckung 0.364) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000140    band_wortlaut          Wortlaut weicht ab (Deckung 0.5) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000146    band_wortlaut          Wortlaut weicht ab (Deckung 0.714) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000148    band_wortlaut          Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000156    band_wortlaut          Wortlaut weicht ab (Deckung 0.647) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000158    band_wortlaut          Wortlaut weicht ab (Deckung 0.643) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000159    band_wortlaut          Wortlaut weicht ab (Deckung 0.5) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000161    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000163    band_wortlaut          Wortlaut weicht ab (Deckung 0.692) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000164    band_wortlaut          Wortlaut weicht ab (Deckung 0.556) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000167    band_wortlaut          Wortlaut weicht ab (Deckung 0.6) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000173    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000177    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000184    band_wortlaut          Wortlaut weicht ab (Deckung 0.375) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000191    band_wortlaut          Wortlaut weicht ab (Deckung 0.714) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000192    band_wortlaut          Wortlaut weicht ab (Deckung 0.52) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000193    band_wortlaut          Wortlaut weicht ab (Deckung 0.778) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000207    band_wortlaut          Wortlaut weicht ab (Deckung 0.818) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000217    band_wortlaut          Wortlaut weicht ab (Deckung 0.846) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000218    band_wortlaut          Wortlaut weicht ab (Deckung 0.636) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000220    band_wortlaut          Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000221    band_wortlaut          Wortlaut weicht ab (Deckung 0.625) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000224    band_wortlaut          Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000226    band_wortlaut          Wortlaut weicht ab (Deckung 0.818) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000239    band_wortlaut          Wortlaut weicht ab (Deckung 0.667) — Stelle einzeln ansehen
+  [PRUEFEN] BYH-0000241    band_wortlaut          Wortlaut weicht ab (Deckung 0.8) — Stelle einzeln ansehen

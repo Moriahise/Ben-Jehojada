@@ -1,0 +1,26 @@
+{
+  "traktat": "Megillah",
+  "korrekturen": [
+    {
+      "daf": "12b",
+      "n": 5,
+      "alt": "<small>[וַיִּקְרָא אֶת כָּל חַרְטֻמֵּי מִצְרַיִם וְאֶת כָּל חֲכָמֶיהָ (בראשית מא, ח)</small><small>]</small>",
+      "neu": "<small>[וַיִּקְרָא אֶת כָּל חַרְטֻמֵּי מִצְרַיִם וְאֶת כָּל חֲכָמֶיהָ (בראשית מא, ח)]</small>",
+      "grund": "Getrennte small-Tags der unveraenderten Senlake-Zusatzklammer zu einem small-Element vereinigen; nur Tags, keine Textaenderung. Bereits entsprechend bereinigter Ausgangsmaster bleibt unveraendert."
+    },
+    {
+      "daf": "13a",
+      "n": 5,
+      "alt": "<small>[</small><small>זעיר אנפין</small><small>]</small>",
+      "neu": "<small>[זעיר אנפין]</small>",
+      "grund": "Getrennte small-Tags der unveraenderten Senlake-Zusatzklammer zu einem small-Element vereinigen; nur Tags, keine Textaenderung. Bereits entsprechend bereinigter Ausgangsmaster bleibt unveraendert."
+    },
+    {
+      "daf": "14a",
+      "n": 4,
+      "alt": "<small>[ואף על פי שיש כמה תקנות וגזרות ואסורין דרבנן הנהו הוו סייג לתורה או למצוה או גדר לעבירה ואיכא אסמכתא דאורייתא דכתיב </small><small>(ויקרא יח, ל)</small><small> 'וּשְׁמַרְתֶּם אֶת מִשְׁמַרְתִּי'? הר\"ן ורבינו ישעיה הגדול כתב שמקרא מגילה נראה שהוסיפו על התורה שחייבו קריאתה כמו התורה דכתיב והגית בו. לקוטי רבינו בצלאל כתבי יד]</small>",
+      "neu": "<small>[ואף על פי שיש כמה תקנות וגזרות ואסורין דרבנן הנהו הוו סייג לתורה או למצוה או גדר לעבירה ואיכא אסמכתא דאורייתא דכתיב (ויקרא יח, ל) 'וּשְׁמַרְתֶּם אֶת מִשְׁמַרְתִּי'? הר\"ן ורבינו ישעיה הגדול כתב שמקרא מגילה נראה שהוסיפו על התורה שחייבו קריאתה כמו התורה דכתיב והגית בו. לקוטי רבינו בצלאל כתבי יד]</small>",
+      "grund": "Getrennte small-Tags der unveraenderten Senlake-Zusatzklammer zu einem small-Element vereinigen; nur Tags, keine Textaenderung. Bereits entsprechend bereinigter Ausgangsmaster bleibt unveraendert."
+    }
+  ]
+}

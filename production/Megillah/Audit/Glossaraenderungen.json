@@ -1,0 +1,91 @@
+{
+  "added_global": {
+    "חח\"ן": {
+      "he": "חָכְמָה חֶסֶד נֶצַח",
+      "en": "Hokhmah, Hesed, Netzah",
+      "alt": "Megillah BYH-0000094: vom Autor ausdruecklich aufgeloest; 4 Korpusbelege, alle in diesem Kommentar."
+    },
+    "שה\"י": {
+      "he": "שַׁבָּת הַיּוֹם",
+      "en": "Today is Shabbat",
+      "alt": "Megillah BYH-0000113: ausdrueckliche Aufloesung nach Rashi, 2 Belege im Korpus (einschliesslich Praefix ב). Kein ש + ה\"י."
+    },
+    "פה\"י": {
+      "he": "פֶּסַח הַיּוֹם",
+      "en": "Today is Pesah",
+      "alt": "Megillah BYH-0000113: ausdrueckliche Aufloesung nach Rashi, 2 Belege im Korpus."
+    },
+    "מהרלב\"ח": {
+      "he": "מוֹרֵנוּ הָרַב רַבִּי לֵוִי בֶּן חָבִיב",
+      "en": "our teacher Rabbi Levi ben Haviv",
+      "alt": "Megillah BYH-0000129: Senlake [רבי לוי בן חביב], einziger Korpusbeleg."
+    },
+    "נהי\"ם": {
+      "he": "נֶצַח הוֹד יְסוֹד מַלְכוּת",
+      "en": "Netzah, Hod, Yesod, Malkhut",
+      "alt": "Megillah BYH-0000149: Senlake [נצח, הוד, יסוד, מלכות]; 11 Belege in 6 Traktaten, einheitlich diese vier Sefirot."
+    },
+    "כה\"ת": {
+      "he": "שֵׁם כֹּל הַנְּשָׁמָה תְּהַלֵּל",
+      "en": "the holy Name formed from the initials of kol ha-neshamah tehallel",
+      "alt": "Megillah BYH-0000177: der Autor nennt die Anfangsbuchstaben aus Psalms 150:6; 6 Korpusbelege in Berakhot, Chagigah und Megillah, durchweg derselbe heilige Name."
+    },
+    "הש\"ית": {
+      "he": "הַשֵּׁם יִתְבָּרֵךְ",
+      "en": "HaShem, blessed be He",
+      "alt": "Megillah BYH-0000246: Schreibvariante von השי\"ת, einziger Beleg; im Satz ueber die an Moshe gerichtete Aussage nach dem Goldenen Kalb eindeutig."
+    },
+    "מהר\"ן": {
+      "he": "מוֹרֵנוּ הָרַב נָתָן",
+      "en": "our teacher Rabbi Natan",
+      "alt": "Megillah BYH-0000123: mit Nachnamen שפירא = R. Natan Neta Shapira; dieselbe Auslegung in Sotah mit Senlake [מורינו הרב נתן נטע] שפירא; Bava Kamma [רבי נתן נטע שפירא]. Berakhot nennt מהר\"ן ohne Nachnamen; deshalb global nur Rabbi Natan, keine automatische volle Personenidentifikation."
+    }
+  },
+  "added_scoped": {
+    "מא\"א": {
+      "he": "מְאוֹרֵי אוֹר [מגילה BYH-0000034 בלבד]",
+      "en": "Meorei Or [Megillah BYH-0000034 only]",
+      "segment_ids": [
+        "BYH-0000034"
+      ],
+      "reason": "Im selben Absatz zuerst מאורי אור ausgeschrieben; im Gesamtkorpus auch מ + אריך אנפין. Kein neuer globaler automatischer Treffer."
+    },
+    "הט\"ז": {
+      "he": "טוּרֵי זָהָב [מגילה BYH-0000247 בלבד]",
+      "en": "the Taz (Turei Zahav) [Megillah BYH-0000247 only]",
+      "segment_ids": [
+        "BYH-0000247"
+      ],
+      "reason": "Gaon-Kommentar zu Shulhan Arukh 429; im Gesamtkorpus auch die Zahl 16 (Sotah). Kein neuer globaler automatischer Treffer."
+    }
+  },
+  "english_formal_changes": {
+    "אדנ\"י": {
+      "before": "the Name Adonai",
+      "after": "the Name HaShem"
+    },
+    "בעה\"ו": {
+      "before": "with the help of God and His salvation",
+      "after": "with the help of G-d and His salvation"
+    },
+    "בעזה\"י": {
+      "before": "with the help of God, blessed be He",
+      "after": "with the help of HaShem, blessed be He"
+    },
+    "ה\"י": {
+      "before": "may God protect him",
+      "after": "may HaShem protect him"
+    },
+    "השי\"ת": {
+      "before": "God, blessed be He",
+      "after": "HaShem, blessed be He"
+    },
+    "ח\"ו": {
+      "before": "God forbid",
+      "after": "Heaven forbid"
+    }
+  },
+  "preserved_old_keys": 279,
+  "global_keys_after": 287,
+  "tsv_rows_after": 289
+}
