@@ -1,0 +1,7 @@
+== SELBSTTEST Matching-Logik ==
+  [1] verbatim + Tags + Nikud  -> Segment 1, skeleton, 1.0  OK
+  [2] eingeschobenes Wort      -> Segment 1, aligned, 1.0  OK
+  [3] kein Treffer erwartet    -> None, none, 0.0  OK
+  [4] Daf->Index (2a,4b,64a)   -> 0, 5, 124  OK
+
+  SELBSTTEST: BESTANDEN

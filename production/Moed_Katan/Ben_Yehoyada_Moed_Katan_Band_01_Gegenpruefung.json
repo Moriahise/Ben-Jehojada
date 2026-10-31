@@ -1,0 +1,31 @@
+{
+ "stats": {
+  "segmente": 69,
+  "senlake_absaetze": 69,
+  "senlake_kaputte_tags": 0,
+  "senlake_maskiertes_markup": 0,
+  "quellkorrekturen_angewandt": 0,
+  "senlake_absaetze_im_band": 69,
+  "dafim": 16,
+  "he_wortgleich": 69,
+  "ref_nachbarblatt": [
+   "BYH-0000002 daf=5a ref=Moed Katan 5b:1"
+  ],
+  "kopfband_aus_dicta": 66,
+  "kopfband_lemma_rueckfall": 3,
+  "freitext_ohne_kopfband": 0,
+  "fussnoten": 257,
+  "lemma_mehrteilig": 1
+ },
+ "befunde": {
+  "A": [],
+  "B": [],
+  "C": [],
+  "D": [],
+  "E": [],
+  "F": [],
+  "G": [
+   "BYH-0000069: כָּל הַיּוֹצֵא מִבֵּית הַכְּנֶסֶת לְבֵית הַמִּדְרָשׁ וּמִבֵּית הַמִּדְרָשׁ לְבֵית הַכְּנֶסֶת, זוֹכֶה וּמְקַבֵּל פְּנֵי שְׁכִינָה/"
+  ]
+ }
+}

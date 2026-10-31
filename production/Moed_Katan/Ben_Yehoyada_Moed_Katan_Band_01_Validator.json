@@ -1,0 +1,114 @@
+{
+  "findings": [
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000003",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000005",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000007",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.455) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000009",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.714) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000011",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.8) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000013",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.556) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000015",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000017",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.375) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000022",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.429) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000023",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000039",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000043",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.667) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000048",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.75) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000049",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.8) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000055",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.6) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000065",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.833) — Stelle einzeln ansehen"
+    },
+    {
+      "level": "PRUEFEN",
+      "id": "BYH-0000067",
+      "code": "band_wortlaut",
+      "text": "Wortlaut weicht ab (Deckung 0.667) — Stelle einzeln ansehen"
+    }
+  ],
+  "stats": {
+    "geprueft": 69,
+    "ok": 52,
+    "schwach": 17,
+    "fehlend": 0,
+    "ohne_lemma": 0
+  },
+  "segments": 69
+}
