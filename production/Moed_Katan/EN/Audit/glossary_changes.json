@@ -1,0 +1,159 @@
+{
+  "tractate": "Moed Katan",
+  "band": "01",
+  "date": "2026-11-01",
+  "instructions": [
+    "EN_Fassung1.3_20260924",
+    "Arbeitsanleitung_Fassung1.5_20261005"
+  ],
+  "existing_json_source_git_blob": "b342274224fcf48e87ff69fc6c7cf8357a6c1c6d",
+  "input_master_sha256": "78d5ca3ae42dad9fac5630bed008e88243686cf1d01e1b49d303bea8372daf86",
+  "corpus_head": "2e6b6ed7d4a314171e330c70bcaf48f2027ffec6",
+  "corpus_files_verified": 34,
+  "new_global_keys": [],
+  "contextual_abbreviations": {
+    "מהרנ\"ש": {
+      "he": "רבי נתן שפירא בן ראובן דוד הירושלמי",
+      "en": "Maharnash (R. Natan Shapira ben Reuven David of Jerusalem)",
+      "segment_ids": [
+        "BYH-0000005"
+      ],
+      "evidence": "Moed Katan, Daf 9a: unmittelbare Senlake-Erklaerung vor dem Werk Tuv HaAretz; Korpus: 2 Treffer in 2 Traktaten. Bava Batra 16a erklaert dasselbe Kuerzel als R. Natan Neta Shapira, Werk Megalleh Amukot. Deshalb nur Kontextzeile fuer Moed Katan; keine globale Hauptlesart."
+    },
+    "מהרש\"ל": {
+      "he": "רבי שמואל לאנייאדו",
+      "en": "Maharshal (R. Shemuel Laniado)",
+      "segment_ids": [
+        "BYH-0000028"
+      ],
+      "evidence": "Moed Katan, Daf 16b: unmittelbare Senlake-Erklaerung und Werk Keli Yakar. Korpus: 3 Treffer in 3 Traktaten; die anderen Belege in Berakhot 48a und Niddah 13b tragen diese Personenaufloesung nicht. Deshalb nur Kontextzeile fuer Moed Katan; keine globale Hauptlesart."
+    }
+  },
+  "tsv_formal_alignment": [
+    {
+      "abbr": "אדנ\"י",
+      "old": "the Name Adonai",
+      "new": "the Name HaShem"
+    },
+    {
+      "abbr": "בעה\"ו",
+      "old": "with the help of God and His salvation",
+      "new": "with the help of G-d and His salvation"
+    },
+    {
+      "abbr": "בעזה\"י",
+      "old": "with the help of God, blessed be He",
+      "new": "with the help of HaShem, blessed be He"
+    },
+    {
+      "abbr": "ה\"י",
+      "old": "may God protect him",
+      "new": "may HaShem protect him"
+    },
+    {
+      "abbr": "השי\"ת",
+      "old": "God, blessed be He",
+      "new": "HaShem, blessed be He"
+    },
+    {
+      "abbr": "ח\"ו",
+      "old": "God forbid",
+      "new": "Heaven forbid"
+    }
+  ],
+  "unresolved": [
+    {
+      "token": "הרי\"ף",
+      "segment_ids": [
+        "BYH-0000046"
+      ],
+      "en": "the Rif",
+      "reason": "Die beiden Moed-Katan-Quellen bestimmen den Traeger nicht; keine Festlegung auf Alfasi oder Yoshiyahu Pinto. Korpus: 72 Treffer in 22 Traktaten; keine einheitliche Personenaufloesung."
+    }
+  ],
+  "non_abbreviations": [
+    {
+      "tokens": [
+        "ההי\"ן"
+      ],
+      "segment_ids": [
+        "BYH-0000003"
+      ],
+      "kind": "Plural eines Buchstabennamens; Fuellung mit he"
+    },
+    {
+      "tokens": [
+        "דלתי\"ן"
+      ],
+      "segment_ids": [
+        "BYH-0000005"
+      ],
+      "kind": "Plural des Buchstabennamens dalet"
+    },
+    {
+      "tokens": [
+        "ט\"ו"
+      ],
+      "segment_ids": [
+        "BYH-0000006"
+      ],
+      "kind": "Zahl 15 im Kontext"
+    },
+    {
+      "tokens": [
+        "ט\"ל"
+      ],
+      "segment_ids": [
+        "BYH-0000007"
+      ],
+      "kind": "Zahl 39 im Kontext; Quellenrechnung gesondert beanstandet"
+    },
+    {
+      "tokens": [
+        "למ\"ח"
+      ],
+      "segment_ids": [
+        "BYH-0000022"
+      ],
+      "kind": "Praefix + Zahl 48; Quelle nennt fuer בול 48, Nachrechnung 38"
+    },
+    {
+      "tokens": [
+        "אב\"ג"
+      ],
+      "segment_ids": [
+        "BYH-0000032"
+      ],
+      "kind": "Wochentage 1, 2, 3; Buchstabengruppe, kein globales Akronym"
+    },
+    {
+      "tokens": [
+        "זרנטא\"ח",
+        "כ\"ס"
+      ],
+      "segment_ids": [
+        "BYH-0000032"
+      ],
+      "kind": "Arabische Woerter, vom Autor erklaert; Vokalisierung der Umschrift nicht gesichert"
+    },
+    {
+      "tokens": [
+        "שי\"ץ"
+      ],
+      "segment_ids": [
+        "BYH-0000056"
+      ],
+      "kind": "Arabisches Wort fuer unbrauchbare harte Datteln; Vokalisierung nicht gesichert"
+    },
+    {
+      "tokens": [
+        "פ\"א"
+      ],
+      "segment_ids": [
+        "BYH-0000058"
+      ],
+      "kind": "Blatt 81 im ausdruecklichen Blattkontext"
+    }
+  ],
+  "protected_master": "Keine Aenderung von he/band_he, IDs, Attributen, Ueberschriften, Reihenfolge oder Segmentzahl. Bestehende HE-Fussnoten unveraendert; keine Pipeline-Neugenerierung des Uebersetzungsmasters."
+}

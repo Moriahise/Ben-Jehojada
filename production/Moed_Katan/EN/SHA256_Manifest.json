@@ -1,0 +1,149 @@
+{
+  "note": "Manifest hasht alle Lieferdateien ausser sich selbst und dem ZIP-Paket.",
+  "files": [
+    {
+      "file": "Audit/Ausgangs_glossary_he.json",
+      "bytes": 66182,
+      "sha256": "17417301f8af3a9ae3f1f6282988418a008a81c29514527867b478165e6230d6",
+      "git_blob": "b342274224fcf48e87ff69fc6c7cf8357a6c1c6d"
+    },
+    {
+      "file": "Audit/Ausgangsglossar_Moed_Katan.tsv",
+      "bytes": 21549,
+      "sha256": "9e9f9ae3ba2cf19f65cbbd05556fae5feb9a2962aad36269f730180c42815e34",
+      "git_blob": "378c8726d3cfeb700016a03df184e1ec9362e1e5"
+    },
+    {
+      "file": "Audit/Ausgangsmaster_Moed_Katan_Band_01.txt",
+      "bytes": 182352,
+      "sha256": "78d5ca3ae42dad9fac5630bed008e88243686cf1d01e1b49d303bea8372daf86",
+      "git_blob": "bfe69c949621ed5ab1dee6a59418a8ac4d9664a5"
+    },
+    {
+      "file": "Audit/Einzelprueffaelle.json",
+      "bytes": 4900,
+      "sha256": "63367be0f5e899444aff0b01aa2df53bdaadc581286605c4e9421d4b1bb94404",
+      "git_blob": "3312798fc7349b8531a1a12085cabcc1ef0171cf"
+    },
+    {
+      "file": "Audit/Feldvergleich_EN.json",
+      "bytes": 20447,
+      "sha256": "a2d127feb9c67c784734e1cfca83baae9f8d39ed62f6b55b80e5f70601b334bd",
+      "git_blob": "a723ba24ee61e90ac3b27f0f2a224393e35aaaa9"
+    },
+    {
+      "file": "Audit/Gegenpruefung_EN_FERTIG.json",
+      "bytes": 800,
+      "sha256": "b04b33f103b7436aa1dbcd465efc5e48f098e4c38eae7f58e8a4862d90c06b17",
+      "git_blob": "4a6f6b8a43efe8b0cd287a69dbdb60e0cee6ddc3"
+    },
+    {
+      "file": "Audit/Gegenpruefung_EN_FERTIG.txt",
+      "bytes": 1164,
+      "sha256": "a1b1b2eaac3712735bc2d1f7d6971e9f716d94522faec93e502ab1a38d318894",
+      "git_blob": "ee2c3e8cf9d2d86e7ba7b47d2d701175d9554ec6"
+    },
+    {
+      "file": "Audit/Glossar_Pipeline_Neulauf.json",
+      "bytes": 5695,
+      "sha256": "8dfa3e1f3963719d1aee3ce4854d6d51d17cd1ce200d36834b8396d94793a54d",
+      "git_blob": "5e7fdfa4670960d230c701cbdacbc8db6091e6d0"
+    },
+    {
+      "file": "Audit/Pipeline_Identitaet.json",
+      "bytes": 2294,
+      "sha256": "9c1b85f333a414cf371ed3cfef147020188335b7517c806ba3ca43f78c67d966",
+      "git_blob": "9025514dd5b51577e35494ac6ab76bc2ab393936"
+    },
+    {
+      "file": "Audit/Validator_EN_FERTIG.json",
+      "bytes": 2827,
+      "sha256": "de19f44e6bac3c7a6cc92b75c91a28adc5e3d76ca379d64dd6f3aede3d262fc6",
+      "git_blob": "894d3d550dc721cd9a8c1ad0492bb02f8cb9f75a"
+    },
+    {
+      "file": "Audit/Validator_EN_FERTIG.txt",
+      "bytes": 2211,
+      "sha256": "e5ff88f725676c5bc62b8b24aef74d8b3e6aa3436e5d5ca716d304240e426239",
+      "git_blob": "fb931b8f3cf3255695dfee7e12eb7aa55ea0a3a0"
+    },
+    {
+      "file": "Audit/abbreviations_scan.json",
+      "bytes": 58118,
+      "sha256": "0782c6d00f9f95504553fa5e977d32a2bc1d00c32a718c06eb6659f7646f110e",
+      "git_blob": "c98c599c8aca87f7aab37aad2a19e036c8412d29"
+    },
+    {
+      "file": "Audit/corpus_abbreviations.json",
+      "bytes": 70578,
+      "sha256": "816fbf4552a64615fe7866dbca2b459372aba47a13e022cffbc81eb6db3ab461",
+      "git_blob": "8d8a2cc6f299a1054046984035b32da1db137367"
+    },
+    {
+      "file": "Audit/gegenpruefung_ausgang.json",
+      "bytes": 800,
+      "sha256": "b04b33f103b7436aa1dbcd465efc5e48f098e4c38eae7f58e8a4862d90c06b17",
+      "git_blob": "4a6f6b8a43efe8b0cd287a69dbdb60e0cee6ddc3"
+    },
+    {
+      "file": "Audit/gegenpruefung_ausgang.txt",
+      "bytes": 1140,
+      "sha256": "1e5bc2030a205336e67c690b3b0971feb7144bd124dfc6cbd1f6aa6352de70a1",
+      "git_blob": "ee9fc262f3d9e8610568ce30ef6f0d7261ed891a"
+    },
+    {
+      "file": "Audit/glossary_changes.json",
+      "bytes": 4495,
+      "sha256": "adbb1be13e75758896dfc70e79b813cdfaeb6c9a44f3fda3e1a3d33b238855f1",
+      "git_blob": "bf2f48b27a649de9216a072979efb6bc781f6cc6"
+    },
+    {
+      "file": "Audit/numerical_audit.json",
+      "bytes": 7441,
+      "sha256": "7ac57f3ba84df03ba19d8c4831beaf8b495659b27038d733dc0a9841ec554fa4",
+      "git_blob": "66315a0952dcf7cf1d371695fa697eb9b7f72e59"
+    },
+    {
+      "file": "Audit/validator_ausgang.json",
+      "bytes": 2827,
+      "sha256": "de19f44e6bac3c7a6cc92b75c91a28adc5e3d76ca379d64dd6f3aede3d262fc6",
+      "git_blob": "894d3d550dc721cd9a8c1ad0492bb02f8cb9f75a"
+    },
+    {
+      "file": "Audit/validator_ausgang.txt",
+      "bytes": 2187,
+      "sha256": "dd5bf44ed45c098ff30e401c63e8131001271091b9eed239ad64edd2441a8e86",
+      "git_blob": "67889bd426e9a4a180cf01aa07675de7f103480b"
+    },
+    {
+      "file": "Audit/verify_master.py",
+      "bytes": 4952,
+      "sha256": "8edad34cff785a4ac7fe9fc583100907a15fda229b28a6322dcc3713988b44ac",
+      "git_blob": "cbc2d44dc785be14cf3a4fa811f35b1fbc204330"
+    },
+    {
+      "file": "Ben_Yehoyada_Moed_Katan_Band_01_Aenderungs_Pruefbericht.md",
+      "bytes": 15477,
+      "sha256": "99c082dbf47945246841f9bdf3cf2d9297d62378fa31e3436bbc964ed89e69c7",
+      "git_blob": "23f765ae7fad5e39c39bd63250733d8dc6fa98f0"
+    },
+    {
+      "file": "Ben_Yehoyada_Moed_Katan_Band_01_BILINGUAL_EN_FERTIG.txt",
+      "bytes": 323218,
+      "sha256": "6d9df5e2b4a3cf8c6b3ea7ac71294159bce0c8001ef909c5dd8fe2012ad716b9",
+      "git_blob": "bd39cd07f09eef57b9de8aeefec0865f1f8b58fd"
+    },
+    {
+      "file": "Ben_Yehoyada_Moed_Katan_GLOSSAR.tsv",
+      "bytes": 22882,
+      "sha256": "768b37d2293c813b7224bc3d0f741fd942ef539f5f920b190a465e1912c2b34f",
+      "git_blob": "8b20644a4f0afa8cce27b8eeccdb0bae1205a8f3"
+    },
+    {
+      "file": "glossary_he.json",
+      "bytes": 72095,
+      "sha256": "577990e9da5fa5a10520e617c293360a07d715eeafac31375a9e04a2a414e2a6",
+      "git_blob": "a21530a3eb481c3eb8f14de95fe92e1703994d92"
+    }
+  ]
+}
