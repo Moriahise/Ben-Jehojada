@@ -1,0 +1,82 @@
+[
+  {
+    "id": "BYH-0000002",
+    "type": "Quellenzuordnung",
+    "finding": "daf=5a bei ref=Moed Katan 5b:1; bereits im Ausgangsmaster. Gegenpruefung meldet Nachbarblatt, A–F bleiben ohne Befund. Attribute nicht geaendert."
+  },
+  {
+    "id": "BYH-0000003",
+    "type": "Rechnung",
+    "finding": "86 + 295 = 381; ישע hat 380. Die Gleichsetzung des Autors ist erhalten, nicht berichtigt."
+  },
+  {
+    "id": "BYH-0000006",
+    "type": "Bezugsumfang",
+    "finding": "Der erste Satz spricht von 24 Versen im Psalm „Remember, HaShem, for David“. Erst anschliessend nennt der Autor Psalmen 132, 133 und 134 gemeinsam: 18 + 3 + 3 = 24. Diese Abfolge und ihre anfaengliche Verkuerzung bleiben erhalten."
+  },
+  {
+    "id": "BYH-0000007",
+    "type": "Buchstabenzahl",
+    "finding": "Die ausgeschriebene Formel שאו שערים ראשיכם והנשאו פתחי עולם ויבוא מלך הכבוד hat 41 Buchstaben. Der Autor nennt 39; כוזו hat tatsaechlich den Zahlwert 39. Keine stille Angleichung."
+  },
+  {
+    "id": "BYH-0000008",
+    "type": "Vokalrechnung",
+    "finding": "לב = 32, בן = 52. Unter der ueblichen Punktwertung Segol = 30 ergibt sich 62; mit Zere = 20 waeren es 52. Der Autor schreibt ausdruecklich Segol und spricht danach ueber Zere. Konvention/Lesart bleibt Prueffall."
+  },
+  {
+    "id": "BYH-0000012",
+    "type": "Quellenwortlaut",
+    "finding": "Der boese Trieb wird im erhaltenen HE-Text als Hausherr „בעולם הבא בגוף האדם“ bezeichnet. EN erhaelt „in the World to Come within the human body“; ein moeglicher Schreibfehler הבא/הזה wird nicht repariert."
+  },
+  {
+    "id": "BYH-0000016",
+    "type": "Namensvariante",
+    "finding": "Kopfband: Adda der Fischer; im Autorenkommentar spaeter Abba der Fischer. Beide Namen bleiben entsprechend der jeweiligen Quelle erhalten."
+  },
+  {
+    "id": "BYH-0000022",
+    "type": "Rechnung",
+    "finding": "בול = 38; der Autor schreibt 48 und verbindet dies mit den 48 Erwerbsweisen der Torah. EN erhaelt 48. Keine Korrektur von HE oder Autorenbehauptung."
+  },
+  {
+    "id": "BYH-0000028",
+    "type": "Namensvariante",
+    "finding": "Kopfband: Zutra bar Toviyya; der Kommentar spricht von Mar Zutra. Beide Formen bleiben erhalten. מהרש\"ל wird hier ausschliesslich als der ausdruecklich belegte R. Shemuel Laniado gelesen."
+  },
+  {
+    "id": "BYH-0000032",
+    "type": "Arabische Woerter",
+    "finding": "זרנטא\"ח und כ\"ס sind im Kontext keine Abkuerzungen. Der Autor erklaert Wurm bzw. Salat. Die lateinischen Formen zarnatah/khass sind Umschriften; die genaue Vokalisierung von זרנטא\"ח ist in den beiden Quellen nicht gesichert."
+  },
+  {
+    "id": "BYH-0000034",
+    "type": "Namensverweis",
+    "finding": "Der Autorenkommentar nennt in der wiederaufgenommenen Frauengeschichte Rabbi Natan, waehrend BYH-0000027 Rav Nahman nennt. EN erhaelt Rabbi Natan an dieser Stelle; keine Harmonisierung."
+  },
+  {
+    "id": "BYH-0000046",
+    "type": "Offenes Kuerzel",
+    "finding": "הרי\"ף wird nur als „the Rif“ wiedergegeben. Die Quellen legen hier weder R. Yitzhak Alfasi noch R. Yoshiyahu Pinto sicher fest; keine erfundene Personenfussnote."
+  },
+  {
+    "id": "BYH-0000048",
+    "type": "Vom Autor beanstandete Zuordnung",
+    "finding": "Der Autor selbst unterscheidet Rav Huna, den Exilarchen zur Zeit Rabbis, von Rav Huna, Ravs Schueler und Rav Hisdas Lehrer, und vermutet einen Kopistenfehler. Diese Kritik wird uebersetzt; die Zuordnung wird nicht eigenmaechtig repariert."
+  },
+  {
+    "id": "BYH-0000056",
+    "type": "Klammerlesart und Umschrift",
+    "finding": "Kopfband enthaelt die Varianten (למחלציא) [למחצליא]; EN bietet (smooth) [like mats]. Die genaue Nuance der ersten Klammerlesart bleibt sprachlicher Prueffall. שי\"ץ ist das vom Autor erklaerte arabische Wort fuer harte, unbrauchbare Datteln, kein Akronym; Umschrift shitz ohne gesicherte Vokalisierung."
+  },
+  {
+    "id": "BYH-0000064",
+    "type": "Pronomen der Quelle",
+    "finding": "Im Autorenkommentar steht beim Gespraech mit dem Todesengel אמר לה, „told her“. EN erhaelt dieses Pronomen; keine Angleichung an andere Fassungen der erwaehnten Geschichte."
+  },
+  {
+    "id": "BYH-0000069",
+    "type": "Mehrteiliges Lemma / Buchstabenspiel",
+    "finding": "G-Sichtliste: Das vorhandene aus mehreren fetten Stuecken gewonnene HE-Lemma enthaelt nur die Talmudstelle; der abschliessende Schraegstrich bleibt im geschuetzten HE erhalten. EN enthaelt genau ein wortgleiches Lemma. Erste Fuellung mit הא: 207; zweite mit הה: 211 = פני הודנו. Der Wechsel ist in Quelle und EN erhalten. Der Autor nennt die Buchstaben von תל כוס „vor“ שכינה; alphabetische Nachfolger ergeben תלכסו, dessen Buchstaben sich zu תלכוס umstellen lassen. Die Richtungs-/Umstellungsformulierung des Autors bleibt ungeaendert."
+  }
+]
