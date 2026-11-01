@@ -1,0 +1,10 @@
+{
+  "original_sha256": "631f1fc252e11a638e5370a5789bcd82618493d96bf05215584306726426d3ea",
+  "translated_sha256": "b5d29fb89cb5e20b6f4a5e0d823e163e273dca4c234a3c2d32796a77691f41b7",
+  "segments": 120,
+  "filled_en": 120,
+  "filled_band_en": 120,
+  "protected_bytes_equal": true,
+  "findings": [],
+  "exit_code": 0
+}
