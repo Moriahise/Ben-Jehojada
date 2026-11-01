@@ -1,0 +1,443 @@
+[
+  {
+    "id": "BYH-0000001",
+    "expression": "סר = עין עין",
+    "calculated": 260,
+    "compared_value": 260,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000001",
+    "expression": "כרם = עין עין",
+    "calculated": 260,
+    "compared_value": 260,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000001",
+    "expression": "5*26 = עין",
+    "calculated": 130,
+    "compared_value": 130,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000020",
+    "expression": "3*אלף למד = תקנה",
+    "calculated": 555,
+    "compared_value": 555,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "מיכאל = 101",
+    "calculated": 101,
+    "compared_value": 101,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "י־ה אלהים = 101",
+    "calculated": 101,
+    "compared_value": 101,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "מס = 100",
+    "calculated": 100,
+    "compared_value": 100,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "פוטה = 100",
+    "calculated": 100,
+    "compared_value": 100,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "מס+פוטה = מסמס",
+    "calculated": 200,
+    "compared_value": 200,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "משה additional letters = 101",
+    "calculated": 101,
+    "compared_value": 101,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000048",
+    "expression": "פורה = רצא = ארץ",
+    "calculated": 291,
+    "compared_value": 291,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000051",
+    "expression": "4*(26+21) = 188",
+    "calculated": 188,
+    "compared_value": 188,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000051",
+    "expression": "פקח = 188",
+    "calculated": 188,
+    "compared_value": 188,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000051",
+    "expression": "2*188 = שלום",
+    "calculated": 376,
+    "compared_value": 376,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000052",
+    "expression": "לף לף = פלפל",
+    "calculated": 220,
+    "compared_value": 220,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000056",
+    "expression": "רקיע - ארץ = גוף",
+    "calculated": 89,
+    "compared_value": 89,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000056",
+    "expression": "סג + four-letter root 26 = גוף",
+    "calculated": 89,
+    "compared_value": 89,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000057",
+    "expression": "final mem 600 - mem 40 = מי מנוחות",
+    "calculated": 560,
+    "compared_value": 560,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000061",
+    "expression": "אור מלאכים = שמח",
+    "calculated": 348,
+    "compared_value": 348,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000066",
+    "expression": "paired-letter product 10*1+5*4+6*50+5*10 = רקיע",
+    "calculated": 380,
+    "compared_value": 380,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000069",
+    "expression": "טוב = אוי",
+    "calculated": 17,
+    "compared_value": 17,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000069",
+    "expression": "לב = וי וי",
+    "calculated": 32,
+    "compared_value": 32,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000071",
+    "expression": "מם = יסוד",
+    "calculated": 80,
+    "compared_value": 80,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000075",
+    "expression": "חוט של חסד = כהת",
+    "calculated": 425,
+    "compared_value": 425,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000075",
+    "expression": "5*אלהים - 5 = 425",
+    "calculated": 425,
+    "compared_value": 425,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000076",
+    "expression": "שקר = 600",
+    "calculated": 600,
+    "compared_value": 600,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000076",
+    "expression": "26+65 = גחלים",
+    "calculated": 91,
+    "compared_value": 91,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000077",
+    "expression": "נבוכדנצר = בצל נמרוד",
+    "calculated": 422,
+    "compared_value": 422,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000077",
+    "expression": "נבוכדנצר = ירד בור",
+    "calculated": 422,
+    "compared_value": 422,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000080",
+    "expression": "דבש חלב = רצון",
+    "calculated": 346,
+    "compared_value": 346,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000081",
+    "expression": "חשמל = מלבוש",
+    "calculated": 378,
+    "compared_value": 378,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000083",
+    "expression": "הכפרי = יצירה",
+    "calculated": 315,
+    "compared_value": 315,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000085",
+    "expression": "גערה = claimed 279",
+    "calculated": 278,
+    "compared_value": 279,
+    "matches": false
+  },
+  {
+    "id": "BYH-0000085",
+    "expression": "שור - claimed 279 = כרוב",
+    "calculated": 227,
+    "compared_value": 228,
+    "matches": false
+  },
+  {
+    "id": "BYH-0000085",
+    "expression": "רחמים = 298",
+    "calculated": 298,
+    "compared_value": 298,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000085",
+    "expression": "רחמים = אך גערה",
+    "calculated": 298,
+    "compared_value": 299,
+    "matches": false
+  },
+  {
+    "id": "BYH-0000089",
+    "expression": "added letters of נון הה ריש = שינה",
+    "calculated": 371,
+    "compared_value": 365,
+    "matches": false
+  },
+  {
+    "id": "BYH-0000089",
+    "expression": "added letters of נון הה ריש = יש הון",
+    "calculated": 371,
+    "compared_value": 371,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000090",
+    "expression": "אלהים = הכסא",
+    "calculated": 86,
+    "compared_value": 86,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000090",
+    "expression": "אלף למד הי יוד מם = 300",
+    "calculated": 300,
+    "compared_value": 300,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000090",
+    "expression": "5*56 = פר",
+    "calculated": 280,
+    "compared_value": 280,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000090",
+    "expression": "שרפרף = ש + פר פר",
+    "calculated": 860,
+    "compared_value": 860,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000092",
+    "expression": "sum 1..18 = עקא",
+    "calculated": 171,
+    "compared_value": 171,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000092",
+    "expression": "sum 1..19 = קץ",
+    "calculated": 190,
+    "compared_value": 190,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000103",
+    "expression": "בית יעקוב = 600",
+    "calculated": 600,
+    "compared_value": 600,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000103",
+    "expression": "2*מצפץ = 600",
+    "calculated": 600,
+    "compared_value": 600,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000103",
+    "expression": "יצירה עשיה = 700",
+    "calculated": 700,
+    "compared_value": 700,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000103",
+    "expression": "צדקות = 600",
+    "calculated": 600,
+    "compared_value": 600,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000109",
+    "expression": "ודאי = אהיה",
+    "calculated": 21,
+    "compared_value": 21,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000116",
+    "expression": "מים-1-אלהים = 3",
+    "calculated": 3,
+    "compared_value": 3,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000118",
+    "expression": "72+130 = רב",
+    "calculated": 202,
+    "compared_value": 202,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000118",
+    "expression": "אלישע - רב = אחר",
+    "calculated": 209,
+    "compared_value": 209,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000120",
+    "expression": "פוגלא = 120",
+    "calculated": 120,
+    "compared_value": 120,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000121",
+    "expression": "אגוז = טוב = חט",
+    "calculated": 17,
+    "compared_value": 17,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000128",
+    "expression": "interior of ריש מים ואו נון = 27",
+    "calculated": 27,
+    "compared_value": 27,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000131",
+    "expression": "דממה+1 = צ",
+    "calculated": 90,
+    "compared_value": 90,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000134",
+    "expression": "שך + ינה = שכינה",
+    "calculated": 385,
+    "compared_value": 385,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000134",
+    "expression": "ינה = 65",
+    "calculated": 65,
+    "compared_value": 65,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000136",
+    "expression": "אלוף = אל פו",
+    "calculated": 117,
+    "compared_value": 117,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000142",
+    "expression": "שלחן = יכפר כמזבח+1",
+    "calculated": 388,
+    "compared_value": 388,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000146",
+    "expression": "עץ = סימן",
+    "calculated": 160,
+    "compared_value": 160,
+    "matches": true
+  },
+  {
+    "id": "BYH-0000146",
+    "expression": "זהב = claimed 17",
+    "calculated": 14,
+    "compared_value": 17,
+    "matches": false
+  },
+  {
+    "id": "BYH-0000146",
+    "expression": "עץ זהב = סימן טוב",
+    "calculated": 174,
+    "compared_value": 177,
+    "matches": false
+  }
+]

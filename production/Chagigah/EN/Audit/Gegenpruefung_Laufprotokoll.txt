@@ -1,0 +1,25 @@
+Exit code: 0
+== GEGENPRUEFUNG == /workspace/scratch/73bfa1f941c9/deliverables/Ben_Yehoyada_Chagigah_Band_01_BILINGUAL_EN_FERTIG.txt
+segmente                  : 146
+senlake_absaetze          : 146
+senlake_kaputte_tags      : 0
+senlake_maskiertes_markup : 0
+quellkorrekturen_angewandt: 0
+senlake_absaetze_im_band  : 146
+dafim                     : 24
+he_wortgleich             : 146
+ref_nachbarblatt          : 1
+      BYH-0000121 daf=15a ref=Chagigah 15b:10
+kopfband_aus_dicta        : 145
+kopfband_lemma_rueckfall  : 1
+freitext_ohne_kopfband    : 0
+fussnoten                 : 501
+lemma_mehrteilig          : 1
+A Struktur                        : OK
+B Hebraeischer Text vollstaendig  : OK
+C Kopfband aus Dicta              : OK
+D Fussnoten                       : OK
+E Uebersetzungsfelder             : OK
+F Tag-Ausgleich                   : OK
+G Lemma-Sichtliste (HINWEIS)      : 1 Lemma(ta) aus mehreren fetten Stuecken — bitte ansehen
+        BYH-0000146: פּוֹשְׁעֵי יִשְׂרָאֵל, שֶׁמְּלֵאִים מִצְווֹת כְּרִמּוֹן.

@@ -1,0 +1,31 @@
+{
+ "stats": {
+  "segmente": 146,
+  "senlake_absaetze": 146,
+  "senlake_kaputte_tags": 0,
+  "senlake_maskiertes_markup": 0,
+  "quellkorrekturen_angewandt": 0,
+  "senlake_absaetze_im_band": 146,
+  "dafim": 24,
+  "he_wortgleich": 146,
+  "ref_nachbarblatt": [
+   "BYH-0000121 daf=15a ref=Chagigah 15b:10"
+  ],
+  "kopfband_aus_dicta": 145,
+  "kopfband_lemma_rueckfall": 1,
+  "freitext_ohne_kopfband": 0,
+  "fussnoten": 501,
+  "lemma_mehrteilig": 1
+ },
+ "befunde": {
+  "A": [],
+  "B": [],
+  "C": [],
+  "D": [],
+  "E": [],
+  "F": [],
+  "G": [
+   "BYH-0000146: פּוֹשְׁעֵי יִשְׂרָאֵל, שֶׁמְּלֵאִים מִצְווֹת כְּרִמּוֹן."
+  ]
+ }
+}

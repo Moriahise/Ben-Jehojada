@@ -1,0 +1,36 @@
+{
+  "original_sha256": "38ccab7eccb357901510da8846b1f51e8799d4dc6db36dbf40bf9785a640a06c",
+  "translated_sha256": "99cf2b29d726a2cb3217df0d376affe42456dca63971c22ae9a48f9ca23e691c",
+  "segments": 146,
+  "filled_en": 146,
+  "filled_band_en": 146,
+  "protected_bytes_equal": true,
+  "findings": [
+    {
+      "id": "BYH-0000040",
+      "code": "lemma_band_mismatch",
+      "detail": "He would spend one day at his lodging and one day in the academy."
+    },
+    {
+      "id": "BYH-0000061",
+      "code": "lemma_band_mismatch",
+      "detail": "He arose and hid it for the righteous."
+    },
+    {
+      "id": "BYH-0000068",
+      "code": "lemma_band_mismatch",
+      "detail": "‘Heaven and earth’ are names of the Holy One, blessed be He."
+    },
+    {
+      "id": "BYH-0000089",
+      "code": "lemma_band_mismatch",
+      "detail": "These are Torah scholars who constrain themselves from sleep over words of Torah in this world; the Holy One, blessed be He, reveals to them the secret of the river in the World to Come."
+    },
+    {
+      "id": "BYH-0000121",
+      "code": "lemma_band_mismatch",
+      "detail": "Why are words of Torah compared to a nut? To tell you: Just as a nut, though soiled with mud and excrement, has contents that do not become repulsive, so a Torah scholar, though he sins, has Torah that does not become repulsive."
+    }
+  ],
+  "exit_code": 1
+}

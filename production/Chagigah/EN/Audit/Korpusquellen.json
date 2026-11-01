@@ -1,0 +1,215 @@
+{
+  "commit": "f46a74b0a241c16d25d2bfaf0a45664ea00a32f6",
+  "files": [
+    {
+      "path": "Ben Yehoyada on Arakhin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "b6158558ae6ea63738be32f9b3193c3c89585313",
+      "actual_sha": "b6158558ae6ea63738be32f9b3193c3c89585313",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Avodah Zarah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+      "actual_sha": "b13e4e987534b560119289e3b97cc84c677f8993",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Bava Batra - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+      "actual_sha": "53ca7773fe8016c0b0f284f7502c9ae883b62269",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Bava Kamma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "a005f40002d337cca8e3721279aea0891ec88caf",
+      "actual_sha": "a005f40002d337cca8e3721279aea0891ec88caf",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Bava Metzia - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "85e7f4722d6ff71163b08963c14e4d34c243b4cf",
+      "actual_sha": "85e7f4722d6ff71163b08963c14e4d34c243b4cf",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Beitzah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "c68830cb4d9de331f1fde01575f2e6212a15adb6",
+      "actual_sha": "c68830cb4d9de331f1fde01575f2e6212a15adb6",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Bekhorot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "24b2028727b13e88c809e96c440e15b2e1bc9ef9",
+      "actual_sha": "24b2028727b13e88c809e96c440e15b2e1bc9ef9",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Chagigah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "2c2cd66ff0a6bf8eeec4fee2c0e15b61b60333d0",
+      "actual_sha": "2c2cd66ff0a6bf8eeec4fee2c0e15b61b60333d0",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Chullin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "3d89ff4ae7f8388b769a801a2e01fb8073c58007",
+      "actual_sha": "3d89ff4ae7f8388b769a801a2e01fb8073c58007",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Eduyot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "a98af2cfdd1b13a027b5f1f189eb24ab5be168ff",
+      "actual_sha": "a98af2cfdd1b13a027b5f1f189eb24ab5be168ff",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Eruvin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+      "actual_sha": "236a9cb6b9b95e98f397aea647137824c928e84f",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Gittin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "8adc8493fea3608b7df4bc46d64ced27ed236589",
+      "actual_sha": "8adc8493fea3608b7df4bc46d64ced27ed236589",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Horayot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "0b4bb88968f2954d4221e5a5ce6a5c8194b5f311",
+      "actual_sha": "0b4bb88968f2954d4221e5a5ce6a5c8194b5f311",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Ketubot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "93c61c3964386059e956ad29a016cfb0d93dd3ad",
+      "actual_sha": "93c61c3964386059e956ad29a016cfb0d93dd3ad",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Kiddushin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "2225a630630f82a2113dc6b7eb9238007b5dde9d",
+      "actual_sha": "2225a630630f82a2113dc6b7eb9238007b5dde9d",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Makkot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "de835912fd183358fe24ed2fcba27871f771e8ee",
+      "actual_sha": "de835912fd183358fe24ed2fcba27871f771e8ee",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Megillah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+      "actual_sha": "19048e384e698b11c8469ed43cd8545780a5b416",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Menachot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "c1e897d339caf3be21b6e3b87a198b49b3a479df",
+      "actual_sha": "c1e897d339caf3be21b6e3b87a198b49b3a479df",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Moed Katan - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "2dc3908d4b5372a0aa28cd1b142357f7d1cd7c88",
+      "actual_sha": "2dc3908d4b5372a0aa28cd1b142357f7d1cd7c88",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Nazir - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "88d71e96d92941728c55dfc7955cddb543589bb0",
+      "actual_sha": "88d71e96d92941728c55dfc7955cddb543589bb0",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Nedarim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "0df4c40faeca3533150fc0f5909d1b82c927abd4",
+      "actual_sha": "0df4c40faeca3533150fc0f5909d1b82c927abd4",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Niddah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "dad1a2153784c9ad7b5cd89ffab3fca68ba76c0d",
+      "actual_sha": "dad1a2153784c9ad7b5cd89ffab3fca68ba76c0d",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Pesachim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "0ae3e9bb2d596324977f2120f529c8d6fe6f729f",
+      "actual_sha": "0ae3e9bb2d596324977f2120f529c8d6fe6f729f",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Rosh Hashanah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "cde0fe15971c9174f21f33b12d5d726f4baa3b2b",
+      "actual_sha": "cde0fe15971c9174f21f33b12d5d726f4baa3b2b",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Shevuot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "806437777b652a54d69b4187e7ce6898672d8f2f",
+      "actual_sha": "806437777b652a54d69b4187e7ce6898672d8f2f",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Sotah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+      "actual_sha": "838107f0a2d5bbf943ac93339cad8860a6e778a3",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Sukkah - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "d265806546e5cec9962d0de3d34fa7b63434bc0b",
+      "actual_sha": "d265806546e5cec9962d0de3d34fa7b63434bc0b",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Taanit - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "ee8ee099dca64f7a318c3ed5ebf39bf36eb829e7",
+      "actual_sha": "ee8ee099dca64f7a318c3ed5ebf39bf36eb829e7",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Yevamot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "09ff2bbc2941bcae32e81d524f64e14f63f772e6",
+      "actual_sha": "09ff2bbc2941bcae32e81d524f64e14f63f772e6",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Yoma - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "21ddf1e77fedfcf7e090b5cc3dbc6e02687f99e8",
+      "actual_sha": "21ddf1e77fedfcf7e090b5cc3dbc6e02687f99e8",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Zevachim - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "b7161f69614618a2ca9c51552d5f8ce629af4e03",
+      "actual_sha": "b7161f69614618a2ca9c51552d5f8ce629af4e03",
+      "match": true
+    },
+    {
+      "path": "Ben Yehoyada on Berakhot - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+      "actual_sha": "886255edd3250e7d913ee291a9181e443b3e47b0",
+      "match": true,
+      "access": "fetch_blob",
+      "length": 772564
+    },
+    {
+      "path": "Ben Yehoyada on Sanhedrin - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+      "actual_sha": "20f667d027fae122de0f62d5b828e8a60a995ed8",
+      "match": true,
+      "access": "fetch_blob",
+      "length": 834666
+    },
+    {
+      "path": "Ben Yehoyada on Shabbat - he - Senlake edition 2019 based on Ben Yehoyada, Jerusalem, 1897.txt",
+      "expected_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+      "actual_sha": "1dbb4102186254dbdcdf07d9bf6f04afd59ccf24",
+      "match": true,
+      "access": "fetch_blob",
+      "length": 642273
+    }
+  ]
+}

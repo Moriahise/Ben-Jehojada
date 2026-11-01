@@ -1,0 +1,39 @@
+{
+  "segments": 146,
+  "filled_en": 146,
+  "filled_band_en": 146,
+  "protected_bytes_unchanged": true,
+  "original_sha256": "38ccab7eccb357901510da8846b1f51e8799d4dc6db36dbf40bf9785a640a06c",
+  "output_sha256": "99cf2b29d726a2cb3217df0d376affe42456dca63971c22ae9a48f9ca23e691c",
+  "lemma_errors": [
+    {
+      "id": "BYH-0000040",
+      "english_lemma": "He would spend one day at his lodging and one day in the academy.",
+      "band_en": "… Idi, father of Rabbi Yaakov bar Idi, would customarily spend three months on the road and one day in the academy. The Rabbis called him the one-day academy student. He was distressed and applied to himself: ‘I shall be a laughingstock to my fellow,’ etc. Rabbi Yohanan said to him: Please, do not punish …"
+    },
+    {
+      "id": "BYH-0000061",
+      "english_lemma": "He arose and hid it for the righteous.",
+      "band_en": "As Rabbi Elazar said: With the light the Holy One, blessed be He, created on the first day, a person could see from one end of the world to the other. When the Holy One, blessed be He, looked at the generation of the Flood and the generation of the Dispersion and saw their corrupt deeds, He arose and hid it from them, as it is stated: ‘Their light is withheld from the wicked.’"
+    },
+    {
+      "id": "BYH-0000068",
+      "english_lemma": "‘Heaven and earth’ are names of the Holy One, blessed be He.",
+      "band_en": "… twenty-two years, and he expounded every et in the Torah. What did he expound concerning ‘et heaven and et earth’? He replied: Had it said ‘heaven and earth,’ I would have said that heaven is a name of the Holy One, blessed be He. Now that it says ‘et heaven and et earth,’ heaven means actual heaven, and earth means actual earth."
+    },
+    {
+      "id": "BYH-0000089",
+      "english_lemma": "These are Torah scholars who constrain themselves from sleep over words of Torah in this world; the Holy One, blessed be He, reveals to them the secret of the river in the World to Come.",
+      "band_en": "Rav Nahman bar Yitzhak said: ‘Those who were contracted’ is written as a blessing. These are Torah scholars who constrain themselves over words of Torah in this world; the Holy One, blessed be He, reveals a secret to them in the World to Come, as it is stated: ‘A river shall be poured upon their foundation.’"
+    },
+    {
+      "id": "BYH-0000121",
+      "english_lemma": "Why are words of Torah compared to a nut? To tell you: Just as a nut, though soiled with mud and excrement, has contents that do not become repulsive, so a Torah scholar, though he sins, has Torah that does not become repulsive.",
+      "band_en": "… Rava expounded: What is the meaning of ‘I descended to the nut garden to see the green shoots of the valley,’ etc.? Why are Torah scholars compared to a nut? To tell you: Just as a nut, though soiled with mud and excrement, has contents that do not become repulsive, so a Torah scholar, though he sins, has Torah that does not become repulsive."
+    }
+  ],
+  "other_english_errors": [],
+  "lemma_matches": 141,
+  "section_count": 24,
+  "cdata_fields": 584
+}
