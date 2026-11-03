@@ -1,0 +1,70 @@
+{
+ "_zweck": "Aussagen des gedruckten Buches ueber seinen eigenen Umfang. oyc_abschnitte.py prueft jeden JSON-Abschnitt dagegen.",
+ "belege": [
+  {
+   "seq": 8,
+   "fl_id": "FL244210717",
+   "art": "umfang",
+   "stelle": "הקדמה של המחבר נר\"ו, Schlussabsatz vor der Unterschrift",
+   "buecher": [
+    "Bereshit",
+    "Shemot"
+   ],
+   "zitat": "אמנם מן ההלכות לא הבאתי בספר הזה אלא רק הלכות שנה ראשונה על ספר בראשית וספר שמות בלבד, ואם יעזור השי\"ת בחסדו יזכני להדפיס אח\"ז שארית הלכות שנה ראשונה וגם הלכות שנה שניה אשר לא הובאו בספר הזה:",
+   "erfasst": "visuell vom Scan, 03.11.2026",
+   "befund_scan": "Trotz der Vorrede sind Halakhot zu ויקרא, צו, במדבר und שופטים gedruckt (Scan S. 402–412, visuell geprüft 03.11.2026)."
+  },
+  {
+   "seq": 322,
+   "art": "befund",
+   "abschnitt": "Bereshit",
+   "text": "Vorwort \"אלו הם ההלכות…\" (Sefaria Bereshit 1:1) steht vor der Überschrift בראשית und gehört zum ganzen Halakhot-Teil; die Absätze 1:2–1:4 (כתב רבינו הרש\"ש / ועל / ועל) stehen ohne Ordnungsbuchstaben vor \"א' צריך\" (1:5). Sefaria-Ot 1 = Vorwort + Vorbemerkung + Ot א. Entschieden 03.11.2026: im Band drei Segmente (gliederung.json)."
+  },
+  {
+   "seq": 376,
+   "art": "befund",
+   "text": "Kolumnentitel \"וארא\" falsch gedruckt; Text gehört zu Shemot."
+  },
+  {
+   "seq": 404,
+   "art": "befund",
+   "text": "Kolumnentitel \"במדבר\" falsch gedruckt; Text gehört zu Tzav."
+  },
+  {
+   "seq": 406,
+   "art": "befund",
+   "text": "Kolumnentitel \"צו\" falsch gedruckt; Text gehört zu Bamidbar."
+  },
+  {
+   "seq": 394,
+   "art": "befund",
+   "abschnitt": "Purim",
+   "text": "Im Druck \"שייך להלכות פורים בפ' תצוה\" innerhalb von Tetzaveh (א' מדינות, ב' הקורא); Sefaria führt Purim als eigenen Abschnitt. Entschieden 03.11.2026: im Band wie im Druck unter Tetzaveh (gliederung.json)."
+  },
+  {
+   "seq": 413,
+   "art": "befund",
+   "text": "S. 413–415 \"לוח הטעיות והשמטות\" (Druckfehlerverzeichnis, טעות/תיקון). Sefaria-Fassung nennt \"incorporation of corrigenda\" – Einarbeitung stichprobenartig gegen diese Liste prüfen; berechtigte Korrekturen nach textkorrekturen.json."
+  },
+  {
+   "seq": 412,
+   "art": "befund",
+   "abschnitt": "Shoftim",
+   "text": "Letzte gedruckte Ot נ\"א = 51 = JSON. Ebenso Bereshit (S. 323): letzte Ot יא = 11 = JSON."
+  },
+  {
+   "seq": 311,
+   "art": "befund",
+   "text": "Zweiter Buchteil (מראות יחזקאל S. 311–321, Halakhot S. 322–412, Druckfehlerverzeichnis S. 413–415) eigens foliiert: Blatt n auf Scanseite 311+2(n-1)."
+  },
+  {
+   "seq": 378,
+   "art": "befund",
+   "abschnitt": "Vaera",
+   "ot_leer_bestaetigt": [
+    3
+   ],
+   "text": "Der Druck zählt in Vaera ב' (S. 378 \"כתב עוד רז\"ל\") direkt weiter zu ד' (S. 379 \"אע\"ג דצריך\"); ein ג' fehlt im Druck. Sefaria-Ot 3 ist deshalb leer – kein Textverlust; n = gedruckte Zählung beibehalten."
+  }
+ ]
+}
