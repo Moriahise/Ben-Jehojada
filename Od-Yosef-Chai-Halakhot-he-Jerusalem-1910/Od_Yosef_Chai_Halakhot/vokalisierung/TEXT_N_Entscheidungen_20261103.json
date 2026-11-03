@@ -1,0 +1,74 @@
+[
+  {
+    "ref": "Bereshit 11:1",
+    "wort_nr": "166",
+    "art": "TEXT_N",
+    "basis": "ערך",
+    "nakdan": "עָרַף",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 323; Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 323,
+    "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
+  },
+  {
+    "ref": "Vayeshev 8:5",
+    "wort_nr": "71",
+    "art": "TEXT_N",
+    "basis": "החסד",
+    "nakdan": "הֶחָסֵר",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 344,
+    "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
+  },
+  {
+    "ref": "Vayeshev 8:5",
+    "wort_nr": "109",
+    "art": "TEXT_N",
+    "basis": "שמענו",
+    "nakdan": "שְׁמָעֵנִי",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 344,
+    "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
+  },
+  {
+    "ref": "Vayeshev 8:5",
+    "wort_nr": "120",
+    "art": "TEXT_N",
+    "basis": "יכוין",
+    "nakdan": "יִכְיֹּוֽן",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 344,
+    "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
+  },
+  {
+    "ref": "Vayechi 16:2",
+    "wort_nr": "106",
+    "art": "TEXT_N",
+    "basis": "תפלה",
+    "nakdan": "הַפָּלָה",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 372; Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 372,
+    "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
+  },
+  {
+    "ref": "Vayechi 16:2",
+    "wort_nr": "137",
+    "art": "TEXT_N",
+    "basis": "וכמסתפק",
+    "nakdan": "יִכְמַסְתֵּפֵק",
+    "meine": "",
+    "entscheidung": "FREIGEGEBENE TEXTKORREKTUR: Scan 372; Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י.",
+    "status": "ERWARTET_FREIGEGEBENE_TEXTKORREKTUR",
+    "scan_seq": 372,
+    "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
+  }
+]

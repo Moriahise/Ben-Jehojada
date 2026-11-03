@@ -1,3 +1,5 @@
+> Historischer Prüfstand vor der ausdrücklichen Zustimmung zu den sechs Textkorrekturen. Diese sind inzwischen über `textkorrekturen.json` aktiviert. Aktueller Stand: [Endpruefung_Textkorrekturen_20261103.md](Endpruefung_Textkorrekturen_20261103.md).
+
 # Sprachliche Satzfreigabe – Nachprüfung vom 03.11.2026
 
 **Entscheidung: vollständige sprachliche Satzfreigabe nicht erteilt.**

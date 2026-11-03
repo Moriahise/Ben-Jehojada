@@ -1,0 +1,49 @@
+test_batch_gegen_master (test_oyc.Abnahme.test_batch_gegen_master) ... ok
+test_fehler_werden_erkannt (test_oyc.Abnahme.test_fehler_werden_erkannt) ... ok
+test_fertige_fassung_ohne_fehler (test_oyc.Abnahme.test_fertige_fassung_ohne_fehler) ... ok
+test_frischer_master (test_oyc.Abnahme.test_frischer_master) ... ok
+test_by_glossar_uebernommen (test_oyc.Glossar.test_by_glossar_uebernommen) ... ok
+test_glossar_unveraendert (test_oyc.Glossar.test_glossar_unveraendert) ... ok
+test_neue_termini_markiert (test_oyc.Glossar.test_neue_termini_markiert) ... ok
+test_stellenzahl (test_oyc.Glossar.test_stellenzahl) ... ok
+test_buchmanager_liest_vokalisierten_band (test_oyc.InDesignOYC.test_buchmanager_liest_vokalisierten_band) ... ok
+test_generator_reproduzierbar (test_oyc.InDesignOYC.test_generator_reproduzierbar) ... ok
+test_kolumnentitel_kuntres_und_purim (test_oyc.InDesignOYC.test_kolumnentitel_kuntres_und_purim) ... ok
+test_banddatei_vom_buchmanager_lesbar (test_oyc.JSX.test_banddatei_vom_buchmanager_lesbar) ... ok
+test_kolumnentitel_manager_erkennt_abschnitte (test_oyc.JSX.test_kolumnentitel_manager_erkennt_abschnitte) ... ok
+test_planer_wie_jsx (test_oyc.JSX.test_planer_wie_jsx) ... ok
+test_ein_band_mit_reserve (test_oyc.Kalibrierung.test_ein_band_mit_reserve) ... ok
+test_werte_wie_jsx (test_oyc.Kalibrierung.test_werte_wie_jsx) ... ok
+test_iiif (test_oyc.Scan.test_iiif) ... ok
+test_kolumnentitel_aus_woertern (test_oyc.Scan.test_kolumnentitel_aus_woertern) ... ok
+test_konkordanz_und_belege (test_oyc.Scan.test_konkordanz_und_belege) ... ok
+test_kopfzeile_deuten (test_oyc.Scan.test_kopfzeile_deuten) ... ok
+test_kurzliste (test_oyc.Scan.test_kurzliste) ... ok
+test_ot_zahl_und_reihenfolge (test_oyc.Scan.test_ot_zahl_und_reihenfolge) ... ok
+test_parascha_reihenfolge (test_oyc.Scan.test_parascha_reihenfolge) ... ok
+test_stichwort_ausrichtung (test_oyc.Scan.test_stichwort_ausrichtung) ... ok
+test_teilzip (test_oyc.Scan.test_teilzip) ... ok
+test_kein_ueberschreiben_mit_englisch (test_oyc.Schutz.test_kein_ueberschreiben_mit_englisch) ... ok
+test_textkorrektur_nur_mit_beleg (test_oyc.Schutz.test_textkorrektur_nur_mit_beleg) ... ok
+test_api_lauf_mit_simuliertem_server (test_oyc.Vokalisierung.test_api_lauf_mit_simuliertem_server)
+Nur der Ablauf: Endpunktwahl, Teilung, Zusammensetzen, Markerdateien. ...   Nakdan 10/10 Teile · 0 s
+ok
+test_kollation_arten (test_oyc.Vokalisierung.test_kollation_arten) ... ok
+test_kuerzel (test_oyc.Vokalisierung.test_kuerzel) ... ok
+test_marker_rundlauf (test_oyc.Vokalisierung.test_marker_rundlauf) ... ok
+test_nakdan_antwortformen (test_oyc.Vokalisierung.test_nakdan_antwortformen) ... ok
+test_plene_marke (test_oyc.Vokalisierung.test_plene_marke) ... ok
+test_teile_text (test_oyc.Vokalisierung.test_teile_text) ... ok
+test_transfer (test_oyc.Vokalisierung.test_transfer) ... ok
+test_vokalisiere_html_behaelt_tags_und_konsonanten (test_oyc.Vokalisierung.test_vokalisiere_html_behaelt_tags_und_konsonanten) ... ok
+test_gliederung_bereshit_und_purim (test_oyc.Werk.test_gliederung_bereshit_und_purim) ... ok
+test_gliederung_wird_geprueft (test_oyc.Werk.test_gliederung_wird_geprueft) ... ok
+test_ids_und_n (test_oyc.Werk.test_ids_und_n) ... ok
+test_quelle_unveraendert (test_oyc.Werk.test_quelle_unveraendert) ... ok
+test_struktur (test_oyc.Werk.test_struktur) ... ok
+test_text_vollstaendig (test_oyc.Werk.test_text_vollstaendig) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 13.056s
+
+OK

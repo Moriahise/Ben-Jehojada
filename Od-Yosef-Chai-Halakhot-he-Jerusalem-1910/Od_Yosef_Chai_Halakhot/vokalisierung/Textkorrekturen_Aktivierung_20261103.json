@@ -1,0 +1,341 @@
+{
+  "datum": "2026-11-03",
+  "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
+  "status": "SECHS_TEXTKORREKTUREN_AKTIV_ENDPRUEFUNG_LAEUFT",
+  "satzfreigabe": false,
+  "dateien": [
+    {
+      "datei": "OYC_01_Bereshit.txt",
+      "sha256_vorher": "d010b6d2b0325c18f63cf43e40b17f6fc81eecc9d69df3eb05782468df1a90ea",
+      "sha256_nachher": "618c678b62b057c7fe8d239ad8f99b1ffbece75b87395441154664cfcf699a31",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_02_Noach_Teil01.txt",
+      "sha256_vorher": "2095b274673b771329179649bdc83416cae23ffb378ea34b3b29f65ee9e75835",
+      "sha256_nachher": "2095b274673b771329179649bdc83416cae23ffb378ea34b3b29f65ee9e75835",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_02_Noach_Teil02.txt",
+      "sha256_vorher": "355a571eaad4b31080c9dc11b4b20311c4d49aa89629c8c49f09e70455b3f426",
+      "sha256_nachher": "355a571eaad4b31080c9dc11b4b20311c4d49aa89629c8c49f09e70455b3f426",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_03_Lech_Lecha.txt",
+      "sha256_vorher": "83a908987802a108cf564292de9f241215750b84f281537e25f54d8d7fcba1b8",
+      "sha256_nachher": "83a908987802a108cf564292de9f241215750b84f281537e25f54d8d7fcba1b8",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_04_Vayera.txt",
+      "sha256_vorher": "8d3176d45a0110e4dd205361d906c62cba31b994480d4cc6839541f7106a5767",
+      "sha256_nachher": "8d3176d45a0110e4dd205361d906c62cba31b994480d4cc6839541f7106a5767",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_05_Chayei_Sara.txt",
+      "sha256_vorher": "9af9a6f06452b5ead41c34512efeb901bd46364d923abbd2476641f21bc1a0f5",
+      "sha256_nachher": "9af9a6f06452b5ead41c34512efeb901bd46364d923abbd2476641f21bc1a0f5",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_06_Toldot.txt",
+      "sha256_vorher": "8750143c20ae2ba1e5478c8bf9f538398b3a73322b49f714693b54715467f4b5",
+      "sha256_nachher": "8750143c20ae2ba1e5478c8bf9f538398b3a73322b49f714693b54715467f4b5",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_07_Vayetzei.txt",
+      "sha256_vorher": "82f47fa002ca6a3e2444f8fd55100d39f7e2d853f61a85bc34562eab54728a50",
+      "sha256_nachher": "82f47fa002ca6a3e2444f8fd55100d39f7e2d853f61a85bc34562eab54728a50",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_08_Vayishlach_Teil01.txt",
+      "sha256_vorher": "090f3cd513a2233d655adfc2789d4058510866970bc900c73fb020838a83da94",
+      "sha256_nachher": "090f3cd513a2233d655adfc2789d4058510866970bc900c73fb020838a83da94",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_08_Vayishlach_Teil02.txt",
+      "sha256_vorher": "835fba02eace7170aff35cb72241cb88422947c3023652c40831e6e645f981c5",
+      "sha256_nachher": "835fba02eace7170aff35cb72241cb88422947c3023652c40831e6e645f981c5",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_08_Vayishlach_Teil03.txt",
+      "sha256_vorher": "e9193afb2a603684d555b53a1f04a28b014f78f0bc6b765064de5f446470cc14",
+      "sha256_nachher": "e9193afb2a603684d555b53a1f04a28b014f78f0bc6b765064de5f446470cc14",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil01.txt",
+      "sha256_vorher": "8f5c70a69e6df372228c3372813cb0ad829f98fef1ec8f9e99d4f07470ccdd5f",
+      "sha256_nachher": "461777ab453ba5f9526faba1a6e854618c27472119d5f2b44234593317bc4e46",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil02.txt",
+      "sha256_vorher": "6793066ce156239b429eed1d5e524776551536b78e02eef372f8bd47e0935d68",
+      "sha256_nachher": "6793066ce156239b429eed1d5e524776551536b78e02eef372f8bd47e0935d68",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil01.txt",
+      "sha256_vorher": "96b60d2b3e4e9391ec46c3c7fb7bc6e4c1b81019eb5988197a98c8674693bc12",
+      "sha256_nachher": "96b60d2b3e4e9391ec46c3c7fb7bc6e4c1b81019eb5988197a98c8674693bc12",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt",
+      "sha256_vorher": "04d6648854d8dad50727c8057606afa6c539e6a08f80a1929666606f7223ca00",
+      "sha256_nachher": "04d6648854d8dad50727c8057606afa6c539e6a08f80a1929666606f7223ca00",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt",
+      "sha256_vorher": "cde73cc6df2a1b5ea0a3abab67807e118ad7149a09bdd1bcdd0f7bd40e9b40d2",
+      "sha256_nachher": "cde73cc6df2a1b5ea0a3abab67807e118ad7149a09bdd1bcdd0f7bd40e9b40d2",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt",
+      "sha256_vorher": "0ead24b6a6c74cb961383d68019e6c942ad5a81f6188a8b735ce490ca8861ed0",
+      "sha256_nachher": "0ead24b6a6c74cb961383d68019e6c942ad5a81f6188a8b735ce490ca8861ed0",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil05.txt",
+      "sha256_vorher": "193e2d55bd5b72c24989f831ccbc81ee432423bb07a5d2e8206436748f77a8b6",
+      "sha256_nachher": "193e2d55bd5b72c24989f831ccbc81ee432423bb07a5d2e8206436748f77a8b6",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_11_Miketz_Teil01.txt",
+      "sha256_vorher": "ee889ff89583fe7fbd22506cc2e261ac9fe31393b6a2b1d1e1b80ca8aff95e4b",
+      "sha256_nachher": "ee889ff89583fe7fbd22506cc2e261ac9fe31393b6a2b1d1e1b80ca8aff95e4b",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_11_Miketz_Teil02.txt",
+      "sha256_vorher": "bd500605321766822d372299dca7e6d4b77d1bd43dd5efc71f57b288d5e7933f",
+      "sha256_nachher": "bd500605321766822d372299dca7e6d4b77d1bd43dd5efc71f57b288d5e7933f",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_12_Vayigash_Teil01.txt",
+      "sha256_vorher": "30645acfae93f31149bfe08310f7d30125a9790e8ab25dcb76b941ec23820ed2",
+      "sha256_nachher": "30645acfae93f31149bfe08310f7d30125a9790e8ab25dcb76b941ec23820ed2",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_12_Vayigash_Teil02.txt",
+      "sha256_vorher": "42518c3ed6cd485c6d98ad830c5cb29bdfe5272d4d278d7a6c911321bbc0c497",
+      "sha256_nachher": "42518c3ed6cd485c6d98ad830c5cb29bdfe5272d4d278d7a6c911321bbc0c497",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil01.txt",
+      "sha256_vorher": "d19b9bfcf2ed6dabfd99d67a4f60bad9925dbd45e408e66b8c1fd58b373547fd",
+      "sha256_nachher": "d19b9bfcf2ed6dabfd99d67a4f60bad9925dbd45e408e66b8c1fd58b373547fd",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil02.txt",
+      "sha256_vorher": "8d433883d5cb1f07381295424aee2c167451b0a66b248dd2e151ba73e8962317",
+      "sha256_nachher": "13d91273d7c13f636312e1325729297b5f31c19b4a21cdcee961408d1924dc32",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_14_Shemot_Teil01.txt",
+      "sha256_vorher": "81a2bdd395c462622d1da16ded26ad060d6496e72e58d0f61bf9eb0cef813f1b",
+      "sha256_nachher": "81a2bdd395c462622d1da16ded26ad060d6496e72e58d0f61bf9eb0cef813f1b",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_14_Shemot_Teil02.txt",
+      "sha256_vorher": "3c18544e2ab8977c18fe6ff687595a00c850b0010f6e60243ee25ff73991637c",
+      "sha256_nachher": "3c18544e2ab8977c18fe6ff687595a00c850b0010f6e60243ee25ff73991637c",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_15_Vaera_Teil01.txt",
+      "sha256_vorher": "38520a3ffb39c51d453014c1e347e4e864d4a38e571ee9d4d9a8056f6e290b2c",
+      "sha256_nachher": "38520a3ffb39c51d453014c1e347e4e864d4a38e571ee9d4d9a8056f6e290b2c",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_15_Vaera_Teil02.txt",
+      "sha256_vorher": "76aedb1a2ba31a02bce5ea2c0966e987be68e41fc2d49ed57db354c6c8d856f4",
+      "sha256_nachher": "76aedb1a2ba31a02bce5ea2c0966e987be68e41fc2d49ed57db354c6c8d856f4",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_15_Vaera_Teil03.txt",
+      "sha256_vorher": "503575f666cc723054609f2d2f88ee2badf801bc40f69780858f9dbd19ec86c8",
+      "sha256_nachher": "503575f666cc723054609f2d2f88ee2badf801bc40f69780858f9dbd19ec86c8",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_16_Bo.txt",
+      "sha256_vorher": "2d84d65c8214d5995c5a6208efd1eb7f9dc540dcb649018c864ab66b43da511f",
+      "sha256_nachher": "2d84d65c8214d5995c5a6208efd1eb7f9dc540dcb649018c864ab66b43da511f",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_17_Beshalach_Teil01.txt",
+      "sha256_vorher": "03db2abc1529bde07912dd6e8b5a29cff9ea1a8a43e0c1d9f57aae8e67ba425c",
+      "sha256_nachher": "03db2abc1529bde07912dd6e8b5a29cff9ea1a8a43e0c1d9f57aae8e67ba425c",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_17_Beshalach_Teil02.txt",
+      "sha256_vorher": "edb189f2292ecd708c5a4f0b3987b89975c96f97ebe581eff49c1f656602a41f",
+      "sha256_nachher": "edb189f2292ecd708c5a4f0b3987b89975c96f97ebe581eff49c1f656602a41f",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_18_Yitro.txt",
+      "sha256_vorher": "a8fd066ebe37afd1343ac31b1639a3739746d2624a4b4ea2fd53159ac4caffc6",
+      "sha256_nachher": "a8fd066ebe37afd1343ac31b1639a3739746d2624a4b4ea2fd53159ac4caffc6",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_19_Mishpatim.txt",
+      "sha256_vorher": "ca4b71b7e04e5659de55f44480317faa1ad272d48187d7845f21d72c387819d7",
+      "sha256_nachher": "ca4b71b7e04e5659de55f44480317faa1ad272d48187d7845f21d72c387819d7",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_20_Terumah.txt",
+      "sha256_vorher": "35b99541ba5dd31b8de0dc67ee5a314c6931c66e58f76d8a6b985c26dc4fe345",
+      "sha256_nachher": "35b99541ba5dd31b8de0dc67ee5a314c6931c66e58f76d8a6b985c26dc4fe345",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_21_Tetzaveh.txt",
+      "sha256_vorher": "e329e6c131981c13bdabaf8a346e661a35a46d03aeb665e3807c1d209afdf46d",
+      "sha256_nachher": "e329e6c131981c13bdabaf8a346e661a35a46d03aeb665e3807c1d209afdf46d",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_22_Purim.txt",
+      "sha256_vorher": "639e7fe741fa8f011852dc8686c96c3320b7c155822a95c1c3a00da81bd7053e",
+      "sha256_nachher": "639e7fe741fa8f011852dc8686c96c3320b7c155822a95c1c3a00da81bd7053e",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_23_Ki_Tisa_Teil01.txt",
+      "sha256_vorher": "1bbe50cf6acc7a1870f01c4dbca48da5316858dd47ca44a458e0c386f8ec9bbb",
+      "sha256_nachher": "1bbe50cf6acc7a1870f01c4dbca48da5316858dd47ca44a458e0c386f8ec9bbb",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_23_Ki_Tisa_Teil02.txt",
+      "sha256_vorher": "60f5d5ab44b0a0f06533fedf973e0986d2eb4b618779f88a71944d9c90732f60",
+      "sha256_nachher": "60f5d5ab44b0a0f06533fedf973e0986d2eb4b618779f88a71944d9c90732f60",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_24_Vayakhel.txt",
+      "sha256_vorher": "ffc9765074aaef743c6c53b09006219e00af8f2b7945e9cdb2d328ba9c6151a2",
+      "sha256_nachher": "ffc9765074aaef743c6c53b09006219e00af8f2b7945e9cdb2d328ba9c6151a2",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_25_Pekudei.txt",
+      "sha256_vorher": "479568b7ab3a826a9191c133d6e6a1d667afa53395ded6a3030ede95c051ff10",
+      "sha256_nachher": "479568b7ab3a826a9191c133d6e6a1d667afa53395ded6a3030ede95c051ff10",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_26_Vayikra.txt",
+      "sha256_vorher": "bec731e5fc3b978b8b0c48723c7753b515564f711c23fe76da14180182696c61",
+      "sha256_nachher": "bec731e5fc3b978b8b0c48723c7753b515564f711c23fe76da14180182696c61",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_27_Tzav.txt",
+      "sha256_vorher": "b85ce4dbd8165674d1d07d2f0a9cdc1181b5737c1173c09c3440cf6d647a5f83",
+      "sha256_nachher": "b85ce4dbd8165674d1d07d2f0a9cdc1181b5737c1173c09c3440cf6d647a5f83",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_28_Bamidbar.txt",
+      "sha256_vorher": "da4b9ea7c6461e156d5e883b43594bf01eac428e8e67830f4a5b20f650213ae8",
+      "sha256_nachher": "da4b9ea7c6461e156d5e883b43594bf01eac428e8e67830f4a5b20f650213ae8",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_29_Shoftim_Teil01.txt",
+      "sha256_vorher": "0df65735f0d6f0492cd13cbf944183e69bcdda0ef3b2baa9d6f861be5bf081d2",
+      "sha256_nachher": "0df65735f0d6f0492cd13cbf944183e69bcdda0ef3b2baa9d6f861be5bf081d2",
+      "marker_bytegleich": true
+    },
+    {
+      "datei": "OYC_29_Shoftim_Teil02.txt",
+      "sha256_vorher": "ff08a6ad3c8da2f63e5688c88c17796ad4dfff0fb7d800d5efc48538c4f46887",
+      "sha256_nachher": "ff08a6ad3c8da2f63e5688c88c17796ad4dfff0fb7d800d5efc48538c4f46887",
+      "marker_bytegleich": true
+    }
+  ],
+  "aenderungen": [
+    {
+      "datei": "OYC_01_Bereshit.txt",
+      "ref": "Bereshit 11:1",
+      "wort_nr": 166,
+      "alt": "עָרַף",
+      "neu": "עֵרֶךְ",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil01.txt",
+      "ref": "Vayeshev 8:5",
+      "wort_nr": 71,
+      "alt": "הֶחָסֵר",
+      "neu": "הַחֶסֶד",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil01.txt",
+      "ref": "Vayeshev 8:5",
+      "wort_nr": 109,
+      "alt": "שְׁמָעֵנִי",
+      "neu": "שָׁמַעְנוּ",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil01.txt",
+      "ref": "Vayeshev 8:5",
+      "wort_nr": 120,
+      "alt": "יִכְיּוֹן",
+      "neu": "יְכַוֵּין",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil02.txt",
+      "ref": "Vayechi 16:2",
+      "wort_nr": 106,
+      "alt": "הַפָּלָה",
+      "neu": "תְּפִלָּה",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil02.txt",
+      "ref": "Vayechi 16:2",
+      "wort_nr": 137,
+      "alt": "יִכְמַסְתֵּפֵק",
+      "neu": "וּכְמִסְתַּפֵּק",
+      "typ": "BELEGTE_TEXTKORREKTUR_MIT_NIKUD"
+    }
+  ],
+  "zeuge_pruefung": {
+    "unbekannt": [],
+    "leer": [],
+    "konsonanten_abweichend": [],
+    "abgedeckt": 1024,
+    "gesamt": 1024
+  }
+}

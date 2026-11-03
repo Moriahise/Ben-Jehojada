@@ -1,0 +1,56 @@
+{
+  "status": "AKTIV_FREIGEGEBEN",
+  "freigegeben_am": "2026-11-03",
+  "freigabe": "Explizite Zustimmung des Nutzers zur Berichtigung dieser sechs belegten Buchstabenfehler ueber textkorrekturen.json und Fortsetzung der Endpruefung.",
+  "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
+  "korrekturen": [
+    {
+      "ref": "Bereshit 11:1",
+      "alt": "ערף",
+      "neu": "ערך",
+      "scan_seq": 323,
+      "scan_fl_id": "FL244210678",
+      "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
+    },
+    {
+      "ref": "Vayeshev 8:5",
+      "alt": "החסר הזה",
+      "neu": "החסד הזה",
+      "scan_seq": 344,
+      "scan_fl_id": "FL244210264",
+      "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
+    },
+    {
+      "ref": "Vayeshev 8:5",
+      "alt": "שמעני",
+      "neu": "שמענו",
+      "scan_seq": 344,
+      "scan_fl_id": "FL244210264",
+      "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
+    },
+    {
+      "ref": "Vayeshev 8:5",
+      "alt": "יכיון",
+      "neu": "יכוין",
+      "scan_seq": 344,
+      "scan_fl_id": "FL244210264",
+      "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
+    },
+    {
+      "ref": "Vayechi 16:2",
+      "alt": "הפלה ובקשה",
+      "neu": "תפלה ובקשה",
+      "scan_seq": 372,
+      "scan_fl_id": "FL244210400",
+      "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
+    },
+    {
+      "ref": "Vayechi 16:2",
+      "alt": "יכמסתפק",
+      "neu": "וכמסתפק",
+      "scan_seq": 372,
+      "scan_fl_id": "FL244210400",
+      "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
+    }
+  ]
+}

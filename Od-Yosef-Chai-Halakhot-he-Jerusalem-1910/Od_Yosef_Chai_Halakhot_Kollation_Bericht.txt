@@ -1,38 +1,38 @@
 OD YOSEF CHAI · HALAKHOT · KOLLATION DER VOKALISIERUNG
 
 Basis: Od_Yosef_Chai_Halakhot_-_he_-_Jerusalem_1910.json (1024 Absaetze)
-Zeuge nakdan : 1024 von 1024 Absaetzen · Konsonanten abweichend in 0 Absaetzen
+Zeuge nakdan : 1024 von 1024 Absaetzen · Konsonanten abweichend in 3 Absaetzen
 Zeuge meine  : 1024 von 1024 Absaetzen · Konsonanten abweichend in 0 Absaetzen
 
-Befunde gesamt: UNVOK_M 25, VOK 2808
+Befunde gesamt: TEXT_N 6, UNVOK_M 25, VOK 2825
 
 Abschnitt                    Abs. Woerter     VOK UNVOK_M  TEXT_M  TEXT_N
-Bereshit                       22    1641      57       0       0       0
+Bereshit                       22    1641      65       0       0       1
 Noach                          38    3427      93       0       0       0
-Lech Lecha                      8     444      12       1       0       0
+Lech Lecha                      8     444      13       1       0       0
 Vayera                         30    1988      74       0       0       0
 Chayei Sara                    32    2273      79       0       0       0
 Toldot                         19    1880      64       0       0       0
 Vayetzei                       14    1738      52       0       0       0
 Vayishlach                     75    6786     179       0       0       0
-Vayeshev                       41    4314      92       2       0       0
+Vayeshev                       41    4314      91       2       0       3
 Kuntres Chut HaMeshulash      107   11669     330       0       0       0
 Miketz                         52    5410     182       3       0       0
 Vayigash                       58    5297     146       2       0       0
-Vayechi                        54    5095     147       2       0       0
+Vayechi                        54    5095     147       2       0       2
 Shemot                         48    4512     204       1       0       0
 Vaera                          68    6190     185       0       0       0
-Bo                             16    1218      62       0       0       0
+Bo                             16    1218      66       0       0       0
 Beshalach                      38    3097      81      12       0       0
 Yitro                          18    1561      50       0       0       0
 Mishpatim                      14    1206      33       0       0       0
 Terumah                        16    1534      75       0       0       0
 Tetzaveh                       19    1463      46       0       0       0
-Purim                           2     167       8       0       0       0
+Purim                           2     167      11       0       0       0
 Ki Tisa                        43    3961     104       1       0       0
 Vayakhel                       14    1217      29       0       0       0
 Pekudei                        25    2330      93       0       0       0
-Vayikra                        11     710      40       0       0       0
+Vayikra                        11     710      42       0       0       0
 Tzav                           28    2098      64       1       0       0
 Bamidbar                       25    1732      75       0       0       0
 Shoftim                        89    5773     152       0       0       0
