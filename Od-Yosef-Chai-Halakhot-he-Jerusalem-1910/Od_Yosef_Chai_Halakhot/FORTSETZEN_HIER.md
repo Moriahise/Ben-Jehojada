@@ -1,3 +1,21 @@
+# Aktueller Stand nach Rekonstruktionsversuch · 03.11.2026
+
+**Pausiert auf Nutzerwunsch. Keine vollständige sprachliche Satzfreigabe.**
+
+Aktueller Bericht: `Pruefbericht_Rekonstruktion_20261103.md`.
+Aktueller Status: `vokalisierung/Rekonstruktion_Status_20261103.json`.
+Master SHA-256: `c6b90f07fb7f953659b28c28be4c1e5cced60ebeb9ebb618bda8755c3f4fc68c`.
+
+Die sechs konkret überlieferten Korrekturarten sind neu zugeordnet und eingearbeitet; drei weitere Fundstellen wurden zusätzlich berichtigt. 11 Änderungsgruppen/12 Fundstellen; vier belegte Buchstabenänderungen über textkorrekturen.json; 24 aktive Textkorrekturen insgesamt. 16 Absätze gezielt erneut gelesen. Keine vollständige erneute Prüfung sämtlicher früher gemeldeter Absätze.
+
+Vollständige historische Rekonstruktion: NICHT nachweisbar, da vollständige damalige Änderungsliste und spätere Datei fehlen. Der historische Stand über die Hälfte/Vayechi bleibt als Meldung erhalten und wird nicht durch ältere Zähler ersetzt. Neue unabhängige Druckbefunde Tetzaveh 1:1 und 7:1 offen. Nächster regulärer Abschnitt Vaera 1:1; zusätzliche Rekonstruktionslücke beachten.
+
+42 Tests bestanden; Strukturprüfung 508 Segmente, 30 Abschnitte, 0 FEHLER/0 PRÜFEN; TEXT_M 0, TEXT_N 24.
+
+---
+
+## Historischer Bericht vor dieser Rekonstruktion
+
 # Zwischensicherung nach Shemot · 03.11.2026
 
 **Nächster Abschnitt: Vaera 1:1. Keine vollständige sprachliche Satzfreigabe.**

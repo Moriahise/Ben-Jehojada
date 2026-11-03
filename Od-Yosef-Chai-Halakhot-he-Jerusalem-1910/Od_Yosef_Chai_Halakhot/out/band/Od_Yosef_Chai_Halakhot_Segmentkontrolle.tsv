@@ -54,9 +54,9 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000053	16	פרשת וירא	610	offen	Od Yosef Chai; Halakhot, Vayera 16	1	390	327-329	
 1	OYH-0000054	17	פרשת וירא	273	offen	Od Yosef Chai; Halakhot, Vayera 17	1	177	327-329	
 1	OYH-0000055	18	פרשת וירא	776	offen	Od Yosef Chai; Halakhot, Vayera 18	1	492	327-329	
-1	OYH-0000056	19	פרשת וירא	940	offen	Od Yosef Chai; Halakhot, Vayera 19	2	578	327-329	
+1	OYH-0000056	19	פרשת וירא	939	offen	Od Yosef Chai; Halakhot, Vayera 19	2	578	327-329	
 1	OYH-0000057	20	פרשת וירא	624	offen	Od Yosef Chai; Halakhot, Vayera 20	1	377	327-329	
-1	OYH-0000058	21	פרשת וירא	586	offen	Od Yosef Chai; Halakhot, Vayera 21	1	381	327-329	
+1	OYH-0000058	21	פרשת וירא	588	offen	Od Yosef Chai; Halakhot, Vayera 21	1	381	327-329	
 1	OYH-0000059	22	פרשת וירא	916	offen	Od Yosef Chai; Halakhot, Vayera 22	1	559	327-329	
 1	OYH-0000060	23	פרשת וירא	1261	offen	Od Yosef Chai; Halakhot, Vayera 23	1	781	327-329	
 1	OYH-0000061	1	פרשת חיי שרה	200	offen	Od Yosef Chai; Halakhot, Chayei Sara 1	1	125	329-332	
@@ -329,7 +329,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000328	10	פרשת בשלח	826	offen	Od Yosef Chai; Halakhot, Beshalach 10	1	497	385-388	
 1	OYH-0000329	11	פרשת בשלח	897	offen	Od Yosef Chai; Halakhot, Beshalach 11	1	556	385-388	
 1	OYH-0000330	12	פרשת בשלח	1092	offen	Od Yosef Chai; Halakhot, Beshalach 12	2	697	385-388	
-1	OYH-0000331	13	פרשת בשלח	6286	offen	Od Yosef Chai; Halakhot, Beshalach 13	7	3874	385-388	
+1	OYH-0000331	13	פרשת בשלח	6283	offen	Od Yosef Chai; Halakhot, Beshalach 13	7	3874	385-388	
 1	OYH-0000332	14	פרשת בשלח	622	offen	Od Yosef Chai; Halakhot, Beshalach 14	1	380	385-388	
 1	OYH-0000333	15	פרשת בשלח	728	offen	Od Yosef Chai; Halakhot, Beshalach 15	1	458	385-388	
 1	OYH-0000334	16	פרשת בשלח	2344	offen	Od Yosef Chai; Halakhot, Beshalach 16	3	1492	385-388	

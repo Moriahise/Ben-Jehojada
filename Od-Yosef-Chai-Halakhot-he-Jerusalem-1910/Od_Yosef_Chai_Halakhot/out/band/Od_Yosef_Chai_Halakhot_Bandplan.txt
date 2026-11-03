@@ -4,7 +4,7 @@ Quelle: 508 Segmente · 30 Abschnitte · HE-Quelle: meine
 Format: 148 × 210 mm · Keter YG 10/12 pt · Cambria 9/10,8 pt (Ben Ish Chai v1.0.17)
 Kalibrierung: HE 1050 Zeichen/Seite · EN 2000 Zeichen/Seite · erwartete EN-Laenge 1.95 × HE
 Grenzen: Ziel 540 Seiten (davon 12 Reserve) · Textseiten hoechstens 528 · absolute Sperre 600
-HE-Zeichen: 473852 Konsonantentext (Planung) · 761452 wie das JSX zaehlt (mit Vokalzeichen)
+HE-Zeichen: 473852 Konsonantentext (Planung) · 761450 wie das JSX zaehlt (mit Vokalzeichen)
 
 Plan: 1 Band/Baende
 Band 01: ca. 475 Seiten (davon 12 Reserve) · 508 Segmente · OYH-0000001 bis OYH-0000508
@@ -27,7 +27,7 @@ GLIEDERUNG (Lektoratsentscheidungen, gliederung.json)
 
 HINWEISE
   OYH-0000097 (Od Yosef Chai; Halakhot, Vayishlach 1) hat 32475 Zeichen > Batch-Kontingent 30000: wird als Einzelbatch exportiert
-  Der Ben-Ish-Chai-Buchmanager v1.0.17 wuerde Vokalzeichen mitzaehlen (761452 statt 473852 Zeichen); der Od-Yosef-Chai-Buchmanager v1.0.0 zaehlt ohne Nikud und plant nicht neu (Reiter 1 gesperrt).
+  Der Ben-Ish-Chai-Buchmanager v1.0.17 wuerde Vokalzeichen mitzaehlen (761450 statt 473852 Zeichen); der Od-Yosef-Chai-Buchmanager v1.0.0 zaehlt ohne Nikud und plant nicht neu (Reiter 1 gesperrt).
   Vokalisierung: 0 Absaetze ohne Zeugentext, 0 Woerter ohne uebertragene Vokale.
   Der Buchmanager laesst beim Zusammenfuehren die Zeile <planning> weg (reserializeParsedBook); die HE-Quelle steht dann nur noch im Pipeline-Master und im Quellenmanifest.
   InDesign: indesign/Od_Yosef_Chai_Bilingual_Book_Manager_v1_0_0.jsx (Reiter 2/3) und indesign/Od_Yosef_Chai_Running_Header_Manager_v1_0_0.jsx.

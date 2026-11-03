@@ -248,6 +248,7 @@ Vayera 9:1	57	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNO
 Vayera 10:1	28	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 10:1	88	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 10:1	103	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayera 11:1	1	VOK	אבל	אֲבָל	אָבֵל	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Vayera 14:1	11	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 16:1	14	VOK	המקובל	הַמְקֻוֽבָּל	הַמְקוּבָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 17:1	26	VOK	שיחשוב	שֶׁיַּחְשֹׁוֽב	שֶׁיַּחְשׁוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -257,13 +258,15 @@ Vayera 18:1	38	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Chol
 Vayera 18:1	52	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 18:1	74	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 18:1	86	VOK	מהודקות	מְהֻוֽדָּקוֹת	מְהוּדָּקוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Vayera 19:1	39	VOK	החום	הַחֹוֽם	הַחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayera 19:1	5	TEXT_N	חוצץ	חוֹצֵךְ		Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Vayera 19:1	39	VOK	החום	הַחֹוֽם	הַחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Vayera 19:2	2	VOK	החום	הַחֹוֽם	הַחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 19:2	14	VOK	שיחלוץ	שֶׁיַּחֲלֹוֽץ	שֶׁיַּחֲלוֹץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 19:2	30	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 20:1	64	VOK	בעורף	בָּעֹוֽרֶף	בָּעוֹרֶף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 20:1	67	VOK	הגלגולת	הַגֻּלְגֹּוֽלֶת	הַגֻּלְגּוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Vayera 21:1	12	VOK	המקובל	הַמְקֻוֽבָּל	הַמְקוּבָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayera 21:1	12	VOK	המקובל	הַמְקֻוֽבָּל	הַמְקוּבָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Vayera 21:1	42	VOK	בקבורת	בִּקְבוּרַת	בַּקִּבּוֹרֶת	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Vayera 22:1	52	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 22:1	87	VOK	המשולשלות	הַמְּשֻׁוֽלְשָׁלוֹת	הַמְּשׁוּלְשָׁלוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 23:1	8	VOK	רוחב	רֹוֽחַב	רוֹחַב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -292,15 +295,17 @@ Chayei Sara 3:7	31	VOK	באומנותו	בְּאֻוֽמָּנוּתוֹ	בְּ�
 Chayei Sara 3:7	105	VOK	ירוחם	יְרֻוֽחָם	יְרוּחָם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 3:7	114	VOK	לסוכה	לְסֻוֽכָּה	לְסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 3:7	122	VOK	בסוכה	בְּסֻוֽכָּה	בְּסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:1	17	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
-Chayei Sara 5:2	5	VOK	לסתום	לִסְתֹּוֽם	לִסְתּוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	6	VOK	ולקשור	וְלִקְשֹׁוֽר	וְלִקְשׁוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	38	VOK	יאחוז	יֶאֱחֹוֽז	יֶאֱחוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	41	VOK	ויגלול	וְיִגְלֹוֽל	וְיִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	63	VOK	אות	אַוַּת	אוֹת	UEBERNOMMEN: Buchstabe/Abschnittsnummer
-Chayei Sara 5:2	72	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	77	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Chayei Sara 5:2	83	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Chayei Sara 5:1	10	TEXT_N	הכיס	הַכִּים		Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:1	17	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר. | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	21	TEXT_N	הכיס	הַכִּים		Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	5	VOK	לסתום	לִסְתֹּוֽם	לִסְתּוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	6	VOK	ולקשור	וְלִקְשֹׁוֽר	וְלִקְשׁוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	38	VOK	יאחוז	יֶאֱחֹוֽז	יֶאֱחוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	41	VOK	ויגלול	וְיִגְלֹוֽל	וְיִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	63	VOK	אות	אַוַּת	אוֹת	UEBERNOMMEN: Buchstabe/Abschnittsnummer | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	72	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	77	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Chayei Sara 5:2	83	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Chayei Sara 5:3	3	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Chayei Sara 5:3	13	VOK	משובח	מְשֻׁוֽבָּח	מְשׁוּבָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:4	30	VOK	לפשוט	לִפְשֹׁוֽט	לִפְשׁוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -415,8 +420,10 @@ Toldot 9:1	66	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN
 Toldot 9:1	173	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 10:1	26	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 10:1	179	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Toldot 10:2	28	VOK	שמונח	שֶׁמֻּוֽנָּח	שֶׁמּוּנָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Toldot 10:2	74	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Toldot 10:2	26	VOK	השכר	הַשָּׂכָר	הַשֵּׁכָר	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Toldot 10:2	28	VOK	שמונח	שֶׁמֻּוֽנָּח	שֶׁמּוּנָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Toldot 10:2	50	VOK	בשכר	בְּשָׂכָר	בְּשֵׁכָר	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Toldot 10:2	74	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Toldot 11:1	13	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 11:1	21	VOK	ואוזן	וְאֹוֽזֶן	וְאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 11:1	22	VOK	וחוטם	וְחֹוֽטֶם	וְחוֹטֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2296,15 +2303,18 @@ Beshalach 13:5	15	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: C
 Beshalach 13:5	35	VOK	נסחו	נָסְחוֹ	נֻסְחוֹ	UEBERNOMMEN: Sein Wortlaut, nicht Verb נסח
 Beshalach 13:6	65	VOK	שתמחול	שֶׁתִּמְחֹוֽל	שֶׁתִּמְחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 13:6	74	VOK	עונותינו	עֲוֹנֹוֽתֵינוּ	עֲוֹנוֹתֵינוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	14	VOK	לאכול	לֶאֱכֹוֽל	לֶאֱכוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	16	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	41	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	66	VOK	הממונה	הַמְמֻוֽנֶּה	הַמְמוּנֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	136	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	139	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	151	VOK	נוסח	נֻוֽסָּח	נוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
-Beshalach 13:7	153	VOK	הארוך	הָאָרֹוֽךְ	הָאָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Beshalach 13:7	163	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 13:7	14	VOK	לאכול	לֶאֱכֹוֽל	לֶאֱכוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	16	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	26	VOK	ותפרנסנו	וּתְפַרְנְסֶנּוּ	וּתְפַרְנְסֵנוּ	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	36	VOK	ותפרנסנו	וּתְפַרְנְסֶנּוּ	וּתְפַרְנְסֵנוּ	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	41	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	61	VOK	תכלכלנו	תְּכַלְכְּלֶנּוּ	תְּכַלְכְּלֵנוּ	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	66	VOK	הממונה	הַמְמֻוֽנֶּה	הַמְמוּנֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	136	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	139	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	151	VOK	נוסח	נֻוֽסָּח	נוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	153	VOK	הארוך	הָאָרֹוֽךְ	הָאָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Beshalach 13:7	163	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk | Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Beshalach 14:1	16	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 15:1	74	VOK	לעושה	לְעֹוֽשֵׂה	לְעוֹשֵׂה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 15:1	76	VOK	גדולות	גְּדֹוֽלוֹת	גְּדוֹלוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2505,6 +2515,8 @@ Terumah 7:2	74	VOK	לדרוש	לִדְרֹוֽשׁ	לִדְרוֹשׁ	UEBERNOMME
 Terumah 8:1	3	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 8:1	8	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Terumah 8:1	17	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
+Tetzaveh 1:1	80	TEXT_N	שמי	שְׁמוֹ		Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
+Tetzaveh 1:1	78	VOK	ושמו	וּשְׁמוֹ	וְשָׂמוּ	Rekonstruktion: gezielt erneut geprüft; siehe Rekonstruktion_Aenderungen_20261103.json.
 Tetzaveh 1:2	45	VOK	למשוך	לִמְשֹׁוֽךְ	לִמְשׁוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tetzaveh 1:2	54	VOK	ארוכים	אֲרֻוֽכִּים	אֲרוּכִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tetzaveh 1:2	56	VOK	ומתוקנים	וּמְתֻוֽקָּנִים	וּמְתוּקָּנִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk

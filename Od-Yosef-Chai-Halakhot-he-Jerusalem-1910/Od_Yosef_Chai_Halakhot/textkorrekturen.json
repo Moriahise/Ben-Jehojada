@@ -1,184 +1,224 @@
 {
-  "status": "AKTIV_FREIGEGEBEN",
-  "freigegeben_am": "2026-11-03",
-  "freigabe": "Explizite Zustimmung des Nutzers zur Berichtigung dieser sechs belegten Buchstabenfehler ueber textkorrekturen.json und Fortsetzung der Endpruefung.",
-  "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
-  "korrekturen": [
-    {
-      "ref": "Bereshit 11:1",
-      "alt": "ערף",
-      "neu": "ערך",
-      "scan_seq": 323,
-      "scan_fl_id": "FL244210678",
-      "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
-    },
-    {
-      "ref": "Vayeshev 8:5",
-      "alt": "החסר הזה",
-      "neu": "החסד הזה",
-      "scan_seq": 344,
-      "scan_fl_id": "FL244210264",
-      "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
-    },
-    {
-      "ref": "Vayeshev 8:5",
-      "alt": "שמעני",
-      "neu": "שמענו",
-      "scan_seq": 344,
-      "scan_fl_id": "FL244210264",
-      "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
-    },
-    {
-      "ref": "Vayeshev 8:5",
-      "alt": "יכיון",
-      "neu": "יכוין",
-      "scan_seq": 344,
-      "scan_fl_id": "FL244210264",
-      "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
-    },
-    {
-      "ref": "Vayechi 16:2",
-      "alt": "הפלה ובקשה",
-      "neu": "תפלה ובקשה",
-      "scan_seq": 372,
-      "scan_fl_id": "FL244210400",
-      "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
-    },
-    {
-      "ref": "Vayechi 16:2",
-      "alt": "יכמסתפק",
-      "neu": "וכמסתפק",
-      "scan_seq": 372,
-      "scan_fl_id": "FL244210400",
-      "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
-    },
-    {
-      "ref": "Bereshit 1:3",
-      "alt": "כהם",
-      "neu": "שהם",
-      "scan_seq": 322,
-      "grund": "Digitaltext כ/ש verwechselt; Druck: נה״י שהם.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210752"
-    },
-    {
-      "ref": "Bereshit 10:1",
-      "alt": "מוכרת",
-      "neu": "מוכרח",
-      "scan_seq": 323,
-      "grund": "Druck: אז מוכרח שיהיה שם; keine Verkäuferin.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210678"
-    },
-    {
-      "ref": "Bo 1:5",
-      "alt": "אפינו",
-      "neu": "אפילו",
-      "scan_seq": 384,
-      "grund": "Druck: אפילו פחות מטפח.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210424"
-    },
-    {
-      "ref": "Bo 1:6",
-      "alt": "נהחדש",
-      "neu": "נתחדש",
-      "scan_seq": 384,
-      "grund": "Druck: בדור הזה נתחדש; ת/ה im Digitaltext.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210424"
-    },
-    {
-      "ref": "Bo 1:6",
-      "alt": "ועשה כמו",
-      "neu": "ונעשה כמו",
-      "scan_seq": 384,
-      "grund": "Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210424"
-    },
-    {
-      "ref": "Bo 3:2",
-      "alt": "אכל אם",
-      "neu": "אבל אם",
-      "scan_seq": 385,
-      "grund": "Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210490"
-    },
-    {
-      "ref": "Vayikra 6:1",
-      "alt": "ולח סמכתי",
-      "neu": "ולא סמכתי",
-      "scan_seq": 403,
-      "grund": "Druck: ולא סמכתי על זה; א/ח im Digitaltext.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-      "scan_fl_id": "FL244210674"
-    },
-    {
-      "ref": "Kuntres Chut HaMeshulash 6",
-      "alt": "אחרות אחד",
-      "neu": "אחדות אחד",
-      "scan_seq": 347,
-      "grund": "Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244210627"
-    },
-    {
-      "ref": "Kuntres Chut HaMeshulash 54",
-      "alt": "עונה ז\"א",
-      "neu": "עולה ז\"א",
-      "scan_seq": 353,
-      "grund": "Druck: עתה במנחת שבת עולה ז״א במקום גבוה.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244211031"
-    },
-    {
-      "ref": "Kuntres Chut HaMeshulash 54",
-      "alt": "כמו ס\"א",
-      "neu": "כמו א\"א",
-      "scan_seq": 353,
-      "grund": "Druck: ונעשה ז״א כמו א״א; א/ס verwechselt.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244211031"
-    },
-    {
-      "ref": "Kuntres Chut HaMeshulash 82",
-      "alt": "לדהגא",
-      "neu": "לדרגא",
-      "scan_seq": 355,
-      "grund": "Druck: מדרגא לדרגא; ר/ה verwechselt.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244210192"
-    },
-    {
-      "ref": "Shemot 10:3",
-      "alt": "וקרבתלו",
-      "neu": "וקרבתנו",
-      "scan_seq": 377,
-      "grund": "Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244210827"
-    },
-    {
-      "ref": "Vayakhel 1:3",
-      "alt": "המשבח",
-      "neu": "המזבח",
-      "scan_seq": 399,
-      "grund": "Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244210486"
-    },
-    {
-      "ref": "Vayakhel 7:1",
-      "alt": "נשאר תפילות",
-      "neu": "כשאר תפילות",
-      "scan_seq": 399,
-      "grund": "Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.",
-      "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-      "scan_fl_id": "FL244210486"
-    }
-  ],
-  "erweitert_am": "2026-11-03",
-  "erweiterung_auftrag": "Alles für eine vollständige sprachliche Satzfreigabe durchführen; nur belegte Buchstabenänderungen über diese Datei."
+ "status": "AKTIV_FREIGEGEBEN",
+ "freigegeben_am": "2026-11-03",
+ "freigabe": "Explizite Zustimmung des Nutzers zur Berichtigung dieser sechs belegten Buchstabenfehler ueber textkorrekturen.json und Fortsetzung der Endpruefung.",
+ "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
+ "korrekturen": [
+  {
+   "ref": "Bereshit 11:1",
+   "alt": "ערף",
+   "neu": "ערך",
+   "scan_seq": 323,
+   "scan_fl_id": "FL244210678",
+   "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
+  },
+  {
+   "ref": "Vayeshev 8:5",
+   "alt": "החסר הזה",
+   "neu": "החסד הזה",
+   "scan_seq": 344,
+   "scan_fl_id": "FL244210264",
+   "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
+  },
+  {
+   "ref": "Vayeshev 8:5",
+   "alt": "שמעני",
+   "neu": "שמענו",
+   "scan_seq": 344,
+   "scan_fl_id": "FL244210264",
+   "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
+  },
+  {
+   "ref": "Vayeshev 8:5",
+   "alt": "יכיון",
+   "neu": "יכוין",
+   "scan_seq": 344,
+   "scan_fl_id": "FL244210264",
+   "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
+  },
+  {
+   "ref": "Vayechi 16:2",
+   "alt": "הפלה ובקשה",
+   "neu": "תפלה ובקשה",
+   "scan_seq": 372,
+   "scan_fl_id": "FL244210400",
+   "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
+  },
+  {
+   "ref": "Vayechi 16:2",
+   "alt": "יכמסתפק",
+   "neu": "וכמסתפק",
+   "scan_seq": 372,
+   "scan_fl_id": "FL244210400",
+   "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
+  },
+  {
+   "ref": "Bereshit 1:3",
+   "alt": "כהם",
+   "neu": "שהם",
+   "scan_seq": 322,
+   "grund": "Digitaltext כ/ש verwechselt; Druck: נה״י שהם.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210752"
+  },
+  {
+   "ref": "Bereshit 10:1",
+   "alt": "מוכרת",
+   "neu": "מוכרח",
+   "scan_seq": 323,
+   "grund": "Druck: אז מוכרח שיהיה שם; keine Verkäuferin.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210678"
+  },
+  {
+   "ref": "Bo 1:5",
+   "alt": "אפינו",
+   "neu": "אפילו",
+   "scan_seq": 384,
+   "grund": "Druck: אפילו פחות מטפח.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210424"
+  },
+  {
+   "ref": "Bo 1:6",
+   "alt": "נהחדש",
+   "neu": "נתחדש",
+   "scan_seq": 384,
+   "grund": "Druck: בדור הזה נתחדש; ת/ה im Digitaltext.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210424"
+  },
+  {
+   "ref": "Bo 1:6",
+   "alt": "ועשה כמו",
+   "neu": "ונעשה כמו",
+   "scan_seq": 384,
+   "grund": "Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210424"
+  },
+  {
+   "ref": "Bo 3:2",
+   "alt": "אכל אם",
+   "neu": "אבל אם",
+   "scan_seq": 385,
+   "grund": "Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210490"
+  },
+  {
+   "ref": "Vayikra 6:1",
+   "alt": "ולח סמכתי",
+   "neu": "ולא סמכתי",
+   "scan_seq": 403,
+   "grund": "Druck: ולא סמכתי על זה; א/ח im Digitaltext.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+   "scan_fl_id": "FL244210674"
+  },
+  {
+   "ref": "Kuntres Chut HaMeshulash 6",
+   "alt": "אחרות אחד",
+   "neu": "אחדות אחד",
+   "scan_seq": 347,
+   "grund": "Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244210627"
+  },
+  {
+   "ref": "Kuntres Chut HaMeshulash 54",
+   "alt": "עונה ז\"א",
+   "neu": "עולה ז\"א",
+   "scan_seq": 353,
+   "grund": "Druck: עתה במנחת שבת עולה ז״א במקום גבוה.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244211031"
+  },
+  {
+   "ref": "Kuntres Chut HaMeshulash 54",
+   "alt": "כמו ס\"א",
+   "neu": "כמו א\"א",
+   "scan_seq": 353,
+   "grund": "Druck: ונעשה ז״א כמו א״א; א/ס verwechselt.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244211031"
+  },
+  {
+   "ref": "Kuntres Chut HaMeshulash 82",
+   "alt": "לדהגא",
+   "neu": "לדרגא",
+   "scan_seq": 355,
+   "grund": "Druck: מדרגא לדרגא; ר/ה verwechselt.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244210192"
+  },
+  {
+   "ref": "Shemot 10:3",
+   "alt": "וקרבתלו",
+   "neu": "וקרבתנו",
+   "scan_seq": 377,
+   "grund": "Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244210827"
+  },
+  {
+   "ref": "Vayakhel 1:3",
+   "alt": "המשבח",
+   "neu": "המזבח",
+   "scan_seq": 399,
+   "grund": "Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244210486"
+  },
+  {
+   "ref": "Vayakhel 7:1",
+   "alt": "נשאר תפילות",
+   "neu": "כשאר תפילות",
+   "scan_seq": 399,
+   "grund": "Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.",
+   "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+   "scan_fl_id": "FL244210486"
+  },
+  {
+   "ref": "Vayera 19:1",
+   "alt": "חוצך",
+   "neu": "חוצץ",
+   "scan_seq": 329,
+   "scan_fl_id": "FL244210493",
+   "grund": "Originaldruck, rechte Spalte Ot יט: שלא יהיה דבר חוצץ בין התפילין לבשר. Digitaltext verwechselt ץ/ך.",
+   "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+   "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+  },
+  {
+   "ref": "Chayei Sara 5:1",
+   "alt": "הכים",
+   "neu": "הכיס",
+   "scan_seq": 330,
+   "scan_fl_id": "FL244210571",
+   "grund": "Originaldruck, linke Spalte Ot ה erster Absatz: לא ינערם מן הכיס. Digitaltext verwechselt ס/ם.",
+   "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+   "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+  },
+  {
+   "ref": "Chayei Sara 5:2",
+   "alt": "הכים",
+   "neu": "הכיס",
+   "scan_seq": 330,
+   "scan_fl_id": "FL244210571",
+   "grund": "Originaldruck, linke Spalte Ot ה zweiter Absatz: אלא הכיס יאחזנו בידו. Digitaltext verwechselt ס/ם.",
+   "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+   "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+  },
+  {
+   "ref": "Tetzaveh 1:1",
+   "alt": "ושמו את שמו",
+   "neu": "ושמו את שמי",
+   "scan_seq": 393,
+   "scan_fl_id": "FL244209946",
+   "grund": "Originaldruck, rechte Spalte Ot א: ושמו את שמי על בני ישראל ואני אברכם. Digitaltext hat שמו statt שמי; Übereinstimmung mit Numeri 6,27.",
+   "herkunft": "NEU_BEI_REKONSTRUKTION_ERKANNT_KEIN_NACHWEIS_DER_DAMALIGEN_ANWENDUNG",
+   "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+  }
+ ],
+ "erweitert_am": "2026-11-03",
+ "erweiterung_auftrag": "Alles für eine vollständige sprachliche Satzfreigabe durchführen; nur belegte Buchstabenänderungen über diese Datei."
 }

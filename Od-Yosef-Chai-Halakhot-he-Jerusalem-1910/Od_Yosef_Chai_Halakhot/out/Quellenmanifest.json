@@ -1,366 +1,413 @@
 {
- "repository": "Moriahise/Ben-Jehojada",
- "basis_commit": "5812c106ad1825baf0e53461fff045cdc2fffb4d",
- "erzeugt": "2026-11-03",
- "werk": "Od Yosef Chai; Halakhot",
- "sefaria_url": "https://www.sefaria.org/download/version/Od%20Yosef%20Chai%3B%20Halakhot%20-%20he%20-%20Jerusalem%2C%201910.json",
- "nli": "https://www.nli.org.il/he/books/NNL_ALEPH990019337340205171/NLI",
- "pipeline": "ben-yehoyada-pipeline v3.2.1 (nur by_parse/by_glossary)",
- "buchmanager": "Ben_Ish_Chai_Bilingual_Book_Manager_v1_0_17 (Bandgroesse, Dateiform)",
- "eingaben": [
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/source/Od_Yosef_Chai_Halakhot_-_he_-_Jerusalem_1910.json",
-   "git_blob_sha": "09b3ecb69a87b549f64adafd925de18bba4aee6b",
-   "sha256": "c5c83996dffd446ad3f8711361a438271e0e1e3304c4665fe4ca5b6801d70b62"
+  "repository": "Moriahise/Ben-Jehojada",
+  "basis_commit": "3f2472cf0f8c113750fc8a5faa1c45444e516ed0",
+  "erzeugt": "2026-11-03",
+  "werk": "Od Yosef Chai; Halakhot",
+  "sefaria_url": "https://www.sefaria.org/download/version/Od%20Yosef%20Chai%3B%20Halakhot%20-%20he%20-%20Jerusalem%2C%201910.json",
+  "nli": "https://www.nli.org.il/he/books/NNL_ALEPH990019337340205171/NLI",
+  "pipeline": "ben-yehoyada-pipeline v3.2.1 (nur by_parse/by_glossary)",
+  "buchmanager": "Ben_Ish_Chai_Bilingual_Book_Manager_v1_0_17 (Bandgroesse, Dateiform)",
+  "eingaben": [
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/source/Od_Yosef_Chai_Halakhot_-_he_-_Jerusalem_1910.json",
+      "git_blob_sha": "09b3ecb69a87b549f64adafd925de18bba4aee6b",
+      "sha256": "c5c83996dffd446ad3f8711361a438271e0e1e3304c4665fe4ca5b6801d70b62"
+    },
+    {
+      "datei": "ben-yehoyada-pipeline-v3_2_1_2026-10-05.zip",
+      "git_blob_sha": "2eab4448a8e1e0beec0c9cc2304e6154f06d95f5",
+      "sha256": "47a42c16dc672cb967c1cbf3230b86b239973082e8871e3e54bdb4a1194ba357"
+    },
+    {
+      "datei": "glossary_he.json",
+      "git_blob_sha": "d7606b55f39247add4bcb53d191b4b7a81344446",
+      "sha256": "d2284d4b84f4722419e35ee1b7e35360cb16c2a7668630621c22b7f1fbc5694a"
+    },
+    {
+      "datei": "Ben_Ish_Chai_Bilingual_Book_Manager_v1_0_17-Milestone.jsx",
+      "git_blob_sha": "d13275d219777593dbba638cfc9e189af7d55321",
+      "sha256": "a43579952a04d79ae0a40bc1134f0e409fd93fa56433a11dd1abe544f054a869"
+    },
+    {
+      "datei": "Ben_Ish_Chai_Running_Header_Manager_v1_0_3.jsx",
+      "git_blob_sha": "ad3f733fb53b9270d9344a07ce89c6724e011aa8",
+      "sha256": "efd9fb6548406d9d60fcd896bd9a82c375abbc3972f322134e1aa60ac7462651"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/scan_konkordanz.tsv",
+      "git_blob_sha": "31138d4b3ecd754aee8ab8bbc00f08f57cd89419",
+      "sha256": "3b416f68e118371212ab388c6ab1928d01e8d7d7c4663c021ddb4ee50bbc267f"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/scan_belege.json",
+      "git_blob_sha": "50805b51fad79b07489695db9e4eec436230a592",
+      "sha256": "dfd994aaec0f7da48d4d872d72bd7e942fdfc84cfacd06b07f5d0077bfe64c47"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/kontextregeln.json",
+      "git_blob_sha": "5458a15b9da7dde5b243b6828ba457cfcecc23dc",
+      "sha256": "a055b4dde789cec30ffb9ef834ac2d6fd51433e49d0bc5744c82890ab56e32e7"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/gliederung.json",
+      "git_blob_sha": "ec9019f3056bd07a6052a4d033fea72cbf3b7b47",
+      "sha256": "1e6166945d787c5b4d74bdeb4816dae9f63876f51edc58adaab263d5d00e1858"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.001",
+      "art": "Scan (Repository)",
+      "sha256": "3ab125cc81b80673a1c9d8b6880e6892bf3a71f8569e18c532f5b28d6698c24f"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.002",
+      "art": "Scan (Repository)",
+      "sha256": "9eb7555126d28728339bca83aecac8d3bea3cc8a58b976ca7b24f91583d3e467"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.003",
+      "art": "Scan (Repository)",
+      "sha256": "0c03dd4170dfe8cbf69ea787f7439dec0ed78be6e8574489308298e1fea2f2cb"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.004",
+      "art": "Scan (Repository)",
+      "sha256": "90b3d2e3e88ead7fbd3123147e3c4fea0ffa8e3648371d2c1bea3a1e25577f2d"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.005",
+      "art": "Scan (Repository)",
+      "sha256": "eca89eb5f5a6808abcb6ebdc073f437a0683eac78e2bda3678175de756dbc0b4"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.006",
+      "art": "Scan (Repository)",
+      "sha256": "5a76e8d5aceccf019f7723635a6ecba4ebb1075e6fffd8f75318c57244c0895a"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.007",
+      "art": "Scan (Repository)",
+      "sha256": "b621fe58e7bb0f6561fefb816209fd0f0e55f1b8252924f2a8483569a98dd784"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.008",
+      "art": "Scan (Repository)",
+      "sha256": "9409efb1f20891a5db6fc6801afb03f9aff8bec1d2af4a81746da271e792b0f1"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.009",
+      "art": "Scan (Repository)",
+      "sha256": "ae02294217eb8ffbb0139253539e2323eafcd87a5ac9435332fd1cebf25f010b"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.010",
+      "art": "Scan (Repository)",
+      "sha256": "7b503d1e2c638a1144766fb4e43e610d8e4459ae37f46c650e153b0283b3398e"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.011",
+      "art": "Scan (Repository)",
+      "sha256": "7599f7d1027222e7811f02a0eecbe8e9c9df302051a88bc126df31dacb7bceca"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.012",
+      "art": "Scan (Repository)",
+      "sha256": "4df2614620555e459b97ae8d79c050cd27481d445f41325b4aeaf496849765ec"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.013",
+      "art": "Scan (Repository)",
+      "sha256": "b426fae6de4b894a5ee2710bd205a2f3cd1fa8d185bc82f26f2304266272b45e"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.014",
+      "art": "Scan (Repository)",
+      "sha256": "5673629f6402ecde21a896228a903cd1d09c2753a9041712c1c9d7813d8641eb"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.015",
+      "art": "Scan (Repository)",
+      "sha256": "6bc2c9836f5f0d5e7493d3198ebdbf41c5570c04c2febdd4467dfcc0657f70bf"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.016",
+      "art": "Scan (Repository)",
+      "sha256": "efb7df19964db7c6465fdd0c92d332964d8fecab2bd20591ce348810bc4f398c"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.017",
+      "art": "Scan (Repository)",
+      "sha256": "d1cafa9d74248284552146fc19fbdf2ada2d0241c0ecab48f419b46b8d25161d"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.018",
+      "art": "Scan (Repository)",
+      "sha256": "8b8fc16ac68becae8b1fc9c9be075aefceaf591be20ceebf6c437fdeba135bb8"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.019",
+      "art": "Scan (Repository)",
+      "sha256": "368ae7fa791507d9744e90c4f02d0d472ab39796b61e38a0e32b961c614708cc"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.020",
+      "art": "Scan (Repository)",
+      "sha256": "cccfcdc3a37acb93f6840951f9a52ec4527340a0a261472edc67322a07cc4c5b"
+    },
+    {
+      "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.021",
+      "art": "Scan (Repository)",
+      "sha256": "f18156b2bbaabbdf73f87b76f65b0dc3d81a47d8f5b3910f1e0dc06d0ec255b1"
+    }
+  ],
+  "textkorrekturen": {
+    "status": "AKTIV_FREIGEGEBEN",
+    "freigegeben_am": "2026-11-03",
+    "freigabe": "Explizite Zustimmung des Nutzers zur Berichtigung dieser sechs belegten Buchstabenfehler ueber textkorrekturen.json und Fortsetzung der Endpruefung.",
+    "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
+    "korrekturen": [
+      {
+        "ref": "Bereshit 11:1",
+        "alt": "ערף",
+        "neu": "ערך",
+        "scan_seq": 323,
+        "scan_fl_id": "FL244210678",
+        "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
+      },
+      {
+        "ref": "Vayeshev 8:5",
+        "alt": "החסר הזה",
+        "neu": "החסד הזה",
+        "scan_seq": 344,
+        "scan_fl_id": "FL244210264",
+        "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
+      },
+      {
+        "ref": "Vayeshev 8:5",
+        "alt": "שמעני",
+        "neu": "שמענו",
+        "scan_seq": 344,
+        "scan_fl_id": "FL244210264",
+        "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
+      },
+      {
+        "ref": "Vayeshev 8:5",
+        "alt": "יכיון",
+        "neu": "יכוין",
+        "scan_seq": 344,
+        "scan_fl_id": "FL244210264",
+        "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
+      },
+      {
+        "ref": "Vayechi 16:2",
+        "alt": "הפלה ובקשה",
+        "neu": "תפלה ובקשה",
+        "scan_seq": 372,
+        "scan_fl_id": "FL244210400",
+        "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
+      },
+      {
+        "ref": "Vayechi 16:2",
+        "alt": "יכמסתפק",
+        "neu": "וכמסתפק",
+        "scan_seq": 372,
+        "scan_fl_id": "FL244210400",
+        "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
+      },
+      {
+        "ref": "Bereshit 1:3",
+        "alt": "כהם",
+        "neu": "שהם",
+        "scan_seq": 322,
+        "grund": "Digitaltext כ/ש verwechselt; Druck: נה״י שהם.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210752"
+      },
+      {
+        "ref": "Bereshit 10:1",
+        "alt": "מוכרת",
+        "neu": "מוכרח",
+        "scan_seq": 323,
+        "grund": "Druck: אז מוכרח שיהיה שם; keine Verkäuferin.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210678"
+      },
+      {
+        "ref": "Bo 1:5",
+        "alt": "אפינו",
+        "neu": "אפילו",
+        "scan_seq": 384,
+        "grund": "Druck: אפילו פחות מטפח.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210424"
+      },
+      {
+        "ref": "Bo 1:6",
+        "alt": "נהחדש",
+        "neu": "נתחדש",
+        "scan_seq": 384,
+        "grund": "Druck: בדור הזה נתחדש; ת/ה im Digitaltext.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210424"
+      },
+      {
+        "ref": "Bo 1:6",
+        "alt": "ועשה כמו",
+        "neu": "ונעשה כמו",
+        "scan_seq": 384,
+        "grund": "Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210424"
+      },
+      {
+        "ref": "Bo 3:2",
+        "alt": "אכל אם",
+        "neu": "אבל אם",
+        "scan_seq": 385,
+        "grund": "Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210490"
+      },
+      {
+        "ref": "Vayikra 6:1",
+        "alt": "ולח סמכתי",
+        "neu": "ולא סמכתי",
+        "scan_seq": 403,
+        "grund": "Druck: ולא סמכתי על זה; א/ח im Digitaltext.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
+        "scan_fl_id": "FL244210674"
+      },
+      {
+        "ref": "Kuntres Chut HaMeshulash 6",
+        "alt": "אחרות אחד",
+        "neu": "אחדות אחד",
+        "scan_seq": 347,
+        "grund": "Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244210627"
+      },
+      {
+        "ref": "Kuntres Chut HaMeshulash 54",
+        "alt": "עונה ז\"א",
+        "neu": "עולה ז\"א",
+        "scan_seq": 353,
+        "grund": "Druck: עתה במנחת שבת עולה ז״א במקום גבוה.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244211031"
+      },
+      {
+        "ref": "Kuntres Chut HaMeshulash 54",
+        "alt": "כמו ס\"א",
+        "neu": "כמו א\"א",
+        "scan_seq": 353,
+        "grund": "Druck: ונעשה ז״א כמו א״א; א/ס verwechselt.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244211031"
+      },
+      {
+        "ref": "Kuntres Chut HaMeshulash 82",
+        "alt": "לדהגא",
+        "neu": "לדרגא",
+        "scan_seq": 355,
+        "grund": "Druck: מדרגא לדרגא; ר/ה verwechselt.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244210192"
+      },
+      {
+        "ref": "Shemot 10:3",
+        "alt": "וקרבתלו",
+        "neu": "וקרבתנו",
+        "scan_seq": 377,
+        "grund": "Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244210827"
+      },
+      {
+        "ref": "Vayakhel 1:3",
+        "alt": "המשבח",
+        "neu": "המזבח",
+        "scan_seq": 399,
+        "grund": "Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244210486"
+      },
+      {
+        "ref": "Vayakhel 7:1",
+        "alt": "נשאר תפילות",
+        "neu": "כשאר תפילות",
+        "scan_seq": 399,
+        "grund": "Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.",
+        "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
+        "scan_fl_id": "FL244210486"
+      },
+      {
+        "ref": "Vayera 19:1",
+        "alt": "חוצך",
+        "neu": "חוצץ",
+        "scan_seq": 329,
+        "scan_fl_id": "FL244210493",
+        "grund": "Originaldruck, rechte Spalte Ot יט: שלא יהיה דבר חוצץ בין התפילין לבשר. Digitaltext verwechselt ץ/ך.",
+        "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+        "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+      },
+      {
+        "ref": "Chayei Sara 5:1",
+        "alt": "הכים",
+        "neu": "הכיס",
+        "scan_seq": 330,
+        "scan_fl_id": "FL244210571",
+        "grund": "Originaldruck, linke Spalte Ot ה erster Absatz: לא ינערם מן הכיס. Digitaltext verwechselt ס/ם.",
+        "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+        "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+      },
+      {
+        "ref": "Chayei Sara 5:2",
+        "alt": "הכים",
+        "neu": "הכיס",
+        "scan_seq": 330,
+        "scan_fl_id": "FL244210571",
+        "grund": "Originaldruck, linke Spalte Ot ה zweiter Absatz: אלא הכיס יאחזנו בידו. Digitaltext verwechselt ס/ם.",
+        "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT",
+        "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+      },
+      {
+        "ref": "Tetzaveh 1:1",
+        "alt": "ושמו את שמו",
+        "neu": "ושמו את שמי",
+        "scan_seq": 393,
+        "scan_fl_id": "FL244209946",
+        "grund": "Originaldruck, rechte Spalte Ot א: ושמו את שמי על בני ישראל ואני אברכם. Digitaltext hat שמו statt שמי; Übereinstimmung mit Numeri 6,27.",
+        "herkunft": "NEU_BEI_REKONSTRUKTION_ERKANNT_KEIN_NACHWEIS_DER_DAMALIGEN_ANWENDUNG",
+        "freigabe": "Nutzerauftrag: alle ungespeicherten Änderungen rekonstruieren; am Originaldruck erneut belegter Übertragungsfehler."
+      }
+    ],
+    "erweitert_am": "2026-11-03",
+    "erweiterung_auftrag": "Alles für eine vollständige sprachliche Satzfreigabe durchführen; nur belegte Buchstabenänderungen über diese Datei."
   },
-  {
-   "datei": "ben-yehoyada-pipeline-v3_2_1_2026-10-05.zip",
-   "git_blob_sha": "2eab4448a8e1e0beec0c9cc2304e6154f06d95f5",
-   "sha256": "47a42c16dc672cb967c1cbf3230b86b239973082e8871e3e54bdb4a1194ba357"
+  "glossar": {
+    "treffer": 8011,
+    "aufgeloest": 5296,
+    "verschieden": 1198,
+    "neu": 638,
+    "neu_staemme": 428,
+    "glossar_eintraege": 289,
+    "glossar_sha256": "d2284d4b84f4722419e35ee1b7e35360cb16c2a7668630621c22b7f1fbc5694a"
   },
-  {
-   "datei": "glossary_he.json",
-   "git_blob_sha": "d7606b55f39247add4bcb53d191b4b7a81344446",
-   "sha256": "d2284d4b84f4722419e35ee1b7e35360cb16c2a7668630621c22b7f1fbc5694a"
+  "band": {
+    "baende": 1,
+    "seiten": [
+      475
+    ],
+    "segmente": 508,
+    "he_zeichen": 473852,
+    "master_sha256": [
+      "c6b90f07fb7f953659b28c28be4c1e5cced60ebeb9ebb618bda8755c3f4fc68c"
+    ]
   },
-  {
-   "datei": "Ben_Ish_Chai_Bilingual_Book_Manager_v1_0_17-Milestone.jsx",
-   "git_blob_sha": "d13275d219777593dbba638cfc9e189af7d55321",
-   "sha256": "a43579952a04d79ae0a40bc1134f0e409fd93fa56433a11dd1abe544f054a869"
-  },
-  {
-   "datei": "Ben_Ish_Chai_Running_Header_Manager_v1_0_3.jsx",
-   "git_blob_sha": "ad3f733fb53b9270d9344a07ce89c6724e011aa8",
-   "sha256": "efd9fb6548406d9d60fcd896bd9a82c375abbc3972f322134e1aa60ac7462651"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/scan_konkordanz.tsv",
-   "git_blob_sha": "31138d4b3ecd754aee8ab8bbc00f08f57cd89419",
-   "sha256": "3b416f68e118371212ab388c6ab1928d01e8d7d7c4663c021ddb4ee50bbc267f"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/scan_belege.json",
-   "git_blob_sha": "50805b51fad79b07489695db9e4eec436230a592",
-   "sha256": "dfd994aaec0f7da48d4d872d72bd7e942fdfc84cfacd06b07f5d0077bfe64c47"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/kontextregeln.json",
-   "git_blob_sha": "5458a15b9da7dde5b243b6828ba457cfcecc23dc",
-   "sha256": "a055b4dde789cec30ffb9ef834ac2d6fd51433e49d0bc5744c82890ab56e32e7"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od_Yosef_Chai_Halakhot/gliederung.json",
-   "git_blob_sha": "ec9019f3056bd07a6052a4d033fea72cbf3b7b47",
-   "sha256": "1e6166945d787c5b4d74bdeb4816dae9f63876f51edc58adaab263d5d00e1858"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.001",
-   "art": "Scan (Repository)",
-   "sha256": "3ab125cc81b80673a1c9d8b6880e6892bf3a71f8569e18c532f5b28d6698c24f"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.002",
-   "art": "Scan (Repository)",
-   "sha256": "9eb7555126d28728339bca83aecac8d3bea3cc8a58b976ca7b24f91583d3e467"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.003",
-   "art": "Scan (Repository)",
-   "sha256": "0c03dd4170dfe8cbf69ea787f7439dec0ed78be6e8574489308298e1fea2f2cb"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.004",
-   "art": "Scan (Repository)",
-   "sha256": "90b3d2e3e88ead7fbd3123147e3c4fea0ffa8e3648371d2c1bea3a1e25577f2d"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.005",
-   "art": "Scan (Repository)",
-   "sha256": "eca89eb5f5a6808abcb6ebdc073f437a0683eac78e2bda3678175de756dbc0b4"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.006",
-   "art": "Scan (Repository)",
-   "sha256": "5a76e8d5aceccf019f7723635a6ecba4ebb1075e6fffd8f75318c57244c0895a"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.007",
-   "art": "Scan (Repository)",
-   "sha256": "b621fe58e7bb0f6561fefb816209fd0f0e55f1b8252924f2a8483569a98dd784"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.008",
-   "art": "Scan (Repository)",
-   "sha256": "9409efb1f20891a5db6fc6801afb03f9aff8bec1d2af4a81746da271e792b0f1"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.009",
-   "art": "Scan (Repository)",
-   "sha256": "ae02294217eb8ffbb0139253539e2323eafcd87a5ac9435332fd1cebf25f010b"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.010",
-   "art": "Scan (Repository)",
-   "sha256": "7b503d1e2c638a1144766fb4e43e610d8e4459ae37f46c650e153b0283b3398e"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.011",
-   "art": "Scan (Repository)",
-   "sha256": "7599f7d1027222e7811f02a0eecbe8e9c9df302051a88bc126df31dacb7bceca"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.012",
-   "art": "Scan (Repository)",
-   "sha256": "4df2614620555e459b97ae8d79c050cd27481d445f41325b4aeaf496849765ec"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.013",
-   "art": "Scan (Repository)",
-   "sha256": "b426fae6de4b894a5ee2710bd205a2f3cd1fa8d185bc82f26f2304266272b45e"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.014",
-   "art": "Scan (Repository)",
-   "sha256": "5673629f6402ecde21a896228a903cd1d09c2753a9041712c1c9d7813d8641eb"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.015",
-   "art": "Scan (Repository)",
-   "sha256": "6bc2c9836f5f0d5e7493d3198ebdbf41c5570c04c2febdd4467dfcc0657f70bf"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.016",
-   "art": "Scan (Repository)",
-   "sha256": "efb7df19964db7c6465fdd0c92d332964d8fecab2bd20591ce348810bc4f398c"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.017",
-   "art": "Scan (Repository)",
-   "sha256": "d1cafa9d74248284552146fc19fbdf2ada2d0241c0ecab48f419b46b8d25161d"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.018",
-   "art": "Scan (Repository)",
-   "sha256": "8b8fc16ac68becae8b1fc9c9be075aefceaf591be20ceebf6c437fdeba135bb8"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.019",
-   "art": "Scan (Repository)",
-   "sha256": "368ae7fa791507d9744e90c4f02d0d472ab39796b61e38a0e32b961c614708cc"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.020",
-   "art": "Scan (Repository)",
-   "sha256": "cccfcdc3a37acb93f6840951f9a52ec4527340a0a261472edc67322a07cc4c5b"
-  },
-  {
-   "datei": "Od-Yosef-Chai-Halakhot-he-Jerusalem-1910/Od Yosef Chai; Halakhot - he - Jerusalem, 1910.zip.021",
-   "art": "Scan (Repository)",
-   "sha256": "f18156b2bbaabbdf73f87b76f65b0dc3d81a47d8f5b3910f1e0dc06d0ec255b1"
+  "rekonstruktion": {
+    "historisch_vollstaendig": false,
+    "bericht": "Pruefbericht_Rekonstruktion_20261103.md",
+    "status": "vokalisierung/Rekonstruktion_Status_20261103.json",
+    "neue_textkorrekturen": 4,
+    "gezielt_neu_gelesene_absaetze": 16
   }
- ],
- "textkorrekturen": {
-  "status": "AKTIV_FREIGEGEBEN",
-  "freigegeben_am": "2026-11-03",
-  "freigabe": "Explizite Zustimmung des Nutzers zur Berichtigung dieser sechs belegten Buchstabenfehler ueber textkorrekturen.json und Fortsetzung der Endpruefung.",
-  "basis_commit": "0c9ecd5e727c6c1e53adcd915cd4206355bb91de",
-  "korrekturen": [
-   {
-    "ref": "Bereshit 11:1",
-    "alt": "ערף",
-    "neu": "ערך",
-    "scan_seq": 323,
-    "scan_fl_id": "FL244210678",
-    "grund": "Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף."
-   },
-   {
-    "ref": "Vayeshev 8:5",
-    "alt": "החסר הזה",
-    "neu": "החסד הזה",
-    "scan_seq": 344,
-    "scan_fl_id": "FL244210264",
-    "grund": "Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel."
-   },
-   {
-    "ref": "Vayeshev 8:5",
-    "alt": "שמעני",
-    "neu": "שמענו",
-    "scan_seq": 344,
-    "scan_fl_id": "FL244210264",
-    "grund": "Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י."
-   },
-   {
-    "ref": "Vayeshev 8:5",
-    "alt": "יכיון",
-    "neu": "יכוין",
-    "scan_seq": 344,
-    "scan_fl_id": "FL244210264",
-    "grund": "Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht."
-   },
-   {
-    "ref": "Vayechi 16:2",
-    "alt": "הפלה ובקשה",
-    "neu": "תפלה ובקשה",
-    "scan_seq": 372,
-    "scan_fl_id": "FL244210400",
-    "grund": "Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens."
-   },
-   {
-    "ref": "Vayechi 16:2",
-    "alt": "יכמסתפק",
-    "neu": "וכמסתפק",
-    "scan_seq": 372,
-    "scan_fl_id": "FL244210400",
-    "grund": "Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י."
-   },
-   {
-    "ref": "Bereshit 1:3",
-    "alt": "כהם",
-    "neu": "שהם",
-    "scan_seq": 322,
-    "grund": "Digitaltext כ/ש verwechselt; Druck: נה״י שהם.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210752"
-   },
-   {
-    "ref": "Bereshit 10:1",
-    "alt": "מוכרת",
-    "neu": "מוכרח",
-    "scan_seq": 323,
-    "grund": "Druck: אז מוכרח שיהיה שם; keine Verkäuferin.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210678"
-   },
-   {
-    "ref": "Bo 1:5",
-    "alt": "אפינו",
-    "neu": "אפילו",
-    "scan_seq": 384,
-    "grund": "Druck: אפילו פחות מטפח.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210424"
-   },
-   {
-    "ref": "Bo 1:6",
-    "alt": "נהחדש",
-    "neu": "נתחדש",
-    "scan_seq": 384,
-    "grund": "Druck: בדור הזה נתחדש; ת/ה im Digitaltext.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210424"
-   },
-   {
-    "ref": "Bo 1:6",
-    "alt": "ועשה כמו",
-    "neu": "ונעשה כמו",
-    "scan_seq": 384,
-    "grund": "Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210424"
-   },
-   {
-    "ref": "Bo 3:2",
-    "alt": "אכל אם",
-    "neu": "אבל אם",
-    "scan_seq": 385,
-    "grund": "Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210490"
-   },
-   {
-    "ref": "Vayikra 6:1",
-    "alt": "ולח סמכתי",
-    "neu": "ולא סמכתי",
-    "scan_seq": 403,
-    "grund": "Druck: ולא סמכתי על זה; א/ח im Digitaltext.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigte Übertragungsfehler.",
-    "scan_fl_id": "FL244210674"
-   },
-   {
-    "ref": "Kuntres Chut HaMeshulash 6",
-    "alt": "אחרות אחד",
-    "neu": "אחדות אחד",
-    "scan_seq": 347,
-    "grund": "Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244210627"
-   },
-   {
-    "ref": "Kuntres Chut HaMeshulash 54",
-    "alt": "עונה ז\"א",
-    "neu": "עולה ז\"א",
-    "scan_seq": 353,
-    "grund": "Druck: עתה במנחת שבת עולה ז״א במקום גבוה.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244211031"
-   },
-   {
-    "ref": "Kuntres Chut HaMeshulash 54",
-    "alt": "כמו ס\"א",
-    "neu": "כמו א\"א",
-    "scan_seq": 353,
-    "grund": "Druck: ונעשה ז״א כמו א״א; א/ס verwechselt.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244211031"
-   },
-   {
-    "ref": "Kuntres Chut HaMeshulash 82",
-    "alt": "לדהגא",
-    "neu": "לדרגא",
-    "scan_seq": 355,
-    "grund": "Druck: מדרגא לדרגא; ר/ה verwechselt.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244210192"
-   },
-   {
-    "ref": "Shemot 10:3",
-    "alt": "וקרבתלו",
-    "neu": "וקרבתנו",
-    "scan_seq": 377,
-    "grund": "Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244210827"
-   },
-   {
-    "ref": "Vayakhel 1:3",
-    "alt": "המשבח",
-    "neu": "המזבח",
-    "scan_seq": 399,
-    "grund": "Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244210486"
-   },
-   {
-    "ref": "Vayakhel 7:1",
-    "alt": "נשאר תפילות",
-    "neu": "כשאר תפילות",
-    "scan_seq": 399,
-    "grund": "Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.",
-    "freigabe": "Nutzerauftrag: alles für vollständige sprachliche Satzfreigabe erledigen; am Seitenbild bestätigter Übertragungsfehler.",
-    "scan_fl_id": "FL244210486"
-   }
-  ],
-  "erweitert_am": "2026-11-03",
-  "erweiterung_auftrag": "Alles für eine vollständige sprachliche Satzfreigabe durchführen; nur belegte Buchstabenänderungen über diese Datei."
- },
- "glossar": {
-  "treffer": 8011,
-  "aufgeloest": 5296,
-  "verschieden": 1198,
-  "neu": 638,
-  "neu_staemme": 428,
-  "glossar_eintraege": 289,
-  "glossar_sha256": "d2284d4b84f4722419e35ee1b7e35360cb16c2a7668630621c22b7f1fbc5694a"
- },
- "band": {
-  "baende": 1,
-  "seiten": [
-   475
-  ],
-  "segmente": 508,
-  "he_zeichen": 473852,
-  "master_sha256": [
-   "7c675151b0e3bd99041bc48bb05566930bf1753651e4415a2c7a91cdb9a83fb9"
-  ]
- }
 }
