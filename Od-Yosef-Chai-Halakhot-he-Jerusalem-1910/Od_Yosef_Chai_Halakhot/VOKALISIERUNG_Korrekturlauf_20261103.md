@@ -1,5 +1,9 @@
 # Od Yosef Chai Halakhot – Nikud-Korrekturlauf, 03.11.2026
 
+Historischer Bericht zum Stand `d18e2df`. Der aktuelle Prüfstand steht in
+`Nachpruefung_Satzfreigabe_20261103.md`; die folgenden damaligen Zahlen und
+die damalige Master-Prüfsumme sind durch diesen Nachprüfungsstand überholt.
+
 Grundlage: `Od_Yosef_Chai_Halakhot_2026-11-03_v6.zip`, Blob
 `cb61bed7ef28be360e85961659b69df63d0f11d0`, aus Repository-Stand
 `7938402a71a98845606b039914eca2e1bd981194`.

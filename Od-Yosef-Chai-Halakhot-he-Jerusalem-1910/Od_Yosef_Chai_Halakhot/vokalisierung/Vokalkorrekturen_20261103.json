@@ -7,7 +7,7 @@
     {
       "datei": "OYC_01_Bereshit.txt",
       "sha256_vorher": "ccd71f8f17098c6106c6969f834a47440d86ee893310d68777f935c8b1a5cdc8",
-      "sha256_nachher": "2902bd25eb7c3c9fc6d4ab71f26cd414d62d882bca0b2a14d3fe02baf972b055",
+      "sha256_nachher": "d010b6d2b0325c18f63cf43e40b17f6fc81eecc9d69df3eb05782468df1a90ea",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -70,7 +70,7 @@
     {
       "datei": "OYC_08_Vayishlach_Teil02.txt",
       "sha256_vorher": "99898598aa4b4c8c0c1a295fdf9bb728df38162de6898a79367d2096c8fd83e9",
-      "sha256_nachher": "43306b36fa6e9ca9e859635f6ba42cdb4b131215d7270c1121c3cdb367e050ad",
+      "sha256_nachher": "835fba02eace7170aff35cb72241cb88422947c3023652c40831e6e645f981c5",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -84,7 +84,7 @@
     {
       "datei": "OYC_09_Vayeshev_Teil01.txt",
       "sha256_vorher": "7d7710ac06fb5126f33284c3ea5a06f8f2ed274239c63cf6e6b14cc70314abcb",
-      "sha256_nachher": "e1f2c9d835b31321b69ad3236cc44d39efd0a485fa0069c44a023432d8758ca2",
+      "sha256_nachher": "8f5c70a69e6df372228c3372813cb0ad829f98fef1ec8f9e99d4f07470ccdd5f",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -105,7 +105,7 @@
     {
       "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt",
       "sha256_vorher": "5539485a7f0213e4911db3e1ce039e2566bb152e0d634d4e09d88db9b1874c29",
-      "sha256_nachher": "53268db322020b1512c785c3f1f5dc582e9511cc0d46ae9c61f260273c4c4f23",
+      "sha256_nachher": "04d6648854d8dad50727c8057606afa6c539e6a08f80a1929666606f7223ca00",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -133,49 +133,49 @@
     {
       "datei": "OYC_11_Miketz_Teil01.txt",
       "sha256_vorher": "acfb9e852cdfef5eca0a17631b0923fb40a76114eab280199edfc23e6024f6f4",
-      "sha256_nachher": "8b3fa1fd91de3eafc2b6d441c7e20b9c5325c920a498d46fbaf95f7998f93a58",
+      "sha256_nachher": "ee889ff89583fe7fbd22506cc2e261ac9fe31393b6a2b1d1e1b80ca8aff95e4b",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_11_Miketz_Teil02.txt",
       "sha256_vorher": "2ed53c1679f3adab49e9723e0e6de91c46cee11023e20bcd23e6f39aca5da373",
-      "sha256_nachher": "045d3694d94f86c393d94a31483017de24496e38ab322e12ec186dce32684af5",
+      "sha256_nachher": "bd500605321766822d372299dca7e6d4b77d1bd43dd5efc71f57b288d5e7933f",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_12_Vayigash_Teil01.txt",
       "sha256_vorher": "9e616a9b20bbb4aa2fad956622fac2506424a3c0ef5dd4731a6e1b5b995873d0",
-      "sha256_nachher": "0cdc35371304c5ddf578b17633c66e20a10bc9d163cfd892cd73399692ff13c5",
+      "sha256_nachher": "30645acfae93f31149bfe08310f7d30125a9790e8ab25dcb76b941ec23820ed2",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_12_Vayigash_Teil02.txt",
       "sha256_vorher": "3dc16960d6b063f77b29befe0f2c090f48771da9b8f5902f3708fc7697f00607",
-      "sha256_nachher": "a6d56c60660d58fe3876eaff9f8e8532b2c9f2934c4f0063a955a6f1a9806ac4",
+      "sha256_nachher": "42518c3ed6cd485c6d98ad830c5cb29bdfe5272d4d278d7a6c911321bbc0c497",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_13_Vayechi_Teil01.txt",
       "sha256_vorher": "d228fb888c0632691ebd585fe16d24666e04adb1e322f18c67b25e2adac16ed9",
-      "sha256_nachher": "60151bad726868d6cfcaac984cfdfa299eafe07ed879453f8c652eead9c2f7a9",
+      "sha256_nachher": "d19b9bfcf2ed6dabfd99d67a4f60bad9925dbd45e408e66b8c1fd58b373547fd",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_13_Vayechi_Teil02.txt",
       "sha256_vorher": "40d5a11e6f2e8ba8dc4da561df053ad3159be5960a33b2d9d3a31eedd76b8b3a",
-      "sha256_nachher": "0b93ce1f656be0b9958b50366673e56a48fd4ae0f67a57be204507a95a8c4b87",
+      "sha256_nachher": "8d433883d5cb1f07381295424aee2c167451b0a66b248dd2e151ba73e8962317",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
     {
       "datei": "OYC_14_Shemot_Teil01.txt",
       "sha256_vorher": "33c1f0db4b4bc0691380aa393e22bf0bc00a276b1a4cc69f5a2604fcd296e217",
-      "sha256_nachher": "5bdcc63e016dc17589576baa0f2b0be180da4b36d8b23e7e0408dda419599dcb",
+      "sha256_nachher": "81a2bdd395c462622d1da16ded26ad060d6496e72e58d0f61bf9eb0cef813f1b",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -217,7 +217,7 @@
     {
       "datei": "OYC_17_Beshalach_Teil01.txt",
       "sha256_vorher": "f7acf14148aa76999be671f22367730a3be12aa854fd9618771577e871fd12e8",
-      "sha256_nachher": "26a2362d6faa5258f1b47f0fe0e9946ba714480e59eefbc5fa534addbbf16f9d",
+      "sha256_nachher": "03db2abc1529bde07912dd6e8b5a29cff9ea1a8a43e0c1d9f57aae8e67ba425c",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -245,7 +245,7 @@
     {
       "datei": "OYC_20_Terumah.txt",
       "sha256_vorher": "31b75122ebb3fda687f3fbc3d45488e143be134625841e978a2372101b2acc92",
-      "sha256_nachher": "95c482d6987ebfac9b332a10dd5b5fe4a70b86f71a4168f4a6a07853794bb044",
+      "sha256_nachher": "35b99541ba5dd31b8de0dc67ee5a314c6931c66e58f76d8a6b985c26dc4fe345",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -301,7 +301,7 @@
     {
       "datei": "OYC_27_Tzav.txt",
       "sha256_vorher": "a1346f1ccb828fe2f69738eac0eedec9bc1765afbb4fc703177fbd2c44e2001e",
-      "sha256_nachher": "923ccd14ff2bf5fcc1b8b835614204e66be4e51a5387a3d58bc870b37f6df577",
+      "sha256_nachher": "b85ce4dbd8165674d1d07d2f0a9cdc1181b5737c1173c09c3440cf6d647a5f83",
       "nur_nikud": true,
       "marker_bytegleich": true
     },
@@ -322,7 +322,7 @@
     {
       "datei": "OYC_29_Shoftim_Teil02.txt",
       "sha256_vorher": "e0228a3ff7102ab7f7fec3d09b2aecb47e90f14025c338ac612ab65277824e1d",
-      "sha256_nachher": "6d6bfa7378d087f7a612adf55ecdc83a886bd2e2ee9023bd90e924db9775e2fd",
+      "sha256_nachher": "ff08a6ad3c8da2f63e5688c88c17796ad4dfff0fb7d800d5efc48538c4f46887",
       "nur_nikud": true,
       "marker_bytegleich": true
     }
@@ -373,8 +373,8 @@
       "ref": "Bereshit 1:6",
       "wort_nr": 15,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_01_Bereshit.txt",
@@ -4205,8 +4205,8 @@
       "ref": "Vayishlach 1:25",
       "wort_nr": 131,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_08_Vayishlach_Teil02.txt",
@@ -6821,8 +6821,8 @@
       "ref": "Kuntres Chut HaMeshulash 31",
       "wort_nr": 14,
       "alt": "בַּנֻּוסָּח",
-      "neu": "בַּנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בַּנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt",
@@ -9173,24 +9173,24 @@
       "ref": "Miketz 5:1",
       "wort_nr": 80,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_11_Miketz_Teil01.txt",
       "ref": "Miketz 5:1",
       "wort_nr": 83,
       "alt": "נֻוסַּח",
-      "neu": "נוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "נוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_11_Miketz_Teil01.txt",
       "ref": "Miketz 5:1",
       "wort_nr": 103,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_11_Miketz_Teil01.txt",
@@ -9237,8 +9237,8 @@
       "ref": "Miketz 5:5",
       "wort_nr": 1,
       "alt": "וּבְנֻוסַּח",
-      "neu": "וּבְנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "וּבְנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_11_Miketz_Teil01.txt",
@@ -9621,8 +9621,8 @@
       "ref": "Miketz 11:1",
       "wort_nr": 10,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_11_Miketz_Teil02.txt",
@@ -10493,8 +10493,8 @@
       "ref": "Vayigash 6:4",
       "wort_nr": 8,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_12_Vayigash_Teil01.txt",
@@ -11029,8 +11029,8 @@
       "ref": "Vayigash 13:13",
       "wort_nr": 26,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_12_Vayigash_Teil02.txt",
@@ -11061,8 +11061,8 @@
       "ref": "Vayigash 13:13",
       "wort_nr": 101,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_12_Vayigash_Teil02.txt",
@@ -11573,8 +11573,8 @@
       "ref": "Vayechi 4:2",
       "wort_nr": 75,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_13_Vayechi_Teil01.txt",
@@ -11973,8 +11973,8 @@
       "ref": "Vayechi 16:2",
       "wort_nr": 27,
       "alt": "שֶׁהַנֻּוסָּח",
-      "neu": "שֶׁהַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "שֶׁהַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_13_Vayechi_Teil02.txt",
@@ -12349,16 +12349,16 @@
       "ref": "Shemot 1:2",
       "wort_nr": 13,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_14_Shemot_Teil01.txt",
       "ref": "Shemot 1:2",
       "wort_nr": 35,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_14_Shemot_Teil01.txt",
@@ -12565,8 +12565,8 @@
       "ref": "Shemot 1:10",
       "wort_nr": 5,
       "alt": "בַּנֻּוסָּח",
-      "neu": "בַּנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בַּנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_14_Shemot_Teil01.txt",
@@ -16405,8 +16405,8 @@
       "ref": "Beshalach 13:7",
       "wort_nr": 151,
       "alt": "נֻוסָּח",
-      "neu": "נוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "נוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_17_Beshalach_Teil01.txt",
@@ -17693,8 +17693,8 @@
       "ref": "Terumah 3:2",
       "wort_nr": 15,
       "alt": "הַנֻּוסָּח",
-      "neu": "הַנּוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "הַנּוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_20_Terumah.txt",
@@ -17741,8 +17741,8 @@
       "ref": "Terumah 5:1",
       "wort_nr": 8,
       "alt": "בְּנֻוסַּח",
-      "neu": "בְּנוּסַּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech"
     },
     {
       "datei": "OYC_20_Terumah.txt",
@@ -20485,8 +20485,8 @@
       "ref": "Tzav 4:1",
       "wort_nr": 16,
       "alt": "בְּנֻוסָּח",
-      "neu": "בְּנוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_27_Tzav.txt",
@@ -22621,8 +22621,8 @@
       "ref": "Shoftim 51:5",
       "wort_nr": 20,
       "alt": "בְּנֻוסָּח",
-      "neu": "בְּנוּסָּח",
-      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+      "neu": "בְּנוּסַח",
+      "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip"
     },
     {
       "datei": "OYC_29_Shoftim_Teil02.txt",
@@ -22743,6 +22743,55 @@
       "alt": "נֹועַם",
       "neu": "נוֹעַם",
       "grund": "Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk"
+    },
+    {
+      "datei": "OYC_09_Vayeshev_Teil01.txt",
+      "ref": "Vayeshev 8:5",
+      "wort_nr": 29,
+      "alt": "וְחַיּוֹתֵינוּ",
+      "neu": "וְחַיּוּתֵינוּ",
+      "grund": "Unser Leben/Lebenskraft, parallel zur Ernaehrung; nicht unsere Tiere"
+    },
+    {
+      "datei": "OYC_12_Vayigash_Teil02.txt",
+      "ref": "Vayigash 13:5",
+      "wort_nr": 27,
+      "alt": "לְאַמֵּן",
+      "neu": "לְאָמֵן",
+      "grund": "בין אמן לאמן: zwischen zwei Amen, nicht trainieren"
+    },
+    {
+      "datei": "OYC_12_Vayigash_Teil02.txt",
+      "ref": "Vayigash 13:5",
+      "wort_nr": 35,
+      "alt": "לְאַמֵּן",
+      "neu": "לְאָמֵן",
+      "grund": "בין אמן לאמן: zwischen zwei Amen, nicht trainieren"
+    },
+    {
+      "datei": "OYC_12_Vayigash_Teil02.txt",
+      "ref": "Vayigash 13:8",
+      "wort_nr": 86,
+      "alt": "הָאֻמָּן",
+      "neu": "הָאָמֵן",
+      "grund": "Antwort Amen, nicht der Handwerker"
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil02.txt",
+      "ref": "Vayechi 16:2",
+      "wort_nr": 188,
+      "alt": "הָאֻמָּן",
+      "neu": "הָאָמֵן",
+      "grund": "Antwort Amen, nicht der Handwerker"
+    },
+    {
+      "datei": "OYC_13_Vayechi_Teil02.txt",
+      "ref": "Vayechi 16:3",
+      "wort_nr": 52,
+      "alt": "וּבְאֻמָּן",
+      "neu": "וּבְאָמֵן",
+      "grund": "Antwort Amen, nicht Handwerker"
     }
-  ]
+  ],
+  "nachpruefung_basis_commit": "d18e2dfd40f12160b2809f70f5cd29a30dfc3f30"
 }

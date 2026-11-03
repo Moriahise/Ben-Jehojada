@@ -1,7 +1,7 @@
 volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he_konsonanten	scanseiten_abschnitt	gliederung
 1	OYH-0000001	0	הלכות שנה ראשונה	170	offen	Od Yosef Chai; Halakhot, Bereshit 1:1	1	113	322-323	Vorwort des Halakhot-Teils
 1	OYH-0000002	0	פרשת בראשית	989	offen	Od Yosef Chai; Halakhot, Bereshit 1:2–4	3	639	322-323	Vorbemerkung zu Bereshit (ohne Ordnungsbuchstaben)
-1	OYH-0000003	1	פרשת בראשית	2059	offen	Od Yosef Chai; Halakhot, Bereshit 1:5–6	2	1276	322-323	Ot א
+1	OYH-0000003	1	פרשת בראשית	2058	offen	Od Yosef Chai; Halakhot, Bereshit 1:5–6	2	1276	322-323	Ot א
 1	OYH-0000004	2	פרשת בראשית	478	offen	Od Yosef Chai; Halakhot, Bereshit 2	1	300	322-323	
 1	OYH-0000005	3	פרשת בראשית	443	offen	Od Yosef Chai; Halakhot, Bereshit 3	1	264	322-323	
 1	OYH-0000006	4	פרשת בראשית	800	offen	Od Yosef Chai; Halakhot, Bereshit 4	2	487	322-323	
@@ -95,7 +95,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000094	3	פרשת ויצא	9953	offen	Od Yosef Chai; Halakhot, Vayetzei 3	9	6030	333-335	
 1	OYH-0000095	4	פרשת ויצא	3885	offen	Od Yosef Chai; Halakhot, Vayetzei 4	2	2453	333-335	
 1	OYH-0000096	5	פרשת ויצא	272	offen	Od Yosef Chai; Halakhot, Vayetzei 5	1	175	333-335	
-1	OYH-0000097	1	פרשת וישלח	52274	offen	Od Yosef Chai; Halakhot, Vayishlach 1	55	32475	335-342	
+1	OYH-0000097	1	פרשת וישלח	52273	offen	Od Yosef Chai; Halakhot, Vayishlach 1	55	32475	335-342	
 1	OYH-0000098	2	פרשת וישלח	5207	offen	Od Yosef Chai; Halakhot, Vayishlach 2	19	3244	335-342	
 1	OYH-0000099	3	פרשת וישלח	1131	offen	Od Yosef Chai; Halakhot, Vayishlach 3	1	727	335-342	
 1	OYH-0000100	1	פרשת וישב	505	offen	Od Yosef Chai; Halakhot, Vayeshev 1	1	318	342-346	
@@ -146,7 +146,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000145	28	קונטרס חוט המשולש	440	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 28	1	280	346-358	
 1	OYH-0000146	29	קונטרס חוט המשולש	1429	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 29	1	907	346-358	
 1	OYH-0000147	30	קונטרס חוט המשולש	689	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 30	1	434	346-358	
-1	OYH-0000148	31	קונטרס חוט המשולש	772	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 31	1	500	346-358	
+1	OYH-0000148	31	קונטרס חוט המשולש	771	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 31	1	500	346-358	
 1	OYH-0000149	32	קונטרס חוט המשולש	2324	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 32	1	1483	346-358	
 1	OYH-0000150	33	קונטרס חוט המשולש	2735	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 33	1	1706	346-358	
 1	OYH-0000151	34	קונטרס חוט המשולש	611	offen	Od Yosef Chai; Halakhot, Kuntres Chut HaMeshulash 34	1	409	346-358	
@@ -227,13 +227,13 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000226	2	פרשת מקץ	1223	offen	Od Yosef Chai; Halakhot, Miketz 2	3	772	358-363	
 1	OYH-0000227	3	פרשת מקץ	3041	offen	Od Yosef Chai; Halakhot, Miketz 3	6	1926	358-363	
 1	OYH-0000228	4	פרשת מקץ	6972	offen	Od Yosef Chai; Halakhot, Miketz 4	10	4395	358-363	
-1	OYH-0000229	5	פרשת מקץ	5873	offen	Od Yosef Chai; Halakhot, Miketz 5	5	3694	358-363	
+1	OYH-0000229	5	פרשת מקץ	5869	offen	Od Yosef Chai; Halakhot, Miketz 5	5	3694	358-363	
 1	OYH-0000230	6	פרשת מקץ	1661	offen	Od Yosef Chai; Halakhot, Miketz 6	2	1021	358-363	
 1	OYH-0000231	7	פרשת מקץ	3633	offen	Od Yosef Chai; Halakhot, Miketz 7	2	2207	358-363	
 1	OYH-0000232	8	פרשת מקץ	527	offen	Od Yosef Chai; Halakhot, Miketz 8	1	340	358-363	
 1	OYH-0000233	9	פרשת מקץ	6017	offen	Od Yosef Chai; Halakhot, Miketz 9	1	3730	358-363	
 1	OYH-0000234	10	פרשת מקץ	520	offen	Od Yosef Chai; Halakhot, Miketz 10	1	333	358-363	
-1	OYH-0000235	11	פרשת מקץ	1295	offen	Od Yosef Chai; Halakhot, Miketz 11	2	793	358-363	
+1	OYH-0000235	11	פרשת מקץ	1294	offen	Od Yosef Chai; Halakhot, Miketz 11	2	793	358-363	
 1	OYH-0000236	12	פרשת מקץ	1752	offen	Od Yosef Chai; Halakhot, Miketz 12	1	1077	358-363	
 1	OYH-0000237	13	פרשת מקץ	672	offen	Od Yosef Chai; Halakhot, Miketz 13	1	421	358-363	
 1	OYH-0000238	14	פרשת מקץ	1571	offen	Od Yosef Chai; Halakhot, Miketz 14	2	953	358-363	
@@ -244,20 +244,20 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000243	3	פרשת ויגש	1838	offen	Od Yosef Chai; Halakhot, Vayigash 3	3	1129	363-368	
 1	OYH-0000244	4	פרשת ויגש	1200	offen	Od Yosef Chai; Halakhot, Vayigash 4	1	763	363-368	
 1	OYH-0000245	5	פרשת ויגש	2222	offen	Od Yosef Chai; Halakhot, Vayigash 5	3	1412	363-368	
-1	OYH-0000246	6	פרשת ויגש	3434	offen	Od Yosef Chai; Halakhot, Vayigash 6	4	2143	363-368	
+1	OYH-0000246	6	פרשת ויגש	3433	offen	Od Yosef Chai; Halakhot, Vayigash 6	4	2143	363-368	
 1	OYH-0000247	7	פרשת ויגש	526	offen	Od Yosef Chai; Halakhot, Vayigash 7	1	347	363-368	
 1	OYH-0000248	8	פרשת ויגש	7351	offen	Od Yosef Chai; Halakhot, Vayigash 8	13	4711	363-368	
 1	OYH-0000249	9	פרשת ויגש	1685	offen	Od Yosef Chai; Halakhot, Vayigash 9	2	1053	363-368	
 1	OYH-0000250	10	פרשת ויגש	1050	offen	Od Yosef Chai; Halakhot, Vayigash 10	1	665	363-368	
 1	OYH-0000251	11	פרשת ויגש	313	offen	Od Yosef Chai; Halakhot, Vayigash 11	1	194	363-368	
 1	OYH-0000252	12	פרשת ויגש	2490	offen	Od Yosef Chai; Halakhot, Vayigash 12	2	1568	363-368	
-1	OYH-0000253	13	פרשת ויגש	10010	offen	Od Yosef Chai; Halakhot, Vayigash 13	13	6332	363-368	
+1	OYH-0000253	13	פרשת ויגש	10005	offen	Od Yosef Chai; Halakhot, Vayigash 13	13	6332	363-368	
 1	OYH-0000254	14	פרשת ויגש	2577	offen	Od Yosef Chai; Halakhot, Vayigash 14	3	1615	363-368	
 1	OYH-0000255	15	פרשת ויגש	966	offen	Od Yosef Chai; Halakhot, Vayigash 15	3	606	363-368	
 1	OYH-0000256	1	פרשת ויחי	6728	offen	Od Yosef Chai; Halakhot, Vayechi 1	7	4158	368-373	
 1	OYH-0000257	2	פרשת ויחי	2237	offen	Od Yosef Chai; Halakhot, Vayechi 2	3	1366	368-373	
 1	OYH-0000258	3	פרשת ויחי	1041	offen	Od Yosef Chai; Halakhot, Vayechi 3	1	643	368-373	
-1	OYH-0000259	4	פרשת ויחי	1181	offen	Od Yosef Chai; Halakhot, Vayechi 4	2	721	368-373	
+1	OYH-0000259	4	פרשת ויחי	1180	offen	Od Yosef Chai; Halakhot, Vayechi 4	2	721	368-373	
 1	OYH-0000260	5	פרשת ויחי	1152	offen	Od Yosef Chai; Halakhot, Vayechi 5	1	699	368-373	
 1	OYH-0000261	6	פרשת ויחי	3499	offen	Od Yosef Chai; Halakhot, Vayechi 6	4	2116	368-373	
 1	OYH-0000262	7	פרשת ויחי	1168	offen	Od Yosef Chai; Halakhot, Vayechi 7	2	732	368-373	
@@ -269,7 +269,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000268	13	פרשת ויחי	703	offen	Od Yosef Chai; Halakhot, Vayechi 13	1	434	368-373	
 1	OYH-0000269	14	פרשת ויחי	1816	offen	Od Yosef Chai; Halakhot, Vayechi 14	2	1130	368-373	
 1	OYH-0000270	15	פרשת ויחי	887	offen	Od Yosef Chai; Halakhot, Vayechi 15	1	582	368-373	
-1	OYH-0000271	16	פרשת ויחי	5772	offen	Od Yosef Chai; Halakhot, Vayechi 16	5	3485	368-373	
+1	OYH-0000271	16	פרשת ויחי	5769	offen	Od Yosef Chai; Halakhot, Vayechi 16	5	3485	368-373	
 1	OYH-0000272	17	פרשת ויחי	439	offen	Od Yosef Chai; Halakhot, Vayechi 17	1	289	368-373	
 1	OYH-0000273	18	פרשת ויחי	837	offen	Od Yosef Chai; Halakhot, Vayechi 18	2	530	368-373	
 1	OYH-0000274	19	פרשת ויחי	2345	offen	Od Yosef Chai; Halakhot, Vayechi 19	3	1475	368-373	
@@ -281,7 +281,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000280	25	פרשת ויחי	1658	offen	Od Yosef Chai; Halakhot, Vayechi 25	1	1051	368-373	
 1	OYH-0000281	26	פרשת ויחי	633	offen	Od Yosef Chai; Halakhot, Vayechi 26	1	426	368-373	
 1	OYH-0000282	27	פרשת ויחי	393	offen	Od Yosef Chai; Halakhot, Vayechi 27	1	255	368-373	
-1	OYH-0000283	1	פרשת שמות	16318	offen	Od Yosef Chai; Halakhot, Shemot 1	16	10070	373-378	
+1	OYH-0000283	1	פרשת שמות	16315	offen	Od Yosef Chai; Halakhot, Shemot 1	16	10070	373-378	
 1	OYH-0000284	2	פרשת שמות	1644	offen	Od Yosef Chai; Halakhot, Shemot 2	3	1034	373-378	
 1	OYH-0000285	3	פרשת שמות	423	offen	Od Yosef Chai; Halakhot, Shemot 3	1	259	373-378	
 1	OYH-0000286	4	פרשת שמות	5164	offen	Od Yosef Chai; Halakhot, Shemot 4	9	3207	373-378	
@@ -329,7 +329,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000328	10	פרשת בשלח	824	offen	Od Yosef Chai; Halakhot, Beshalach 10	1	497	385-388	
 1	OYH-0000329	11	פרשת בשלח	897	offen	Od Yosef Chai; Halakhot, Beshalach 11	1	556	385-388	
 1	OYH-0000330	12	פרשת בשלח	1098	offen	Od Yosef Chai; Halakhot, Beshalach 12	2	697	385-388	
-1	OYH-0000331	13	פרשת בשלח	6287	offen	Od Yosef Chai; Halakhot, Beshalach 13	7	3874	385-388	
+1	OYH-0000331	13	פרשת בשלח	6286	offen	Od Yosef Chai; Halakhot, Beshalach 13	7	3874	385-388	
 1	OYH-0000332	14	פרשת בשלח	625	offen	Od Yosef Chai; Halakhot, Beshalach 14	1	380	385-388	
 1	OYH-0000333	15	פרשת בשלח	728	offen	Od Yosef Chai; Halakhot, Beshalach 15	1	458	385-388	
 1	OYH-0000334	16	פרשת בשלח	2344	offen	Od Yosef Chai; Halakhot, Beshalach 16	3	1492	385-388	
@@ -353,9 +353,9 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000352	6	פרשת משפטים	697	offen	Od Yosef Chai; Halakhot, Mishpatim 6	2	431	390-391	
 1	OYH-0000353	1	פרשת תרומה	1329	offen	Od Yosef Chai; Halakhot, Terumah 1	1	825	391-393	
 1	OYH-0000354	2	פרשת תרומה	5188	offen	Od Yosef Chai; Halakhot, Terumah 2	5	3157	391-393	
-1	OYH-0000355	3	פרשת תרומה	1794	offen	Od Yosef Chai; Halakhot, Terumah 3	2	1079	391-393	
+1	OYH-0000355	3	פרשת תרומה	1793	offen	Od Yosef Chai; Halakhot, Terumah 3	2	1079	391-393	
 1	OYH-0000356	4	פרשת תרומה	1734	offen	Od Yosef Chai; Halakhot, Terumah 4	2	1049	391-393	
-1	OYH-0000357	5	פרשת תרומה	213	offen	Od Yosef Chai; Halakhot, Terumah 5	1	139	391-393	
+1	OYH-0000357	5	פרשת תרומה	212	offen	Od Yosef Chai; Halakhot, Terumah 5	1	139	391-393	
 1	OYH-0000358	6	פרשת תרומה	993	offen	Od Yosef Chai; Halakhot, Terumah 6	1	601	391-393	
 1	OYH-0000359	7	פרשת תרומה	1127	offen	Od Yosef Chai; Halakhot, Terumah 7	2	709	391-393	
 1	OYH-0000360	8	פרשת תרומה	259	offen	Od Yosef Chai; Halakhot, Terumah 8	1	169	391-393	
@@ -427,7 +427,7 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000426	1	פרשת צו	863	offen	Od Yosef Chai; Halakhot, Tzav 1	1	552	403-405	
 1	OYH-0000427	2	פרשת צו	1217	offen	Od Yosef Chai; Halakhot, Tzav 2	3	763	403-405	
 1	OYH-0000428	3	פרשת צו	1221	offen	Od Yosef Chai; Halakhot, Tzav 3	1	805	403-405	
-1	OYH-0000429	4	פרשת צו	1766	offen	Od Yosef Chai; Halakhot, Tzav 4	3	1121	403-405	
+1	OYH-0000429	4	פרשת צו	1765	offen	Od Yosef Chai; Halakhot, Tzav 4	3	1121	403-405	
 1	OYH-0000430	5	פרשת צו	1305	offen	Od Yosef Chai; Halakhot, Tzav 5	3	805	403-405	
 1	OYH-0000431	6	פרשת צו	310	offen	Od Yosef Chai; Halakhot, Tzav 6	1	194	403-405	
 1	OYH-0000432	7	פרשת צו	1881	offen	Od Yosef Chai; Halakhot, Tzav 7	3	1157	403-405	
@@ -506,4 +506,4 @@ volume	segment_id	visible_number	section	he_chars	status	sefaria_ref	absaetze	he
 1	OYH-0000505	48	פרשת שופטים	755	offen	Od Yosef Chai; Halakhot, Shoftim 48	2	476	407-412	
 1	OYH-0000506	49	פרשת שופטים	516	offen	Od Yosef Chai; Halakhot, Shoftim 49	1	310	407-412	
 1	OYH-0000507	50	פרשת שופטים	523	offen	Od Yosef Chai; Halakhot, Shoftim 50	2	318	407-412	
-1	OYH-0000508	51	פרשת שופטים	5902	offen	Od Yosef Chai; Halakhot, Shoftim 51	13	3626	407-412	
+1	OYH-0000508	51	פרשת שופטים	5901	offen	Od Yosef Chai; Halakhot, Shoftim 51	13	3626	407-412	
