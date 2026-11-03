@@ -2,6 +2,7 @@
 Bereshit 1:2	15	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 1:2	17	VOK	מצוייצת	מְצֻוֽיֶּיֽצֶת	מְצוּיֶּיצֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 1:2	47	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bereshit 1:3	12	TEXT_N	שהם	כָּהֵם		BELEGTE TEXTKORREKTUR: Scan 322; Digitaltext כ/ש verwechselt; Druck: נה״י שהם.
 Bereshit 1:3	6	VOK	יכון	יִכּוֹן	יְכַוֵּן	UEBERNOMMEN: Endpruefung nach Textfreigabe: Absicht beim Anlegen; Piel statt Nifal, defektive Schreibung erhalten.
 Bereshit 1:5	84	VOK	וחגור	וַחֲגוֹר	וְחָגוּר	UEBERNOMMEN: Endpruefung nach Textfreigabe: Zustand des mit zwei Gürteln Bekleideten.
 Bereshit 1:5	106	VOK	לפטור	לִפְטֹוֽר	לִפְטוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -39,6 +40,8 @@ Bereshit 8:1	27	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cho
 Bereshit 9:1	16	VOK	המיוחד	הַמְיֻוֽחָד	הַמְיוּחָד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 9:1	40	VOK	בקודש	בַּקֹּוֽדֶשׁ	בַּקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 9:1	82	VOK	לאסור	לֶאֱסֹוֽר	לֶאֱסוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bereshit 10:1	141	TEXT_N	מוכרח	מוֹכֶרֶת		BELEGTE TEXTKORREKTUR: Scan 323; Druck: אז מוכרח שיהיה שם; keine Verkäuferin.
+Bereshit 10:1	6	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Bereshit 10:1	17	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:1	18	VOK	לפשוט	לִפְשֹׁוֽט	לִפְשׁוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:1	27	VOK	בכתונת	בְּכֻתֹּוֽנֶת	בְּכֻתּוֹנֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -50,12 +53,17 @@ Bereshit 10:1	104	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNO
 Bereshit 10:1	113	VOK	אכא	אֲכָא	אִכָּא	UEBERNOMMEN: Endpruefung nach Textfreigabe: Aramäisch: es besteht ein Bedenken; defektive Schreibung bleibt.
 Bereshit 10:1	122	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:1	133	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bereshit 10:2	26	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Bereshit 10:2	41	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Bereshit 10:2	79	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Bereshit 10:2	88	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Bereshit 10:2	112	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Bereshit 10:2	121	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:4	21	VOK	שקרן	שַׁקְרָן	שֶׁקֶּרֶן	UEBERNOMMEN: ש + קרן: dass eine Ecke, nicht Luegner
 Bereshit 10:4	25	VOK	יכפול	יִכְפֹּוֽל	יִכְפּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:4	52	VOK	וקודם	וְקֹוֽדֶם	וְקוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 10:4	58	VOK	ויחזור	וְיַחֲזֹוֽר	וְיַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Bereshit 11:1	166	TEXT_N	ערך	עָרַף		FREIGEGEBENE TEXTKORREKTUR: Scan 323; Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף.
+Bereshit 11:1	166	TEXT_N	ערך	עָרַף		BELEGTE TEXTKORREKTUR: Scan 323; Im Druck steht בערוך ערך עטף. OCR-Verwechslung ך/ף.
 Bereshit 11:1	51	VOK	מכוסים	מְכֻוֽסִּים	מְכוּסִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 11:1	52	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 11:1	65	VOK	עטוף	עָטוּף	עִטּוּף	UEBERNOMMEN: Endpruefung nach Textfreigabe: Substantiv: diese Handlung heißt nicht Einhüllen.
@@ -65,9 +73,11 @@ Bereshit 11:1	136	VOK	גומות	גֻּוֽמּוֹת	גּוּמּוֹת	UEBERNO
 Bereshit 11:1	147	VOK	חוטמו	חָוֽטְמוֹ	חוֹטְמוֹ	UEBERNOMMEN: Seine Nase
 Bereshit 11:1	151	VOK	מכוסה	מְכֻוֽסֶּה	מְכוּסֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bereshit 11:1	175	VOK	חוטמו	חָוֽטְמוֹ	חוֹטְמוֹ	UEBERNOMMEN: Seine Nase
+Noach 1:1	59	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 1:1	65	VOK	מצוייצת	מְצֻוֽיֶּיֽצֶת	מְצוּיֶּיצֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 2:1	29	VOK	מושלכים	מֻוֽשְׁלָכִים	מוּשְׁלָכִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 2:1	36	VOK	ורובם	וְרֻוֽבָּם	וְרוּבָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 3:1	76	VOK	הישראל	הֲיִשְׂרָאֵל	הַיִּשְׂרָאֵל	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Bestimmter Artikel, keine Fragepartikel.
 Noach 5:1	52	VOK	מוחזקים	מֻוֽחְזָקִים	מוּחְזָקִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 6:1	52	VOK	פסולת	פְּסֹוֽלֶת	פְּסוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 6:2	15	VOK	שישחוט	שֶׁיִּשְׁחֹוֽט	שֶׁיִּשְׁחוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -78,6 +88,7 @@ Noach 10:1	34	VOK	למדוד	לִמְדֹּוֽד	לִמְדּוֹד	UEBERNOMMEN
 Noach 10:1	35	VOK	ביושר	בְּיֹוֽשֶׁר	בְּיוֹשֶׁר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 10:1	37	VOK	ולרוחב	וְלָרֹוֽחַב	וְלָרוֹחַב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 10:1	57	VOK	גודל	גֹּוֽדֶל	גּוֹדֶל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 10:1	79	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 10:1	91	VOK	למדוד	לִמְדֹּוֽד	לִמְדּוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 10:1	108	VOK	הצפורן	הַצִּפֹּוֽרֶן	הַצִּפּוֹרֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 12:1	27	VOK	לקולא	לְקֻוֽלָּא	לְקוּלָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -89,6 +100,7 @@ Noach 13:2	55	VOK	גודל	גֹּוֽדֶל	גּוֹדֶל	UEBERNOMMEN: Plene: C
 Noach 15:1	6	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 15:1	15	VOK	שיחתוך	שֶׁיַּחְתֹּוֽךְ	שֶׁיַּחְתּוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 15:1	19	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 15:1	29	VOK	שחתכם	שַׁחַתְכֶם	שֶׁחֲתָכָם	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Dass er die Fäden durchgeschnitten hat, maskulines Pluralobjekt.
 Noach 15:1	30	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 15:1	38	VOK	חוליא	חֻוֽלְיָא	חוּלְיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 15:1	64	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -101,13 +113,19 @@ Noach 15:1	105	VOK	בחוליא	בְּחֻוֽלְיָא	בְּחוּלְיָא	
 Noach 15:1	110	VOK	החוליא	הַחֻוֽלְיָא	הַחוּלְיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 15:1	113	VOK	החוליא	הַחֻוֽלְיָא	הַחוּלְיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 16:1	4	VOK	לחתוך	לַחְתֹּוֽךְ	לַחְתּוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 16:1	18	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 17:1	9	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 18:1	15	VOK	ויתפור	וְיִתְפֹּוֽר	וְיִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 18:2	3	VOK	לתפרו	לִתְפְּרוּ	לְתָפְרוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Infinitiv mit Singularobjekt, das Annähen.
 Noach 18:3	14	VOK	מחובר	מְחֻוֽבָּר	מְחוּבָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 18:3	21	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 18:3	22	VOK	לתפרו	לִתְפְּרוּ	לְתָפְרוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Infinitiv mit Singularobjekt.
 Noach 18:3	25	VOK	כמחובר	כִּמְחֻוֽבָּר	כִּמְחוּבָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 18:3	30	VOK	לתפרו	לִתְפְּרוּ	לְתָפְרוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Infinitiv mit Singularobjekt.
 Noach 19:1	36	VOK	ולתפור	וְלִתְפֹּוֽר	וְלִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:1	56	VOK	ולחזור	וְלַחֲזֹוֽר	וְלַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:1	65	VOK	וכנז'	וְכַנַּז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Noach 19:2	1	VOK	והשעורים	וְהַשְּׂעוֹרִים	וְהַשִּׁעוּרִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Maße, nicht Gerste; defektive Schreibung erhalten.
 Noach 19:2	109	VOK	לחשוב	לַחְשֹׁוֽב	לַחְשׁוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:2	113	VOK	יסבור	יִסְבֹּוֽר	יִסְבּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:2	116	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -115,23 +133,27 @@ Noach 19:2	129	VOK	האורך	הָאֹוֽרֶךְ	הָאוֹרֶךְ	UEBERNOMME
 Noach 19:2	132	VOK	הרוחב	הָרֹוֽחַב	הָרוֹחַב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:3	113	VOK	יתפור	יִתְפֹּוֽר	יִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:3	132	VOK	שיתפור	שֶׁיִּתְפֹּוֽר	שֶׁיִּתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:4	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 19:4	7	VOK	יתפור	יִתְפֹּוֽר	יִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:4	52	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:4	53	VOK	לתפור	לִתְפֹּוֽר	לִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:4	63	VOK	וכמפורש	וְכַמְּפֹוֽרָשׁ	וְכַמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:4	102	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:4	103	VOK	לתפור	לִתְפֹּוֽר	לִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:4	117	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 19:5	55	VOK	לעקור	לַעֲקֹוֽר	לַעֲקוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:5	84	VOK	יתפור	יִתְפֹּוֽר	יִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:5	125	VOK	לעקור	לַעֲקֹוֽר	לַעֲקוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:6	12	VOK	לעקור	לַעֲקֹוֽר	לַעֲקוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:6	134	VOK	לגזור	לִגְזֹוֽר	לִגְזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:6	163	VOK	מפורשת	מְפֹוֽרֶשֶׁת	מְפוֹרֶשֶׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:7	24	VOK	דעתה	דַּעְתָּהּ	דְּעַתָּה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Denn jetzt; keine Meinung einer Frau.
 Noach 19:7	74	VOK	מלוכלך	מְלֻוֽכְלָךְ	מְלוּכְלָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:7	132	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:7	137	VOK	מבוקעות	מְבֻוֽקָּעוֹת	מְבוּקָּעוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:7	138	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:7	159	VOK	יטחון	יִטְחֹוֽן	יִטְחוֹן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:8	65	VOK	דעתה	דַּעְתָּהּ	דְּעַתָּה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Denn jetzt; kein feminines Suffix.
 Noach 19:9	34	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:9	38	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:9	55	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -141,11 +163,14 @@ Noach 19:9	78	VOK	וחומר	וָחֹוֽמֶר	וָחוֹמֶר	UEBERNOMMEN: Pl
 Noach 19:11	20	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:11	21	VOK	לתפור	לִתְפֹּוֽר	לִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:11	76	VOK	פלוגתא	פְּלֻוֽגְתָּא	פְּלוּגְתָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:12	20	VOK	תופרו	תּוּפְרוּ	תּוֹפְרוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Partizip mit Singularobjekt: wenn er ihn näht.
+Noach 19:12	35	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 19:12	60	VOK	לפסול	לִפְסֹוֽל	לִפְסוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:12	133	VOK	לתפור	לִתְפֹּוֽר	לִתְפּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:13	14	VOK	סוכה	סֻוֽכָּה	סוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:13	49	VOK	ומפורש	וּמְפֹוֽרָשׁ	וּמְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:13	85	VOK	סוכה	סֻוֽכָּה	סוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Noach 19:13	102	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Noach 19:13	127	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:13	129	VOK	סוכה	סֻוֽכָּה	סוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Noach 19:14	27	VOK	הסוכה	הַסֻּוֽכָּה	הַסּוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -210,6 +235,7 @@ Vayera 5:5	19	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNO
 Vayera 5:5	53	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 5:5	67	VOK	לפשוט	לִפְשֹׁוֽט	לִפְשׁוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 5:5	80	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayera 5:5	85	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayera 6:1	9	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 6:1	18	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayera 7:1	12	VOK	משולשלים	מְשֻׁוֽלְשָׁלִים	מְשׁוּלְשָׁלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -266,6 +292,7 @@ Chayei Sara 3:7	31	VOK	באומנותו	בְּאֻוֽמָּנוּתוֹ	בְּ�
 Chayei Sara 3:7	105	VOK	ירוחם	יְרֻוֽחָם	יְרוּחָם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 3:7	114	VOK	לסוכה	לְסֻוֽכָּה	לְסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 3:7	122	VOK	בסוכה	בְּסֻוֽכָּה	בְּסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Chayei Sara 5:1	17	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Chayei Sara 5:2	5	VOK	לסתום	לִסְתֹּוֽם	לִסְתּוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:2	6	VOK	ולקשור	וְלִקְשֹׁוֽר	וְלִקְשׁוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:2	38	VOK	יאחוז	יֶאֱחֹוֽז	יֶאֱחוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -274,6 +301,7 @@ Chayei Sara 5:2	63	VOK	אות	אַוַּת	אוֹת	UEBERNOMMEN: Buchstabe/Absch
 Chayei Sara 5:2	72	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:2	77	VOK	יגלול	יִגְלֹוֽל	יִגְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:2	83	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Chayei Sara 5:3	3	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Chayei Sara 5:3	13	VOK	משובח	מְשֻׁוֽבָּח	מְשׁוּבָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:4	30	VOK	לפשוט	לִפְשֹׁוֽט	לִפְשׁוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 5:4	33	VOK	שאוחות	שֶׁאֻוֽחוֹת	שֶׁאוּחוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -298,6 +326,7 @@ Chayei Sara 8:2	151	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMM
 Chayei Sara 8:2	168	VOK	האומן	הָאֻוֽמָּן	הָאוּמָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 9:1	2	VOK	לרוב	לְרֹוֽב	לְרוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 9:1	9	VOK	היובש	הַיֹּוֽבֶשׁ	הַיּוֹבֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Chayei Sara 9:1	15	VOK	וכנז'	וְכַנַּז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Chayei Sara 10:1	19	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 11:1	3	VOK	למדוד	לִמְדֹּוֽד	לִמְדּוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Chayei Sara 11:1	5	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -337,6 +366,7 @@ Toldot 2:3	15	VOK	מרובים	מְרֻוֽבִּים	מְרוּבִּים	UEBER
 Toldot 2:3	22	VOK	מותרים	מֻוֽתָּרִים	מוּתָּרִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 3:1	24	VOK	עמוקה	עֲמֻוֽקָּה	עֲמוּקָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 3:1	31	VOK	המזוהמים	הַמְּזֹוֽהָמִים	הַמְּזוֹהָמִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Toldot 4:1	62	VOK	וכנז'	וְכנז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Toldot 5:1	12	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 5:1	13	VOK	וליטול	וְלִיֽטֹּוֽל	וְלִיטּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 6:1	4	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -347,9 +377,11 @@ Toldot 6:1	62	VOK	ישאוב	יִשְׁאֹוֽב	יִשְׁאוֹב	UEBERNOMMEN
 Toldot 6:2	19	VOK	יטול	יִטֹּוֽל	יִטּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 6:2	39	VOK	הטומאה	הַטֻּוֽמְאָה	הַטּוּמְאָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 6:2	43	VOK	שהקדושה	שֶׁהַקְּדֻוֽשָּׁה	שֶׁהַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Toldot 6:2	46	VOK	וכנז'	וְכַנַּז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Toldot 7:1	24	VOK	זכור	זְכֹוֽר	זְכוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 7:1	38	VOK	ישפוך	יִשְׁפֹּוֽךְ	יִשְׁפּוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 7:1	46	VOK	ישפוך	יִשְׁפֹּוֽךְ	יִשְׁפּוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Toldot 7:1	71	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Toldot 7:1	94	VOK	ליטול	לִיֽטֹּוֽל	לִיטּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 7:1	124	VOK	כמקודם	כִּמְקֻוֽדַּם	כִּמְקוּדַּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Toldot 7:1	154	VOK	שבאוזן	שֶׁבָּאֹוֽזֶן	שֶׁבָּאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -397,7 +429,10 @@ Vayetzei 3:2	107	VOK	מחום	מֵחֹוֽם	מֵחוֹם	UEBERNOMMEN: Plene: Ch
 Vayetzei 3:2	114	VOK	יותן	יֻוֽתַּן	יוּתַּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:2	119	VOK	יפחות	יִפְחֹוֽת	יִפְחוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:2	130	VOK	יפחות	יִפְחֹוֽת	יִפְחוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayetzei 3:2	146	VOK	שטבעו	שֶׁטָּבְעוּ	שֶׁטִּבְעוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Dessen Natur, nicht sie versanken.
+Vayetzei 3:2	152	VOK	שמעכלו	שֶׁמְּעֻכָּלוֹ	שֶׁמְּעַכְּלוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Bis die Kraft die Nahrung verdaut, aktives Partizip mit Objekt.
 Vayetzei 3:2	176	VOK	הפסולת	הַפְּסֹוֽלֶת	הַפְּסוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayetzei 3:3	1	VOK	והחמשי	וְהַחַמְשֵׁי	וְהַחֲמִשִׁי	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Ordnungszahl: die fünfte Kraft.
 Vayetzei 3:3	8	VOK	הצורך	הַצֹּוֽרֶךְ	הַצּוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:3	14	VOK	הפסולת	הַפְּסֹוֽלֶת	הַפְּסוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:3	23	VOK	פסולת	פְּסֹוֽלֶת	פְּסוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -415,7 +450,12 @@ Vayetzei 3:7	66	VOK	הצורך	הַצֹּוֽרֶךְ	הַצּוֹרֶךְ	UEBER
 Vayetzei 3:7	80	VOK	הצורך	הַצֹּוֽרֶךְ	הַצּוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:7	105	VOK	מונחת	מֻוֽנַּחַת	מוּנַּחַת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:7	133	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayetzei 3:7	147	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayetzei 3:7	168	VOK	והעונה	וְהָעוֹנֶה	וְהָעוֹנָה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Die geeignete Zeit, keine antwortende Person.
 Vayetzei 3:7	174	VOK	כובד	כֹּוֽבֶד	כּוֹבֶד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayetzei 3:7	180	VOK	ופה	וּפֹה	וּפֶה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Der Mund/die Öffnung der Harnblase; keine Ortsangabe.
+Vayetzei 3:7	189	VOK	מעבר	מֵעֵבֶר	מַעֲבַר	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Durch den Harnkanal, Substantiv מעבר.
+Vayetzei 3:7	209	VOK	ומכווץ	וּמִכָּווּץ	וּמְכַוֵּוץ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Aktives Partizip מכווץ.
 Vayetzei 3:7	258	VOK	הצורך	הַצֹּוֽרֶךְ	הַצּוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:7	267	VOK	הצורך	הַצֹּוֽרֶךְ	הַצּוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 3:7	281	VOK	לפתוח	לִפְתֹּוֽחַ	לִפְתּוֹחַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -433,6 +473,8 @@ Vayetzei 4:1	12	VOK	מכובדים	מְכֻוֽבָּדִים	מְכוּבָּד
 Vayetzei 4:1	38	VOK	ומפורש	וּמְפֹוֽרָשׁ	וּמְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 4:1	49	VOK	מפורסמים	מְפֻוֽרְסָמִים	מְפוּרְסָמִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 4:1	58	VOK	כיוהרא	כְּיֻוֽהֲרָא	כְּיוּהֲרָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayetzei 4:1	69	VOK	דהשם	דְּהַשֵּׁם	דְּהַשָּׁם	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Wer seine Wege abwägt, nicht der Gottesname.
+Vayetzei 4:1	166	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayetzei 4:1	182	VOK	שכולם	שֶׁכֻּוֽלָּם	שֶׁכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 4:1	243	VOK	מכובדים	מְכֻוֽבָּדִים	מְכוּבָּדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayetzei 4:1	304	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -443,6 +485,7 @@ Vayetzei 4:2	9	VOK	מכובדים	מְכֻוֽבָּדִים	מְכוּבָּד�
 Vayetzei 4:2	48	VOK	מכובדים	מְכֻוֽבָּדִים	מְכוּבָּדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:1	155	VOK	מחויב	מְחֻוֽיָּב	מְחוּיָּב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:1	158	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:2	35	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:3	31	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:4	5	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:4	63	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -494,6 +537,7 @@ Vayishlach 1:24	159	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Pl
 Vayishlach 1:25	22	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:25	24	VOK	וקודם	וְקֹוֽדֶם	וְקוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:25	110	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:25	118	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:25	131	VOK	הנוסח	הַנֻּוֽסָּח	הַנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
 Vayishlach 1:26	5	VOK	מפורשת	מְפֹוֽרֶשֶׁת	מְפוֹרֶשֶׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:26	41	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -520,6 +564,7 @@ Vayishlach 1:32	38	VOK	נקודה	נְקֻוֽדָּה	נְקוּדָּה	UEBERN
 Vayishlach 1:32	46	VOK	האוזן	הָאֹוֽזֶן	הָאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:32	59	VOK	מוכרחים	מֻוֽכְרָחִים	מוּכְרָחִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:32	69	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:33	16	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:33	35	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:33	36	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:34	41	VOK	יכולת	יְכֹוֽלֶת	יְכוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -551,6 +596,7 @@ Vayishlach 1:44	23	VOK	המיוסדים	הַמְּיֻוֽסָּדִים	הַמ�
 Vayishlach 1:46	29	VOK	בחודש	בְּחֹוֽדֶשׁ	בְּחוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:46	74	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:47	25	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:47	70	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:47	86	VOK	אומץ	אֹוֽמֶץ	אוֹמֶץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:48	37	VOK	הנוקבא	הַנֻּוֽקְבָּא	הַנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:48	73	VOK	ודוגמה	וְדֻוֽגְמָה	וְדוּגְמָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -575,13 +621,16 @@ Vayishlach 1:52	62	VOK	לנוקבא	לְנֻוֽקְבָּא	לְנוּקְבּ�
 Vayishlach 1:52	81	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:53	8	VOK	הקושיא	הַקֻּוֽשְׁיָא	הַקּוּשְׁיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:53	12	VOK	לנוקבא	לְנֻוֽקְבָּא	לְנוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:54	4	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:54	30	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:54	33	VOK	הנוקבא	הַנֻּוֽקְבָּא	הַנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:54	37	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:54	70	VOK	חופה	חֻוֽפָּה	חוּפָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:54	111	VOK	לחופה	לְחֻוֽפָּה	לְחוּפָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:54	121	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 1:54	141	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 1:54	149	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 1:55	11	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 2:1	12	VOK	חודש	חֹוֽדֶשׁ	חוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 2:1	14	VOK	חנוכה	חֲנֻוֽכָּה	חֲנוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 2:1	17	VOK	חודש	חֹוֽדֶשׁ	חוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -610,6 +659,7 @@ Vayishlach 2:17	23	VOK	בועז	בֹּוֽעַז	בּוֹעַז	UEBERNOMMEN: Ple
 Vayishlach 2:18	46	VOK	לפעולתיך	לִפְעֻוֽלָּתֵיֽךְ	לִפְעוּלָּתֵיךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 2:19	36	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 2:19	37	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayishlach 2:19	55	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayishlach 2:19	67	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 3:1	4	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayishlach 3:1	10	VOK	מיושבת	מְיֻוֽשֶּׁבֶת	מְיוּשֶּׁבֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -622,9 +672,11 @@ Vayishlach 3:1	115	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERN
 Vayishlach 3:1	136	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 2:1	22	VOK	פלוגתא	פְּלֻוֽגְתָּא	פְּלוּגְתָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 2:1	57	VOK	פלוגתא	פְּלֻוֽגְתָּא	פְּלוּגְתָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 2:1	72	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 2:1	122	VOK	עמוקות	עֲמֻוֽקּוֹת	עֲמוּקּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 2:2	21	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 3:1	54	VOK	סוכה	סֻוֽכָּה	סוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 3:1	68	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 4:1	14	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 4:1	29	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 4:1	46	VOK	יחזור	יַחֲזֹוֽר	יַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -641,7 +693,9 @@ Vayeshev 6:1	15	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cho
 Vayeshev 6:1	16	VOK	רוקע	רֹוֽקַע	רוֹקַע	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 6:1	37	VOK	רוקע	רֹוֽקַע	רוֹקַע	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 6:1	81	VOK	מהופך	מְהֻוֽפָּךְ	מְהוּפָּךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 6:1	84	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 6:1	86	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 6:2	8	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 6:2	9	VOK	המסודר	הַמְסֻוֽדָּר	הַמְסוּדָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 6:2	38	VOK	ומוכרח	וּמֻוֽכְרָח	וּמוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 7:1	38	VOK	מחוברת	מְחֻוֽבֶּרֶת	מְחוּבֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -652,12 +706,14 @@ Vayeshev 7:1	128	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOM
 Vayeshev 7:1	141	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:1	133	VOK	מרוצף	מְרֻוֽצָּף	מְרוּצָּף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:1	135	VOK	ומכוסה	וּמְכֻוֽסֶּה	וּמְכוּסֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 8:2	18	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 8:2	61	VOK	כמפורש	כַּמְּפֹוֽרָשׁ	כַּמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:2	86	VOK	נוכח	נֹוֽכַח	נוֹכַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 8:3	19	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 8:3	75	VOK	וכשינעול	וּכְשֶׁיִּנְעֹוֽל	וּכְשֶׁיִּנְעוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
-Vayeshev 8:5	71	TEXT_N	החסד	הֶחָסֵר		FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel.
-Vayeshev 8:5	109	TEXT_N	שמענו	שְׁמָעֵנִי		FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י.
-Vayeshev 8:5	120	TEXT_N	יכוין	יִכְיֹּוֽן		FREIGEGEBENE TEXTKORREKTUR: Scan 344; Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht.
+Vayeshev 8:5	71	TEXT_N	החסד	הֶחָסֵר		BELEGTE TEXTKORREKTUR: Scan 344; Der Druck liest החסד הזה; Kontext ist der goettliche Chessed, nicht ein Mangel.
+Vayeshev 8:5	109	TEXT_N	שמענו	שְׁמָעֵנִי		BELEGTE TEXTKORREKTUR: Scan 344; Der Druck liest שמענו מן מרן; OCR-Verwechslung ו/י.
+Vayeshev 8:5	120	TEXT_N	יכוין	יִכְיֹּוֽן		BELEGTE TEXTKORREKTUR: Scan 344; Der Druck liest יכוין (ausrichten/beabsichtigen); Stellung von ו/י im Digitaltext vertauscht.
 Vayeshev 8:5	29	VOK	וחיותינו	וְחַיּוֹתֵינוּ	וְחַיּוּתֵינוּ	UEBERNOMMEN: Unser Leben/Lebenskraft, parallel zur Ernaehrung; nicht unsere Tiere
 Vayeshev 8:5	46	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:5	51	VOK	ומושרשים	וּמֻוֽשְׁרָשִׁים	וּמוּשְׁרָשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -666,6 +722,7 @@ Vayeshev 8:5	65	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBER
 Vayeshev 8:5	68	VOK	לרמוז	לִרְמֹוֽז	לִרְמוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:5	118	VOK	ינעול	יִנְעֹוֽל	יִנְעוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:6	15	VOK	פועל	פֹּוֽעַל	פּוֹעַל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 8:6	20	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 8:6	68	VOK	פועל	פֹּוֽעַל	פּוֹעַל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:6	98	VOK	ודוגמה	וְדֻוֽגְמָה	וְדוּגְמָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 8:7	16	VOK	תגבורת	תִּגְבֹּוֽרֶת	תִּגְבּוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -700,6 +757,7 @@ Vayeshev 11:2	128	VOK	לחשוב	לַחְשֹׁוֽב	לַחְשׁוֹב	UEBERNO
 Vayeshev 11:3	51	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 11:4	31	VOK	נח	נח	נָח	UEBERNOMMEN: נח לו: es ist ihm angenehm
 Vayeshev 12:1	155	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 12:1	166	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 12:1	192	VOK	מקודם	מִקֹּוֽדֶם	מִקּוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 12:1	217	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 13:2	40	VOK	חומר	חֹוֽמֶר	חוֹמֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -707,11 +765,14 @@ Vayeshev 13:2	43	VOK	מזוהמת	מִזֻּוֽהֲמַת	מִזּוּהֲמַ�
 Vayeshev 13:2	61	VOK	רואי	רֹוֽאִי	רוֹאִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 13:3	76	VOK	ויגמול	וְיִגְמֹוֽל	וְיִגְמוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 14:1	45	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 14:1	70	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 14:1	87	VOK	משונה	מְשֻׁוֽנָּה	מְשׁוּנָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 15:1	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 15:1	129	VOK	לגהינם	לגהינם	לַגֵּהִינָּם	UEBERNOMMEN: Nach Gehinnam; vorhandene Schreibung bleibt
 Vayeshev 15:1	146	VOK	לגהינם	לגהינם	לַגֵּהִינָּם	UEBERNOMMEN: Nach Gehinnam; vorhandene Schreibung bleibt
 Vayeshev 16:1	15	VOK	שילמוד	שֶׁיִּלְמֹוֽד	שֶׁיִּלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 16:1	24	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayeshev 17:2	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayeshev 17:2	26	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayeshev 18:1	42	VOK	בלבינו	בְּלַבִּינוּ	בְּלִבֵּינוּ	UEBERNOMMEN: In unserem Herzen; Jod der Vorlage bleibt
 Vayeshev 18:1	61	VOK	לחתום	לַחְתֹּוֽם	לַחְתּוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -748,6 +809,7 @@ Kuntres Chut HaMeshulash 5	142	VOK	הנקודה	הַנְּקֻוֽדָּה	הַ�
 Kuntres Chut HaMeshulash 5	145	VOK	שבכולם	שֶׁבְּכֻוֽלָּם	שֶׁבְּכוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 5	147	VOK	נקודה	נְקֻוֽדָּה	נְקוּדָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 5	171	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 6	120	TEXT_N	אחדות	אֲחֵרוֹת		BELEGTE TEXTKORREKTUR: Scan 347; Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.
 Kuntres Chut HaMeshulash 6	37	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 6	86	VOK	שורש	שֹׁוֽרֶשׁ	שׁוֹרֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 6	104	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -756,6 +818,7 @@ Kuntres Chut HaMeshulash 6	123	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOM
 Kuntres Chut HaMeshulash 7	47	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 7	83	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 7	93	VOK	שורש	שֹׁוֽרֶשׁ	שׁוֹרֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 7	103	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 7	112	VOK	שתואר	שֶׁתֹּוֽאַר	שֶׁתּוֹאַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 7	150	VOK	המחיה	הַמִּחְיָה	הַמְחַיָּה	UEBERNOMMEN: Partizip feminin zur Neschama: belebt den Koerper
 Kuntres Chut HaMeshulash 7	173	VOK	ומחיה	וּמִחְיָה	וּמְחַיֶּה	UEBERNOMMEN: Partizip: belebt/erhaelt
@@ -777,11 +840,13 @@ Kuntres Chut HaMeshulash 14	37	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹר�
 Kuntres Chut HaMeshulash 14	120	VOK	שאוזן	שֶׁאֹוֽזֶן	שֶׁאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 14	123	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 14	125	VOK	לשמוע	לִשְׁמֹוֽעַ	לִשְׁמוֹעַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 15	12	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 15	25	VOK	לאוזן	לְאֹוֽזֶן	לְאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	32	VOK	הפעולה	הַפְּעֻוֽלָּה	הַפְּעוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	38	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	46	VOK	המתוקנת	הַמְתֻוֽקֶּנֶת	הַמְתוּקֶּנֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	104	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 15	110	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 15	160	VOK	יכולת	יְכֹוֽלֶת	יְכוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	226	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 15	237	VOK	לאוזן	לְאֹוֽזֶן	לְאוֹזֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -801,18 +866,22 @@ Kuntres Chut HaMeshulash 19	185	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹר
 Kuntres Chut HaMeshulash 21	53	VOK	דגושפנקא	דְּגֻוֽשְׁפַּנְקָא	דְּגוּשְׁפַּנְקָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 21	130	VOK	ודוכרניה	וְדֻוֽכְרָנֵיֽהּ	וְדוּכְרָנֵיהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 22	88	VOK	עבודתינו	עֲבֹוֽדָתֵיֽנוּ	עֲבוֹדָתֵינוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 22	105	VOK	בחי'	בְּחַי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 22	134	VOK	החול	הַחֹוֽל	הַחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	23	VOK	מלובשים	מְלֻוֽבָּשִׁים	מְלוּבָּשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	25	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	34	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	38	VOK	הנצוץ	הַנָּצוּץ	הַנִּצוֹץ	UEBERNOMMEN: Der Funke, defektive Schreibung ohne Jod
+Kuntres Chut HaMeshulash 23	42	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 23	95	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	113	VOK	מכולם	מִכֻּוֽלָּם	מִכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	182	VOK	לנוקבא	לְנֻוֽקְבָּא	לְנוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 23	197	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 23	200	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	202	VOK	מלובשים	מְלֻוֽבָּשִׁים	מְלוּבָּשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	222	VOK	מלובשים	מְלֻוֽבָּשִׁים	מְלוּבָּשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 23	224	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 23	239	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 23	245	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 24	13	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 25	9	VOK	המקובלים	הַמְקֻוֽבָּלִים	הַמְקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -827,6 +896,7 @@ Kuntres Chut HaMeshulash 29	138	VOK	לשמוע	לִשְׁמֹוֽעַ	לִשְׁ
 Kuntres Chut HaMeshulash 29	158	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 29	159	VOK	עמוק	עָמֹוֽק	עָמוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 31	14	VOK	בנוסח	בַּנֻּוֽסָּח	בַּנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
+Kuntres Chut HaMeshulash 31	52	VOK	בחי'	בְּחַי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 32	60	VOK	מכולא	מִכֹּוֽלָּא	מִכּוֹלָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 32	139	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 32	148	VOK	חומר	חֹוֽמֶר	חוֹמֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -850,6 +920,7 @@ Kuntres Chut HaMeshulash 36	4	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָ
 Kuntres Chut HaMeshulash 36	25	VOK	דיפוק	דִּיפֹוֽק	דִּיפוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 36	63	VOK	מבואר	מְבֹוֽאָר	מְבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 37	59	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 37	110	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 38	41	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 38	55	VOK	מלובשים	מְלֻוֽבָּשִׁים	מְלוּבָּשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 39	15	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -859,7 +930,9 @@ Kuntres Chut HaMeshulash 40	124	VOK	לשמוע	לִשְׁמֹוֽעַ	לִשְׁ
 Kuntres Chut HaMeshulash 41	33	VOK	הפעולה	הַפְּעֻוֽלָּה	הַפְּעוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 41	41	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 42	5	VOK	המתוקנת	הַמְתֻוֽקֶּנֶת	הַמְתוּקֶּנֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 42	60	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 42	109	VOK	יכולת	יְכֹוֽלֶת	יְכוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 42	117	VOK	כבחי'	כְּבַחַי'	כבחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 42	202	VOK	הפעולה	הַפְּעֻוֽלָּה	הַפְּעוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 42	219	VOK	וזכור	וּזְכֹוֽר	וּזְכוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 43	12	VOK	ומפורסם	וּמְפֻוֽרְסָם	וּמְפוּרְסָם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -894,6 +967,9 @@ Kuntres Chut HaMeshulash 51	1	VOK	ומפורש	וּמְפֹוֽרָשׁ	וּמְ
 Kuntres Chut HaMeshulash 51	104	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 53	64	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 53	89	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 53	123	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 54	108	TEXT_N	עולה	עוֹנֶה		BELEGTE TEXTKORREKTUR: Scan 353; Druck: עתה במנחת שבת עולה ז״א במקום גבוה.
+Kuntres Chut HaMeshulash 54	170	TEXT_N	"א""א"	"ס""א"		BELEGTE TEXTKORREKTUR: Scan 353; Druck: ונעשה ז״א כמו א״א; א/ס verwechselt.
 Kuntres Chut HaMeshulash 55	36	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 56	5	VOK	מבוארת	מְבֹוֽאֶרֶת	מְבוֹאֶרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 56	15	VOK	דמפורש	דִּמְפֹוֽרָשׁ	דִּמְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -904,7 +980,13 @@ Kuntres Chut HaMeshulash 59	58	VOK	שרוב	שֶׁרֹוֽב	שֶׁרוֹב	UEBE
 Kuntres Chut HaMeshulash 60	19	VOK	ורוב	וְרֹוֽב	וְרוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 60	35	VOK	גאולתינו	גְּאֻוֽלָּתֵיֽנוּ	גְּאוּלָּתֵינוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 61	41	VOK	לעבוד	לַעֲבֹוֽד	לַעֲבוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 62	9	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 62	26	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 64	69	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 65	1	VOK	וקודם	וְקֹוֽדֶם	וְקוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 65	9	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 65	18	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 65	32	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 65	96	VOK	הפעולות	הַפְּעֻוֽלּוֹת	הַפְּעוּלּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 66	30	VOK	פעולה	פְּעֻוֽלָּה	פְּעוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 66	45	VOK	הפעולות	הַפְּעֻוֽלּוֹת	הַפְּעוּלּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -918,6 +1000,8 @@ Kuntres Chut HaMeshulash 68	71	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	
 Kuntres Chut HaMeshulash 69	1	VOK	וקודם	וְקֹוֽדֶם	וְקוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 69	4	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 69	61	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 70	3	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 70	29	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 71	6	VOK	נצוץ	נְצוּץ	נִצוֹץ	UEBERNOMMEN: Funke, defektive Schreibung ohne Jod
 Kuntres Chut HaMeshulash 71	10	VOK	הנצוץ	הַנָּצוּץ	הַנִּצוֹץ	UEBERNOMMEN: Der Funke, defektive Schreibung ohne Jod
 Kuntres Chut HaMeshulash 71	13	VOK	נצוץ	נָצוּץ	נִצוֹץ	UEBERNOMMEN: Funke, defektive Schreibung ohne Jod
@@ -932,6 +1016,7 @@ Kuntres Chut HaMeshulash 72	84	VOK	וכולם	וְכֻוֽלָּם	וְכוּל�
 Kuntres Chut HaMeshulash 72	109	VOK	וכולם	וְכֻוֽלָּם	וְכוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 72	123	VOK	וכולם	וְכֻוֽלָּם	וְכוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 73	11	VOK	היושר	הַיֹּוֽשֶׁר	הַיּוֹשֶׁר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 73	26	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 73	37	VOK	ביושר	בְּיֹוֽשֶׁר	בְּיוֹשֶׁר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 73	45	VOK	מכולם	מִכֻּוֽלָּם	מִכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 73	69	VOK	היושר	הַיֹּוֽשֶׁר	הַיּוֹשֶׁר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -947,6 +1032,7 @@ Kuntres Chut HaMeshulash 74	98	VOK	נצוץ	נָצוּץ	נִצוֹץ	UEBERNOMME
 Kuntres Chut HaMeshulash 74	113	VOK	שורש	שֹׁוֽרֶשׁ	שׁוֹרֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 74	152	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 74	167	VOK	במופלא	בַּמֻּוֽפְלָא	בַּמּוּפְלָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 74	173	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 75	16	VOK	דגושפנקא	דְּגֻוֽשְׁפַּנְקָא	דְּגוּשְׁפַּנְקָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 75	94	VOK	ודוכרניה	וְדֻוֽכְרָנֵיֽהּ	וְדוּכְרָנֵיהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 75	106	VOK	ונוקבא	וְנֻוֽקְבָּא	וְנוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -956,8 +1042,11 @@ Kuntres Chut HaMeshulash 77	24	VOK	מלובשים	מְלֻוֽבָּשִׁים	�
 Kuntres Chut HaMeshulash 77	26	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 77	36	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 77	40	VOK	הנצוץ	הַנָּצוּץ	הַנִּצוֹץ	UEBERNOMMEN: Der Funke, defektive Schreibung ohne Jod
+Kuntres Chut HaMeshulash 77	45	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 79	10	VOK	המלובש	הַמְלֻוֽבָּשׁ	הַמְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 79	12	VOK	הנצוץ	הַנָּצוּץ	הַנִּצוֹץ	UEBERNOMMEN: Der Funke, defektive Schreibung ohne Jod
+Kuntres Chut HaMeshulash 79	36	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 79	40	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 79	67	VOK	מלובשים	מְלֻוֽבָּשִׁים	מְלוּבָּשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	1	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	12	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -967,10 +1056,13 @@ Kuntres Chut HaMeshulash 80	56	VOK	הנצוץ	הַנָּצוּץ	הַנִּצו�
 Kuntres Chut HaMeshulash 80	68	VOK	המלובש	הַמְלֻוֽבָּשׁ	הַמְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	69	VOK	במוחין	בַּמֹּוֽחִין	בַּמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	75	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 80	77	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 80	80	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	87	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	97	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 80	114	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 80	120	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 82	32	TEXT_N	לדרגא	לִדְהֵגֶא		BELEGTE TEXTKORREKTUR: Scan 355; Druck: מדרגא לדרגא; ר/ה verwechselt.
 Kuntres Chut HaMeshulash 82	25	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 82	49	VOK	נצוץ	נָצוּץ	נִצוֹץ	UEBERNOMMEN: Funke, defektive Schreibung ohne Jod
 Kuntres Chut HaMeshulash 82	73	VOK	שורש	שֹׁוֽרֶשׁ	שׁוֹרֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -982,6 +1074,7 @@ Kuntres Chut HaMeshulash 84	27	VOK	במוחין	בַּמֹּוֽחִין	בַּ�
 Kuntres Chut HaMeshulash 84	33	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 84	43	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 84	60	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 84	66	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 85	7	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 86	17	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 86	61	VOK	מלובש	מְלֻוֽבָּשׁ	מְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1041,10 +1134,13 @@ Kuntres Chut HaMeshulash 104	46	VOK	כולם	כֻּוֽלָּם	כּוּלָּם
 Kuntres Chut HaMeshulash 104	66	VOK	פעולה	פְּעֻוֽלָּה	פְּעוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 104	120	VOK	ודוכרניה	וְדֻוֽכְרָנֵיֽהּ	וְדוּכְרָנֵיהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 105	34	VOK	תסמוך	תִּסְמֹוֽךְ	תִּסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 106	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Kuntres Chut HaMeshulash 106	36	VOK	שקיראו	שֶׁקִּיֽרְּאוּ	שֶׁקִּירְאוּ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Unzulässiges Dagesch im Resch entfernt; Schreibweise bleibt.
 Kuntres Chut HaMeshulash 106	54	VOK	מתוקנת	מְתֻוֽקֶּנֶת	מְתוּקֶּנֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 106	67	VOK	מתוקן	מְתֻוֽקָּן	מְתוּקָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 106	68	VOK	ומסודר	וּמְסֻוֽדָּר	וּמְסוּדָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Kuntres Chut HaMeshulash 106	109	VOK	לקרוע	לִקְרֹוֽעַ	לִקְרוֹעַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Kuntres Chut HaMeshulash 106	116	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Kuntres Chut HaMeshulash 107	34	VOK	לאוהבי	לְאֹוֽהֲבֵי	לְאוֹהֲבֵי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 1:1	12	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 1:1	19	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1074,6 +1170,7 @@ Miketz 3:2	66	VOK	במצולות	בִּמְצֻוֽלוֹת	בִּמְצוּלו
 Miketz 3:2	75	VOK	נושא	נֹוֽשֵׂא	נוֹשֵׂא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 3:3	20	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 3:5	20	VOK	רוב	רֹוֽב	רוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 3:5	38	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 3:6	2	VOK	בנוסח	בְּנֹוֽסַח	בְּנוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 3:6	87	VOK	תעוררו	תְּעֹוֽרְרוּ	תְּעוֹרְרוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 3:6	93	VOK	המכונית	הַמְּכֻוֽנֵּית	הַמְּכוּנֵּית	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1081,11 +1178,15 @@ Miketz 3:6	103	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלּ�
 Miketz 4:1	2	VOK	עולת	עֹוֽלַת	עוֹלַת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:1	4	VOK	העשויה	הָעֲשֻׂוֽיָה	הָעֲשׂוּיָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:1	45	VOK	בקדושה	בִּקְדֻוֽשָּׁה	בִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:1	57	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:1	68	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:1	69	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:1	74	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:1	94	VOK	וכמבואר	וְכַמְּבֹוֽאָר	וְכַמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:1	105	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:1	138	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:1	158	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:1	162	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:2	3	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:2	7	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:2	16	VOK	עובדא	עֻוֽבְדָּא	עוּבְדָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1093,6 +1194,7 @@ Miketz 4:2	51	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	U
 Miketz 4:2	53	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:2	61	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:2	85	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:2	88	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:3	9	VOK	נצוצי	נְצוּצֵי	נִצוֹצֵי	UEBERNOMMEN: Funken, Status constructus
 Miketz 4:3	10	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:3	11	VOK	המחיה	הַמִּחְיָה	הַמְחַיָּה	UEBERNOMMEN: Partizip feminin zur Qeduscha: belebt die Qelippah
@@ -1115,6 +1217,7 @@ Miketz 4:6	90	VOK	המור	הַמֹּוֽר	הַמּוֹר	UEBERNOMMEN: Plene: C
 Miketz 4:6	113	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:7	14	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:7	15	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 4:8	26	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 4:9	33	VOK	שירשום	שֶׁיִּרְשֹׁוֽם	שֶׁיִּרְשׁוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:9	43	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 4:10	6	VOK	ממולח	מְמֻוֽלָּח	מְמוּלָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1123,6 +1226,8 @@ Miketz 4:10	34	VOK	מסוגל	מְסֻוֽגָּל	מְסוּגָּל	UEBERNOMME
 Miketz 5:1	80	VOK	הנוסח	הַנֻּוֽסָּח	הַנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
 Miketz 5:1	83	VOK	נוסח	נֻוֽסַּח	נוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech
 Miketz 5:1	103	VOK	הנוסח	הַנֻּוֽסָּח	הַנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
+Miketz 5:2	181	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Miketz 5:2	195	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 5:3	27	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 5:3	41	VOK	שכולה	שֶׁכֻּוֽלָּהּ	שֶׁכּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 5:4	6	UNVOK_M	י	י	י	BEWUSST UNVOKALISIERT: Stellen-/Ordnungszahl oder Gottesnamen-Buchstabe
@@ -1138,6 +1243,9 @@ Miketz 6:1	7	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOM
 Miketz 6:1	13	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 6:1	22	VOK	חולין	חֻוֽלִּין	חוּלִּין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 6:1	64	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 6:1	69	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Miketz 6:1	92	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Miketz 6:1	105	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 6:2	15	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 6:2	23	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 6:2	30	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1150,12 +1258,14 @@ Miketz 7:1	27	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	U
 Miketz 7:1	34	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:1	87	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:1	130	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 7:1	135	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 7:2	4	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:2	5	VOK	הוצרכו	הֻוֽצְרְכוּ	הוּצְרְכוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:2	17	VOK	קטורת	קְטֹוֽרֶת	קְטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:2	43	VOK	קטורת	קְטֹוֽרֶת	קְטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:2	86	VOK	מרוצית	מְרֻוֽצֵּית	מְרוּצֵּית	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 7:2	112	VOK	בקטורת	בִּקְטֹוֽרֶת	בִּקְטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 7:2	140	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 7:2	144	VOK	רוב	רֹוֽב	רוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 9:1	4	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 9:1	15	VOK	והמקובלים	וְהַמְּקֻוֽבָּלִים	וְהַמְּקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1220,6 +1330,7 @@ Miketz 15:3	46	VOK	דחנוכת	דַּחֲנֻוֽכַּת	דַּחֲנוּכּ�
 Miketz 15:3	147	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 15:4	22	VOK	נקודות	נְקֻוֽדּוֹת	נְקוּדּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 15:5	9	VOK	חנוכת	חֲנֻוֽכַּת	חֲנוּכַּת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 15:5	97	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 15:5	114	VOK	חנוכת	חֲנֻוֽכַּת	חֲנוּכַּת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 15:5	116	VOK	כמפורש	כַּמְּפֹוֽרָשׁ	כַּמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 15:5	140	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1230,8 +1341,10 @@ Miketz 15:6	53	VOK	בחנוכה	בַּחֲנֻוֽכָּה	בַּחֲנוּכּ�
 Miketz 15:6	76	VOK	החנוכה	הַחֲנֻוֽכָּה	הַחֲנוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 16:1	14	VOK	דקודם	דְּקֹוֽדֶם	דְּקוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Miketz 16:1	41	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Miketz 16:2	18	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Miketz 16:2	53	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:1	6	VOK	ימלוך	יִמְלֹוֽךְ	יִמְלוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 1:1	24	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 1:1	60	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:2	4	VOK	דנקודות	דִּנְקֻוֽדּוֹת	דִּנְקוּדּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:2	21	VOK	נקודות	נְקֻוֽדּוֹת	נְקוּדּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1241,9 +1354,11 @@ Vayigash 1:3	18	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMM
 Vayigash 1:3	42	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:3	60	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:4	15	VOK	ימלוך	יִמְלֹוֽךְ	יִמְלוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 1:4	64	VOK	וכנז'	וְכנז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 1:4	77	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:4	85	VOK	הנוקבא	הַנֻּוֽקְבָּא	הַנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 1:4	130	VOK	ימלוך	יִמְלֹוֽךְ	יִמְלוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 1:4	132	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 2:1	129	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 2:1	176	VOK	העומדים	הָעֹוֽמְדִים	הָעוֹמְדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 2:1	181	VOK	בעובדא	בְּעֻוֽבְדָּא	בְּעוּבְדָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1265,10 +1380,13 @@ Vayigash 2:4	14	VOK	עול	עֹוֽל	עוֹל	UEBERNOMMEN: Plene: Cholam auf Wa
 Vayigash 3:1	5	VOK	המצוייר	הַמְּצֻוֽיָּיֽר	הַמְּצוּיָּיר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:1	13	VOK	יזקוף	יִזְקֹוֽף	יִזְקוֹף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:1	34	VOK	מושכב	מֻוֽשְׁכָּב	מוּשְׁכָּב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 3:2	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 3:3	9	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 3:3	20	VOK	והמקובלים	וְהַמְּקֻוֽבָּלִים	וְהַמְּקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:3	31	VOK	לפרוש	לִפְרֹוֽשׁ	לִפְרוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:3	42	VOK	המקובלים	הַמְּקֻוֽבָּלִים	הַמְּקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:3	43	VOK	סגולה	סְגֻוֽלָּה	סְגוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 3:3	99	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 3:3	114	VOK	יזקוף	יִזְקֹוֽף	יִזְקוֹף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 3:3	124	VOK	קדושת	קְדֻוֽשַּׁת	קְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 4:1	55	VOK	החול	הַחֹוֽל	הַחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1282,9 +1400,13 @@ Vayigash 5:1	20	VOK	תאחוז	תֶּאֱחֹוֽז	תֶּאֱחוֹז	UEBERNOMM
 Vayigash 5:1	49	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 5:1	91	VOK	מהולל	מְהֻוֽלָּל	מְהוּלָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 5:2	18	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 5:2	68	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 5:2	106	UNVOK_M	פז	פז	פז	BEWUSST UNVOKALISIERT: Stellen-/Ordnungszahl oder Gottesnamen-Buchstabe
+Vayigash 5:3	40	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 6:1	27	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 6:1	71	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 6:2	41	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 6:2	111	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 6:3	8	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 6:3	17	VOK	מיושב	מְיֻוֽשָּׁב	מְיוּשָּׁב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 6:3	20	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1297,13 +1419,20 @@ Vayigash 6:4	31	VOK	מיושב	מְיֻוֽשָּׁב	מְיוּשָּׁב	UEBER
 Vayigash 6:4	37	VOK	מיושב	מְיֻוֽשָּׁב	מְיוּשָּׁב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 6:4	39	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 7:1	34	VOK	מהולל	מְהֻוֽלָּל	מְהוּלָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 7:1	45	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:2	25	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:2	32	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:3	15	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:3	36	VOK	ויחזור	וְיַחֲזֹוֽר	וְיַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:3	52	VOK	שיחזור	שֶׁיַּחֲזֹוֽר	שֶׁיַּחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:3	58	VOK	יסמוך	יִסְמֹוֽךְ	יִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:3	68	VOK	יחזור	יַחֲזֹוֽר	יַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:3	71	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:4	11	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:4	32	VOK	לרמוז	לִרְמֹוֽז	לִרְמוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:4	60	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:4	82	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:4	104	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:5	15	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:5	19	VOK	וקדושה	וּקְדֻוֽשָּׁה	וּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:5	33	VOK	יסמוך	יִסְמֹוֽךְ	יִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1312,24 +1441,45 @@ Vayigash 8:5	52	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Pl
 Vayigash 8:6	12	VOK	גבורותיו	גְּבוּרֹוֽתָיו	גְּבוּרוֹתָיו	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:7	56	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:7	81	VOK	נקודת	נְקֻוֽדַּת	נְקוּדַּת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:7	88	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:8	10	VOK	המכונה	הַמְכֻוֽנֶּה	הַמְכוּנֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:8	12	VOK	המקובלים	הַמְּקֻוֽבָּלִים	הַמְּקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:8	19	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:8	43	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:9	36	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:9	45	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:9	59	VOK	מעורב	מְעֹוֽרָב	מְעוֹרָב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:9	63	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:9	79	VOK	מכולם	מִכֻּוֽלָּם	מִכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:9	106	VOK	ממוצע	מְמֻוֽצָּע	מְמוּצָּע	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:9	145	VOK	הממוצע	הַמְמֻוֽצָּע	הַמְמוּצָּע	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:10	5	VOK	שקודם	שֶׁקֹּוֽדֶם	שֶׁקּוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:10	46	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:10	63	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:10	93	VOK	המקובלים	הַמְקֻוֽבָּלִים	הַמְקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:11	26	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:11	37	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:12	17	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:12	37	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:12	48	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:12	54	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:13	16	VOK	שקודם	שֶׁקֹּוֽדֶם	שֶׁקּוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 8:13	37	VOK	בנוקבא	בַּנֻּוֽקְבָּא	בַּנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:13	43	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:13	58	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 8:13	60	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 8:13	66	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 8:13	72	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 9:1	4	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 9:1	30	VOK	קוראיו	קֹוֽרְאָיו	קוֹרְאָיו	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 9:1	149	VOK	לרמוז	לִרְמֹוֽז	לִרְמוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 9:2	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 9:2	17	VOK	שמשותוך	שֶׁמְּשֻׁוֽתּוּךְ	שֶׁמְּשׁוּתּוּךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 10:1	12	VOK	המקובלים	הַמְקֻוֽבָּלִים	הַמְקוּבָּלִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 10:1	106	VOK	לאומים	לְאֻוֽמִּים	לְאוּמִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 10:1	109	VOK	שופטי	שֹׁוֽפְטֵי	שׁוֹפְטֵי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 12:2	36	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayigash 12:2	38	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 12:2	53	VOK	ויכתוב	וְיִכְתֹּוֽב	וְיִכְתּוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 12:2	63	VOK	ויכתוב	וְיִכְתֹּוֽב	וְיִכְתּוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 12:2	106	VOK	בקופה	בְּקֻוֽפָּה	בְּקוּפָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1349,14 +1499,17 @@ Vayigash 13:5	36	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN:
 Vayigash 13:5	51	VOK	דהוצרך	דְּהֻוֽצְרַךְ	דְּהוּצְרַךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:5	53	VOK	דסוכה	דְּסֻוֽכָּה	דְּסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:6	6	VOK	דסוכה	דְּסֻוֽכָּה	דְּסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayigash 13:6	9	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 13:6	13	VOK	מפורשים	מְפֹוֽרָשִׁים	מְפוֹרָשִׁים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:7	43	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayigash 13:7	74	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
+Vayigash 13:8	12	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 13:8	16	VOK	לכפול	לִכְפֹּוֽל	לִכְפּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:8	21	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayigash 13:8	26	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayigash 13:8	81	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayigash 13:8	86	VOK	האמן	הָאֻמָּן	הָאָמֵן	UEBERNOMMEN: Antwort Amen, nicht der Handwerker
+Vayigash 13:8	94	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayigash 13:8	187	VOK	יכפול	יִכְפֹּוֽל	יִכְפּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:12	18	VOK	עול	עֹוֽל	עוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayigash 13:12	50	VOK	לכפול	לִכְפֹּוֽל	לִכְפּוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1387,12 +1540,14 @@ Vayechi 1:1	32	VOK	וגושפנקי	וְגֻוֽשְׁפַּנְקֵי	וְגו�
 Vayechi 1:1	66	VOK	בקדושתא	בִּקְדֻוֽשְׁתָּא	בִּקְדוּשְׁתָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:2	6	UNVOK_M	ז	ז	ז	BEWUSST UNVOKALISIERT: Stellen-/Ordnungszahl oder Gottesnamen-Buchstabe
 Vayechi 1:2	7	UNVOK_M	ל	ל	ל	BEWUSST UNVOKALISIERT: Stellen-/Ordnungszahl oder Gottesnamen-Buchstabe
+Vayechi 1:2	23	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 1:2	24	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:2	45	VOK	דקדושה	דִּקְדֻוֽשָּׁה	דִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:2	94	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:2	115	VOK	הקודש	הַקֹּוֽדֶשׁ	הַקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:3	9	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:3	14	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 1:3	32	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 1:4	39	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:6	55	VOK	וגאולה	וּגְאֻוֽלָּה	וּגְאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 1:6	82	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1420,7 +1575,9 @@ Vayechi 2:3	86	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERN
 Vayechi 2:3	87	VOK	בקדושת	בִּקְדֻוֽשַּׁת	בִּקְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 2:3	94	VOK	לכלול	לִכְלֹוֽל	לִכְלוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 2:3	114	VOK	הקטורת	הַקְּטֹוֽרֶת	הַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 3:1	4	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 3:1	18	VOK	החול	הַחֹוֽל	הַחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 3:1	42	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 3:1	45	VOK	בחול	בְּחֹוֽל	בְּחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 3:1	54	VOK	בחול	בְּחֹוֽל	בְּחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 3:1	63	VOK	קדושתם	קְדֻוֽשָּׁתָם	קְדוּשָּׁתָם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1429,10 +1586,12 @@ Vayechi 3:1	77	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: 
 Vayechi 3:1	81	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 3:1	99	VOK	החול	הַחֹוֽל	הַחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 3:1	106	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 4:1	6	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 4:2	14	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 4:2	75	VOK	בנוסח	בְּנֻוֽסַּח	בְּנוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Dagesch im Samech
 Vayechi 5:1	8	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 5:1	23	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 5:1	60	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 5:1	91	VOK	תחסום	תַּחְסֹוֽם	תַּחְסוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 6:1	71	VOK	וכמפורש	וְכַמְּפֹוֽרָשׁ	וְכַמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 6:1	89	VOK	דוגמת	דֻּוֽגְמַת	דּוּגְמַת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1474,15 +1633,20 @@ Vayechi 11:3	81	VOK	פורקניה	פֻּוֽרְקָנֵיֽהּ	פּוּרְק
 Vayechi 11:3	88	VOK	פורקן	פֻּוֽרְקָן	פּוּרְקָן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 12:2	31	VOK	מבורך	מְבֹוֽרָךְ	מְבוֹרָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 12:2	37	VOK	מסודר	מְסֻוֽדָּר	מְסוּדָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 12:3	56	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayechi 13:1	29	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 13:1	64	VOK	המגולה	הַמְגֻוֽלֶּה	הַמְגוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 13:1	74	VOK	המגולה	הַמְגֻוֽלֶּה	הַמְגוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 14:1	60	VOK	בחי'	בְּחַי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 14:1	73	VOK	ומיוסדת	וּמְיֻוֽסֶּדֶת	וּמְיוּסֶּדֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 14:1	96	VOK	ומחוברת	וּמְחֻוֽבֶּרֶת	וּמְחוּבֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 15:1	46	VOK	בנוקביה	בְּנֻוֽקְבֵּיֽהּ	בְּנוּקְבֵּיהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 15:1	55	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 15:1	73	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
-Vayechi 16:2	106	TEXT_N	תפלה	הַפָּלָה		FREIGEGEBENE TEXTKORREKTUR: Scan 372; Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens.
-Vayechi 16:2	137	TEXT_N	וכמסתפק	יִכְמַסְתֵּפֵק		FREIGEGEBENE TEXTKORREKTUR: Scan 372; Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י.
+Vayechi 16:2	106	TEXT_N	תפלה	הַפָּלָה		BELEGTE TEXTKORREKTUR: Scan 372; Im Druck steht שהוא תפלה ובקשה; Verwechslung des ersten Buchstabens.
+Vayechi 16:2	137	TEXT_N	וכמסתפק	יִכְמַסְתֵּפֵק		BELEGTE TEXTKORREKTUR: Scan 372; Der Druck liest ככופר בעיקר וכמסתפק; der Anschluss ist ו, nicht י.
 Vayechi 16:2	27	VOK	שהנוסח	שֶׁהַנֻּוֽסָּח	שֶׁהַנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
+Vayechi 16:2	50	VOK	כנז'	כְּנָז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 16:2	165	VOK	לשמוע	לִשְׁמֹוֽעַ	לִשְׁמוֹעַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 16:2	188	VOK	האמן	הָאֻמָּן	הָאָמֵן	UEBERNOMMEN: Antwort Amen, nicht der Handwerker
 Vayechi 16:3	6	VOK	ואחזור	וְאֶחֱזֹוֽר	וְאֶחֱזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1494,13 +1658,18 @@ Vayechi 16:3	66	VOK	מהולל	מְהֻוֽלָּל	מְהוּלָּל	UEBERNOMM
 Vayechi 16:3	72	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:3	79	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:3	111	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
+Vayechi 16:3	115	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 16:3	126	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayechi 16:4	12	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:4	22	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:4	39	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:4	90	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 16:4	109	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 16:4	128	VOK	תשכון	תִּשְׁכֹּוֽן	תִּשְׁכּוֹן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayechi 16:4	144	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 16:4	151	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
+Vayechi 16:4	162	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayechi 16:4	167	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayechi 16:5	2	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:5	9	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
 Vayechi 16:5	18	VOK	באמן	בְּאֻמָּן	בְּאָמֵן	UEBERNOMMEN: Antwort Amen, nicht Handwerker
@@ -1561,12 +1730,14 @@ Shemot 1:9	57	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Chola
 Shemot 1:10	5	VOK	בנוסח	בַּנֻּוֽסָּח	בַּנּוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
 Shemot 1:10	48	VOK	מסודרים	מְסֻוֽדָּרִים	מְסוּדָּרִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:10	91	VOK	מיוסדים	מְיֻוֽסָּדִים	מְיוּסָּדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 1:10	94	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shemot 1:11	29	VOK	עובי	עֹוֽבִי	עוֹבִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:11	48	VOK	עובי	עֹוֽבִי	עוֹבִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:11	108	VOK	עובי	עֹוֽבִי	עוֹבִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:11	152	VOK	האופק	הָאֹוֽפֶק	הָאוֹפֶק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:11	171	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:12	28	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 1:12	53	VOK	הרצונית	הַרְּצוּנִית	הָרְצוֹנִית	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Adjektiv רצונית (willentlich), kein Dagesch im Resch.
 Shemot 1:12	93	VOK	חום	חֹוֽם	חוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:12	106	VOK	תוקף	תֹּוֽקֶף	תּוֹקֶף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:12	107	VOK	החום	הַחֹוֽם	הַחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1576,6 +1747,7 @@ Shemot 1:12	150	VOK	ממוזג	מְמֻוֽזָּג	מְמוּזָּג	UEBERNOMM
 Shemot 1:12	153	VOK	לחום	לָחֹוֽם	לָחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:12	157	VOK	והצורך	וְהַצֹּוֽרֶךְ	וְהַצּוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:12	161	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 1:13	93	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shemot 1:13	108	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:14	31	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 1:15	36	VOK	נוגה	נֹוֽגַהּ	נוֹגַהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1680,6 +1852,7 @@ Shemot 6:3	41	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNO
 Shemot 6:3	49	VOK	הקודש	הַקֹּוֽדֶשׁ	הַקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 6:3	66	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 6:4	7	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 6:4	8	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shemot 6:4	14	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 6:4	26	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 6:4	35	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1702,6 +1875,7 @@ Shemot 7:1	8	VOK	שהקדושה	שֶׁהַקְּדֻוֽשָּׁה	שֶׁהַק�
 Shemot 7:1	46	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 7:1	67	VOK	לקדושה	לִקְדֻוֽשָּׁה	לִקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 7:2	14	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 7:2	41	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shemot 7:3	13	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 7:3	18	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 7:3	23	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1730,7 +1904,11 @@ Shemot 9:2	217	VOK	הודפס	הֻוֽדְפַּס	הוּדְפַּס	UEBERNOMME
 Shemot 10:1	50	VOK	בחורב	בְּחֹוֽרֵב	בְּחוֹרֵב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 10:2	38	VOK	הסוכות	הַסֻּוֽכּוֹת	הַסּוּכּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 10:2	57	VOK	הסוכות	הַסֻּוֽכּוֹת	הַסּוּכּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 10:2	83	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Shemot 10:2	86	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shemot 10:2	124	VOK	וחנוכה	וַחֲנֻוֽכָּה	וַחֲנוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shemot 10:2	132	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Shemot 10:3	52	TEXT_N	וקרבתנו	וְקִרַבְתְלוּ		BELEGTE TEXTKORREKTUR: Scan 377; Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.
 Shemot 10:3	10	VOK	נזכור	נִזְכֹּוֽר	נִזְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 10:3	24	VOK	לרמוז	לִרְמֹוֽז	לִרְמוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shemot 10:3	56	VOK	נרמוז	נִרְמֹוֽז	נִרְמוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1767,12 +1945,14 @@ Vaera 2:6	9	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plen
 Vaera 2:6	45	VOK	לפסוק	לִפְסֹוֽק	לִפְסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 2:8	65	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 2:9	6	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 4:1	70	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 7:2	15	VOK	ויפסוק	וְיִפְסֹוֽק	וְיִפְסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 7:2	29	VOK	עול	עֹוֽל	עוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 7:2	47	VOK	עול	עֹוֽל	עוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 7:2	79	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 7:2	85	VOK	עול	עֹוֽל	עוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 7:2	191	VOK	אותו	אֹוֽתוֹ	אוֹתוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 7:2	206	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 8:2	43	VOK	מרוקמין	מְרֻוֽקָּמִין	מְרוּקָּמִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 8:2	79	VOK	מרוקמין	מְרֻוֽקָּמִין	מְרוּקָּמִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 8:2	104	VOK	מרוקמין	מְרֻוֽקָּמִין	מְרוּקָּמִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1795,7 +1975,10 @@ Vaera 11:1	88	VOK	והגאולות	וְהַגְּאֻוֽלּוֹת	וְהַגּ
 Vaera 11:1	99	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 11:1	115	VOK	מקושרים	מְקֻוֽשָּׁרִים	מְקוּשָּׁרִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 12:1	16	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 12:1	56	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 12:2	19	VOK	ומשוללין	וּמְשֻׁוֽלָּלִין	וּמְשׁוּלָּלִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 12:2	41	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vaera 12:2	66	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 12:3	26	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 12:4	3	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 12:4	49	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1806,16 +1989,20 @@ Vaera 12:5	95	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלָּ
 Vaera 12:5	118	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 12:5	125	VOK	ומבורך	וּמְבֹוֽרָךְ	וּמְבוֹרָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 12:5	150	VOK	ומבורך	וּמְבֹוֽרָךְ	וּמְבוֹרָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 12:5	176	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 12:5	180	VOK	ומבורך	וּמְבֹוֽרָךְ	וּמְבוֹרָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:1	3	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 13:1	5	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 13:1	25	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:1	36	VOK	שהגאולה	שֶׁהַגְּאֻוֽלָּה	שֶׁהַגְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:1	67	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 13:1	73	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 13:1	105	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	8	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	16	VOK	לגאולה	לִגְאֻוֽלָּה	לִגְאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	21	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	30	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 13:2	36	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 13:2	44	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	55	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 13:2	62	VOK	הגאולה	הַגְּאֻוֽלָּה	הַגְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1839,10 +2026,12 @@ Vaera 16:3	39	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: C
 Vaera 16:3	54	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 16:3	62	VOK	החורף	הַחֹוֽרֶף	הַחוֹרֶף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 16:3	64	VOK	לקרוא	לִקְרֹוֽא	לִקְרוֹא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 16:3	91	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 16:4	4	VOK	המובחר	הַמֻּוֽבְחָר	הַמּוּבְחָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 16:4	11	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 16:4	26	VOK	ויסמוך	וְיִסְמֹוֽךְ	וְיִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 16:4	50	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vaera 17:1	100	VOK	וכנז'	וְכַנַּז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vaera 18:1	2	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 18:1	4	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vaera 18:1	24	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1925,9 +2114,12 @@ Bo 1:1	24	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene:
 Bo 1:2	19	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:2	31	VOK	בראיה	בִּרְאָיָה	בִּרְאִיָּה	UEBERNOMMEN: Endpruefung nach Textfreigabe: Sehen, nicht Beweis; derselbe Ausdruck zuvor im Absatz.
 Bo 1:3	8	VOK	מגולה	מְגֻוֽלֶּה	מְגוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bo 1:5	22	TEXT_N	אפילו	אַפֵּינוּ		BELEGTE TEXTKORREKTUR: Scan 384; Druck: אפילו פחות מטפח.
 Bo 1:5	7	VOK	הארכובה	הָאַרְכֻּוֽבָּה	הָאַרְכּוּבָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:5	11	VOK	ומגולה	וּמִגּוֹלָה	וּמְגוּלָּה	UEBERNOMMEN: Endpruefung nach Textfreigabe: Unbedeckter Fuß; passives Partizip.
 Bo 1:5	20	VOK	ומארכובה	וּמֵאַרְכֻּוֽבָּה	וּמֵאַרְכּוּבָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bo 1:6	59	TEXT_N	ונעשה	וְעָשָׂה		BELEGTE TEXTKORREKTUR: Scan 384; Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.
+Bo 1:6	71	TEXT_N	נתחדש	נֶהְחַדֵּשׁ		BELEGTE TEXTKORREKTUR: Scan 384; Druck: בדור הזה נתחדש; ת/ה im Digitaltext.
 Bo 1:6	27	VOK	חוקים	חֻוֽקִּים	חוּקִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:6	47	VOK	מגולים	מְגֻוֽלִּים	מְגוּלִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:6	58	VOK	מגולה	מְגֻוֽלֶּה	מְגוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1936,6 +2128,7 @@ Bo 1:6	97	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: C
 Bo 1:6	100	VOK	מכוסה	מְכֻוֽסֶּה	מְכוּסֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:6	101	VOK	בכתונת	בַּכֻּתֹּוֽנֶת	בַּכֻּתּוֹנֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 1:6	166	VOK	לחשוב	לַחְשֹׁוֽב	לַחְשׁוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bo 1:6	180	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Bo 2:1	6	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 2:1	12	VOK	מגולין	מְגֻוֽלִּין	מְגוּלִּין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 2:1	48	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1950,6 +2143,7 @@ Bo 3:1	6	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: 
 Bo 3:1	17	VOK	שיגמור	שֶׁיִּגְמֹוֽר	שֶׁיִּגְמוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 3:1	20	VOK	שיעבור	שֶׁיַּעֲבֹוֽר	שֶׁיַּעֲבוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 3:1	44	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bo 3:2	26	TEXT_N	אבל	אָכַל		BELEGTE TEXTKORREKTUR: Scan 385; Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.
 Bo 3:2	19	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 3:2	30	VOK	חולי	חֹוֽלִי	חוֹלִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 3:2	32	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -1983,11 +2177,13 @@ Bo 5:2	92	VOK	לטבול	לִטְבֹּוֽל	לִטְבּוֹל	UEBERNOMMEN: Pl
 Bo 5:2	95	VOK	תוקף	תֹּוֽקֶף	תּוֹקֶף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 5:2	96	VOK	הקור	הַקֹּוֽר	הַקּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 6:1	50	VOK	סוכה	סֻוֽכָּה	סוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bo 6:1	59	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Bo 6:1	63	VOK	דופן	דֹּוֽפֶן	דּוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 6:1	71	VOK	וסוכה	וְסֻוֽכָּה	וְסוּכָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bo 6:1	84	VOK	הועמדו	הֻוֽעְמְדוּ	הוּעְמְדוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 1:1	24	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 1:1	31	VOK	בקושיא	בְּקֻוֽשְׁיָא	בְּקוּשְׁיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 1:1	65	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 1:1	82	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 2:1	17	VOK	לכרוע	לִכְרֹוֽעַ	לִכְרוֹעַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 2:1	20	VOK	ולזקוף	וְלִזְקֹוֽף	וְלִזְקוֹף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2025,11 +2221,15 @@ Beshalach 8:1	17	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBE
 Beshalach 8:1	19	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 8:2	2	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 8:2	23	VOK	גאולה	גְּאֻוֽלָּה	גְּאוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 10:1	14	VOK	ויקיאנו	וִיקִיאֵנוּ	וַיְקִיאֶנּוּ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Ijob 20,15: Singularobjekt, nicht uns; Bibelzitat in Plene-Schreibung.
 Beshalach 10:1	38	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 10:1	40	VOK	ומתוקנים	וּמְתֻוֽקָּנִים	וּמְתוּקָּנִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 10:1	48	VOK	נוגה	נֹוֽגַהּ	נוֹגַהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 10:1	55	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 10:1	66	VOK	מבטנו	מַבָּטֵנוּ	מִבִּטְנוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Ijob 20,15: aus seinem Bauch, nicht unser Blick.
 Beshalach 11:1	75	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 12:1	19	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Beshalach 12:1	32	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 12:1	44	VOK	ירשום	יִרְשֹׁוֽם	יִרְשׁוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 13:1	31	VOK	שתמחול	שֶׁתִּמְחֹוֽל	שֶׁתִּמְחוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 13:1	63	VOK	מסופק	מְסֻוֽפָּק	מְסוּפָּק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2058,6 +2258,7 @@ Beshalach 13:7	139	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Ple
 Beshalach 13:7	151	VOK	נוסח	נֻוֽסָּח	נוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
 Beshalach 13:7	153	VOK	הארוך	הָאָרֹוֽךְ	הָאָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 13:7	163	VOK	נוסח	נֹוֽסַח	נוֹסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 14:1	16	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 15:1	74	VOK	לעושה	לְעֹוֽשֵׂה	לְעוֹשֵׂה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 15:1	76	VOK	גדולות	גְּדֹוֽלוֹת	גְּדוֹלוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 16:1	48	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2071,13 +2272,16 @@ Beshalach 16:3	16	VOK	רוב	רֹוֽב	רוֹב	UEBERNOMMEN: Plene: Cholam auf 
 Beshalach 16:3	49	VOK	ויזקוף	וְיִזְקֹוֽף	וְיִזְקוֹף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 16:3	58	VOK	ויזקוף	וְיִזְקֹוֽף	וְיִזְקוֹף	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 16:3	128	VOK	מחלוקת	מַחֲלֹוֽקֶת	מַחֲלוֹקֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 17:1	58	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 17:1	65	VOK	הסוכות	הַסֻּוֽכּוֹת	הַסּוּכּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 18:1	39	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 19:1	22	VOK	פקודות	פְּקֻוֽדּוֹת	פְּקוּדּוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 19:1	56	VOK	המכוסים	הַמְכֻוֽסִּים	הַמְכוּסִּים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 19:2	36	VOK	אדוני	אֲדֹוֽנִי	אֲדוֹנִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 19:2	78	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 19:3	36	VOK	ואודיתי	וְאֻוֽדִּיתִי	וְאוּדִּיתִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Beshalach 19:3	55	VOK	כהוגן	כַּהֹוֽגֶן	כַּהוֹגֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Beshalach 19:3	101	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Beshalach 19:3	108	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 1:1	85	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 1:1	88	VOK	שכולם	שֶׁכֻּוֽלָּם	שֶׁכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2098,6 +2302,7 @@ Yitro 3:2	47	VOK	מסופק	מְסֻוֽפָּק	מְסוּפָּק	UEBERNOMMEN:
 Yitro 3:2	49	VOK	יחזור	יַחְזֹוֽר	יַחְזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 5:1	2	VOK	המיוחדת	הַמְיֻוֽחֶדֶת	הַמְיוּחֶדֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 5:1	40	VOK	ולקושיא	וְלַקֻּוֽשְׁיָא	וְלַקּוּשְׁיָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Yitro 5:1	44	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Yitro 5:1	61	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 5:2	18	VOK	מונחת	מֻוֽנַּחַת	מוּנַּחַת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 5:2	22	VOK	הכותל	הַכֹּוֽתֶל	הַכּוֹתֶל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2113,6 +2318,7 @@ Yitro 6:2	51	VOK	דמוכרח	דְּמֻוֽכְרָח	דְּמוּכְרָח	UE
 Yitro 6:2	60	VOK	כותל	כֹּוֽתֶל	כּוֹתֶל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 6:2	75	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 6:2	82	VOK	דוחק	דֹּוֽחַק	דּוֹחַק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Yitro 6:2	88	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Yitro 6:3	14	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 6:3	15	VOK	החופה	הַחֻוֽפָּה	הַחוּפָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Yitro 6:3	30	VOK	חופה	חֻוֽפָּה	חוּפָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2131,9 +2337,17 @@ Yitro 9:4	86	VOK	דברוב	דִּבְרֹוֽב	דִּבְרוֹב	UEBERNOMMEN:
 Yitro 9:5	35	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:1	9	VOK	וכמפורש	וְכַמְּפֹוֽרָשׁ	וְכַמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:1	117	VOK	שמפורש	שֶׁמְּפֹוֽרָשׁ	שֶׁמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Mishpatim 1:1	150	VOK	וכוון	וְכִוֵּוֽן	וְכִוּוּן	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Substantiv in וכוון הדעת, Sammlung/Ausrichtung der Gedanken.
+Mishpatim 1:2	6	VOK	העקרי	הֶעָקְרִי	הָעִקְּרִי	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Adjektiv עקרי, grundlegend.
+Mishpatim 1:2	11	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Mishpatim 1:2	69	VOK	שבהעלותה	שֶׁבְּהֵעָלוּתָהּ	שֶׁבְּהֵעָלוֹתָהּ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Nifal-Infinitiv mit femininem Suffix: beim Aufsteigen der Schechina.
 Mishpatim 1:2	74	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:2	86	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Mishpatim 1:2	87	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Mishpatim 1:2	91	VOK	עני	עָנֵי	עָנִי	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Sich arm machen; Wiederholung des vorausgehenden Zitats.
+Mishpatim 1:2	102	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Mishpatim 1:2	115	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Mishpatim 1:2	116	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Mishpatim 1:3	44	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:3	107	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:3	116	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2143,6 +2357,7 @@ Mishpatim 1:4	47	VOK	מפורש	מְפֹוֽרָשׁ	מְפוֹרָשׁ	UEBERNOM
 Mishpatim 1:4	50	VOK	ורוב	וְרֹוֽב	וְרוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 1:4	59	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 2:1	7	VOK	ויוהרא	וְיֻוֽהֲרָא	וְיוּהֲרָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Mishpatim 3:1	10	VOK	גברוותא	גִּבָּרָוָוֽתָא	גִּבַּרְוָותָא	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Aramäisch גברוותא; Jastrow https://www.sefaria.org/Jastrow%2C_%D7%92%D6%B0%D6%BC%D7%91%D6%B7%D7%A8_II.1
 Mishpatim 3:1	31	VOK	שיחתוך	שֶׁיַּחְתֹּוֽךְ	שֶׁיַּחְתּוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 3:2	32	VOK	הזוהר	הַזֹּוֽהַר	הַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 3:2	48	VOK	והזוהר	וְהַזֹּוֽהַר	וְהַזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2159,6 +2374,7 @@ Mishpatim 5:2	35	VOK	יחשוב	יַחְשֹׁוֽב	יַחְשׁוֹב	UEBERNOM
 Mishpatim 5:2	54	VOK	מרוב	מֵרֹוֽב	מֵרוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 6:1	18	VOK	וקדושה	וּקְדֻוֽשָּׁה	וּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 6:1	21	VOK	ישתוק	יִשְׁתֹּוֽק	יִשְׁתּוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Mishpatim 6:1	23	VOK	למה	לָמָּה	לְמַה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Präposition: auf das achten, was der Vorbeter sagt; keine Frage warum.
 Mishpatim 6:1	35	VOK	וקדושה	וּקְדֻוֽשָּׁה	וּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 6:1	38	VOK	לשתוק	לִשְׁתֹּוֽק	לִשְׁתּוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Mishpatim 6:2	18	VOK	שבקדושה	שֶׁבִּקְדֻוֽשָּׁה	שֶׁבִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2174,6 +2390,7 @@ Terumah 2:1	39	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERN
 Terumah 2:1	41	VOK	אמור	אֱמֹוֽר	אֱמוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:1	48	VOK	קדושת	קְדֻוֽשַּׁת	קְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:1	62	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Terumah 2:1	67	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Terumah 2:1	68	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:1	72	VOK	מקדושתו	מִקְּדֻוֽשָּׁתוֹ	מִקְּדוּשָּׁתוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:1	92	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2192,12 +2409,14 @@ Terumah 2:2	56	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּש�
 Terumah 2:2	92	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:2	102	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:2	103	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Terumah 2:2	140	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Terumah 2:2	163	VOK	צו	צו	צַו	UEBERNOMMEN: Paraschabezeichnung Tzav
 Terumah 2:3	21	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:3	51	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:3	72	VOK	ובקדושה	וּבִקְדֻוֽשָּׁה	וּבִקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:3	81	VOK	ובקדושת	וּבִקְדֻוֽשַּׁת	וּבִקְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:3	92	VOK	ובקדושת	וּבִקְדֻוֽשַּׁת	וּבִקְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Terumah 2:4	35	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Terumah 2:5	28	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:5	29	VOK	המיוחדת	הַמְיֻוֽחֶדֶת	הַמְיוּחֶדֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:5	40	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2208,6 +2427,7 @@ Terumah 2:5	71	VOK	קודש	קֹוֽדֶשׁ	קוֹדֶשׁ	UEBERNOMMEN: Plene: 
 Terumah 2:5	74	VOK	נועם	נֹוֽעַם	נוֹעַם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:5	75	VOK	קדושת	קְדֻוֽשַּׁת	קְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 2:5	82	VOK	כנועם	כְּנֹוֽעַם	כְּנוֹעַם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Terumah 2:5	106	VOK	בחי'	בְּחַי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Terumah 2:5	114	VOK	כנועם	כְּנֹוֽעַם	כְּנוֹעַם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 3:1	2	VOK	שבקדושת	שֶׁבִּקְדֻוֽשַּׁת	שֶׁבִּקְדוּשַּׁת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 3:1	8	VOK	כנועם	כְּנֹוֽעַם	כְּנוֹעַם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2227,6 +2447,7 @@ Terumah 5:1	13	VOK	ותאסוף	וְתֶאֱסֹוֽף	וְתֶאֱסוֹף	UEBE
 Terumah 5:1	16	VOK	בקובוץ	בְּקֻוֽבּוּץ	בְּקוּבּוּץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 6:1	79	VOK	המשולש	הַמְשֻׁוֽלָּשׁ	הַמְשׁוּלָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 6:1	95	VOK	נרותיה	נֵרֹוֽתֶיהָ	נֵרוֹתֶיהָ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Terumah 6:1	100	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Terumah 6:1	103	VOK	נרותיה	נֵרֹוֽתֶיהָ	נֵרוֹתֶיהָ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 7:1	15	VOK	ומפורש	וּמְפֹוֽרָשׁ	וּמְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Terumah 7:1	48	VOK	המלובש	הַמְלֻוֽבָּשׁ	הַמְלוּבָּשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2312,10 +2533,12 @@ Ki Tisa 1:3	15	VOK	המכוסה	הַמְכֻוֽסֶּה	הַמְכוּסֶּה	
 Ki Tisa 1:3	21	VOK	המגולה	הַמְגֻוֽלֶּה	הַמְגוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 1:4	9	VOK	ויעבור	וְיַעֲבֹוֽר	וְיַעֲבוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 1:4	26	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 1:4	34	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 2:1	13	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 2:1	34	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 4:1	24	VOK	קודש	קֹוֽדֶשׁ	קוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 5:1	85	VOK	ללמוד	לִלְמֹוֽד	לִלְמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 5:1	88	VOK	כנז'	כְּנָז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 6:1	125	VOK	המתוקן	הַמְתֻוֽקָּן	הַמְתוּקָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 6:1	147	VOK	מתוקנים	מְתֻוֽקָּנִים	מְתוּקָּנִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 6:1	258	VOK	דמוכרח	דְּמֻוֽכְרָח	דְּמוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2352,6 +2575,7 @@ Ki Tisa 11:1	36	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּש
 Ki Tisa 11:1	39	VOK	וכדוגמתה	וּכְדֻוֽגְמָתָהּ	וּכְדוּגְמָתָהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 11:1	45	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 11:1	51	VOK	הקודש	הַקֹּוֽדֶשׁ	הַקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 11:1	60	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 11:1	71	VOK	הקודש	הַקֹּוֽדֶשׁ	הַקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 11:1	80	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 11:2	23	VOK	הקדושה	הַקְּדֻוֽשָּׁה	הַקְּדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2376,11 +2600,15 @@ Ki Tisa 17:1	6	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Chol
 Ki Tisa 17:2	17	VOK	מיוחד	מְיֻוֽחָד	מְיוּחָד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 17:2	83	VOK	נתננו	נִתָּנֵנוּ	נְתָנָנוּ	UEBERNOMMEN: ולא נתננו טרף: Er hat uns nicht preisgegeben
 Ki Tisa 17:2	97	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 18:1	22	VOK	וכנז'	וְכַנַּז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 20:1	68	VOK	גרשום	גֵּרְשֹׁוֽם	גֵּרְשׁוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 20:2	95	VOK	בקדושה	בִּקְדֻוֽשָּׁה	בִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 20:3	50	VOK	בקדושה	בִּקְדֻוֽשָּׁה	בִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 20:4	26	VOK	בחי'	בְּחַי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 20:4	41	VOK	ומעולה	וּמְעֻוֽלֶּה	וּמְעוּלֶּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 20:4	80	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Ki Tisa 20:5	10	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Ki Tisa 20:5	32	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Ki Tisa 20:5	70	VOK	וחוק	וְחֹוֽק	וְחוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 20:6	29	VOK	דקדושה	דִּקְדֻוֽשָּׁה	דִּקְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 20:6	48	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2399,11 +2627,18 @@ Ki Tisa 26:1	22	VOK	מעומד	מְעֻוֽמָּד	מְעוּמָּד	UEBERNOMM
 Ki Tisa 26:1	29	VOK	מיושב	מְיֻוֽשָּׁב	מְיוּשָּׁב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 26:1	41	VOK	החום	הַחֹוֽם	הַחוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Ki Tisa 27:1	32	VOK	בוטח	בֹּוֽטֵחַ	בּוֹטֵחַ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 1:1	43	VOK	מפאנו	מַפָּאֵנוּ	מִפָּאנוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Herkunftsname des Rema mi-Pano, nicht unser Etwas.
+Vayakhel 1:1	100	VOK	שבעת	שִׁבְעַת	שֶׁבָּעֵת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Verknüpfung: dass zu jener Zeit; keine Siebenzahl.
 Vayakhel 1:1	103	VOK	נוטה	נוֹטָה	נוֹטֶה	UEBERNOMMEN: Partizip maskulin zu השמש, im Kontext למנוחתו
+Vayakhel 1:1	115	VOK	דלשמש	דִּלְשַׁמָּשׁ	דִּלְשֶׁמֶשׁ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Der Sonne selbst gilt der Satz, nicht einem Diener.
 Vayakhel 1:1	148	VOK	חומו	חֻוֽמּוֹ	חוּמּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 1:1	149	VOK	ממוזג	מְמֻוֽזָּג	מְמוּזָּג	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 1:2	18	VOK	וירא	וַיַּרְא	וַיֵּרָא	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Name der Parascha Vayera.
+Vayakhel 1:2	60	VOK	לה'	לָהּ'	לַה'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Präposition mit abgekürztem Gottesnamen, kein feminines Objektsuffix.
 Vayakhel 1:2	71	VOK	סולת	סֹוֽלֶת	סוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 1:2	93	VOK	הסולת	הַסֹּוֽלֶת	הַסּוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 1:3	46	TEXT_N	המזבח	הַמְשַׁבֵּחַ		BELEGTE TEXTKORREKTUR: Scan 399; Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.
+Vayakhel 1:4	27	VOK	בגי'	בַּגַּי'	בגי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayakhel 2:1	18	VOK	צורך	צֹוֽרֶךְ	צוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 2:1	37	VOK	לעקוד	לַעֲקֹוֽד	לַעֲקוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 2:1	44	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2416,22 +2651,33 @@ Vayakhel 4:1	1	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Chol
 Vayakhel 4:1	21	VOK	מובטח	מֻוֽבְטָח	מוּבְטָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 4:1	84	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 4:1	134	VOK	לחזור	לַחֲזֹוֽר	לַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 4:1	135	VOK	ולאומרו	וּלְאָוֽמְרוֹ	וּלְאוֹמְרוֹ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Infinitiv לאומרו mit Cholam auf der Lesemutter Waw.
+Vayakhel 4:1	173	VOK	ומלוי	וּמַלְוֵי	וּמִלּוּי	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Kabbalistisches Nomen מילוי, ausgeschriebener Gottesname, nicht Gläubiger.
+Vayakhel 4:1	178	VOK	יהבך	יַהְבָּךְ	יְהָבְךָ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Gegenüber vorausgehendem Psalmzitat: derselbe Singular-Maskulin-Suffix.
 Vayakhel 5:1	5	VOK	והקטורת	וְהַקְּטֹוֽרֶת	וְהַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 5:1	6	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 6:1	12	VOK	והקטורת	וְהַקְּטֹוֽרֶת	וְהַקְּטוֹרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 6:1	17	VOK	כולם	כֻּוֽלָּם	כּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 6:2	45	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 7:1	79	TEXT_N	כשאר	נִשְׁאַר		BELEGTE TEXTKORREKTUR: Scan 399; Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.
 Vayakhel 7:2	66	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 7:2	83	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 7:2	86	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayakhel 7:2	103	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 8:1	17	VOK	ויברך	וִיבָרֵךְ	וַיְבָרֶךְ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Überschrift des Gebets Vayevarech David, 1 Chronik 29,10.
 Vayakhel 8:1	29	VOK	מוכרח	מֻוֽכְרָח	מוּכְרָח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 8:1	45	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 8:2	13	VOK	בראשנה	בְּרֹאשָׁנָהּ	בְּרִאשֹׁנָה	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Zeitadverb: anfangs; kein Suffix ihr.
+Vayakhel 8:2	45	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Vayakhel 8:2	56	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayakhel 8:2	61	VOK	חודש	חֹוֽדֶשׁ	חוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayakhel 8:2	70	VOK	בהצניע	בְּהִצְנִיעַ	בְּהַצְנֵיעַ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Adverbialer Hifil-Infinitiv: unauffällig/verborgen.
+Vayakhel 8:2	91	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 1:1	58	VOK	בוקר	בֹּוֽקֶר	בּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 1:1	66	VOK	ויכולת	וִיכֹוֽלֶת	וִיכוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 1:1	86	VOK	באורך	בְּאֹוֽרֶךְ	בְּאוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 1:1	104	VOK	מכולם	מִכֻּוֽלָּם	מִכּוּלָּם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 2:1	64	VOK	בחי'	בְּחֵי'	בחי'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 2:1	78	VOK	נוקבא	נֻוֽקְבָּא	נוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 2:2	44	VOK	ערום	עָרֹוֽם	עָרוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 2:2	49	VOK	ערום	עָרֹוֽם	עָרוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2448,6 +2694,7 @@ Pekudei 5:1	74	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBE
 Pekudei 5:1	75	VOK	והעטרות	וְהָעֲטָרֹוֽת	וְהָעֲטָרוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 5:2	34	VOK	לגרום	לִגְרֹוֽם	לִגְרוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 5:2	74	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 5:2	77	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 5:2	100	VOK	באורך	בְּאֹוֽרֶךְ	בְּאוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 5:3	32	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 5:3	35	VOK	מחודשות	מְחֻוֽדָּשׁוֹת	מְחוּדָּשׁוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2473,20 +2720,25 @@ Pekudei 6:3	16	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBE
 Pekudei 6:3	34	VOK	ללבוש	לִלְבֹּוֽשׁ	לִלְבּוֹשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:3	45	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:4	1	VOK	ונחזור	וְנַחֲזֹוֽר	וְנַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:4	3	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:4	13	VOK	לגרום	לִגְרֹוֽם	לִגְרוֹם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:4	18	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:4	49	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Pekudei 6:4	54	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:4	75	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:4	82	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:5	48	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:5	54	VOK	דנוקבא	דְּנֻוֽקְבָּא	דְּנוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:5	73	VOK	הנוקבא	הַנֻּוֽקְבָּא	הַנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:5	81	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:5	88	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:5	98	VOK	המוחין	הַמֹּוֽחִין	הַמּוֹחִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:5	102	VOK	בנוקבא	בְּנֻוֽקְבָּא	בְּנוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:6	23	VOK	הנוקבא	הַנֻּוֽקְבָּא	הַנּוּקְבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:6	26	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:6	31	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:6	58	VOK	העומדים	הָעֹוֽמְדִים	הָעוֹמְדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:6	62	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:6	63	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:6	99	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:7	8	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2495,6 +2747,8 @@ Pekudei 6:7	94	VOK	הנקודה	הַנְּקֻוֽדָּה	הַנְּקוּדּ�
 Pekudei 6:7	123	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:7	127	VOK	עונותינו	עֲוֹנֹוֽתֵינוּ	עֲוֹנוֹתֵינוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:7	139	VOK	הוכרחה	הֻוֽכְרְחָה	הוּכְרְחָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:7	141	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Pekudei 6:8	9	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:8	14	VOK	בעונותינו	בַּעֲוֹנֹוֽתֵינוּ	בַּעֲוֹנוֹתֵינוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:8	27	VOK	משורש	מִשֹּׁוֽרֶשׁ	מִשּׁוֹרֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:8	34	VOK	זוהמת	זֻוֽהֲמַת	זוּהֲמַת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2502,6 +2756,8 @@ Pekudei 6:8	39	VOK	בזוהמא	בַּזֻּוֽהֲמָא	בַּזּוּהֲמ�
 Pekudei 6:9	8	VOK	ותעסוק	וְתַעֲסֹוֽק	וְתַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:9	12	VOK	הבוקר	הַבֹּוֽקֶר	הַבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:10	5	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:10	7	VOK	כנז'	כַּנָּז'	כנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Pekudei 6:10	28	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:10	33	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:10	40	VOK	עושי	עֹוֽשָׂי	עוֹשָׂי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:10	62	VOK	נקודת	נְקֻוֽדַּת	נְקוּדַּת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2510,6 +2766,7 @@ Pekudei 6:11	7	VOK	בזוהר	בַּזֹּוֽהַר	בַּזּוֹהַר	UEBERN
 Pekudei 6:11	23	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	47	VOK	יכולת	יְכֹוֽלֶת	יְכוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	67	VOK	יעסוק	יַעֲסֹוֽק	יַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:11	74	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:11	76	VOK	יחזור	יַחְזֹוֽר	יַחְזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	79	VOK	שיחזור	שֶׁיַּחֲזֹוֽר	שֶׁיַּחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	84	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2517,9 +2774,11 @@ Pekudei 6:11	87	VOK	ויחזור	וְיַחֲזֹוֽר	וְיַחֲזוֹר	UEB
 Pekudei 6:11	88	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	90	VOK	באופן	בְּאֹוֽפֶן	בְּאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:11	91	VOK	שקודם	שֶׁקֹּוֽדֶם	שֶׁקּוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:11	100	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 6:12	20	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:12	24	VOK	לעסוק	לַעֲסֹוֽק	לַעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Pekudei 6:12	36	VOK	תעסוק	תַּעֲסֹוֽק	תַּעֲסוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Pekudei 6:13	41	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Pekudei 8:1	13	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 1:1	15	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 1:1	24	VOK	מור	מֹוֽר	מוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2556,6 +2815,8 @@ Vayikra 4:2	11	VOK	כותל	כֹּוֽתֶל	כּוֹתֶל	UEBERNOMMEN: Plene: 
 Vayikra 4:2	15	VOK	הקודש	הַקֹּוֽדֶשׁ	הַקּוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 4:2	16	VOK	כולו	כֻּוֽלּוֹ	כּוּלּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 4:2	23	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayikra 5:1	71	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Vayikra 6:1	50	TEXT_N	ולא	וְלַח		BELEGTE TEXTKORREKTUR: Scan 403; Druck: ולא סמכתי על זה; א/ח im Digitaltext.
 Vayikra 6:1	9	VOK	לאסור	לֶאֱסֹוֽר	לֶאֱסוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 6:1	15	VOK	לצורך	לְצֹוֽרֶךְ	לְצוֹרֶךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 6:1	56	VOK	לאסור	לֶאֱסֹוֽר	לֶאֱסוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2563,6 +2824,7 @@ Vayikra 7:1	17	VOK	קופת	קֻוֽפַּת	קוּפַּת	UEBERNOMMEN: Plene: 
 Vayikra 7:1	26	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 7:1	35	VOK	בחודש	בַּחֹוֽדֶשׁ	בַּחוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Vayikra 7:1	47	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Vayikra 7:1	60	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 1:1	55	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 2:1	13	VOK	עובי	עֹוֽבִי	עוֹבִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 2:1	30	VOK	עובי	עֹוֽבִי	עוֹבִי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2575,13 +2837,21 @@ Tzav 3:1	159	UNVOK_M	ז	ז	ז	BEWUSST UNVOKALISIERT: Stellen-/Ordnungszahl oder 
 Tzav 4:1	16	VOK	בנוסח	בְּנֻוֽסָּח	בְּנוּסַח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk; Nachpruefung: Nomen Wortlaut; kein Passivpartizip
 Tzav 4:1	27	VOK	נסחו	נָסְחוֹ	נֻסְחוֹ	UEBERNOMMEN: Sein Wortlaut, nicht Verb נסח
 Tzav 4:2	30	VOK	המונח	הַמֻּוֽנָּח	הַמּוּנָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:2	44	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:2	45	VOK	המונח	הַמֻּוֽנָּח	הַמּוּנָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:2	48	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Tzav 4:2	50	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:2	64	VOK	חוקי	חֻוֽקֵּי	חוּקֵּי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:2	76	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Tzav 4:2	84	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:2	90	VOK	יוקרא	יֻוֽקְרָא	יוּקְרָא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 4:2	104	VOK	אופן	אֹוֽפֶן	אוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:2	123	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:2	126	VOK	ואופן	וְאֹוֽפֶן	וְאוֹפֶן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:2	133	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:2	143	VOK	לחודש	לְחֹוֽדֶשׁ	לְחוֹדֶשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 4:3	8	VOK	ימסור	יִמְסֹוֽר	יִמְסוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 4:3	17	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 4:3	37	VOK	חוקי	חֻוֽקֵּי	חוּקֵּי	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 5:1	2	VOK	שומשמין	שֻׁוֽמְשְׁמִין	שׁוּמְשְׁמִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 5:1	17	VOK	מעורבין	מְעֹוֽרָבִין	מְעוֹרָבִין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2598,12 +2868,14 @@ Tzav 7:1	32	VOK	עמוקות	עֲמֻוֽקּוֹת	עֲמוּקּוֹת	UEBERNO
 Tzav 7:1	76	VOK	לאכול	לֶאֱכֹוֽל	לֶאֱכוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 7:2	35	VOK	יחזור	יַחֲזֹוֽר	יַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 7:2	50	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 7:3	85	VOK	וכנז'	וְכַנֲז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 8:1	11	VOK	בחומץ	בְּחֹוֽמֶץ	בְּחוֹמֶץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 8:1	27	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 8:2	89	VOK	הוצרכנו	הֻוֽצְרַכְנוּ	הוּצְרַכְנוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 8:2	117	VOK	משועבדים	מְשֻׁוֽעְבָּדִים	מְשׁוּעְבָּדִים	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 8:2	129	VOK	הוצרך	הֻוֽצְרַךְ	הוּצְרַךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 8:2	162	VOK	וכמפורש	וְכַמְּפֹוֽרָשׁ	וְכַמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 8:3	30	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Tzav 9:1	25	VOK	בחומץ	בְּחֹוֽמֶץ	בְּחוֹמֶץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 9:1	39	VOK	חומץ	חֹוֽמֶץ	חוֹמֶץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 9:1	46	VOK	בחרוסת	בַּחֲרֹוֽסֶת	בַּחֲרוֹסֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2624,18 +2896,27 @@ Tzav 13:1	42	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN:
 Tzav 14:1	7	VOK	יאחוז	יֶאֱחֹוֽז	יֶאֱחוֹז	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 14:1	14	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 14:1	33	VOK	שמונח	שֶׁמֻּוֽנָּח	שֶׁמּוּנָּח	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Tzav 14:1	56	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Tzav 14:2	31	VOK	ידחנו	יִדְחֵנוּ	יַדִּחֶנּוּ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Hifil waschen/abspülen mit maskulinem Singularobjekt, defektive Schreibung ידחנו.
 Tzav 14:2	36	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 15:1	19	VOK	המסובין	הַמְּסֻוֽבִּין	הַמְּסוּבִּין	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 15:1	94	VOK	מבורך	מְבֹוֽרָךְ	מְבוֹרָךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Tzav 15:1	111	VOK	מהולל	מְהֻוֽלָּל	מְהוּלָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 1:1	27	VOK	מפגין	מַפְגִּין	מְפִגִין	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: מפיגין טעם: Geschmack verlieren; defektive Hifil-Schreibung.
 Bamidbar 1:1	35	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 2:1	9	VOK	תרנגולת	תַּרְנְגֹוֽלֶת	תַּרְנְגוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 2:1	44	VOK	לאכול	לֶאֱכֹוֽל	לֶאֱכוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 2:1	47	VOK	דהותרה	דְּהֻוֽתְּרָה	דְּהוּתְּרָה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 2:1	66	VOK	לשחוט	לִשְׁחֹוֽט	לִשְׁחוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 3:1	4	VOK	פרות	פֵּרוֹת	פָּרוֹת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Milchgebende Kühe, keine Früchte.
 Bamidbar 3:1	7	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 3:1	24	VOK	ולמכור	וְלִמְכֹּוֽר	וְלִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 3:1	32	VOK	ימכור	יִמְכֹּוֽר	יִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 3:1	33	VOK	הפרות	הַפֵּרוֹת	הַפָּרוֹת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Verkauf der Kühe.
+Bamidbar 3:1	47	VOK	הפרות	הַפֵּרוֹת	הַפָּרוֹת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Führen der Kühe als Erwerbshandlung.
+Bamidbar 3:1	63	VOK	הישראל	הֲיִשְׂרָאֵל	הַיִּשְׂרָאֵל	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Bestimmter Artikel, keine Fragepartikel.
+Bamidbar 3:1	75	VOK	הפרות	הַפֵּרוֹת	הַפָּרוֹת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Erworbene Kühe, aus deren Milch Joghurt bereitet wird.
+Bamidbar 3:1	89	VOK	הישראל	הֲיִשְׂרָאֵל	הַיִּשְׂרָאֵל	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Bestimmter Artikel, keine Fragepartikel.
 Bamidbar 4:1	18	VOK	שמותר	שֶׁמֻּוֽתָּר	שֶׁמּוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 4:1	23	VOK	דאוכל	דְּאֹוֽכֶל	דְּאוֹכֶל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 4:1	27	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2653,36 +2934,48 @@ Bamidbar 7:1	19	VOK	שמותר	שֶׁמֻּוֽתָּר	שֶׁמּוּתָּר	U
 Bamidbar 7:1	24	VOK	מוקצה	מֻוֽקְצֶה	מוּקְצֶה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 7:1	33	VOK	עגולה	עֲגֻוֽלָּה	עֲגוּלָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 7:1	43	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 7:1	61	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Bamidbar 8:1	5	VOK	בבצים	בְּבֻצִּים	בְּבֵצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 8:1	7	VOK	כולן	כֻּוֽלָּן	כּוּלָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 8:1	15	VOK	בצים	בְּצִים	בֵּצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 8:1	19	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 8:1	40	VOK	כולן	כֻּוֽלָּן	כּוּלָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 8:1	57	VOK	התערובת	הַתַּעֲרֹוֽבֶת	הַתַּעֲרוֹבֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 8:1	67	VOK	לבצים	לְבֻצִּים	לְבֵצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 8:1	73	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 8:1	105	VOK	תערובת	תַּעֲרֹוֽבֶת	תַּעֲרוֹבֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 8:1	114	VOK	כולן	כֻּוֽלָּן	כּוּלָּן	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 8:1	125	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 9:1	22	VOK	בלבדה	בְּלִבְּדָה	בִּלְבַדָּהּ	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Sie allein; feminines Suffix.
+Bamidbar 9:1	25	VOK	הבצים	הַבֻּצִּים	הַבֵּצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 9:1	26	VOK	מותרות	מֻוֽתָּרוֹת	מוּתָּרוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 9:2	18	VOK	מלפלוט	מִלִּפְלֹוֽט	מִלִּפְלוֹט	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 9:2	33	VOK	בבצים	בְּבֻצִּים	בְּבֵצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 9:2	46	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 10:1	5	VOK	בצים	בְּצִים	בֵּצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 10:1	27	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 10:1	28	VOK	לאכול	לֶאֱכֹוֽל	לֶאֱכוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 10:1	54	VOK	ומפורש	וּמְפֹוֽרָשׁ	וּמְפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 10:2	27	VOK	בתרנגולת	בְּתַרְנְגֹוֽלֶת	בְּתַרְנְגוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 10:2	29	VOK	תערובת	תַּעֲרֹוֽבֶת	תַּעֲרוֹבֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 10:2	89	VOK	וכנז'	וְכנז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Bamidbar 11:1	5	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 11:1	38	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 12:1	35	VOK	התרנגולת	הַתַּרְנְגֹוֽלֶת	הַתַּרְנְגוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 12:1	51	VOK	מכין	מַכִּין	מֵכִין	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Vorbereiten für den Feiertag, nicht schlagen.
 Bamidbar 12:2	12	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 12:2	26	VOK	דמותרת	דְּמֻוֽתֶּרֶת	דְּמוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 12:2	39	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 13:1	31	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 13:1	81	VOK	קדושה	קְדֻוֽשָּׁה	קְדוּשָּׁה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 13:1	86	VOK	ארוך	אָרֹוֽךְ	אָרוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 14:1	23	VOK	שנולדת	שֶׁנּוֹלַדְתָּ	שֶׁנּוֹלֶדֶת	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Feminines Partizip: das Ei wird gelegt.
 Bamidbar 14:1	29	VOK	הרוב	הָרֹוֽב	הָרוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 14:1	41	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 14:1	72	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 14:2	2	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 14:2	26	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 14:3	3	VOK	הנקחים	הֲנִקָּחֵיֽם	הַנִּקָּחִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Passives Partizip Plural mit bestimmtem Artikel.
 Bamidbar 15:1	8	VOK	תומו	תֻּוֽמּוֹ	תּוּמּוֹ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:1	13	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:1	14	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2693,16 +2986,21 @@ Bamidbar 15:1	88	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOM
 Bamidbar 15:2	11	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:2	17	VOK	רוב	רֹוֽב	רוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:2	20	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 15:2	31	VOK	בבצים	בְּבֻצִּים	בְּבֵצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 15:2	40	VOK	מרובא	מֵרֻוֽבָּא	מֵרוּבָּא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:2	65	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:2	66	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 15:2	81	VOK	למכור	לִמְכֹּוֽר	לִמְכּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 16:2	8	VOK	הבצים	הַבֻּצִּים	הַבֵּצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
+Bamidbar 16:2	30	VOK	שלהגוי	שֶׁלַּהִגּוּי	שֶׁלְּהַגּוֹי	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Dass dem Nichtjuden kein Vorteil zufällt; גוי statt היגוי.
 Bamidbar 16:2	41	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 16:2	42	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 16:2	57	VOK	לסמוך	לִסְמֹוֽךְ	לִסְמוֹךְ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 17:1	1	VOK	תרנגולת	תַּרְנְגֹוֽלֶת	תַּרְנְגוֹלֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 17:1	6	VOK	בצים	בְּצִים	בֵּצִים	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Eier, defektive Schreibung בצים.
 Bamidbar 17:1	7	VOK	מותרות	מֻוֽתָּרוֹת	מוּתָּרוֹת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Bamidbar 17:1	69	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Bamidbar 17:1	75	VOK	וכנז'	וְכָנָז'	וכנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 1:1	33	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 1:1	34	VOK	שיבעול	שֶׁיִּבְעֹוֽל	שֶׁיִּבְעוֹל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 1:1	54	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2710,6 +3008,8 @@ Shoftim 1:1	80	VOK	שתטבול	שֶׁתִּטְבֹּוֽל	שֶׁתִּטְב�
 Shoftim 3:1	7	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 3:1	20	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 3:2	10	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 3:2	68	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
+Shoftim 3:2	118	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 5:1	14	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 5:1	28	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 6:1	36	VOK	מגודל	מְגֻוֽדָּל	מְגוּדָּל	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2719,6 +3019,7 @@ Shoftim 8:1	35	VOK	הרוב	הָרֹוֽב	הָרוֹב	UEBERNOMMEN: Plene: Chol
 Shoftim 8:1	56	VOK	בבוקר	בַּבֹּוֽקֶר	בַּבּוֹקֶר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 8:1	58	VOK	ותחזור	וְתַחֲזֹוֽר	וְתַחֲזוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 8:1	77	VOK	לרכוב	לִרְכֹּוֽב	לִרְכּוֹב	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 8:2	50	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 8:2	102	VOK	לדפוק	לִדְפֹּוֽק	לִדְפּוֹק	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 9:1	28	VOK	וכמפורש	וְכַמְּפֹוֽרָשׁ	וְכַמְּפוֹרָשׁ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 9:1	48	VOK	כולה	כֻּוֽלָּהּ	כּוּלָּהּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2749,11 +3050,13 @@ Shoftim 19:1	17	VOK	נכונו	נָכֹוֽנוּ	נָכוֹנוּ	UEBERNOMMEN: 
 Shoftim 19:1	38	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 19:1	45	VOK	לאסור	לֶאֱסֹוֽר	לֶאֱסוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 19:1	51	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 19:1	69	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 20:1	3	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 20:1	15	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 20:1	18	VOK	ערומה	עֲרֻוֽמָּה	עֲרוּמָּה	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 20:1	23	VOK	לעמוד	לַעֲמֹוֽד	לַעֲמוֹד	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 20:1	39	VOK	קודם	קֹוֽדֶם	קוֹדֶם	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 20:1	41	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 21:1	23	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 21:2	17	VOK	מותר	מֻוֽתָּר	מוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 21:2	29	VOK	ויגדור	וְיִגְדֹּוֽר	וְיִגְדּוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
@@ -2819,12 +3122,16 @@ Shoftim 47:1	32	VOK	אחותה	אֲחֹוֽתָהּ	אֲחוֹתָהּ	UEBERNOMM
 Shoftim 47:1	35	VOK	לצרור	לִצְרֹוֽר	לִצְרוֹר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 47:1	67	VOK	שמותר	שֶׁמֻּוֽתָּר	שֶׁמּוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 47:2	28	VOK	לחלוץ	לַחְלֹוֽץ	לַחְלוֹץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 47:3	11	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 47:3	82	VOK	בקומץ	בְּקֹוֽמֶץ	בְּקוֹמֶץ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 47:3	97	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 47:3	111	VOK	הוקשו	הֻוֽקְּשׁוּ	הוּקְּשׁוּ	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 47:3	116	VOK	מבואר	מְבֹוֽאָר	מְבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 47:3	126	VOK	מבואר	מְבֹוֽאָר	מְבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 47:3	148	VOK	מסוגייא	מִסֻּוֽגְיָיֽא	מִסּוּגְיָיא	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 47:3	149	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 47:3	151	VOK	מבואר	מְבֹוֽאָר	מְבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
+Shoftim 47:3	156	VOK	הנז'	הֲנֵז'	הנז'	UEBERNOMMEN: Fortgesetztes Gesamtlektorat: Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.
 Shoftim 47:3	170	VOK	כמבואר	כַּמְּבֹוֽאָר	כַּמְּבוֹאָר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 48:1	28	VOK	מותרת	מֻוֽתֶּרֶת	מוּתֶּרֶת	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk
 Shoftim 48:1	77	VOK	דמותר	דְּמֻוֽתָּר	דְּמוּתָּר	UEBERNOMMEN: Plene: Cholam auf Waw / Qibbuz vor stummem Waw als Schuruk

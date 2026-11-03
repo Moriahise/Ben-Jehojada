@@ -64,41 +64,41 @@ Erzeugt 2026-11-03 mit `produzieren.py` · HE-Quelle der Banddatei: **meine**
 OD YOSEF CHAI · HALAKHOT · KOLLATION DER VOKALISIERUNG
 
 Basis: Od_Yosef_Chai_Halakhot_-_he_-_Jerusalem_1910.json (1024 Absaetze)
-Zeuge nakdan : 1024 von 1024 Absaetzen · Konsonanten abweichend in 3 Absaetzen
+Zeuge nakdan : 1024 von 1024 Absaetzen · Konsonanten abweichend in 15 Absaetzen
 Zeuge meine  : 1024 von 1024 Absaetzen · Konsonanten abweichend in 0 Absaetzen
 
-Befunde gesamt: TEXT_N 6, UNVOK_M 25, VOK 2825
+Befunde gesamt: TEXT_N 20, UNVOK_M 25, VOK 3118
 
 Abschnitt                    Abs. Woerter     VOK UNVOK_M  TEXT_M  TEXT_N
-Bereshit                       22    1641      65       0       0       1
-Noach                          38    3427      93       0       0       0
+Bereshit                       22    1641      71       0       0       3
+Noach                          38    3427     110       0       0       0
 Lech Lecha                      8     444      13       1       0       0
-Vayera                         30    1988      74       0       0       0
-Chayei Sara                    32    2273      79       0       0       0
-Toldot                         19    1880      64       0       0       0
-Vayetzei                       14    1738      52       0       0       0
-Vayishlach                     75    6786     179       0       0       0
-Vayeshev                       41    4314      91       2       0       3
-Kuntres Chut HaMeshulash      107   11669     330       0       0       0
-Miketz                         52    5410     182       3       0       0
-Vayigash                       58    5297     146       2       0       0
-Vayechi                        54    5095     147       2       0       2
-Shemot                         48    4512     204       1       0       0
-Vaera                          68    6190     185       0       0       0
-Bo                             16    1218      66       0       0       0
-Beshalach                      38    3097      81      12       0       0
-Yitro                          18    1561      50       0       0       0
-Mishpatim                      14    1206      33       0       0       0
-Terumah                        16    1534      75       0       0       0
+Vayera                         30    1988      75       0       0       0
+Chayei Sara                    32    2273      82       0       0       0
+Toldot                         19    1880      67       0       0       0
+Vayetzei                       14    1738      62       0       0       0
+Vayishlach                     75    6786     187       0       0       0
+Vayeshev                       41    4314     102       2       0       3
+Kuntres Chut HaMeshulash      107   11669     361       0       0       4
+Miketz                         52    5410     198       3       0       0
+Vayigash                       58    5297     187       2       0       0
+Vayechi                        54    5095     163       2       0       2
+Shemot                         48    4512     212       1       0       1
+Vaera                          68    6190     196       0       0       0
+Bo                             16    1218      68       0       0       4
+Beshalach                      38    3097      90      12       0       0
+Yitro                          18    1561      52       0       0       0
+Mishpatim                      14    1206      43       0       0       0
+Terumah                        16    1534      80       0       0       0
 Tetzaveh                       19    1463      46       0       0       0
 Purim                           2     167      11       0       0       0
-Ki Tisa                        43    3961     104       1       0       0
-Vayakhel                       14    1217      29       0       0       0
-Pekudei                        25    2330      93       0       0       0
-Vayikra                        11     710      42       0       0       0
-Tzav                           28    2098      64       1       0       0
-Bamidbar                       25    1732      75       0       0       0
-Shoftim                        89    5773     152       0       0       0
+Ki Tisa                        43    3961     111       1       0       0
+Vayakhel                       14    1217      44       0       0       2
+Pekudei                        25    2330     107       0       0       0
+Vayikra                        11     710      44       0       0       1
+Tzav                           28    2098      76       1       0       0
+Bamidbar                       25    1732      99       0       0       0
+Shoftim                        89    5773     161       0       0       0
 
 NAKDAN
   Nakdan-API https://nakdan-2-0.loadbalancer.dicta.org.il/api genre=rabbinic · unbearbeitet · 2026-11-03
@@ -136,9 +136,9 @@ Glossar: glossary_he.json · 289 Eintraege · sha256 d2284d4b84f4722419e35ee1b7e
 Pipeline: ben-yehoyada-pipeline v3.2.1 (by_parse.find_abbrs, by_glossary.Glossary)
 
 Kuerzel (Gershajim) gesamt: 8011 Treffer · 1198 verschiedene
-aufgeloest mit BY-Glossar: 5295 Treffer = 66.1 %
+aufgeloest mit BY-Glossar: 5296 Treffer = 66.1 %
 Zahlen hinter Stellenangaben (STELLENZAHL, OYC-Erweiterung, keine Fussnote): 408
-nach Mechanismus: UEBERNOMMEN 3724, NEU 2308, ABGELEITET 1468, STELLENZAHL 408, ZAHLWERT 79
+nach Mechanismus: UEBERNOMMEN 3725, NEU 2307, ABGELEITET 1468, STELLENZAHL 408, ZAHLWERT 79
 BY-Eintraege im Werk benutzt: 179 von 289
 Status (verschiedene Kuerzel): NEU 585, ABGELEITET 276, UEBERNOMMEN 165, STELLENZAHL 96, STELLENZAHL+NEU 31, UEBERNOMMEN+ZAHLWERT 13, ZAHLWERT+STELLENZAHL+NEU 13, ZAHLWERT+NEU 7, ZAHLWERT 6, ZAHLWERT+STELLENZAHL 3, UEBERNOMMEN+ZAHLWERT+NEU 1, ABGELEITET+ZAHLWERT 1, ABGELEITET+NEU 1
 
@@ -250,12 +250,12 @@ Quelle: 508 Segmente · 30 Abschnitte · HE-Quelle: meine
 Format: 148 × 210 mm · Keter YG 10/12 pt · Cambria 9/10,8 pt (Ben Ish Chai v1.0.17)
 Kalibrierung: HE 1050 Zeichen/Seite · EN 2000 Zeichen/Seite · erwartete EN-Laenge 1.95 × HE
 Grenzen: Ziel 540 Seiten (davon 12 Reserve) · Textseiten hoechstens 528 · absolute Sperre 600
-HE-Zeichen: 473851 Konsonantentext (Planung) · 762043 wie das JSX zaehlt (mit Vokalzeichen)
+HE-Zeichen: 473852 Konsonantentext (Planung) · 761475 wie das JSX zaehlt (mit Vokalzeichen)
 
 Plan: 1 Band/Baende
 Band 01: ca. 475 Seiten (davon 12 Reserve) · 508 Segmente · OYH-0000001 bis OYH-0000508
     הלכות שנה ראשונה  →  פרשת שופטים
-    HE 473851 Zeichen = 451.3 Seiten · EN geschaetzt 924010 Zeichen = 462.0 Seiten · massgeblich EN
+    HE 473852 Zeichen = 451.3 Seiten · EN geschaetzt 924012 Zeichen = 462.0 Seiten · massgeblich EN
     Reserve bis Ziel 540: 65 Seiten · bis Sperre 600: 125 Seiten
 
 EMPFINDLICHKEIT
@@ -273,7 +273,7 @@ GLIEDERUNG (Lektoratsentscheidungen, gliederung.json)
 
 HINWEISE
   OYH-0000097 (Od Yosef Chai; Halakhot, Vayishlach 1) hat 32475 Zeichen > Batch-Kontingent 30000: wird als Einzelbatch exportiert
-  Der Ben-Ish-Chai-Buchmanager v1.0.17 wuerde Vokalzeichen mitzaehlen (762043 statt 473851 Zeichen); der Od-Yosef-Chai-Buchmanager v1.0.0 zaehlt ohne Nikud und plant nicht neu (Reiter 1 gesperrt).
+  Der Ben-Ish-Chai-Buchmanager v1.0.17 wuerde Vokalzeichen mitzaehlen (761475 statt 473852 Zeichen); der Od-Yosef-Chai-Buchmanager v1.0.0 zaehlt ohne Nikud und plant nicht neu (Reiter 1 gesperrt).
   Vokalisierung: 0 Absaetze ohne Zeugentext, 0 Woerter ohne uebertragene Vokale.
   Der Buchmanager laesst beim Zusammenfuehren die Zeile <planning> weg (reserializeParsedBook); die HE-Quelle steht dann nur noch im Pipeline-Master und im Quellenmanifest.
   InDesign: indesign/Od_Yosef_Chai_Bilingual_Book_Manager_v1_0_0.jsx (Reiter 2/3) und indesign/Od_Yosef_Chai_Running_Header_Manager_v1_0_0.jsx.

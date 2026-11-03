@@ -1,0 +1,5208 @@
+{
+  "datum": "2026-11-03",
+  "basis_commit": "5812c106ad1825baf0e53461fff045cdc2fffb4d",
+  "satzfreigabe": false,
+  "entscheidung": "NICHT_ABGESCHLOSSEN",
+  "gesamt": 1024,
+  "zusammenhaengend_gelesen": 169,
+  "ausstehend": 855,
+  "aenderungen": {
+    "TEXT": 14,
+    "NIKUD": 60,
+    "NIKUD_ABKUERZUNG": 241
+  },
+  "aktive_textkorrekturen": 20,
+  "absaetze": [
+    {
+      "ref": "Bereshit 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "a2d466340a0e83890d008c43276d2ba0adfdb4ea4305d3b3dad04deaefe8c10e"
+    },
+    {
+      "ref": "Bereshit 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b0c689f4d06d7e12bd4fa52c75aef6816b5c9b3ecfa7fc57b3ba941463226c21"
+    },
+    {
+      "ref": "Bereshit 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "8394c27bba454df5dd3993f8d0e691f3d12e5f3bb3a5221731fe44a4354b9439"
+    },
+    {
+      "ref": "Bereshit 1:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "32fef2c7392246d680f9fe545cb3548e2b421dd244c0ecb1bc78445671e4715d"
+    },
+    {
+      "ref": "Bereshit 1:5",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "24c3141c15474f17d055289fe9b57961533103a6156951bf79070a2c1d046fee"
+    },
+    {
+      "ref": "Bereshit 1:6",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "45318b314d3d19d9717e82e4c36f8c102007d73085bc9869c82f8597f944db48"
+    },
+    {
+      "ref": "Bereshit 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5a7346780475b5d5085e2de60a7f3c72787e5df4e6b488a3bcc9a56ae26376a2"
+    },
+    {
+      "ref": "Bereshit 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cd39b1af738cdf474af48b63a439ed31db94f28bbd30c50e30127570e10a8466"
+    },
+    {
+      "ref": "Bereshit 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "e967504ce64e07ce7acf84fef83787430aa2a8937dcbfec4473597785f8f0b03"
+    },
+    {
+      "ref": "Bereshit 4:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b2f9971ae97e4026363386eafbf4842a593917572fe132045389de3b5fa1d90b"
+    },
+    {
+      "ref": "Bereshit 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "1b5988b877748e0d3f63757a7c6ca09975bd9a0978de4be534219a02d491a218"
+    },
+    {
+      "ref": "Bereshit 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "3712e389e93f70459a3f0f8d1b00a5163035e7e3c747f53f809b3541aa233b23"
+    },
+    {
+      "ref": "Bereshit 6:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5ac2f8ebf5284396feb883a011da95a57b2984e718b3fcd68e79fc0d75484482"
+    },
+    {
+      "ref": "Bereshit 6:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "467f6e6c49f6c36b702c2263588926638db6b1a38c677dcb2ef0c4bf5d598749"
+    },
+    {
+      "ref": "Bereshit 7:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ef3e21dd0aaa6a50b52ced2f5b2009a5cb3b1ced31816aafaa956bfe0dd4251a"
+    },
+    {
+      "ref": "Bereshit 8:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "22701d876eb38531a5e9c1eea73c32f8d80e5bdac031727e58c8e68d3b991a86"
+    },
+    {
+      "ref": "Bereshit 9:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "efb8e457272f19c6370abc888997179bcb14b659d14990da7087f38e1a7d71d0"
+    },
+    {
+      "ref": "Bereshit 10:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "46d279a8ae382ea23701f2ab2d1dafef2dbc611bcae3f7f82bec62e42bc9f980"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "fef092ed20acb7055d9cacd8a1f219cbea20817fd56749eed9343f6bfb9a2d48"
+    },
+    {
+      "ref": "Bereshit 10:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "92a9200272aa6b479a3e3a26197d5d5b63ef15e58f8d11f4d857d64a36cc0626"
+    },
+    {
+      "ref": "Bereshit 10:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "367fc0e964278b4b6ef7b2ec6cca44bdcefb129c70e18a38c46f43f9587b946b"
+    },
+    {
+      "ref": "Bereshit 11:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "9173b752451ae6b10c33c9924079fa2815302ecc206202bf706268376a0f71ad"
+    },
+    {
+      "ref": "Noach 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "3c12277ab31f211469921a5e5fa7fcaba8052fb423d5e0a0f12512797c02c56f"
+    },
+    {
+      "ref": "Noach 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "69d8adfea208ec9a83371facfc139a0f601de411aac507192686ea9c990abe04"
+    },
+    {
+      "ref": "Noach 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "fd62dd0cf59b6cc9188b210488665214c4bf143d8f8fb1f75492fca592714cee"
+    },
+    {
+      "ref": "Noach 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "2e0728a3d1cdfaf384cab4a5e172e1906c57ffe015067be8e78b79656dfa6f13"
+    },
+    {
+      "ref": "Noach 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ae12e61fef77c86e90ce74b4fe8bea58cb67ea6cca21effa025e31e31f8baa9b"
+    },
+    {
+      "ref": "Noach 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "647bb59ec3fab936c973a810c3e7cc932268105875f7530f9bfe1c4fc01a1018"
+    },
+    {
+      "ref": "Noach 6:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cdbcedf61deda758c53fde030b647dc89fe74d9ccef0f96d4c80d55d4491a3a3"
+    },
+    {
+      "ref": "Noach 7:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "12863c287a83e72becbeb80ea39a1adbf471c783f71a0e9b9853a7de666885ae"
+    },
+    {
+      "ref": "Noach 8:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ca781c12e2aa250c4bfbfd172c5fe369269708ec3dbfffa9569c57162cf07f91"
+    },
+    {
+      "ref": "Noach 9:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "4cfe972ed853a49c433dd1adb3cfafa48931088484c28455ade4cd239871633c"
+    },
+    {
+      "ref": "Noach 10:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ef8896a5a0620cdf3a244b2a7c49a77f6b08cbd5ce0338528eab2f6ba537db2f"
+    },
+    {
+      "ref": "Noach 11:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "6e3ea3507052a7031a4be08b6742d417dc3cfec473698280dbbd45d80cad62f7"
+    },
+    {
+      "ref": "Noach 12:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "52e03cabad8f505683f1dd53be86963e7b660fab175fce8f4a955db82c403dbc"
+    },
+    {
+      "ref": "Noach 13:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ab9d5ef87efef9004c08a60a87402e3e435aecff5cb3cf270b14cda787972b97"
+    },
+    {
+      "ref": "Noach 13:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "1df0d599497be41a6f12cc2e0b257fd03a8f1f3c037d59b56d42509736858c66"
+    },
+    {
+      "ref": "Noach 14:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bf25b25a80ff4817027e179c67b237d719003a76e5dbd825a2ce8caea331c6de"
+    },
+    {
+      "ref": "Noach 15:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f01bc077f6406aff7f709d782cd38816f03e0b64da6ef261e7a40af975c0f054"
+    },
+    {
+      "ref": "Noach 16:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bb959c493a5eb5299980b248b5fcdf6749b074e80848dd0bc9a772c6bedea739"
+    },
+    {
+      "ref": "Noach 17:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cdafdce8dc1c255a09de4fb34f1abc0f49eeed470f2022dc3663bd5be2517e1a"
+    },
+    {
+      "ref": "Noach 18:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b5223437f8715491c87052fcac08a5974e58d78439b8667cbbcc1354dd14ae8d"
+    },
+    {
+      "ref": "Noach 18:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "752498bd98f1691562608913efdb4b2a509e6fb5fbe36f28423a424e68662b37"
+    },
+    {
+      "ref": "Noach 18:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "575e0f198e839eb0e6c46de7114b287a8a9f0ea0d3745bb55efc26a1f89fbca1"
+    },
+    {
+      "ref": "Noach 19:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "330a57d8afd63f9c07a8b96c55ffe4de9975a214d7ef9683b49025eb8ce98ce4"
+    },
+    {
+      "ref": "Noach 19:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "17637248856b67fa4729f8015212339f3cbfd466a62c4bb9983e6ac607bfd737"
+    },
+    {
+      "ref": "Noach 19:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "18e0415cf95c41872de4abe3ea73e2463eeb1e3749559dd375495b0044621856"
+    },
+    {
+      "ref": "Noach 19:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d5d7e482e2728bffd3c1a9bfa42c5f3e6228890d7ea3c9584573a30693c12b9f"
+    },
+    {
+      "ref": "Noach 19:5",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d6030e9aa9768a1909de026857453bfb955de9596b227a040b19fcdad4f767ed"
+    },
+    {
+      "ref": "Noach 19:6",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "454b59ef1d74dfb9c563d9b2a05a98151d7832d0e193870bb2d2f0e45fbe4650"
+    },
+    {
+      "ref": "Noach 19:7",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "adfca64178c57545b8d097f12a76d2abe654c1c626e3d61328af185cc4af31d1"
+    },
+    {
+      "ref": "Noach 19:8",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cfd9b1ad595303fa1b8985d3e3f29038e7aeeb3b1db4287441a0e8fc5bae8f4a"
+    },
+    {
+      "ref": "Noach 19:9",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "e885671a7fe48831612c13cf847464e94c4ca8b7c97259435442ca10937c5556"
+    },
+    {
+      "ref": "Noach 19:10",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "c169fc6c3c888df1ff3fe1fcb630b98c61e4a6e92d6a721678e52cb6ce47dffe"
+    },
+    {
+      "ref": "Noach 19:11",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "9dbfcedd06a9b17707a60433317989d80658d3f3b390329f22ceaac137a5db2f"
+    },
+    {
+      "ref": "Noach 19:12",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f810247db2f234045fcbca148d066d79e6d53faf883a81dd56383d20ea71718c"
+    },
+    {
+      "ref": "Noach 19:13",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "8770a26c00b55ddd187ea5c3ee3c8e128647f04b4ddc322f396fc402cde2b743"
+    },
+    {
+      "ref": "Noach 19:14",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "42892c552ed822328334f260b04a5e163ebe3be65e0ad6a401e384ad33964fa2"
+    },
+    {
+      "ref": "Noach 19:15",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d02c9ab13bb561d1b5535ef9420cfecddb0dcfd0110c13bf78e84baa63aeee30"
+    },
+    {
+      "ref": "Noach 19:16",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "93e3cc5356e0cc1ca5d0b48cd9a186e5ecc77f495a3c3fd3f0b6764ae8ecb17b"
+    },
+    {
+      "ref": "Lech Lecha 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "24670ca26247636a40ce3ebab47d527723fadd851ccb1f24a3a023982c3181ab"
+    },
+    {
+      "ref": "Lech Lecha 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "2898ed09f531944d430ccf69bfed435c158f721b34973a0a18659fc71b08583a"
+    },
+    {
+      "ref": "Lech Lecha 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "52bb82d2e6337cc249d6e05904720a4d37404faf77119f1da8c1973f4b129191"
+    },
+    {
+      "ref": "Lech Lecha 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ecf52cef7717d00f2c69db1e581b0d43feab15e0c7aae21397e400662f3ec7ae"
+    },
+    {
+      "ref": "Lech Lecha 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "91967e2bb1494a08d9e3245b8910284623a9f57ff15107a6ef3a3d744b6f3c64"
+    },
+    {
+      "ref": "Lech Lecha 3:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "38b7bb21bcd3d2188225178abfdb9dd73ea47ee208fd9a5893735b59d89c7577"
+    },
+    {
+      "ref": "Lech Lecha 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "0f573a28e09278ea88e8b66fd7e63f00eede929dda94003d8a629b37322ad33f"
+    },
+    {
+      "ref": "Lech Lecha 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "27c10d0f3dde3e8334e5fbfc41d5d9d2fee32f63ce3edbae43f96a913a2a713b"
+    },
+    {
+      "ref": "Vayera 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bfb940fb61bb43b9fc0838c46ea681d08668360c0e7213eefbca8fc192e42e22"
+    },
+    {
+      "ref": "Vayera 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3c4db5fdde2fa2866802d8e9f3f719dd96758a817c0b85d00fc3e1d5bd4908e7"
+    },
+    {
+      "ref": "Vayera 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0c85c1ffa1b98e49fc11518d484faa4ce16b406c87fa2012ca7951e955710e8"
+    },
+    {
+      "ref": "Vayera 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e522bb607bec07d443d573ae82c66e3d8a4d5835a7ac634318de61f1928d689c"
+    },
+    {
+      "ref": "Vayera 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cce3c46f6b190e156ed079b83f335c331dda310fceb1f7e3ca0ec4c8414f6d1e"
+    },
+    {
+      "ref": "Vayera 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "12854a7bce5d58ac36692c5ef153a9484e56d5b5dcd403a4abf04d25dd89129e"
+    },
+    {
+      "ref": "Vayera 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9df38abb0c920f5d87d35175e350ad24d0e1d9173a5e1bbfdaecbb54650055b8"
+    },
+    {
+      "ref": "Vayera 5:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "556aa9ab73eba33e0b5a26f55835672600c4de4870e82cfcca2959ceb400c823"
+    },
+    {
+      "ref": "Vayera 5:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d7069abbb91d1ea95215aae07830f2a5587c4c16efd755166d2d2318d24ece6d"
+    },
+    {
+      "ref": "Vayera 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a16db25680c1a233b3348dfa7a73272c48920d9530f1892bfc5e1ac2c86db210"
+    },
+    {
+      "ref": "Vayera 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d4dd1ef5859b07ac5c0acce40bda7ceeecc3590973feb3c95fdd8e3163d1511a"
+    },
+    {
+      "ref": "Vayera 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b9a228d091609e0050bb14cf6a4993e00574ddb66fd44f515afff0594629e97c"
+    },
+    {
+      "ref": "Vayera 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "de6642b7d1cbd4e9bef293c7238d7fe7ee683b1ade47a0e97cdc5abcf405e5a2"
+    },
+    {
+      "ref": "Vayera 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f9a20e69f9faa663312137f29af8ff17fdfa3c7eeb53adeaa9c9f02a3bfb5e91"
+    },
+    {
+      "ref": "Vayera 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "135978b721c1143e73415c3f35e19336454e9bb7a79181bf42123d0f0d6a5d3e"
+    },
+    {
+      "ref": "Vayera 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2766125971ce68b9b2aaf54da30f66e3dbecb374d0ebc5cb94cb001a8a48fe63"
+    },
+    {
+      "ref": "Vayera 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "17eecde2d6657a3164d8824a660a6ece83a1d38fb6ba1cd8e369f99c87530c20"
+    },
+    {
+      "ref": "Vayera 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "02b62207801c553159d6650c919fd594c7785469f7ac86a7dd4a11110b05d162"
+    },
+    {
+      "ref": "Vayera 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "896f48c821fa0221b3d84d4eff11e294cbacbade8d4e995f64229f93d3cdd49b"
+    },
+    {
+      "ref": "Vayera 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6926ba1e82c9ef78a2fbe3a6794479cf34293e2517b3fddb130f2eaa4d534ac5"
+    },
+    {
+      "ref": "Vayera 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "880078c66334f2c31ea3f53769414e859d1bcbd8df3c970bac2a0bab663e7343"
+    },
+    {
+      "ref": "Vayera 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "928f558a47b14f8304a408a023e3dd3dcd1e77a8340a5b74df5384cdd84daa61"
+    },
+    {
+      "ref": "Vayera 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "88ff6c47d3119ec5c1f9d5b905236951e4c07443af9c8e2088ec44e950ddf6f6"
+    },
+    {
+      "ref": "Vayera 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "245e03a0f857eeeb2dd71d60c1fd063b9bec6e2a0b8bd3b6ec2df66c05a3b554"
+    },
+    {
+      "ref": "Vayera 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "daed1a62bb6ebf155e886ee412590eef15916ff204329ba3a671b2378e881ba2"
+    },
+    {
+      "ref": "Vayera 19:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5ee8c0d074a78cc52bbde39cbe3fe32a45fb3c8957c4f08aa503549f4af15489"
+    },
+    {
+      "ref": "Vayera 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "225ab55059ce98ea99bfa98f3bad80c6c2b0bb1fd4665fc48a591548e6d324dd"
+    },
+    {
+      "ref": "Vayera 21:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3dfdca393d0c59ff5485b48b55997665b67bf532544ec91f55e6c70608da99d7"
+    },
+    {
+      "ref": "Vayera 22:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a64185eb985884f088605ccbb756b7f3927d49cdc684273da9a5ef25565ec18e"
+    },
+    {
+      "ref": "Vayera 23:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "16cc81f76515b189f20fda6e808ff5800754f258d7e242c371762a2f08006b21"
+    },
+    {
+      "ref": "Chayei Sara 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "25c714f83da68f7526dbdcc9227f76f8e18d8c5ba3f59492883f44178426fb21"
+    },
+    {
+      "ref": "Chayei Sara 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a1ee1ed92f779948d171800094671e93c6eaf77b0db781617a336e6c08b580f6"
+    },
+    {
+      "ref": "Chayei Sara 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0db059a953d132351c08451852b937c3d5d4b16d692e30b173e305caf43c369"
+    },
+    {
+      "ref": "Chayei Sara 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "69216cc35d901ccb795b8ad147e6e7e1f175a04785a2913f76439c7aa9622f61"
+    },
+    {
+      "ref": "Chayei Sara 3:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1acff999a40876abf07afa693dee74b27246cdaf635248bb0eda82358f3c7463"
+    },
+    {
+      "ref": "Chayei Sara 3:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1b5b3a2a7246e70a6f19d76b77c7c85b1d3548c71e6a6bfe818f97dd372eb6bd"
+    },
+    {
+      "ref": "Chayei Sara 3:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ce28887b9aa119fc4f6fe628b3bf4e65faa0276e6464aca01618c3617a0dad8c"
+    },
+    {
+      "ref": "Chayei Sara 3:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "781ead4153ac83c8e96f3cf58f94c58247a24bb9a3d5374af6a6172a16b2c1a2"
+    },
+    {
+      "ref": "Chayei Sara 3:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7a8960b698125562ca1a449160a3abf8dc97bbd5ee8fb4937b536e923bb9ee06"
+    },
+    {
+      "ref": "Chayei Sara 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "43deb7cbcbe4c950a2e2cb2c7c157a8058794c3a25807ad5b757f0ee15702a39"
+    },
+    {
+      "ref": "Chayei Sara 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "48e2f215e580117c8a5c3349c6644abedc9c0dc1b2f984fffeee831823ef66e6"
+    },
+    {
+      "ref": "Chayei Sara 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4c7062af2256cf8514415e290df626d3542c0b9c21785ff17f279b4a39610278"
+    },
+    {
+      "ref": "Chayei Sara 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fa5731104e4689f872d20a8bd4b052a81f9fd21071ad8d09fda25c64c46c5758"
+    },
+    {
+      "ref": "Chayei Sara 5:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "39c7f522d3df64bbdc0949f0ce9f397c017189b09853050136f4f40ac0b708c9"
+    },
+    {
+      "ref": "Chayei Sara 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "86ac2bbff0bb140e5bb53d5a7e8e5c8c31e0ead98316e26df0dfdb908d631ec8"
+    },
+    {
+      "ref": "Chayei Sara 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8e25a1b5e9de2ba00b29500f22dd0dd7518ab654e828945f6ff2bc5ddc05ae8b"
+    },
+    {
+      "ref": "Chayei Sara 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dbb3bdd7ce66030ce5cf078d47f40b45d4b781fc5d233fb7c1d1209f81ef15f8"
+    },
+    {
+      "ref": "Chayei Sara 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e0dde028f880edefd308d6e4f89ba84fa6d339f2f148917ee697553b78946f06"
+    },
+    {
+      "ref": "Chayei Sara 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "30731f8844d883e765b9f1b390c494ccfc0af6b12755cce22bf11308cc3dc2db"
+    },
+    {
+      "ref": "Chayei Sara 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4f2e6464d18f2213dc2fa4a8109a7301d4ea39b09540f1ee64060c7189c36b77"
+    },
+    {
+      "ref": "Chayei Sara 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d4a910e9575144bd6bb14b741b4b7c611820125f2b4ae66dae2cd4a9b1c67bbe"
+    },
+    {
+      "ref": "Chayei Sara 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aeba6b2c91b14cc17ebd2cdd271bba79109223facd37cb227cf6b93d97f64085"
+    },
+    {
+      "ref": "Chayei Sara 12:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a43d361edd78a2abfbb464b4740986a23ad9c9a20c261179f42e8c1e77ecbf44"
+    },
+    {
+      "ref": "Chayei Sara 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d945c903bcb507226af1e3c7d0c03d97cfafb82fdd80014b4bc3ff4bfc836bc2"
+    },
+    {
+      "ref": "Chayei Sara 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0eaabcc870744c5e34fb55c8d631a2127b8a20b7a1a4518b1ef7834c70c4a7b6"
+    },
+    {
+      "ref": "Chayei Sara 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9fede361ce973262af40b3122dd6e9cc1b360345147a19a78502a472fe22fcec"
+    },
+    {
+      "ref": "Chayei Sara 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5bd375e0964569d734d93cd242882ebaf77e9ea88288df07dbf618cfaba0c288"
+    },
+    {
+      "ref": "Chayei Sara 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7d617bdd5b2cf8a0914416327a6716695448d31a6e62745997fa5cfddf6a52c5"
+    },
+    {
+      "ref": "Chayei Sara 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "100a85179ba13ffab704d727c9b692e780c2dc2125294a419b96a8afbe1cfc5e"
+    },
+    {
+      "ref": "Chayei Sara 18:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cbdec33d5ff83eb2bf0ef278d31cb0e7fea22bbf8b11d3118c9ec3e9346d76f4"
+    },
+    {
+      "ref": "Chayei Sara 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c5352770c891c473b3d506e5e19a3bc8de73597aeec99d2cd3a170ca7f5576d0"
+    },
+    {
+      "ref": "Chayei Sara 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "89bb5c102f7c725fc7a59f0732a0a99ab429f21ff5f1685af2babad7d7ea9033"
+    },
+    {
+      "ref": "Toldot 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5e7bfd2a92ce7d6fe464a198369dda05f421b688798d0ae454f5894df7d5729a"
+    },
+    {
+      "ref": "Toldot 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1713ca005ac82e395dbedb0fd0b84396fe8a5fa596c2f7f1294076679ef9d3de"
+    },
+    {
+      "ref": "Toldot 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4b068f2808975b93741b520cc006eaa0bb9ddc776338133d6b84a27ba107c4dc"
+    },
+    {
+      "ref": "Toldot 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "30a33b142fce9d5529c0e682c5faa7cb95f0760a614a7bb8573c4e7962e76438"
+    },
+    {
+      "ref": "Toldot 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "533c5576140afb5e833aacc765b78a043f786db7215a3703a16a42f10d8a6ae4"
+    },
+    {
+      "ref": "Toldot 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ffa2373210a113a8e4921f623aac6f022b178fcbdfc6085d309350155445b4c9"
+    },
+    {
+      "ref": "Toldot 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fd3f00b86337d493ee881cb9628bc7a196b3667d689e9ab54a63d01cfd087cb7"
+    },
+    {
+      "ref": "Toldot 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c32adb4e98a1b594eb8283371cbe6778e167b67d29501d81aec046af7387ad9f"
+    },
+    {
+      "ref": "Toldot 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8d8e06fb5e757d9a6553ae875ac4f301732efab3895817d2add02be3844f5235"
+    },
+    {
+      "ref": "Toldot 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5512dabdec3c8b69f7e4c9c0cffe98746a7fb5b889f9f735dd83898ba81381e9"
+    },
+    {
+      "ref": "Toldot 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "14a54b4cb8e1caa2793223e6cb5845ee8fec0c8d265907dd39fccaf93dab27f3"
+    },
+    {
+      "ref": "Toldot 7:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3e3e7f974289cb7ef8bcc1b7543996f66edd762ba00bbc422fa1c5b4c91b4d58"
+    },
+    {
+      "ref": "Toldot 7:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "417e0a856cf7f8d0d0774ce60bc2961944ff192cef0d0c81a83d4d285e403daf"
+    },
+    {
+      "ref": "Toldot 7:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a3cb765d3b5ac5f9cd3796bbc81f3c964b06dc836d16ad8e5def4d47a30dc4b9"
+    },
+    {
+      "ref": "Toldot 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "447037ef02ca3345abd154edff0a4f3ac03c50efb60e2954919c2dd9ae968d61"
+    },
+    {
+      "ref": "Toldot 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "89d9e657bd731df3498960a882de9deefe41c84577881be72de1c1d9b0f1fc89"
+    },
+    {
+      "ref": "Toldot 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b095f449d8a972e77d17f3722247484b4c42f42cb5d3e055831f7c97db0ed011"
+    },
+    {
+      "ref": "Toldot 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "09b6fa81cc92bcd32a5a0e16f35addbd57abca1c757ffb059744a9552f51867f"
+    },
+    {
+      "ref": "Toldot 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d07eaf7ec14c6d349875553ea9e448d94e57e48a81d2453213af3b4380722102"
+    },
+    {
+      "ref": "Vayetzei 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "059ad414b40caf87bdb698bd7aa78a641ae44a65ca5d9356a73673e6cb998666"
+    },
+    {
+      "ref": "Vayetzei 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "89df297bd15b1b2d7a68109e727d2a1bc402cc615fe8641c22c79eed027d6006"
+    },
+    {
+      "ref": "Vayetzei 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "58c3b9bf61578716babcc7b016c68d1b2ad235b11ee4e15e461fd27dc061d4b8"
+    },
+    {
+      "ref": "Vayetzei 3:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bc997619b512cd31dfc8b89f3736029d49c05dbd029dd8b2c102da98c7b43111"
+    },
+    {
+      "ref": "Vayetzei 3:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ed691391e3e062a1b330e1f0ae733723e7a7c29484aff6842d00b0c8c7170e16"
+    },
+    {
+      "ref": "Vayetzei 3:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "9221c5cb2639544e7aeac0ed8fde0b6d426028e891229a8d15b9af301e40548b"
+    },
+    {
+      "ref": "Vayetzei 3:5",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "450796b76e988a317b1cda35a76dac14183250aef83ec22963363dd590890399"
+    },
+    {
+      "ref": "Vayetzei 3:6",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "fa45c1140423dfe67af5532a249a38f3ac22d81d27b50d642452934c96e4cb36"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "8f0027a6fb920e71a60cc6813c3a571ece5da01797a7b28f1ef76a2568805037"
+    },
+    {
+      "ref": "Vayetzei 3:8",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "87ce2d58a502748083085dcee0c0a6bc629a55d80dadaf646c1af62366af3381"
+    },
+    {
+      "ref": "Vayetzei 3:9",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "615d5f15b5f5d5526b4c205b43f9c404834638a8814b4192ed75c22449b5ac32"
+    },
+    {
+      "ref": "Vayetzei 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "c48e67f81f146efef00bf4445dd928739f572d1d04acd916e0f7c8b684506633"
+    },
+    {
+      "ref": "Vayetzei 4:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "af1701705587ca667e3f5cd119c27486cb22fb6bade20643a0922d08e16eb3c0"
+    },
+    {
+      "ref": "Vayetzei 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bb942dea003a4a318f23b4db226730a9032d7c31a32faeafb60abdf646196b58"
+    },
+    {
+      "ref": "Vayishlach 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6b1d6e762bba4bd2e79e465689f77177f88b8260e3d60191faa208813fae9418"
+    },
+    {
+      "ref": "Vayishlach 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a88ce76330491f2a3b7cea04dad52a04509255c628cfe2e444bbcae8c341cf30"
+    },
+    {
+      "ref": "Vayishlach 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7667875aaf5bc19b31b9d1f545879f4a97682f3261f60a11190414dfca2e80ab"
+    },
+    {
+      "ref": "Vayishlach 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dfe2a3cb82092c740b693eebf6c954604c9c71a2c2f35001d0e27ae01fc9c155"
+    },
+    {
+      "ref": "Vayishlach 1:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "139b7615c60bb19883bc8c7cddb944870b5b77318bc9f2e28478c5a50e7c9037"
+    },
+    {
+      "ref": "Vayishlach 1:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "67d4361b8c438a7790423a8f37c60c698e07c19a259870486029574c5f3ed351"
+    },
+    {
+      "ref": "Vayishlach 1:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "52aafc054a6116e435657da08996e0f8fbecbfe9e1b95fc1186fb0d95becbd75"
+    },
+    {
+      "ref": "Vayishlach 1:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ee266dce53fb280f68fa266ffd7d5bc3d6c202d1e78b6e1bde9fa020b80225f3"
+    },
+    {
+      "ref": "Vayishlach 1:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3716185628b114aa608b6e095906f0a39a19669270745c8fe00d84c9858a4300"
+    },
+    {
+      "ref": "Vayishlach 1:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "079e4d143ac2613a5da7255c8c36d0853765daef40caff06241ee300e926a4b8"
+    },
+    {
+      "ref": "Vayishlach 1:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "10845a6b953dcc7b256736741292e15f3b2ed606d2dbecdbd02bd4588a6a12fb"
+    },
+    {
+      "ref": "Vayishlach 1:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0505f091cd458d3a016cdc6e9ef5287c9521df0256e4284d45e4eced7a4b81ab"
+    },
+    {
+      "ref": "Vayishlach 1:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e0833e7ba907c7c16aa3e0c0ee75ac29b02cbe23e22f0b26da64f57adef2044d"
+    },
+    {
+      "ref": "Vayishlach 1:14",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8ee8ef2ed9a37b24d8627e75f10fc1dbd9192983cc1adf5610f66128bba72611"
+    },
+    {
+      "ref": "Vayishlach 1:15",
+      "status": "AUSSTEHEND",
+      "sha256_text": "82a29019a3c37d41f3f43a9c4af93a6efc7daf53259d6ddc9eb277dbe69f41ae"
+    },
+    {
+      "ref": "Vayishlach 1:16",
+      "status": "AUSSTEHEND",
+      "sha256_text": "edc8fc80e98e6a0f30e54e4bfe874f1e485d87082aa0c1d5dc7135629f5efbde"
+    },
+    {
+      "ref": "Vayishlach 1:17",
+      "status": "AUSSTEHEND",
+      "sha256_text": "35c55f69998e9071f596ebc489a06958260bcf90b7af909800d3e735c8215b92"
+    },
+    {
+      "ref": "Vayishlach 1:18",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b22bb6c845da975ab68c00c61080a31276841ca184b9b6958cf618f89c17053d"
+    },
+    {
+      "ref": "Vayishlach 1:19",
+      "status": "AUSSTEHEND",
+      "sha256_text": "645c8780a4a37908df290e9de78871e2dc1bef126fa0a00b65aeb7722960873f"
+    },
+    {
+      "ref": "Vayishlach 1:20",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e7d83a1ee68ed82b3032201a33afeb4a66d44d89ffc88d2fc5dcccf433b30a94"
+    },
+    {
+      "ref": "Vayishlach 1:21",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dba53e6809b0714aabcca3262b32ee180680a97b86baeec856e4a654e5fa22a0"
+    },
+    {
+      "ref": "Vayishlach 1:22",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bc419e9ff4219e57cc094919aab1a85a1dc4a5d977feb08fb3fdbbe4d0325e90"
+    },
+    {
+      "ref": "Vayishlach 1:23",
+      "status": "AUSSTEHEND",
+      "sha256_text": "19983b8e090866f134fc33eeb160fffead4e7afaa7ab7a924c3a826960aeaa99"
+    },
+    {
+      "ref": "Vayishlach 1:24",
+      "status": "AUSSTEHEND",
+      "sha256_text": "53c9948b060d6eee190c091048b4c135b73e915c655c14c700ef2b1a5846a960"
+    },
+    {
+      "ref": "Vayishlach 1:25",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4666225a9e75bc3a70695de2c92197c0123f7305179756612c27eb4369943ba3"
+    },
+    {
+      "ref": "Vayishlach 1:26",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5c145b910cca682bc6665a1fe84174ef83d190a13f359da819d7127bcbc7eb00"
+    },
+    {
+      "ref": "Vayishlach 1:27",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5962917a1e5e1582d6e0a16cc0d6616c3dc7e3c88c11c352dee123008e5f4bd9"
+    },
+    {
+      "ref": "Vayishlach 1:28",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e9a268f067954096bc15022ebafdcfd3150e850b8f9a142ffd31f1742856161d"
+    },
+    {
+      "ref": "Vayishlach 1:29",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ea226fb8937bec2339f57a8dd07d72c986196a7f4d8ddbd875ddba56bab114bd"
+    },
+    {
+      "ref": "Vayishlach 1:30",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e048814f9822fd27972427e687d7f85904a16b5c419f153d5e7a504712032f69"
+    },
+    {
+      "ref": "Vayishlach 1:31",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5b30aeeb93a83dd1f8df7febc98d414abc1e91fee39ab6b3904a483c8bcdddf6"
+    },
+    {
+      "ref": "Vayishlach 1:32",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e34670b5cae0063e6ffb7ca328357fcb6b04474b478b9c20464e3c823ee7b2c5"
+    },
+    {
+      "ref": "Vayishlach 1:33",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4cbbf1f4212eddba83f4186846c54fec566d425da16d148accfda65a3d19cd41"
+    },
+    {
+      "ref": "Vayishlach 1:34",
+      "status": "AUSSTEHEND",
+      "sha256_text": "44506c2a251a9ffd7bf998983b9bf3f598e32544660f950e8eb3d4b6effa8b4d"
+    },
+    {
+      "ref": "Vayishlach 1:35",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b61e6cff48afbe28c2f3c27f345943a3c8c1f96fa8a35d603dca0d806407e035"
+    },
+    {
+      "ref": "Vayishlach 1:36",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5eb004069e6ff3c4e007884cacd23673fe75ef2b48bed784d19374f829c5b6b8"
+    },
+    {
+      "ref": "Vayishlach 1:37",
+      "status": "AUSSTEHEND",
+      "sha256_text": "718282acef53f47d8864a9b3aa6005c6545951b5c8b2c9c408ed75a35accdc3b"
+    },
+    {
+      "ref": "Vayishlach 1:38",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b34ae38b0e1409d18afae21cc01728f135c7a8aa05f8bf52b7757ba62b325982"
+    },
+    {
+      "ref": "Vayishlach 1:39",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f1561e47e406e17a341900b00c842fd74c19913ace93359c3edc931235600cba"
+    },
+    {
+      "ref": "Vayishlach 1:40",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3630368a6b15af91b855418cc78e0a07accca7fd65af8486a97e591f85a05225"
+    },
+    {
+      "ref": "Vayishlach 1:41",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ca0ed4615dd0ab1cd1fd643a061e7e6c252e0b9290c54e615c8ec9fa51fa37d2"
+    },
+    {
+      "ref": "Vayishlach 1:42",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d878f9619d74bcdf8907be0e57368d0397b8cc551faa61e0a5bd3dc438d432a6"
+    },
+    {
+      "ref": "Vayishlach 1:43",
+      "status": "AUSSTEHEND",
+      "sha256_text": "314e68f732762825ec0eb34156cd4fd3873c1882419ec5f9a3433bf90077de1c"
+    },
+    {
+      "ref": "Vayishlach 1:44",
+      "status": "AUSSTEHEND",
+      "sha256_text": "511a385df94d673089263270e313cb6fd6a5052a4d0f55f44be71d44a3f8fb8d"
+    },
+    {
+      "ref": "Vayishlach 1:45",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0abb04d6e620fd3f2d20694e27140e28729d33ccfbcdd91a3673db4cedf1a784"
+    },
+    {
+      "ref": "Vayishlach 1:46",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c9a291c356e36dac43df67cb7d043fd054cd8b95255b0cfed1ffe1b0902e5ba5"
+    },
+    {
+      "ref": "Vayishlach 1:47",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d15f3633e6d0a250e5841cf0b86afa1f5edf919df0c761f92b1b0f408620c20d"
+    },
+    {
+      "ref": "Vayishlach 1:48",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b5714a7506d61952c5ee6b5a2418b43568d43811b0caa9c1bc0c04683c6d7948"
+    },
+    {
+      "ref": "Vayishlach 1:49",
+      "status": "AUSSTEHEND",
+      "sha256_text": "142da3e8bfdf2f5279989e8a89ee76b8d7f3fb33b4641a860b27720a9f35f697"
+    },
+    {
+      "ref": "Vayishlach 1:50",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aa002a31940d1b6750de17091f90d70cee41dde6b532bbb54487f32497915ca0"
+    },
+    {
+      "ref": "Vayishlach 1:51",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ebc1f869d0392883ca959d7b2264f5b94bc2b0ac0311721fa7e3cee00eeb3396"
+    },
+    {
+      "ref": "Vayishlach 1:52",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ec6e40e8465294a3e6f8e81b9cbe075f19c7a245d59cff04905844407e3b98f9"
+    },
+    {
+      "ref": "Vayishlach 1:53",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d9b0edffef92131a46b0adde66ab3725e26bc2fa93c7eacba31f68418fff4b50"
+    },
+    {
+      "ref": "Vayishlach 1:54",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3dc9deeb95a2257dd53ed18a418a2956a89816a8a77cd65ca15254182527be3f"
+    },
+    {
+      "ref": "Vayishlach 1:55",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0391b02990f233c4077336492dadbde35dc98326268f3ff55e7225f58a41bbd3"
+    },
+    {
+      "ref": "Vayishlach 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8e59f938c8f949d4a3b28614e1861c7a788c6b4ba059cb7005c3b48ea163b3a5"
+    },
+    {
+      "ref": "Vayishlach 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7bc52b3d75373b2b40bed6972f2f103c698a5ada5a9830a6c7062fb30728f6d0"
+    },
+    {
+      "ref": "Vayishlach 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "45b5cfe76da9f72e8b4f50a111c927d2b59a20bca6cb247eaf5c96aafa4f454b"
+    },
+    {
+      "ref": "Vayishlach 2:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6bff044c69db94518da72f07c1fd64f6df786c9de5785fa4bff0862bd3683c6b"
+    },
+    {
+      "ref": "Vayishlach 2:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c15d3043cec18448cf0fe02f5f75e176ae3da123f9141d08fb5988c6a898a515"
+    },
+    {
+      "ref": "Vayishlach 2:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3f2999b8aa447bdb50aaad34bec30eecd25d62101c7fe42469dcc6e9c80c4798"
+    },
+    {
+      "ref": "Vayishlach 2:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e7b49429daed54db7169a1ecf416a081035988a90bcc6a71f3b0a2519ef88faf"
+    },
+    {
+      "ref": "Vayishlach 2:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "03eb9a54bb7bcd926d30fef750c6e4d94e39e5a18b8ae6d7d33168f5d78d5a6d"
+    },
+    {
+      "ref": "Vayishlach 2:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bff14e816f76af5891ee6ec9e23a5a723abbed11e7b0cf837571d5afeed6aed0"
+    },
+    {
+      "ref": "Vayishlach 2:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a0b9082fbb4e6d8142d2fe6535ddb012fa802769b92cc830f283ea82789a67dd"
+    },
+    {
+      "ref": "Vayishlach 2:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e874baf87f1b58e4aa6518b9b1253439fb160ce4bea5fcf669cd3030368df253"
+    },
+    {
+      "ref": "Vayishlach 2:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1599c49554e7f8c3f001940ae3d57d9e69f8f481b790194e56826e3de349c9c6"
+    },
+    {
+      "ref": "Vayishlach 2:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4798ab1f3f4b73fe254edda854bf0eb2df13f8f6ebc10181ac8dac0ef14d9045"
+    },
+    {
+      "ref": "Vayishlach 2:14",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0c0e10045556c81decc7b7f2815501f56c6bb26049d6576034df38a0b240a01e"
+    },
+    {
+      "ref": "Vayishlach 2:15",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e6d7e5a3caaca2e1ba80abbbbdaef573de89a278e0d51f5661c085130169bd3b"
+    },
+    {
+      "ref": "Vayishlach 2:16",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ef0703f298c67196248e3eb9b94f11eec3dc63f5cbc61f814dd019a92734095b"
+    },
+    {
+      "ref": "Vayishlach 2:17",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4fe26d137f918831931a64914bb61d98ba63d88da8456e07fdcaac2110a1e257"
+    },
+    {
+      "ref": "Vayishlach 2:18",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e42fbc52cded773a784c09d00a72e6fb6d6ce5366732e3a05f32fdedf533591e"
+    },
+    {
+      "ref": "Vayishlach 2:19",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5b4f068b30921109e20cc907c46af527df1ac020daf2c7626af9f5329ced98d0"
+    },
+    {
+      "ref": "Vayishlach 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "310a15cdcaaa8a6316f14d03d2087b4176975f8d55fba8836cd295edd82f01e1"
+    },
+    {
+      "ref": "Vayeshev 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e45c2b226cd24ee9c80da4beb4e0d6553c404a3ea4ab899376d61f6c8100ce3e"
+    },
+    {
+      "ref": "Vayeshev 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6a27fd6f52aa7db85bf1d65a5b8d71e88dba1317eb3644fd4587549a1b81b8f8"
+    },
+    {
+      "ref": "Vayeshev 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "596fad772529beae81697fd443367fe1abec8c6d8bfc021aa4b3f8090946bb5c"
+    },
+    {
+      "ref": "Vayeshev 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5710a69bc886eb5c137241d01247ac4f9c66c270e1d3593d4fe851b6c5eae06b"
+    },
+    {
+      "ref": "Vayeshev 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ed25ff22aa371abba2766676bbd7070e34204c25c995012dfad07eca99f17154"
+    },
+    {
+      "ref": "Vayeshev 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cbfd62168539ed407c6eda1b57824d3255ade161823ff45fa3affdc39df1eadf"
+    },
+    {
+      "ref": "Vayeshev 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "014a0ce39493b46b02f3ef213e0e631d4524c12399a113abc9cd40ff6bb5b457"
+    },
+    {
+      "ref": "Vayeshev 4:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "549461d288fff9fe2599de62409c5a1a8333706626e432919f98d79f5edf7328"
+    },
+    {
+      "ref": "Vayeshev 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5b6381bfae296d967394ed94e97afcef44b6526fe261840494276fb45674f463"
+    },
+    {
+      "ref": "Vayeshev 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4a4f0eec676c3529504017422763f8dfb2f4ca6204fae60eb9053c4e45693549"
+    },
+    {
+      "ref": "Vayeshev 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "71b0e3aec417cf1645c20de482bc6586859124211314c04063b505d347df57a7"
+    },
+    {
+      "ref": "Vayeshev 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1077bb330062b0bd030364ff63cdcd4d85565caf3056b3e23b6f87dd6890e04a"
+    },
+    {
+      "ref": "Vayeshev 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e3837f3de4b75de95417b1b313d90601d6b3ce8572b075a8959cc1ce3848df95"
+    },
+    {
+      "ref": "Vayeshev 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "afcea5c1d3b6dd3193488b1fd1f0ba4956d84f2e899b82aaec594df030983dc0"
+    },
+    {
+      "ref": "Vayeshev 8:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d6db73d55a697ad3056867af88b68c0a5b214f6bf71d765cf0f6d9fce55be172"
+    },
+    {
+      "ref": "Vayeshev 8:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "864955e557c153e60cf4261f70daf8c81c49fda8733d77bbac2a7ab0d0c3d418"
+    },
+    {
+      "ref": "Vayeshev 8:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b79f8d278ea56c16d68f6e5a9748d9f7b1ba0701a5ddcd8133d0bf0b818e5e56"
+    },
+    {
+      "ref": "Vayeshev 8:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2e6facd6fb2144e96584b446b681dcfda9e2b151130b999ca3d022326bffa8c1"
+    },
+    {
+      "ref": "Vayeshev 8:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "59bf3940730218c92a62c92b0757a0dbaeb337187c7128355db1ab09591b69ed"
+    },
+    {
+      "ref": "Vayeshev 8:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2d79874a4d9544cfe5db2dfa36207eb374dfddc88ddd44374ea654d6d290bdc9"
+    },
+    {
+      "ref": "Vayeshev 8:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d2e66fbcb7860c3b43b3ecfb4b5ae9247758c3200a585305c289f700baf5c205"
+    },
+    {
+      "ref": "Vayeshev 8:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e0fba5976a38b292f7ee7c9254810da37a9a686613979af2c1fd77bb218e6955"
+    },
+    {
+      "ref": "Vayeshev 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4c61ac8a43607d4fc228180159dfd7550d11fcd4126acf57f4ae562925944c26"
+    },
+    {
+      "ref": "Vayeshev 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "27ee78fe7e9074595741b6197d72a7a4ebd95f7ccb32c5c996988fcf4d46206a"
+    },
+    {
+      "ref": "Vayeshev 9:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c60ca6f4c4772033eea77f91fa3e0dc53077f9e170fb92ac40b3da8ebf528646"
+    },
+    {
+      "ref": "Vayeshev 9:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "95979e1675bb2b60fd960ac61b133342e618cf3f8ea6527e818f39126e8ff646"
+    },
+    {
+      "ref": "Vayeshev 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0beddd40da14b09661853d6221a7cd5413538b84573a64e3389edd418e77ed96"
+    },
+    {
+      "ref": "Vayeshev 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5439a64b4f37915187e9d16dd1efb006b7ead5d6466996922f27b797ad7b80fa"
+    },
+    {
+      "ref": "Vayeshev 11:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2e9f048ed17d7eb65be77bcaef0541284f622788054da805834ef33250001410"
+    },
+    {
+      "ref": "Vayeshev 11:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "faf64c7c3c9fdb7c11d8def68a864df4c671d2107bde70e064fc47dc89ea0223"
+    },
+    {
+      "ref": "Vayeshev 11:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e71d1c06745cce0d8e08ab3b3f6cb6eff7840059a8538fab560b47a8d6f6cb7"
+    },
+    {
+      "ref": "Vayeshev 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "16b34f63a07592b185e52a4dcfa3d563df1e527180dd32930eec7296da824c56"
+    },
+    {
+      "ref": "Vayeshev 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b8a825e39d7784c9555d5bbfb12c0ce81e34389116a17a10ece23aeec7006587"
+    },
+    {
+      "ref": "Vayeshev 13:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bcd9ff30e1a05d71fef34d1250f7ba94bf410272b4081339f3935c09a3672a68"
+    },
+    {
+      "ref": "Vayeshev 13:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9229841921c7b117f80c6756f3a054727903229d5fb55d0a2728ce0eb0bf1098"
+    },
+    {
+      "ref": "Vayeshev 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "957164e368b2efcf1e8606ca1cdda63311ab83c436b39d7c05d294a13801eb4f"
+    },
+    {
+      "ref": "Vayeshev 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c2c9d2841eb01c7373fdfe009ba2441cb014e72260dbe525e9f5f26dc3a52680"
+    },
+    {
+      "ref": "Vayeshev 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7daf8c3c2664ce5a880c4bf90b0603d4be223550c44c46c64e66fc249a3bb723"
+    },
+    {
+      "ref": "Vayeshev 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3f87db63c232a0eab7ca70ac5fea6a5f52a72df98744fcfa00667c37f9d0f64e"
+    },
+    {
+      "ref": "Vayeshev 17:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dd03b587be4e8ec960287f0ef7258ce5cfd5c9dc6be4eff8d281476619b82fd2"
+    },
+    {
+      "ref": "Vayeshev 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "573842f9004f29786c5fe71876ed6536c23bd64a1e6e191a2c6d3cd3185a6b0a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c9931e04f00c4889904e52cbd6a434b6f80196ca45d030c9877dc3f5d0cc89c1"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6b13795e0568d200d190cbf7dae466bdef6481d33db203b72519f0f7298e7b4d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "25379d744b66a7911f53b48b01fe18aca396633fae427a6cd1c56f4a2f1dd755"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2694e25652e85044acf5fae6687f396a7e36032064807929ee4153bd0a83c09e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "349df8a92334fa2f21cdecda9c04f1a72dff4039c1b98eb87d2a339b8e457546"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "27dc58bc117c9934465d4f15c960cd7e160d1131edbf4a1072b172d6c6945ccd"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0e25f4fabd3087c1f4b6228dec33e4cb6c35cc10a696c90d192d479a7ee85438"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d308bc0b36f1870c113c60692b401cc6b91a4bd1ab88132a295a29f15d8d6f20"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b596d11b56bac11dab30cf5395d2229dff15371c98a7d0a1c579e6e8621fc1d6"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "78c42cc0888b83022430d2e0aeded85335cc11293c167734dead635ee8993f6b"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3423b4c80aaefa55da653c48322de6b0bed7f3d28c9763243ff11d4536126daa"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0c2c91501498efb74c39bd6992542d985fbd6b4ab494bb5a62b491a2595d496c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1de82d5753be55caabff58b16bb050f64e76cc87fa4906ed5d358ed1c69e1707"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 14",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9cbb670b235c0126db774ff6166e6c67c1bace7b7f4994028e01513e9128e0aa"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 15",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ad1309f8ca22b2b7f83b8fa7a14c57b2471c748f610ba652405b86f1656c0984"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 16",
+      "status": "AUSSTEHEND",
+      "sha256_text": "eb41ac16e15c71f5156d1ad73110d66ecafc83d815b310a180a178207c235797"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 17",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d038fb0655269b1467a96f9d69211106be54d08ca770739c734eb7aefa359f4b"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 18",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d2e9a4af1eafa34e348108dfafd1060695b820c6a27af8a5a91c71b3f4ed9d2e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 19",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a510e70c4d74d1a4c3317b51cf63e64ebafef4dd67069a56fd0dc3b7d3ab7751"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 20",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4b933fdd5d5bd883e35315c368f47b1c0528a56095e8ced52181d1406b95f0e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 21",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0aeb22343f84428fb152dc0a84095b2bbef7c3d2290d301150656d461ca3bb17"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 22",
+      "status": "AUSSTEHEND",
+      "sha256_text": "78b7987a7c86de410fd46adcf8172b11dca914e678405308e4bc78a370a26cb1"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 23",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e59e3ac9d301bf53eb956883c2de415fa6fe5df2d52bae64b947019c5d462183"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 24",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dcd7cf6e4790e65f4856302ad4a80ddbed3b1964d55a1ebe79f0d381a14a3f98"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 25",
+      "status": "AUSSTEHEND",
+      "sha256_text": "661f0a9afb05c5195e3c7bcb5e09e552a775a453027f2639e9a33da1aa22a39f"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 26",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bd12b5ab398d4346248dbbb8a7a8fb3ca6324d121846bb3e6b0b9b495b793250"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 27",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5796d7a980f50c47ec0d898e8928c10db9c564b292a68c8cddd3a3008e9adfdb"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 28",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d1fdfe14c287604bf3dc9404ff00bd7276ae7c18f55f8d4e2e85e5e0f69a2573"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 29",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7ad1da601825cfdc88b18a2076f2f33702cd58bd73ad0c3d2ca86f220316e8c4"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 30",
+      "status": "AUSSTEHEND",
+      "sha256_text": "96450cb87d276930b9cc87493a8d76f9eee94d30f44e54a5c0066851db908772"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 31",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3fecb7ecd692af6d84793fba5906975328a6442439655c06b07cafb41b73f90a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 32",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6daab78f0251ffc182071a98c8648538b0ffad2d760ce4ab789fa8a9906646ac"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 33",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1d364f030fc33de611e957a56b49fc5ff58e962e0866f7ef277688e232483d25"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 34",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4afb311bbb41b14679bb0b2042b99f46b65e08ce0596d24ab6331008f096707b"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 35",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c215659590a36572f473ce3dc292f739f1c0af5dd81adbf852e2be8de5972695"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 36",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cce5524d65bed663a90148258288afbdca043120a10d7b689a7761ff6fdefe3d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 37",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b9e6c7221b5a333b9236b1e8a184ccf60a2a38a5dbdda0252c9d0e29d42e24ba"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 38",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a554e25e5da063aaab660842fb8ffc50f6012a7a1ef9cb2801f17137215a8c5a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 39",
+      "status": "AUSSTEHEND",
+      "sha256_text": "58abad01b97a76c9b548ca5c62b507f46220ea73214a2b4571b32fa1c7642f29"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 40",
+      "status": "AUSSTEHEND",
+      "sha256_text": "029d074e06ef5c1f530b0a3c39f25ad91d8f930b70bb2aa5ad65e94b7ec5926d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 41",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4771b65fd0e4096afb4e78bf6c2eefae5123b8284100a8fda01a6a0651d4f3fd"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 42",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b7549b11ece37a5904503b7c17d3349343a31aa523969b32bb6608e77f8242ea"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 43",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bf73cb8a009ca4be95d00ee5c481cb0818bb3fc17545c727053a0905d4a9227d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 44",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5f5dcf74519c60c80b4233557ba7dd8ae5764635268a6a49208b7d26251b6a36"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 45",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f934044ab23147f4c97527b7c9fcf29ea60b4840cffb698401abdf09c25721f2"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 46",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7077fb939fe9a834c40291970fedbeac93926ca3590592c96b6945e3d74ff81c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 47",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0bb550979edeab5a71e3341f6ae9bb0030d65632e0824d78a79d7818fc5b7195"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 48",
+      "status": "AUSSTEHEND",
+      "sha256_text": "01fc2780debb0f460fb07dbbdb27e94dc4551b6b3c56cb367962fb3a84b9af9b"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 49",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a9417832dc399eebd220bc7ddaf6446b1bfb436ac6367e2278473836ad3b7a07"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 50",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c942880273e6c7fac31631035b60e7ccd2dc2b6bbeb81421bedab9751b36d986"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 51",
+      "status": "AUSSTEHEND",
+      "sha256_text": "251b1794d2ffe7d879651fa952cfe9e73084c509c3293f50a61337bb84f396d1"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 52",
+      "status": "AUSSTEHEND",
+      "sha256_text": "09cb8df8074ed44e9d6693575eacfdb7e3760ffde42590b8e49fc6e63bf0156d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 53",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7329d427ab29e020b673426b4c299700a74f2b84065b39534578590a47f8f057"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 54",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6049cd50975a439e78b245751b91357f557027c833b3707ced36190ac85aece3"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 55",
+      "status": "AUSSTEHEND",
+      "sha256_text": "943c58f24c3001537e8c7d5314721ff288699763412699b9133a87ae3f3120e2"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 56",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fb4e9e274c1ba445a0444d7d198a0b905b76f9ba6710f8d2d849d6f614701291"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 57",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c962c332424cd3df2d565cedb70e4ad67356a3ecf9bc602548e5f7f5b88f6e41"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 58",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e6ff21ddc25fba8e86fff787a6fed39aaa357bfac981b35801e0833075ed411a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 59",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9f73cbe8ef4d8fd6f34943bf11b0459429c4ef0664d63540fb3128961194f21e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 60",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3be21727ade34109f3ab261f33757e03a597fd0892d27b834fdf272445842c91"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 61",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3b691f27011dd54bd0080416afd2895ce1c6166259b376dfa219b2a4406b6f4d"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 62",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6a5b9f6a65b7c8959f47865ba74618bcbf299f083d26814d051aacba0445a06c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 63",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1fda8ba6f301d30b1d5eb3a67668c9d2f0ad870b3ff238506a2a4e40abd6e371"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 64",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c568f9c2009f2e72be93b245f7d3a0f0da6bbabc427ab3461031d1e7195c27a8"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 65",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4e6662d03ce1031f20957b2f3dc6e6ec22abdc6853f5a98d2c4c6db3c8e92378"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 66",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fc5c726e31cdb8e712699167bfce6bbff8d0c697ba79e249216b97fc0d021440"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 67",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3b1bfb338f461a7ca289bb4e4677f8d314de5bb019eff2f821ed6a66fa729d40"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 68",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d78f3d31b3a81c586427ad2d03685912e00f601d9170311e22db615d0acad58e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 69",
+      "status": "AUSSTEHEND",
+      "sha256_text": "455c8516023d055e53206ca32ae47355359388c6c4c2a648ae843e377aa3a5a4"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 70",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5658d0a8bf3939024d74c4e522d153dccc43914650d1156cd3449e8facb9e41c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 71",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c61746f4999b31b26a088fa5439ab5f198bc3edade5044ac4bf091dc96135bf4"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 72",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4e041711971d36878ea3d4c97f64ec209bfae013b5495de1b78c014fcae137a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 73",
+      "status": "AUSSTEHEND",
+      "sha256_text": "69ecab28afc0fa013d1543eb1bad3f5f5ca5293652976eadc5893c494d582e09"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 74",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e95663f9d78209b5d4d146a5565fd499203b29744133bafeeaee6936da3c86c9"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 75",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a4a240604633199104c385e3c57fbd4d1adbe1740e432fe381790787bc9b5039"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 76",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bca87a43c91c5be00b67356b3b1a6b7ab33d6b114eb650dc9d309b47f45b95f7"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 77",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e7c41fb6d1f9e1a897a752ffbb67c62fc16e1e724f92786985c626e24aa71bd"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 78",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0b3bdbdbeb4a21eb3e0b982a71f301a3dcc8668d833a57d7e9e35f95b1a4e4d8"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 79",
+      "status": "AUSSTEHEND",
+      "sha256_text": "402a647f377924609d37f321bca487409d6ffbdda5081fdd9378f9b225864653"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 80",
+      "status": "AUSSTEHEND",
+      "sha256_text": "33f68028dad342179d4e13d102487f156ff802991a728b876d1a9c544b1ab3b0"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 81",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4f80c10ebb973b3d8d66e29739506de5a55e12019767f008a0d4b8f1442102c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 82",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e970ac0196b9ccc8222cc2d691a7f551a6a3bdc3e627329be1c61e252a572e69"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 83",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0261affcaa9c58e2efea2d515943767da979eae729b58dbe00e6093de8563f18"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 84",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aea09c7ab97897e72b74bafe7e4a50cd3a4f38735a192a9f84a29e4e89c3eede"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 85",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d299e8cc37c308ea9f41bba40cedc9cd1787c27719351b2ec89ecf1a71d296e5"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 86",
+      "status": "AUSSTEHEND",
+      "sha256_text": "13512741a390c985006d4a53a026c00e714081b49d146adca366142d917ef0eb"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 87",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ae29a070f81ece2f178acf1ff8d0e4f5de0b96b04d836ac5fdf45e087c330236"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 88",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fd1cc07c623ac09a7cf2cd34744b34162d029665669e818fb65c881fef716cec"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 89",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d03b56c51af309f950bc7442cebf69c8da7051f341b659aa4af48d1a7eb69eec"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 90",
+      "status": "AUSSTEHEND",
+      "sha256_text": "42610f139263bb704a8df08104b0c7287ff01563a8a4c37e0bce7f379b74d957"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 91",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b7fa5bca9486caa7f9696de298cb19771c68227d19d4b02dc888d4215d3ed833"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 92",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0d3ee70079e2f1187f982aedc19bb81392b955e067ce6c89d7943949b5b50d31"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 93",
+      "status": "AUSSTEHEND",
+      "sha256_text": "335350c6eda334e200b9f785590bdef425c7d9677393bfe54532fe497583b54a"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 94",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e64f91b2ff5ed04e437e275a757eb8d95eb0e80e59adf732899986e291cc34d5"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 95",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9430342fab9eed05ffd9442e2fff02b9a45dc9398e87649c01b54cb7d8c65d71"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 96",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1c14857a40e76da7f37c52c7a0a73266161bf448ef4b72ce1db1d51507468aa9"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 97",
+      "status": "AUSSTEHEND",
+      "sha256_text": "17602174cc6afdc5bc266c14528fcad9c047a312a654a6640bea2fca9a4f5702"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 98",
+      "status": "AUSSTEHEND",
+      "sha256_text": "106202f7f720780343b9dc7917a260b25799086533a35cf957a67d5a741f43c4"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 99",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f3bb06eaa0c4e48146b84a17c8e5740851c38670c03f2d500af90b39651b7596"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 100",
+      "status": "AUSSTEHEND",
+      "sha256_text": "749160948f1dfa503f1625c4f51f73e6faa8189c06c4f230b308559678fc5daf"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 101",
+      "status": "AUSSTEHEND",
+      "sha256_text": "420c73ea1ff52cc31ae841ce950837f5c8d50bfa18c77d3a0b130f1773e1ab37"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 102",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b09c07843fede23f7d20fc47430c2550061819376a5a03dff8acdc6d8f715264"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 103",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2749632abe56b946922e2f05196eb46a4eaca04a4e64cb122e1409c7f1474ba5"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 104",
+      "status": "AUSSTEHEND",
+      "sha256_text": "66e94e4c19a1689f2b6e418c8b1f8540c7392cd9c2877eb887923832a3dce51e"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 105",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5d4355d24426c39a662653fc3d045acb818712471711759e584f8a7e80280d8c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 106",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f24cefd23345acfa36aab8f4a4fcad657291cdfcd27372977dcb2926a8a7795c"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 107",
+      "status": "AUSSTEHEND",
+      "sha256_text": "da20e7b6b3499ad768cb056d98463f28cef3c9d3f74b747b148604528ab2d9a7"
+    },
+    {
+      "ref": "Miketz 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a26eed6ab0865ccd1a8990cc1e957369b0d05a87a4641233d8d94a2d68b81c10"
+    },
+    {
+      "ref": "Miketz 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "10d1e272caa758c586ff270592cbe767ad339ea6abfa6618c20539be843bfd7b"
+    },
+    {
+      "ref": "Miketz 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1534fd6ae4d39ab6707a3bdabffb5ee7bd4587cce68f8edfdf714fb73ea28ef3"
+    },
+    {
+      "ref": "Miketz 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7ef0015d0d80c4facec1b711ee6c0443f7b16cc4e59841b93da9d1bac5aba795"
+    },
+    {
+      "ref": "Miketz 1:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5d8408a40162719a6a63b4e8fc296def7e720416c911493210c3752bbb59ac6d"
+    },
+    {
+      "ref": "Miketz 1:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b682b3e553c97e304b61aaebba79b64e87db21033c2723d1f9b60b6a8ced0bbe"
+    },
+    {
+      "ref": "Miketz 1:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a52658259544ad29d39a72278b9677e529e1b24bdfe1ba569a1d5ada76866465"
+    },
+    {
+      "ref": "Miketz 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6a8bc97403f91132f0463719e1211df8dda48ab09bdf82dd5ac1ba8f60eafbeb"
+    },
+    {
+      "ref": "Miketz 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3b92161af543f96ec0e3ad03e5a20730de3060a9c447ab038ea1c3efa5ac70c1"
+    },
+    {
+      "ref": "Miketz 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "16aeefe982cc1141eef611366d9edf294ce40f29ea1d2fe0c8b99f953c19bf35"
+    },
+    {
+      "ref": "Miketz 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7bd778c69c37296a451fd71175fb4dd77be16d515690558ad77ea9a2f505c7dd"
+    },
+    {
+      "ref": "Miketz 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c02664e282dadf62e8f43ce4948b5bc5ea51a7e25b621aa736464dd3cabf0d72"
+    },
+    {
+      "ref": "Miketz 3:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "55d03c50d2de57751fe4477c4357a24fcb8e866a53f41141cf164a7cac1c9e5b"
+    },
+    {
+      "ref": "Miketz 3:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "34c53c906493db5b4122f0f657c03cd24f9feb87531d58f2a8d07d6ef6ac9009"
+    },
+    {
+      "ref": "Miketz 3:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "be9e525bbf75388ea55248d0a0ea196d3c6c063ebc7277e4cf7fa6d11ed941ac"
+    },
+    {
+      "ref": "Miketz 3:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "003f418ac5cee1f739f4aa71eb7ffd58ce9a2aba350f27ca9e1b1ec6dd08a626"
+    },
+    {
+      "ref": "Miketz 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8ed8bf0a33183c96bec1d6b40ee06ac951864e2be0f348b393a93756a3696e89"
+    },
+    {
+      "ref": "Miketz 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7927d05dc7ab857f73ddf81ced5035348204e3d0733d52090bea952d065515de"
+    },
+    {
+      "ref": "Miketz 4:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "766e4ba6ebee4956e653fb7e9d832642d0405a1b5840100a1275159fa27dce6a"
+    },
+    {
+      "ref": "Miketz 4:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e2f1dc76725d43767308a746c78f8370e583dbf5805553a755b7f61249f66d8e"
+    },
+    {
+      "ref": "Miketz 4:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c80ecf22edd58c21c4d628353b0cc90c149b3c1d9bdfd57a49f85477765bae39"
+    },
+    {
+      "ref": "Miketz 4:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f009d3e34d87020655b7fc4c671cd3321ba54fe1fddd632853fce08182db0bf6"
+    },
+    {
+      "ref": "Miketz 4:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "653a54f689e14adf977ed57a26131bec2d09eedbb68613c06dbea1f08067e4ad"
+    },
+    {
+      "ref": "Miketz 4:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2f93685c9695eb54eecf218a91b59b8c19060e88dde0686b9d3665216198739a"
+    },
+    {
+      "ref": "Miketz 4:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9517c291c78132b5d7cef9b82aed79aa15347e187169dea15577339e8184a819"
+    },
+    {
+      "ref": "Miketz 4:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b4d8427b4c0167136e93a775dce4515cb91d9646c433a5880357d52cdec3c235"
+    },
+    {
+      "ref": "Miketz 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aa31b516ffd001f528ccf834b335e24c86c47928ea9cc7876390c19df4580988"
+    },
+    {
+      "ref": "Miketz 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2abf4543d9fbc7436c17c596cdd34781f5604e4a4c366a6a50a83b82d05b93ad"
+    },
+    {
+      "ref": "Miketz 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0a53b4cd437a76117d4d05791e99be2fd1a245073740fa9c9a05a5124177e8a9"
+    },
+    {
+      "ref": "Miketz 5:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fa96f0d536d4c96631a4e6d13c130f3126ca09a3ba833a12f6c46ed8084d0306"
+    },
+    {
+      "ref": "Miketz 5:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8cd6b20e7c738b522d1177282008a5c6b72ab4b70d1dff794b57f2ee289a380a"
+    },
+    {
+      "ref": "Miketz 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d3f28c74a8f3feb6b49a1ed1117e929fb86449cebcfe6435325b9491dcbb8f67"
+    },
+    {
+      "ref": "Miketz 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "abacde9564a5ba336f8e95e6a5dede19fae6c248142a658a2786a119c0838b8b"
+    },
+    {
+      "ref": "Miketz 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c858878832b9c4faa632a6da8d900c19871cef42f69254679315a8160f3877a0"
+    },
+    {
+      "ref": "Miketz 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bce75bf147dd163a66d72a8ad4a52f81b2774699e6dd09e19696d4b3214cffb4"
+    },
+    {
+      "ref": "Miketz 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4ded2de1abdd5b0e1408d5cd345000f945f41c0f18d507669ff7ecaf30100575"
+    },
+    {
+      "ref": "Miketz 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4acacc5130cba2e856964f282b81a1c3ffc23feebaf007300134ca710e9761d6"
+    },
+    {
+      "ref": "Miketz 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8f69396c0e8352a560353fd4c3db04ad1cec568593b4b39928b6dfbb835ff251"
+    },
+    {
+      "ref": "Miketz 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e81bfcbdf5c8d200396ffb6926025cdac3e720d65ef200bfa7f94bd67c2cd953"
+    },
+    {
+      "ref": "Miketz 11:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b85c2e536cb2e394a187beae2c9d58704a08f042122daf16d338cdd721a02da9"
+    },
+    {
+      "ref": "Miketz 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8ca7eb93d2899c9539b5c5c41d0b9c179af64515816bcefc21257758ff93e979"
+    },
+    {
+      "ref": "Miketz 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4bcd57b4c77bb435f4d6f46a8f429bf10a6a13c795b3a3bc156434c79535c667"
+    },
+    {
+      "ref": "Miketz 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7843eda4b3bdd2e176d60a8ed4507c52d458790b1d7e6896ebb108c059f87135"
+    },
+    {
+      "ref": "Miketz 14:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6aaccc635dfef527477086f9391884c32b540d5ffd9e0f0d28d7eefd65c30af2"
+    },
+    {
+      "ref": "Miketz 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2e02280584b380083c81a01f87aedd14525f03ef765e1b9224b4a145310a9ba4"
+    },
+    {
+      "ref": "Miketz 15:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d921f585173cb7c96455380e23cb8dd5948fcb58fbab18f85cb918824b3e6e08"
+    },
+    {
+      "ref": "Miketz 15:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "04ce6a514c483b05f53233115ad272afb808ecd1eb41b028ab78368f89946692"
+    },
+    {
+      "ref": "Miketz 15:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1ee68a2a3d59cf6b5dad8afc28fe5082f936dfd659a0fbb0db35b413c7b17069"
+    },
+    {
+      "ref": "Miketz 15:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "90118fcbc6dc26ad79a16729f7696c14a607a6c99db51eb83d98ddc439b3d6fb"
+    },
+    {
+      "ref": "Miketz 15:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f46317900e0e8c240b996dbf37f604473f2b9ccc1434e459b3a3fc9c2c27421e"
+    },
+    {
+      "ref": "Miketz 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "edf294279cba7ff271a64646a8a46a8f8e94912ba952d62a806d2e44b4aac4a4"
+    },
+    {
+      "ref": "Miketz 16:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "75a1eb5b31e5db8c2b9859d5a7754f6976fcdef19661b31eef7b4389ef14bd9a"
+    },
+    {
+      "ref": "Vayigash 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2ec74ed01c7744a9d5d4e51130167be5f3337df1d3e0ab75a613ced823aa4b09"
+    },
+    {
+      "ref": "Vayigash 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "00f9d61c9e38c8b3b657f47ebe9903033a84218b4f7fd764f3622a1bb68b6c5f"
+    },
+    {
+      "ref": "Vayigash 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bbd9084bd2cfbb90f0ab5dc37be84a943c0e47d75a11e4db7fe26d37a7843f15"
+    },
+    {
+      "ref": "Vayigash 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a4c87a031ff4e603f74405d2ff0488fc24907612b220e4d72325661368081a01"
+    },
+    {
+      "ref": "Vayigash 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bdf9b0cc10bb8a82876573a6ff240acfaca0279a593c999982c3553ce55ddb23"
+    },
+    {
+      "ref": "Vayigash 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f3d04e0c2784dccd6f3a8ccccb30877a3ad5606f79bd24038c0d7e84ba497bb2"
+    },
+    {
+      "ref": "Vayigash 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "415884b19a46bb19edb480196e6f66d7051fb39d8d38736746f3aeb635482c15"
+    },
+    {
+      "ref": "Vayigash 2:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a9800678037be3ce569ffbe0237ced9fc93ff4ad39c9bf5258de502458dfbac9"
+    },
+    {
+      "ref": "Vayigash 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "309c1a15421c814e5efe53974eb9f1ea18d9da413558774a2b20b620292363ba"
+    },
+    {
+      "ref": "Vayigash 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6a6dbf2e9ccf332cec87f6d2961d597943693db69b28c8b6a44925d9fb01eb03"
+    },
+    {
+      "ref": "Vayigash 3:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9c6ca89a6faa97a1b38ba8228d4fff69a1af997d89121eaadb35352846811d8f"
+    },
+    {
+      "ref": "Vayigash 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "39d38650ab1454e3ecf18483f4c893503a1ff6981494c6507e1e07839e566535"
+    },
+    {
+      "ref": "Vayigash 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "64fd83cdf0437d532a524030336b01ce080da993cb26d6faed63dc3f432d692d"
+    },
+    {
+      "ref": "Vayigash 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3ccd0743c4e2f2b36d73341967f5fc5af83ee3f71e85a7140956187aef0653a3"
+    },
+    {
+      "ref": "Vayigash 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f693a10182f9fa6b144b92411add8a308958d321dedb2f1a4afd1107836b349f"
+    },
+    {
+      "ref": "Vayigash 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "89918bb245cdc1660627070d34fdd7e450ad77b5509cd8eec27d1f155eb33369"
+    },
+    {
+      "ref": "Vayigash 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aa47b252b5c190913cdfb1b4bdbdf99d32cd0b1227ccd10f3cbb845b18176109"
+    },
+    {
+      "ref": "Vayigash 6:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "84f4971b73fa972a040f79ffee4a905a352ed999cd84e24b46de2b845fee9bf5"
+    },
+    {
+      "ref": "Vayigash 6:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3e229628af4686462d866c29f1be4012e3dfe3331cbbb06274676d1b624fb510"
+    },
+    {
+      "ref": "Vayigash 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "51130d0400e32ea3d5db2fcfb6c57f89d758845678925fbef93ef182920d5380"
+    },
+    {
+      "ref": "Vayigash 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "afc649055f79cd0cba6bb89bd11437d88291c4319a0dfab5ce6c87f0eb771430"
+    },
+    {
+      "ref": "Vayigash 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b27d6fbc7da2e546bfe5623a114f64ecc1cf9781b902d752236fdc1fb17e2c49"
+    },
+    {
+      "ref": "Vayigash 8:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "86c51a01596e731a9d241caee8214e1d8e7dfda382e94169949e0e898bcf7a04"
+    },
+    {
+      "ref": "Vayigash 8:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aac0948bb303807f5f5888a87e4f66afebbdfd4b9dfd718d3732ab7278a493ea"
+    },
+    {
+      "ref": "Vayigash 8:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8e0d89c33e412c0bad18c96067346541c01f200ebb9bfdab909d394ff9b0b615"
+    },
+    {
+      "ref": "Vayigash 8:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "251c64943ccdb9b93cbe5c6f292db7a40ed2910c9225291cb373a765d58d8161"
+    },
+    {
+      "ref": "Vayigash 8:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f836130a437b00f766af90eff85bacea543eb26972fb8c4bbe1340b925f2e7af"
+    },
+    {
+      "ref": "Vayigash 8:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4423e7351c4d19a29d26a629393ed382c065b20e68fbe5239c9ddec07d046d32"
+    },
+    {
+      "ref": "Vayigash 8:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b3687f47b9f540f4a319bbb6932bcf463f45685465d4f4901892cd52e7234efb"
+    },
+    {
+      "ref": "Vayigash 8:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b89d49590db75e8e2e34e34bd6f2f595016032a07129c0515aeec2ae5ff5f42f"
+    },
+    {
+      "ref": "Vayigash 8:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "28923def9afc0745bc482f81133b320f63550ec211d35618ce8e6979ca46cfb6"
+    },
+    {
+      "ref": "Vayigash 8:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0761557667cc9a630e95e6fe79339efb5e618478a17319b32faf0139ea3aceb8"
+    },
+    {
+      "ref": "Vayigash 8:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1a10121cd287622569dc1bddd0b78ca7bbb74f51c938083937378044ef915667"
+    },
+    {
+      "ref": "Vayigash 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "01ac661388e5977741b617a4c8bae2f342ddd35cc8c57e344bb5e1a996b4089b"
+    },
+    {
+      "ref": "Vayigash 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "14de3ff75fcb2f70d8b48333571949bb6f44323ae59a597ba183c91b79dd5cb3"
+    },
+    {
+      "ref": "Vayigash 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cc264f7a70595c3c34e119f4585b4edc5b015affc548fd02a6fa179f25966d2c"
+    },
+    {
+      "ref": "Vayigash 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d637d8525432ab4785603f7e33f99aa9a19a15b1259e28e029ff43a80372711f"
+    },
+    {
+      "ref": "Vayigash 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e5a06893bc100b314160aba10dcb9c4c3cc070a9b8bccde338c2d639003ccffe"
+    },
+    {
+      "ref": "Vayigash 12:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "db8862ba3aa989db14fa02db922bd4516bcc1f4f52113bd6abc83f2485059354"
+    },
+    {
+      "ref": "Vayigash 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e66083b8802ed9795bcc4eb9d70272518308a910c24cb3e25eb14019e38ae9cc"
+    },
+    {
+      "ref": "Vayigash 13:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e1ec90c8416dba3d20be09dfa78cd892c903841ed894f2449825ae101b7eb69"
+    },
+    {
+      "ref": "Vayigash 13:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e112a5d52c456663c7eb9d60303321b0588486b36ce3e280fe0924b06eb839c0"
+    },
+    {
+      "ref": "Vayigash 13:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a5284cc2da8634336cfa3eeb00acf1f8bd6b3bf77a1ef808c598df96dba2cb80"
+    },
+    {
+      "ref": "Vayigash 13:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f44078f8575f333df52f2203afee0b12f905e774ce8cc459a20a3f9498a34ada"
+    },
+    {
+      "ref": "Vayigash 13:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f7e42f4c669c6e72fcf3aa6abaac959d01f2b672846106de855675f110325275"
+    },
+    {
+      "ref": "Vayigash 13:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3f14225e8246302c629773375a569b202fb22cc7c50168b4490a1d2f8fc052da"
+    },
+    {
+      "ref": "Vayigash 13:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b367e33f0a56994d3c55a855c8889b45de4a2f491dc0675fa92dbeb61c52f1a5"
+    },
+    {
+      "ref": "Vayigash 13:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e84e8197f67b7332e93ff1c2161cef2368f865f7e349d08ef6b9e6eac9d4a13"
+    },
+    {
+      "ref": "Vayigash 13:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "96fd8a0bff3f01e43f8b68695996a38aa7d754785fbfb21a89b2a0523b9b464d"
+    },
+    {
+      "ref": "Vayigash 13:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "30a9132d1a61a69d4d946aebf31dbc7c2a956ce84abcffe80c48c6b4e36a0cfe"
+    },
+    {
+      "ref": "Vayigash 13:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c28fa0d5b34e732ea937ac75370e2d1469c7efe6d0e17ed079892d05dd7713e0"
+    },
+    {
+      "ref": "Vayigash 13:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2efd9b927d79a4cf5b122c021d84ceb684810ec3f84b62e304be2f506bbd95a1"
+    },
+    {
+      "ref": "Vayigash 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "84a14a5d235308c8aeaa048694fa5cbe18090cf7d490ec41ea25d4283aae5916"
+    },
+    {
+      "ref": "Vayigash 14:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c703ddb2db73b2c796ec4f7a6ee460ee3a362b82f940867a8b3ea75ba72a3198"
+    },
+    {
+      "ref": "Vayigash 14:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6feaee9f46dbc5c05297658dacf45386b9116ad2666c8596f29eb0c20560c0f9"
+    },
+    {
+      "ref": "Vayigash 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fa9580dcbc76128badb168b9dcfb28593d804235f08462f33af1961fba29e6bb"
+    },
+    {
+      "ref": "Vayigash 15:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "37c255cb6a496a7f963210fec5db05f5c9ee6fe0c89513b57b784289d8c08157"
+    },
+    {
+      "ref": "Vayigash 15:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "24ca4613a0faf761f4af5cb4d31951cfb51aacdef5ddd45f1e7ca63f02f22c44"
+    },
+    {
+      "ref": "Vayechi 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9a96bfa7ec1c124c74a1cbcd533b66560dc49b27316cdb0fd7ad96ae201c913b"
+    },
+    {
+      "ref": "Vayechi 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8d7fbebb7fb9bee17e4d83d61605f51cd2d818217a72c12f09237e7ecfd89121"
+    },
+    {
+      "ref": "Vayechi 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "af6ee92525d7222647b3e9f164472fa317698027d5b19af746f5bb43afd51bdd"
+    },
+    {
+      "ref": "Vayechi 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "355677c3d9fbf5d344913c5fb7b5eef5c4d410d588cba49c46ea188560ce032f"
+    },
+    {
+      "ref": "Vayechi 1:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dfe78b31e73e855972ab08708c25bbae35785c7562c600f2a9e490f36eeafc02"
+    },
+    {
+      "ref": "Vayechi 1:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7445ac3376a9a6d0a21d469fe7973e3cc3a908ed553ebe9b3c32727ac67dea75"
+    },
+    {
+      "ref": "Vayechi 1:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "eca90ef6e351f3d27751f4464f6f2a37665f9723ac02c896df45d11d7bd80413"
+    },
+    {
+      "ref": "Vayechi 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4f5cd7dae0bde1f8071661fbfc9dfccf42916fe0dd47cb6eda9cc8c32c16130"
+    },
+    {
+      "ref": "Vayechi 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9f470213281e328ace8814ea462fe7aed7ad473f2845aefb018abbee642b36a2"
+    },
+    {
+      "ref": "Vayechi 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f81ce438014e16e0c09e44901ace9a51864004b43981339892b143479d5559a1"
+    },
+    {
+      "ref": "Vayechi 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "81ffcf46dd16fe58db939f77d2a76a43fbff913a299fa96d99256bb549e9e46a"
+    },
+    {
+      "ref": "Vayechi 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2454cb816d75567a855a10b94f80fa91f2af9947127851c93723276ea3a42c84"
+    },
+    {
+      "ref": "Vayechi 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "59d49de2ef6f8d70d40c180f2a4a3cf033bf5ceb3f0fa6fc70061aeb6ee7b0a2"
+    },
+    {
+      "ref": "Vayechi 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f625e32da2156b3bc2fac47555a78f071774854cbc3663c0c7db06ba973103e0"
+    },
+    {
+      "ref": "Vayechi 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9a24b029a829b1f8943a1a11476fac8c2a7db3fc36e5887ec061d5d883e497b9"
+    },
+    {
+      "ref": "Vayechi 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "11c3c8a407dc66f7163a79a1743ede6faf81f6372097b8ab17cd31c33e8dec43"
+    },
+    {
+      "ref": "Vayechi 6:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c31c437c45e40d093d7425ea759504d81a95c8debe4dc1f294c59b1ebe6363bd"
+    },
+    {
+      "ref": "Vayechi 6:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7c7143637dab7af94fa7fa167469f69dc63686a968328dd88d99ad5226d5e8b6"
+    },
+    {
+      "ref": "Vayechi 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e22095947ebc18ceb618c63b124c986140f3468838265963c47002771fd75aaa"
+    },
+    {
+      "ref": "Vayechi 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cb0aa7387d11732149377b380923727ddcd7446e237dfdeab90cda57cc750491"
+    },
+    {
+      "ref": "Vayechi 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cafff81749db58c421397809fb135aeb2a4a2a1b910436255f7cc557dba4a1a6"
+    },
+    {
+      "ref": "Vayechi 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cb0169780d61d8c8a528fe422901ddae386ea78ab3d0f25a2b85f1f47f269943"
+    },
+    {
+      "ref": "Vayechi 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d55d0ba542311e86d9e8e7dd15effed137fd04a4ad2bbf282a608e24a57461f0"
+    },
+    {
+      "ref": "Vayechi 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ac378e1695db79c93b43cc2f513bac7ec2c21c2eafe0038b4afb3e96a6076224"
+    },
+    {
+      "ref": "Vayechi 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3b2ed71bc59179eb8bea22735f50e428d56a2ae8f4803a55e486f93b3573d35d"
+    },
+    {
+      "ref": "Vayechi 11:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "24fe6b8cb93904bb857cfe8abc93d03863a493278060c209fae351966440b43e"
+    },
+    {
+      "ref": "Vayechi 11:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d0bbe013f0339ae587df594a84b4ee8fdec2b5e95adf8cf634b453e54d9cb1a2"
+    },
+    {
+      "ref": "Vayechi 11:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "17b8f703ac1a58346533b9599aa26ac6a79777d338d8bdeffb332402d09eacaa"
+    },
+    {
+      "ref": "Vayechi 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e94afd25ad78935a9f86e4380e095b39a2edbf21634183d85004bd8bd93a1c4"
+    },
+    {
+      "ref": "Vayechi 12:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "eb0181d93aeba90a939fba1c94bd1302ca641d4ad9a2c210fdcfdf4c6362f0c8"
+    },
+    {
+      "ref": "Vayechi 12:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e3260470e7961c2f63ec704b67b5659fd5aa78813a4135f5954fec08bcf6e46e"
+    },
+    {
+      "ref": "Vayechi 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4b2642f7ce2d349fd27c40f0817fb9fd47bc5ee6b3ee56a12956a347acf0843b"
+    },
+    {
+      "ref": "Vayechi 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7578e5c339c8cb873136648e2eb3d70ad56dcf54282093d01a306dc7637e1bc9"
+    },
+    {
+      "ref": "Vayechi 14:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "04a51e0b8d10c0a83700d6a9cd27801a3c61bb356d9c2efe8e2ec4c013e10d17"
+    },
+    {
+      "ref": "Vayechi 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "12a5eaba87fb29e95b9a6a23406cefa848fba056812adc7b60535fa97fff04e2"
+    },
+    {
+      "ref": "Vayechi 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3e03fbf9535ff3b3e7bb57a75050ae1e23b3b9b6168c816ea94bf78ea95ee8d0"
+    },
+    {
+      "ref": "Vayechi 16:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f79342207dabf4b26da5a591c450e3a987b4545993c8e2d83b5a6afcb724768c"
+    },
+    {
+      "ref": "Vayechi 16:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b99c84705c66891755c956c539c1c475c74f81d7da8dcb2bdf8373c7b395de25"
+    },
+    {
+      "ref": "Vayechi 16:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "58692ef2d5186732ee1b14aa083185093c27cc19a5414ff804e2b15a32bbba65"
+    },
+    {
+      "ref": "Vayechi 16:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "85580c064e15a55f9bba0f89d6bac7924000566b32e6845f0710be1a8a4439d9"
+    },
+    {
+      "ref": "Vayechi 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a55bbe0bbfcc83bdf8abfad92d6fb68e9fde56f50b1ca7ea038a7a62f607a920"
+    },
+    {
+      "ref": "Vayechi 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6491dcf99e1227d80f865ebb74408fb5637afc4f1c8e25cfbf87529d20e7e974"
+    },
+    {
+      "ref": "Vayechi 18:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "031d1721b05f09cbc1594b6def5163033090af083ada41191ce24960d688e9a5"
+    },
+    {
+      "ref": "Vayechi 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "40116a995de2683810668abbf4b4777ec79dcb4c01a324d99a2ab2eff9929c26"
+    },
+    {
+      "ref": "Vayechi 19:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7a745bf38c5ef2a5b4a3c22aa2c1730772f87d2b357bc6d6dff019629e4ea86f"
+    },
+    {
+      "ref": "Vayechi 19:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "01e7fd15fad33334e79870b3a348744398745d70540506bd4dc18f20c8f9051d"
+    },
+    {
+      "ref": "Vayechi 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fe1d3e8b7175605e31c9c24ee716c04943cbdab835c51ec3b2654c293ff8fc6a"
+    },
+    {
+      "ref": "Vayechi 21:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0e209a2d340ab7056d0bcdc87f05a4a298b648a5e9fdd52520bec8ce16900ef1"
+    },
+    {
+      "ref": "Vayechi 22:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5de166bb289f0ed5972167548a8bebdc1829b52994e6849e302ac9b1e4d107e8"
+    },
+    {
+      "ref": "Vayechi 23:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "25d048711a0f76284952a3873652ddd282751bc5c33e326d564531257367b2ae"
+    },
+    {
+      "ref": "Vayechi 24:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a637bf4ff644835efddcc3c88b97aa9729d5b97af2a23c47dc59947b378f68d1"
+    },
+    {
+      "ref": "Vayechi 25:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "28a7fa4a5147d43139650adaa4d012af2eb671f163ec326c05e68d27419b1e40"
+    },
+    {
+      "ref": "Vayechi 26:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f1865163dbd32770860e1b7b9c7d991a381f48caecb4efa4696a28f14c60cbc2"
+    },
+    {
+      "ref": "Vayechi 27:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9eacaf6004893f4d4b766359a3734064645c6b4125544f3e774349cde50a1066"
+    },
+    {
+      "ref": "Shemot 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9a518ab39b9e5691b954ef47c9db63594d3610b59e4ad24dc6d59faee7f59013"
+    },
+    {
+      "ref": "Shemot 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7b389bc0886eb684d8eac797522686bfd3f79790f8bd848e1fde1df900aa7a13"
+    },
+    {
+      "ref": "Shemot 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0b3e972f676757b1958c0dd67c6c28ece72c53f1b4a7cc128efe0e8c13e55d38"
+    },
+    {
+      "ref": "Shemot 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c6af1a5c91ad3a02ab1f736f3d681c8c4a6d3e5d55a4a7349ae9246845b64905"
+    },
+    {
+      "ref": "Shemot 1:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fcbb1f11f3cd6bd9f8b14134d45f7562c9e42de04438b3d7029b2a1222b7226a"
+    },
+    {
+      "ref": "Shemot 1:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f750dec3d7b7d25321142351c9f76b462793577cafe05f6e6c4637bd0f91ed47"
+    },
+    {
+      "ref": "Shemot 1:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4841bcac1dfa217158587da66889083aeadd91ec69b6d119fceec3b6a9a46f6a"
+    },
+    {
+      "ref": "Shemot 1:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "349c68d8a24f9a1132d629909058895fbfec071daa1b7ae398c217bd31859bec"
+    },
+    {
+      "ref": "Shemot 1:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0bd10b3646a1108de461a289edccba31a13ecc005f1da58b56a26aabe51d9255"
+    },
+    {
+      "ref": "Shemot 1:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f8f8084948bfa720145c193c750d490ff48f5a2afa64b1732f8c3f05de97f77a"
+    },
+    {
+      "ref": "Shemot 1:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "95acc5a2d2e24485269c8e3d4c58912be06042cf8a5a4b19712d8272ce7b9d1d"
+    },
+    {
+      "ref": "Shemot 1:12",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "1bc01d97d6c019ed59faefc61520f5f094d81d5911b2e3081266e8fe512115a4"
+    },
+    {
+      "ref": "Shemot 1:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ca75bac1277bbc12648561aef4b0e82642ccf2b65235b7a7f4530419459bf359"
+    },
+    {
+      "ref": "Shemot 1:14",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b412dcfa5ba8d479feda87e8615c7cf0d2f15076a6f8da7b4ad28e31cf48a44b"
+    },
+    {
+      "ref": "Shemot 1:15",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5c70eb7e79aeadc73c67dc5ab8344648f41f7eb2879ac8cc9a3ab053b90941ae"
+    },
+    {
+      "ref": "Shemot 1:16",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4dd99dd338a24e848e21227bdc2d8de06e3f1d35371c4ee8ffe48a6d4a38eaea"
+    },
+    {
+      "ref": "Shemot 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "87565d628b13f625ac12504994ca4262e3287d4443d5f84af46c25e7836af256"
+    },
+    {
+      "ref": "Shemot 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "df54c59b1a65597c3a617c63a9c3c7f3f46569ba940885e51a3fc1e9d1886bf5"
+    },
+    {
+      "ref": "Shemot 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a80024092b2d5d36926e808d6db32e5491bcb33364642a201b6eaccc64f2c593"
+    },
+    {
+      "ref": "Shemot 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8c2cf49076cdc102a14452c91fc6ce0ae5635aa33a7ab5bbedd360c6392971f2"
+    },
+    {
+      "ref": "Shemot 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6107366479b0952acae2f7f3b0b6ad579d837a051c45001ccea237fbcd924aa3"
+    },
+    {
+      "ref": "Shemot 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6694cbb319ce26ceb62ae8cabc5efdf331a183187d0472b38d5d7d1cbc4977dd"
+    },
+    {
+      "ref": "Shemot 4:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a6371c9889c9be84a17acc69e7de48cc0500ab0423f02032e8f69c0a8b2d0c00"
+    },
+    {
+      "ref": "Shemot 4:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b1211c7b9f37684b28c4ca47c174fa4c092b76e2cf87d7b5879d35bc5816cae1"
+    },
+    {
+      "ref": "Shemot 4:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9dd0237f38ffa477bee97bbd859a1837fe07603e1d9a5ee230bf53902fcc6517"
+    },
+    {
+      "ref": "Shemot 4:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "55ec7351f2a26caad1a9b314feb0f5c19771627f17efe08ab20320be87dc767e"
+    },
+    {
+      "ref": "Shemot 4:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7f831de72f31968576318fe954f68a4cff96f089d90070c03e6e67ab2cf7c709"
+    },
+    {
+      "ref": "Shemot 4:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e20a9c3ca979c42b94e3230ff923a179ac355211dc3cc20102a790ef53193be0"
+    },
+    {
+      "ref": "Shemot 4:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fcaf3087bf098f95020f1bb9352ddd4f3f32649013401ea73ceb299e3e8efff4"
+    },
+    {
+      "ref": "Shemot 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c77a9b7069fce335bf29e5000e91c2e7614e441cd861253a6eb8027b478c9181"
+    },
+    {
+      "ref": "Shemot 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "624ed97aefa7f26a2cf62559917db9b51dabcf39f98bcd35fed55fa26ea45e2f"
+    },
+    {
+      "ref": "Shemot 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cc2baf6f5831e0c54de45d425e19821f16d003cf73a70012d6108b2bcffcb8ca"
+    },
+    {
+      "ref": "Shemot 6:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c3ac0b4a05fda086cc35d380f0df9a914872d09c99ddafca6308200bb13c667b"
+    },
+    {
+      "ref": "Shemot 6:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "38d25caf9d67f047c6f2377932ae76ca9c35bdd712f28c116073cd9239e6923f"
+    },
+    {
+      "ref": "Shemot 6:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2173281a606f6c4a37b74bf317bc482408387ad2199384f895d55a3a9e196159"
+    },
+    {
+      "ref": "Shemot 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9848c24d9cf0bc6e3ddccc6de2e5f120840444b6091f367c5c0c04ad422d4dcb"
+    },
+    {
+      "ref": "Shemot 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0d18e633aac6741cee801e316cbfdbec863a72c96dae19e6fcc2bec4f4359e8"
+    },
+    {
+      "ref": "Shemot 7:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c6623e30aedcb10ae8ab02cc6e98ba0cd1b3654c3356d11e9174d47af844f230"
+    },
+    {
+      "ref": "Shemot 7:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e4afad2ee3dfeb8b99f6b475fd92f6f67594bdfc5645e7ceb60af6b0b0bfeb5c"
+    },
+    {
+      "ref": "Shemot 7:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4b4dc8c1866b7b1e4991497406bf5e249dbd6425eac5bcb01445aac46163eb4f"
+    },
+    {
+      "ref": "Shemot 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2682bc28e7ba818d5909bc768fab0f37868fc91ae04459fd5ab84a658f1d30e2"
+    },
+    {
+      "ref": "Shemot 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ee3fda95654107aadeb5d801a38661912bc7c1ec745d0adec3cf463989db593c"
+    },
+    {
+      "ref": "Shemot 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "451efbad18d0732c3370549d41440a84afef71893a9393c93f8be6390fc50a43"
+    },
+    {
+      "ref": "Shemot 9:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f46a785bb9b978494d92a49705af3024b59335e930b515294ee705e83247087f"
+    },
+    {
+      "ref": "Shemot 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "57811c8fa5797d864dedc0ddcc1b5a5a5a8d84dc574cab8bb7b7a136d6a5a948"
+    },
+    {
+      "ref": "Shemot 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "03e982a2e9f063d3f97ccf7fd588f502beb2cc8ba05177186f13b5f315b6f6d8"
+    },
+    {
+      "ref": "Shemot 10:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d4b54f531fa98e5c98e9bc9705a2d902d734b51eb43bdbd7c062a3daba53be19"
+    },
+    {
+      "ref": "Shemot 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1e95c21973d16df0e4e764a5edfe9d3b75ccf8e370269c65610040020ad9e057"
+    },
+    {
+      "ref": "Vaera 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "780d6e1a67d3e52935068525f3efefbf8de727db3c2a5f76d213e31d9d2247b8"
+    },
+    {
+      "ref": "Vaera 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4ea60b8e66148220391beb475c8e0a9462d927098f3cf810a58f7e97121d365b"
+    },
+    {
+      "ref": "Vaera 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fd016c2947775b6275eec52bcfa7ff0e203ff9e27f5463e67ff021da5ea4b42e"
+    },
+    {
+      "ref": "Vaera 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "35375d98df2cdbdd2875bdb8ed12932e9170c2b41224eeec0da80f3f8b821187"
+    },
+    {
+      "ref": "Vaera 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4ccdeba1eceaa18e0f73dba70bced3a1a763d27691fe7835efe632264f46acb7"
+    },
+    {
+      "ref": "Vaera 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b3d62c578ce83cd02487c1a60cb4e5bd79a456958f5493bd682f78e20f660e11"
+    },
+    {
+      "ref": "Vaera 2:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "505e5ed0bdbb2c1a02be8bb2372d09651506aa0a982a37aec55a125f1d38b8c9"
+    },
+    {
+      "ref": "Vaera 2:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "19cc3d8cc4403011ef9d12616068893be56cca6a9d322bf4b55e37247963f22d"
+    },
+    {
+      "ref": "Vaera 2:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5e84bfc9a5a9035f2659b11dcf5093c4413dd702c88b5c0d2f4a8e7d83f28ff1"
+    },
+    {
+      "ref": "Vaera 2:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "67113bab7816cb507a7d1f5646f5e3373ec81e4dc1f451ab3d57078284cb1272"
+    },
+    {
+      "ref": "Vaera 2:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5a1f7b73a79c0944181f8bbd5ffad9e332b5056e1fd5fa57a85337a101bf12b9"
+    },
+    {
+      "ref": "Vaera 2:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7320795a03ed62b75906b7712481ae31e63864f656ba0bf80db8f04fae8a247e"
+    },
+    {
+      "ref": "Vaera 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0196c1d6b7572beb74baa351256295b9d15dc50d6ac4659c87d0f11e8ef49c81"
+    },
+    {
+      "ref": "Vaera 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2decce918470c8a46e5a4b9f2dedb133563cbdf0c426dde6627b0b985eaab131"
+    },
+    {
+      "ref": "Vaera 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b568ce59fe4e4eb61fb788e1f8c141c83f7c18bb7fa855a15e50f2fa24054eb0"
+    },
+    {
+      "ref": "Vaera 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "11ab3274f0146192daa659a140587ef83c9a04c8190cb877cf4b3fbbb265573a"
+    },
+    {
+      "ref": "Vaera 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2ff60cb4c760856e5cdd5d373177d32e21f0636acfc7f10958df731c040364b2"
+    },
+    {
+      "ref": "Vaera 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "63cf1257ecbb41e3e4d9716df31d63ff03b96387ec4446333c6eb544f9e7dee5"
+    },
+    {
+      "ref": "Vaera 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a9112ed79f97a334b7fcdaa919a5b7192d0260e0e9c2417df3ba8ddbcd07dae4"
+    },
+    {
+      "ref": "Vaera 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7e2f479d1f674f528a93303c0c2b91da03701ae52d9445bd4caaeb87a33a31d9"
+    },
+    {
+      "ref": "Vaera 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5abdc18d0f9762f54ae48d67945015882ddc410af862e221f2740cad8a6245d0"
+    },
+    {
+      "ref": "Vaera 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9ea6e5c88c3573dda7ca65f08e79047107466d712c4d8c200507c8c5cd4a3e3d"
+    },
+    {
+      "ref": "Vaera 9:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4a2c06fa75e7264366e656db15fa8bdd625d5d2ec5e8d0370b07176795141cf"
+    },
+    {
+      "ref": "Vaera 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "11cd02617c3a473c6a00dd66be68ace9fa81eb385aa0cbfb46f7aa2b0efe59d4"
+    },
+    {
+      "ref": "Vaera 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3790f51246e58bffb15554c98a8a669aa919a275252d9122a23ed29184140f24"
+    },
+    {
+      "ref": "Vaera 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "153c4b63cb358a3443775bf3008ac531a8ac906e2e8c303e4bb6df7cadda9911"
+    },
+    {
+      "ref": "Vaera 12:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "938e5d1ec74be24e1f1881ab9a82b25670bbbef9cf86bd3aa05afea13ed886c0"
+    },
+    {
+      "ref": "Vaera 12:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "af8e6d81cae6675b6836188a6faf04d8647ea3e83f7dbce890170e92eaccaf36"
+    },
+    {
+      "ref": "Vaera 12:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "42732a3bcba5f256d101b64e6d05c136d7fb5c62ddd54ee8715bbda7cbb99f69"
+    },
+    {
+      "ref": "Vaera 12:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1d0dcac277da732fc0917867c44a5f2e664c17393ff0a6c498f2fb7fd49476bc"
+    },
+    {
+      "ref": "Vaera 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5045c183bc430d9ac6823312d503f5d5fd759285a1a36480282d688bbb8064a7"
+    },
+    {
+      "ref": "Vaera 13:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "444aa51c171c62378dde83b3ecd6eb9f4dbbe101fe529a6954c8fc5d685ff7dd"
+    },
+    {
+      "ref": "Vaera 13:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4050a9bb82891c568ae834b91849c6d709734181e716293a19b7081d9d2789bd"
+    },
+    {
+      "ref": "Vaera 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "581949efe19a93159e869329300890f1c0b3296cba18f4b8df06797b33127d43"
+    },
+    {
+      "ref": "Vaera 14:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "228e7e434c34dd326beb540eeeab5fd603ccd80c63b9b29bb01ebf6c80b56bc2"
+    },
+    {
+      "ref": "Vaera 14:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0b3540fae5c5aa1ba5b836b40da92c2f05d65d9489bca368384a665e945a8cd8"
+    },
+    {
+      "ref": "Vaera 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "63c4851a51fbf5f45e649a327e7f454e235d1c141fe806e7bf8704508673e32d"
+    },
+    {
+      "ref": "Vaera 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4f7f3d8342db1f778d567559a0490e4b44214ad9528390b66123361b86b3efe7"
+    },
+    {
+      "ref": "Vaera 16:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1038f191b846f58d36dc7c8463b670801642a8c5d8e5eb02c211a773cd7de42c"
+    },
+    {
+      "ref": "Vaera 16:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "026ead3c33b91b632bfa0b2e615298d8ffa59eb972b4de558ee76e2c84e93580"
+    },
+    {
+      "ref": "Vaera 16:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3872c08743364ed4a01370dccc2d2d6f4c0dc6a22823273322c24a44ce62d0c2"
+    },
+    {
+      "ref": "Vaera 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0ccab3a6046d4dad6fd82a58bbde8ecdc66877efb2a29d4073e011119b5cbad1"
+    },
+    {
+      "ref": "Vaera 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "93376b765b3003fbf1776892c15ca849ed20267860c4e59118f2331b6697606d"
+    },
+    {
+      "ref": "Vaera 18:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a5151306748bee60905696b7a045cfeab44de42c4db340ab8a9c6c8a91a1d0f9"
+    },
+    {
+      "ref": "Vaera 18:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5858c7905cf6e7f8cd55dd3012cc2d90167e81faad3a13a3ca614288fa915905"
+    },
+    {
+      "ref": "Vaera 18:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bc5fcb5b54caeb0a90483225070a02448a00433dfe29ddb8eda7677f69f2cc2f"
+    },
+    {
+      "ref": "Vaera 18:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3f8894f4f7a112603cd0375486df7d5a5763d69f8feda28a9873103e48dcbc31"
+    },
+    {
+      "ref": "Vaera 18:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "70c36e85674907d2372bc702a9079ebbd53f2edc40496cb3553241208821025a"
+    },
+    {
+      "ref": "Vaera 18:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "64b498324fe002ba51b8a666b826187e735a6100c39160e3dd7e434c39af0386"
+    },
+    {
+      "ref": "Vaera 18:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "faebdc51f5d5f8fd4c624cc94fe3cb5f6af2ce55c34c1d6af276059494b60cd2"
+    },
+    {
+      "ref": "Vaera 18:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "39bc4dc1fd2d7c5c97c9d971c3e9895f775aae8f20c3d92c0a27da8670a5928f"
+    },
+    {
+      "ref": "Vaera 18:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7d171be198ae42742eb9d0455ca4e78d9af2138287c03708845f9f661e55d8b6"
+    },
+    {
+      "ref": "Vaera 18:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "62e7f5ec992e92d45f6e8c095fc559657d42687da9cbc172b0d2368bdc5ddbf7"
+    },
+    {
+      "ref": "Vaera 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d3c8df217826950f8892f691b508e64968db44d309ff1983f5d0a0142744a4a3"
+    },
+    {
+      "ref": "Vaera 19:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e82125d60864b9b9a1ea562fbd0ad7d9531398b126b1f1d94e15c73ff0dbcce2"
+    },
+    {
+      "ref": "Vaera 19:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9672ea6947c7e89494f3b96ad00023516a7a8a7a666e86a45ea4a9b085c67b92"
+    },
+    {
+      "ref": "Vaera 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "61d13727828ae914445bd119dbe958fa9e3288561b21d8357b628ff5e18fbfb7"
+    },
+    {
+      "ref": "Vaera 20:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ebc22532d54e114bd08d9d5492d08656c9f430716394909871d92c6c76be0779"
+    },
+    {
+      "ref": "Vaera 20:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9266ca72626859c2fe7e321b9c9019927fb1ce150d6c96d3304d767cd3cf6080"
+    },
+    {
+      "ref": "Vaera 20:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "40c4a7616146af22bc580395312a808aad3a8ea34049470a81b466a51f19c025"
+    },
+    {
+      "ref": "Vaera 20:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "06ee872f3f9d6259d3e6c62273d92ee6fa690d582dc17452a7114d6221ac5912"
+    },
+    {
+      "ref": "Vaera 20:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bf4b2862a3fa252acc46fd69fc33a7cab6f9d3dd9326de1d0b69546ded2e17c5"
+    },
+    {
+      "ref": "Vaera 20:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5e94c7c33351481cfc0d49bde1131871c9d4eb3152b7b8c9bde36944ec10f4fa"
+    },
+    {
+      "ref": "Vaera 20:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "69e5faf35b8fc3c41b26a1b717905760304f6394ba59f797860698a018055468"
+    },
+    {
+      "ref": "Vaera 20:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0021f344b74edf5f04d80d6f5cba72c9c3fbeebc6ae02af2c120cfe21772921e"
+    },
+    {
+      "ref": "Vaera 20:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f4bd133aed77cfd3e6ea6c8a95b73f831998055ac566d9c16240a69707f614f2"
+    },
+    {
+      "ref": "Vaera 20:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d6941742ca1a9e9146e7dc7a2465d50afadb4b3b0f21296f686458a0123d3884"
+    },
+    {
+      "ref": "Vaera 20:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "92234f1751f00928b3a4aa0c80bfabc9e1bfe40cdc415eca02fa921c5be078e3"
+    },
+    {
+      "ref": "Bo 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "2b71fbc6f01d52d0bca4abbec59d3b0510cfdad51c67f1f24b5c727821574c94"
+    },
+    {
+      "ref": "Bo 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "1ce9dc37a34d1aa121a2062f259f395d16fa5179c2995ee94c8905356f4ebb94"
+    },
+    {
+      "ref": "Bo 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b46fd0efcc34b881e79834135fda70575b83177740e6eb558d7259f747bf7000"
+    },
+    {
+      "ref": "Bo 1:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bd4ced38dbf296a2a77c39828b3fcf7dc4e02a043120b2541a5405c77beb7456"
+    },
+    {
+      "ref": "Bo 1:5",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "c2375db3f4fd609b42a0d810d0a18d200793459a0762d7142df2cbc8486d0b91"
+    },
+    {
+      "ref": "Bo 1:6",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d4eaaec43d6ebbf3fec82f68cda0d4e4245c2637f451a9c588765d85dc2d56cd"
+    },
+    {
+      "ref": "Bo 1:7",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "4e45c0e259d52a9f1cf0f89c0eadd103d021866a854db1e6a2638cb0c6fba364"
+    },
+    {
+      "ref": "Bo 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "3ffb4ab2dbceb04e1a67bc982b2bb70bb81e2f2744419ed6e1c979ecfc5214d5"
+    },
+    {
+      "ref": "Bo 2:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "a1af72a6182b19fd49ef709cc0b90d2de1375d86688c85de133bea34d2d4787d"
+    },
+    {
+      "ref": "Bo 2:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5565e076419649e4158c58cd8d0ef696f1017e472eae4744c7b1f844a3390425"
+    },
+    {
+      "ref": "Bo 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "955c163f7134ecbd03ab9666b28394ad202fb7d510c7131e0afdf020baef8627"
+    },
+    {
+      "ref": "Bo 3:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "020dc6da1e498139739719fedc30d31a67a2f1a336bfefb43932dfe92391ae2f"
+    },
+    {
+      "ref": "Bo 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "e73a4461e7ef05db431388fcbfda3e7d838482b62ad311d4c1e4340a1fd9d26e"
+    },
+    {
+      "ref": "Bo 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "51f2ad605a4f83b80e5d7d3c6f3af37538108dd2c49ad27433f82c82708626cf"
+    },
+    {
+      "ref": "Bo 5:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "11fa9b69cc108697ceadda86299fa6312f6d31f18988e6e2a2ed302cb94e90cf"
+    },
+    {
+      "ref": "Bo 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "372c156bcbfe14bad060a11a3fcdac2b9fa571bb6547c7eec7238ed8eea60b8b"
+    },
+    {
+      "ref": "Beshalach 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f0e0b7cd4558f3c96594de21ca6cb6442d6d3ec82a20a688ffc8d7d35c047226"
+    },
+    {
+      "ref": "Beshalach 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8627a20fc9b9432b456490f234029f3df699cd7d02e36feb00428c0f7a30eea1"
+    },
+    {
+      "ref": "Beshalach 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6ff83bd16b489f74b43ae57a2d185c20e5ba87fe857dc7051d85358652d18870"
+    },
+    {
+      "ref": "Beshalach 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ad3987bb9b6fadbd38104ced8b0510f6ac06fa4512b943b142eb633735d7f585"
+    },
+    {
+      "ref": "Beshalach 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "52fe86df3eaf1a9f4625e1683f87bff8d816edc1c721bb43b032a18ca8ac309a"
+    },
+    {
+      "ref": "Beshalach 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0252495e3e78b11a1d2112c669347c81c5eb09183b340ffdc40b867731beb74b"
+    },
+    {
+      "ref": "Beshalach 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "042d06dc01c87b64d8e05de9fbd29675a665c460a68c5481ee2a5a684cb8f12c"
+    },
+    {
+      "ref": "Beshalach 3:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c1323e61b77617a6ea75ea224b2f8fbb0c3bf198df0dcc7a1138494ac8dc02ba"
+    },
+    {
+      "ref": "Beshalach 3:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0706dd30baf7bba283c666d6972f793fce33812b4e19695953ade2ff788d9a69"
+    },
+    {
+      "ref": "Beshalach 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3a566d4299d85925845ea6cd37743a4f8130e5a08baf6c717ec792f9775a1c2d"
+    },
+    {
+      "ref": "Beshalach 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d77143f9637510161401f856191f3cce73052fcf13bd790926c5c68fb6c6066e"
+    },
+    {
+      "ref": "Beshalach 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "990c03f09a8c134d67fa5d3a56638b6d8128b4d2a9d548b41c92ff9774ab8e6d"
+    },
+    {
+      "ref": "Beshalach 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "986a8387c8b4ae7d26aaef11bb0c28c2454c51c919142fc7bc44e9c31b763405"
+    },
+    {
+      "ref": "Beshalach 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "174d037c8125e637e73478869fa1776440698acd47507aca8e586767eb930d34"
+    },
+    {
+      "ref": "Beshalach 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cefdfd17e86dd594a7945bccf2c6efd886bc0d59f45d8fff47c7058b42f5d068"
+    },
+    {
+      "ref": "Beshalach 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4b54ef7859793f06b97e6318c3e3a4268c863ec4f6dff004e659bd3f7952e672"
+    },
+    {
+      "ref": "Beshalach 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3677c5402cd47df9d099c058d0ad95b196667382c8e971c67d48a10eb07f61f4"
+    },
+    {
+      "ref": "Beshalach 10:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "78467320cc02fb5998778599a3aebb2fa0296f5a4478886ecf081d508d5895f0"
+    },
+    {
+      "ref": "Beshalach 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "220d77d86321386a5d1aa13ca279c810f653fac908960b7c320cfe0906566b80"
+    },
+    {
+      "ref": "Beshalach 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1af0f8b1ce3b3fa0ebadafa82385e66e36f89328e8d26a4493c6d6ecede95597"
+    },
+    {
+      "ref": "Beshalach 12:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fc7a85a17c6b80a7bff4733bccc1e37d0ea9733c69572075223a7e3c5478613f"
+    },
+    {
+      "ref": "Beshalach 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9f1defa7afc1c317ffb94fe2a12789c13cc5fb5d6c5de36fa1dfc33eda2c65b3"
+    },
+    {
+      "ref": "Beshalach 13:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ffc40bae6e6be83636dd8f5191db52a7596e46646b88d0b8c928cf12aa8a853a"
+    },
+    {
+      "ref": "Beshalach 13:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9322aac9888dfd92d3d2772705cc40dff65215ab30034329e6464f1e5b92e512"
+    },
+    {
+      "ref": "Beshalach 13:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3875b744a5f8a074b5256760741a5243ca092d5a8fefca2b69bc14d7d4e5de15"
+    },
+    {
+      "ref": "Beshalach 13:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e921c8dd3855ab04ae00e8a65fcd4f5f8b520b85b47441073e0042cc754c5503"
+    },
+    {
+      "ref": "Beshalach 13:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "511f093d4d746f9556a5d0e9b775ee9ef06544575e5ca2e85c89667c409ad9fc"
+    },
+    {
+      "ref": "Beshalach 13:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3d30548386920d97148ff1f4d379c1b20a5da9405ac92a0371442daf94bb1916"
+    },
+    {
+      "ref": "Beshalach 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0b27f1c2c3bf7f919a644e5f797c0c84ebba9aa99cbe5cc1f79eddc8ffa50cdb"
+    },
+    {
+      "ref": "Beshalach 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cc79809f7f8e392b5ec0e2ea76335d5b4cf4f75f32412cf6d43656fdbd2f2a10"
+    },
+    {
+      "ref": "Beshalach 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "caf154b46eb7b51b9562f4c9e67a3ff5b0b652e5b29af64a589e2225040beace"
+    },
+    {
+      "ref": "Beshalach 16:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0adbd2fd230215454959da4c2d0e7722ae75adac90fee150807154a679eca401"
+    },
+    {
+      "ref": "Beshalach 16:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "620e3018c85a2137ba80e6c28955ca16a4aa273254986f9451bfe5b27ca5e9aa"
+    },
+    {
+      "ref": "Beshalach 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7eec2a0d25a74fc36a340e7c30c8094a3fc2a2bd50112775c107a3133d84f164"
+    },
+    {
+      "ref": "Beshalach 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a7be97bd1dfd015b1993131caf9793b3469fbfc26ac5105035d51073e0989ced"
+    },
+    {
+      "ref": "Beshalach 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5bfcbae897ff7299e0427e024dca3b754a5c09a4a406e633d7b91b020a224ffe"
+    },
+    {
+      "ref": "Beshalach 19:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "01876967ea5b106c55d26be07c5a59ee7d868b45025ce0faf885503636182608"
+    },
+    {
+      "ref": "Beshalach 19:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4015d88f6780c9f9ecf59b1452f80dd4d60b1ef2b2fffa66f7809791bd61313f"
+    },
+    {
+      "ref": "Yitro 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dc711220dd317fab6e006efabe141f311f369e4137ca74769678f10238005c51"
+    },
+    {
+      "ref": "Yitro 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ad29815e13527998a018186361a71d2d5e5bce29c04f224f2498b49be310a848"
+    },
+    {
+      "ref": "Yitro 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "490ddaca5c7e900afcaa34addfc0765aebd325251e777dd8573fb3496fbf2b3d"
+    },
+    {
+      "ref": "Yitro 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "05e7693b8a1e1e95cef72aa3594ce2f0c4e7cdaee2e362a40fa8482b4f7ff75a"
+    },
+    {
+      "ref": "Yitro 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "82ec35112d2c86ec9c39e330afc0526518c4c0e2b9c938a6534b47773b10bab2"
+    },
+    {
+      "ref": "Yitro 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3a558f9d2c2e57cd1d373c7fe66734c889bab111bfa9a5763113a1f61e8fac15"
+    },
+    {
+      "ref": "Yitro 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ab8327ddd255fd85b282d6caddb46df916775e58d3cdf405cd28c98323604cc0"
+    },
+    {
+      "ref": "Yitro 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5a7c92858be1176dd42153145a3ab5f2646f3b41ed88224b52e7557bc6e55877"
+    },
+    {
+      "ref": "Yitro 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e01fee41fd4c165eb64ca7880c64487e0f26a9148d53cbec08e6f89be7e98501"
+    },
+    {
+      "ref": "Yitro 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "10d790a43809962b707ea49cb1a2deedb700f46c53d4267dd0b84b8f0aece430"
+    },
+    {
+      "ref": "Yitro 6:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "33dd916b1e4af97f0ca42ab4c9ec87351bc111ef89d87907b6ebf4dc925c4048"
+    },
+    {
+      "ref": "Yitro 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "46bdd4e73628a5c7d56d913b161a4776cad21226e3b1a4b73a7806e8b56aa453"
+    },
+    {
+      "ref": "Yitro 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d975024b6aa342e977368f80c58e1cd19e01cfc662672eb6c4b47d20a0a4a5c6"
+    },
+    {
+      "ref": "Yitro 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "19ccf35c50dbe14021d8c21224595d0650ab7bf0aa9cda34f0f145a6be62a581"
+    },
+    {
+      "ref": "Yitro 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f0761633874308b6a1edd0fb1555dec322c9fe9ba1779d7cd50ec6beb6b32040"
+    },
+    {
+      "ref": "Yitro 9:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7716af7659256e918d50de30f53105e8feb63e76dce9db0b383065be45e9f83f"
+    },
+    {
+      "ref": "Yitro 9:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0cb0ceab2057b003a29a02dc55c3a7dd5c185bdcae50af6f18993912c3dc9e3"
+    },
+    {
+      "ref": "Yitro 9:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5ace376a15a53aebf0ffc5711b1157fec6e88c1e681a09b6d8ebb0137b2b0a67"
+    },
+    {
+      "ref": "Mishpatim 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f396385bb99641d1d01a02a16ff0e4ea4971d563d418f6a03b15f4fd23db79f6"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "4b7fb263ffff701a86ff1442d41513000c9177c5e63550dfe374b192bba17461"
+    },
+    {
+      "ref": "Mishpatim 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "6b235ebe691eb393231e6e8be1765013b70fdcb8a588682ba4d3050e93cf9716"
+    },
+    {
+      "ref": "Mishpatim 1:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ab418179dab2084b0222c4434a66760e41e15dd933df2a4ad432ac7bbd15809e"
+    },
+    {
+      "ref": "Mishpatim 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "38b0f4a825025c6bd014c5f980a6747b88267ece54b5ee1c9c86458c2ff9c008"
+    },
+    {
+      "ref": "Mishpatim 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f1251dd5d572683397484dbeae535a8de4d01ce4e6f3c6bd8af57866c2f66ee9"
+    },
+    {
+      "ref": "Mishpatim 3:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b5a5f67300daf18c784bd6939881854bb0b46ee3b8cae78bf5bd9faffc16fb68"
+    },
+    {
+      "ref": "Mishpatim 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d5a09a61b6b4224caa8b57bef4c68e8093159f8ec802b1c3a1b218eb5852c210"
+    },
+    {
+      "ref": "Mishpatim 4:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d846e550c66ac8539328bf221f7fa31976ffabf475eb7103a8ee8c71139081a9"
+    },
+    {
+      "ref": "Mishpatim 4:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "37e602eb8ba3b9976a076199aa09b274d837b8e872945c4315ec6b7a80818968"
+    },
+    {
+      "ref": "Mishpatim 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d7a5630c0be2c7b5bbdccad2bbcb88f5a8e79dadd4df61790dc6b9092b9a74b2"
+    },
+    {
+      "ref": "Mishpatim 5:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5163a7f4b5112cc3f73cba7e412b929c1ab3e5376fb3110ec7d16a2de0dc780c"
+    },
+    {
+      "ref": "Mishpatim 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bbb64d8f56d6c75c811affddc8d01df0bc3faf9e8bcfa0a042b1345ff7024165"
+    },
+    {
+      "ref": "Mishpatim 6:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b47a12768b1e15ef4fc76c729a20e83e90d637f58ec759b2995081d58d5f8751"
+    },
+    {
+      "ref": "Terumah 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ecd4274841962a681ad0c6687f208fe75eef4999c39af85257dc0919fb30431c"
+    },
+    {
+      "ref": "Terumah 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2eaf60284026429e325fc624047f72133aa13dbe63062d887483273ebf25fadd"
+    },
+    {
+      "ref": "Terumah 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c35d35ba59b29b300dda8c06984951e163529904e5088d9728d49e3af3815a24"
+    },
+    {
+      "ref": "Terumah 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "42aeb32840bda4071d4b947f51cbc97ec1da48c698a4b15e5a27cbad02222f3a"
+    },
+    {
+      "ref": "Terumah 2:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6f63f7a3cf9cc79165614ee5832fa9dd76516c5d2d32a9dcb8b201b3418f197c"
+    },
+    {
+      "ref": "Terumah 2:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0d443bcfe9493b9ba85fab7432c23ea738fcdf27e7068d2fb0725e8775a225f7"
+    },
+    {
+      "ref": "Terumah 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7856bd25a8270e57ed0ab21cb7a609d7b658145050a5d01f56a2d6c3e238b83e"
+    },
+    {
+      "ref": "Terumah 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8d6d6d73ea9d846a1504f891a786568d47f92655e4c5172c14f1aa88c6759cb7"
+    },
+    {
+      "ref": "Terumah 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dfdb9843a8bfac6f9935148470b47946648c41a99d466721cd4bd3b526f45f37"
+    },
+    {
+      "ref": "Terumah 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e12d74bf86b9179092e0bf86c9b3cd24a806b68eb4de808aba56a4103294290e"
+    },
+    {
+      "ref": "Terumah 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "929a18c60fe98d70a1fe179f33135869dabe8cd502450ddf53e7e180fb164792"
+    },
+    {
+      "ref": "Terumah 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a942f827da4ad6f59ca169a1b22fbdfa0b0207b722deefd5ebad395949e34650"
+    },
+    {
+      "ref": "Terumah 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "622f596144d58f94a0175eaf0f5cffe7254254cd183cfbef046b851de479982c"
+    },
+    {
+      "ref": "Terumah 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5fa359a185832b326b61d37893e7e4d6f05906e4df8468904ca847f749802941"
+    },
+    {
+      "ref": "Terumah 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ad204e1abaf7dd194c3c288b4e7404f305b4d5d18395ab3e359a976179ce1783"
+    },
+    {
+      "ref": "Terumah 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bc570e7c4ac65f74343733519083ee094b4e3922ce4a2a9a365af61e19d640e9"
+    },
+    {
+      "ref": "Tetzaveh 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "70d031322762a07ce6db5bb7cc3cce16df25da3aa2493627b6e65aec819b88e5"
+    },
+    {
+      "ref": "Tetzaveh 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e925d514e5fa4b7e7bc3776cb42ce2cf4a320d50c98dd06963075d50b8ff7c35"
+    },
+    {
+      "ref": "Tetzaveh 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4b64df5c8014690e02f6b619f0a595622f0ed4d79e646e5af291b808b7947b11"
+    },
+    {
+      "ref": "Tetzaveh 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "39febcff04b968cfc2de7ffc17effa3175e5d10d0b32d99a8cfaca92bde5f00e"
+    },
+    {
+      "ref": "Tetzaveh 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7ec215dd789075d0bff82577405ce8c65dc2a7389ddb1234eeabe3a47bf16337"
+    },
+    {
+      "ref": "Tetzaveh 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fa6f76be8fa297a59bb68df105be289caf60f711b8c7bc87833fdcc0b2c4a286"
+    },
+    {
+      "ref": "Tetzaveh 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cd64555a0ba7c6ad8a23ecce946a8cc783fd169f8ab11d62f4fd428a0c9d903e"
+    },
+    {
+      "ref": "Tetzaveh 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b8c20c24263d67f5333e39267911daf4dc512910c8df0f2278e7c5c2199ae26e"
+    },
+    {
+      "ref": "Tetzaveh 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ce5e04ba9a728534aedacb2353e8c1431c8e828d36503b34e6bea8640f0497d0"
+    },
+    {
+      "ref": "Tetzaveh 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "51c1e761ed7f264e91df1401ccbe3513ca56de4d4cc4b7fd365881c557e6ea07"
+    },
+    {
+      "ref": "Tetzaveh 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bd8764d2092b9cc802d3a35fa0827746e48b6b95845168134f5f47416efb9d14"
+    },
+    {
+      "ref": "Tetzaveh 7:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dd8d3583d1d6d1fd50ade5654e7d0863c1152e3ed9f98d211ba4f33967148258"
+    },
+    {
+      "ref": "Tetzaveh 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b9ef8cceb4982618e23ba1cda6f09908e84b6cbb3dbb5ecc0117a15e23ec7019"
+    },
+    {
+      "ref": "Tetzaveh 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5c76dc6cfc7d1b45c297d27dfe53b7878905e36c02a1e47043b9872e967101ab"
+    },
+    {
+      "ref": "Tetzaveh 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "92acae803a3f7191db70b3bdce51ef0d250c3ecb271099965583649bbae8716f"
+    },
+    {
+      "ref": "Tetzaveh 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a42ea064ec16a3caad33c731ca161b96a8b77a9acfa285b0105a5336b1247b9a"
+    },
+    {
+      "ref": "Tetzaveh 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "93cf117be3fa71a09c4137a69c81ad23ae7fee16787eed941ad3e5cd74246bbf"
+    },
+    {
+      "ref": "Tetzaveh 11:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9c8a3ae4fba2ac03c0da41f2450b5bdb4b89556d2a570e91b4c9f8d2ef1eeff9"
+    },
+    {
+      "ref": "Tetzaveh 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7b06b2462da9c5d98c8649f3da9b53250888903c2d23420d5fbd0f2efaf16a03"
+    },
+    {
+      "ref": "Purim 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "a7703de02f9d59e295857ac6947b0de0871badcd984281bf8823a9168f3d3a54"
+    },
+    {
+      "ref": "Purim 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "b0211732e4138bf83f283f53274a6aa7d8425e7c759433b7cc49f0fdc5901b1a"
+    },
+    {
+      "ref": "Ki Tisa 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8f723b3e7b6111edec7f6c2a6c932c506278b51853d06bf8149a8bf8df85c9f2"
+    },
+    {
+      "ref": "Ki Tisa 1:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2039f62c42d8f505288ae3e4389536fb714a1efeb662223cc80fcf5bd948cc96"
+    },
+    {
+      "ref": "Ki Tisa 1:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "38e2228d4f3838dd23f960ec46ad9baff2348559152766701b9883779fb517ce"
+    },
+    {
+      "ref": "Ki Tisa 1:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2c11067f68de4b093f5aa52ca67fe766ab049916b4baff4c9a806e7b7a42c015"
+    },
+    {
+      "ref": "Ki Tisa 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a4473e96984f237e2c14342e6194ee5691973e8492a905c84baeb8d735378c51"
+    },
+    {
+      "ref": "Ki Tisa 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5dc70dc7a0e28333ab24989455869932959086e209cf51c211fe60053135e818"
+    },
+    {
+      "ref": "Ki Tisa 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e2781859f10527918db01490ad2d0750a55b902bf09b3eb95f6d57fba904ab5d"
+    },
+    {
+      "ref": "Ki Tisa 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fa0f68d7dcc5b8db9d07eb3f454e1b7fffe7a74f598825d671f1e07ddc303abd"
+    },
+    {
+      "ref": "Ki Tisa 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "24b73eec5012a1890fc2632e8963fd66b9daf39e856dc29a36fce20ddf68de65"
+    },
+    {
+      "ref": "Ki Tisa 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0d4b580f1917a9214d1859c99e0fedfd7363fabe58560500f9b5fd4a0a02713"
+    },
+    {
+      "ref": "Ki Tisa 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6513184da56997f22603109f4325f051a781fb7ac4ba48aecda01d6aaedd88d2"
+    },
+    {
+      "ref": "Ki Tisa 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "877c8301f5369051e0e9dddb4f130a7909d8770dfe5590490904881f2170c15e"
+    },
+    {
+      "ref": "Ki Tisa 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3b0b4fd7e0a6491c2632f9de800d3a06ec5f31bd9e7449b6ed29f2afdb6ac1c0"
+    },
+    {
+      "ref": "Ki Tisa 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "73e8fafe88babc7576edba977381f384b01da09935147a46d2bae895bcf8f732"
+    },
+    {
+      "ref": "Ki Tisa 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "db41407b595d537e35a4e67decfdf19ce279614b9ae6d0639ffb198fcb60fb4f"
+    },
+    {
+      "ref": "Ki Tisa 11:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ddadad4a7d0839ee6f182d60127cbfca9493570733b70cac356adb7c9bf24d95"
+    },
+    {
+      "ref": "Ki Tisa 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "28ce5b514bf67a2bb84c7fcd8d3eaf29812be365732d52f522ba05492ab08d4a"
+    },
+    {
+      "ref": "Ki Tisa 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9a4a59a4324a1c84a803acdd9e77d76c34e989d7791dca6aa038f6cf3a470bc5"
+    },
+    {
+      "ref": "Ki Tisa 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ddad921059db316ff3cb25930c214a55efcafa24989d538a305cbe4d00369286"
+    },
+    {
+      "ref": "Ki Tisa 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4220be74ab8774b31825aa3350a5832abe6a472846b341a113c79facf4f5022e"
+    },
+    {
+      "ref": "Ki Tisa 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "92c9bf9a7d35338277f431908e9bfbf7b192cc1b7ae7fb5c9d5e93ec26b26967"
+    },
+    {
+      "ref": "Ki Tisa 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9407a2564c58308386306c5ea8b5fafa15a7b6cd313c8db4b26ef2842fddf8f0"
+    },
+    {
+      "ref": "Ki Tisa 17:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0714c7debc90a45a74b3cef15e772925a145cdf7d5ae1d61e8797273da708037"
+    },
+    {
+      "ref": "Ki Tisa 17:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "15b3cd669e0ebf14d2253a51431c51c98b2a4b7c51ae803bcca0fbf745d63354"
+    },
+    {
+      "ref": "Ki Tisa 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6d4e7178253c113faa65bb110287747e35039e3da899c20243bf85a1b43bc25a"
+    },
+    {
+      "ref": "Ki Tisa 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ae0ebbf8e96434654ae1a7c07993e8f06f86e1743927650a59b41700ee621b47"
+    },
+    {
+      "ref": "Ki Tisa 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "461ca668bcd05b74356a9082d4a83d3d7f67f747c241753f31ce74b2e0e1b7b3"
+    },
+    {
+      "ref": "Ki Tisa 20:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7cfe91d74fa5f6d0b66698dfcf753435e7cdfe00e9352d96c92dc15a6b8fdf66"
+    },
+    {
+      "ref": "Ki Tisa 20:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "993d5bbc3f577f6cc3f569c5b5a50400161eeba9aee0d1957dc4ee079089bb7c"
+    },
+    {
+      "ref": "Ki Tisa 20:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ba53d7a58054ad1dc6374717c9db3257c22567f3294d00a982758a46359dfc86"
+    },
+    {
+      "ref": "Ki Tisa 20:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "79eb4623f26147f03bb4fa19a10372d8dfd25aabb534b980c25b5c583dc90bd7"
+    },
+    {
+      "ref": "Ki Tisa 20:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "23f481d432956d988034fe0a933e173c13c9b5e737312e6314de87f7c87a42e9"
+    },
+    {
+      "ref": "Ki Tisa 20:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9e004fbeaf6bcb9daf4830b29f56c6015596f78227cb6ab980353a895fb3668b"
+    },
+    {
+      "ref": "Ki Tisa 20:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "574176e778ab2010e6b5474480685b461b6e344fbd5feb3fa1e9df0e63ca5508"
+    },
+    {
+      "ref": "Ki Tisa 20:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f76fef4344586d27ae41cda64f045fa99c4070c5620f2d4d146920a6fe56e40d"
+    },
+    {
+      "ref": "Ki Tisa 21:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "90eb6ba818e33b78f7193647a49b68c5941feb5e3950b6bbeaaa312a5a6fabc4"
+    },
+    {
+      "ref": "Ki Tisa 22:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "da1cd23fd7d3a5897b902e81dd55749a3a440b20b32fbb8ca8e0a38795121262"
+    },
+    {
+      "ref": "Ki Tisa 23:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e7098dbdd325c4e6f0cdb997260009a774675a22b234643496905a2c3f7ba8b5"
+    },
+    {
+      "ref": "Ki Tisa 24:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "164f82b951e699c79ac294850bc7fdb7985951f047efc0cbac4057e9b6c829df"
+    },
+    {
+      "ref": "Ki Tisa 25:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0e3d0a1463b4e1c028040c403dbea5a88fb7c157ffc3df040c2b2eb7bce3f360"
+    },
+    {
+      "ref": "Ki Tisa 25:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dbfb05b5291aa3cc7d02e6f7ad21541380ebf4648adbbfe320151c2464ace87f"
+    },
+    {
+      "ref": "Ki Tisa 26:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6fcc60123b0e4fb6290e9e38d5201b76ee4351549e69de89c38ed1cde29922c2"
+    },
+    {
+      "ref": "Ki Tisa 27:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b5e3ceb1c7549e09253ca4717d8e2912884b0f75a271d34c8aa12bb730523e0c"
+    },
+    {
+      "ref": "Vayakhel 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f978d2a4f5a967c036e616557a6529414bfbbe9ba574b224bcd2d72da81358a2"
+    },
+    {
+      "ref": "Vayakhel 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "9000ec37262a9e2fb732789d77742b8699ba813fa39bba99b5281b1965b541bf"
+    },
+    {
+      "ref": "Vayakhel 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ec2f0acc868613d7d665f671baaaa760ebfa61f6fa3215b81b9799123aa8fec1"
+    },
+    {
+      "ref": "Vayakhel 1:4",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "0809f7c15f8c7fbe4f268ac533e5e834a6bffc7fb366d6483f80bc3214ad3928"
+    },
+    {
+      "ref": "Vayakhel 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "8e22af0836921e8b8bf55fe913efbe2a0043caf944b7ef67f0bc29fc607348a7"
+    },
+    {
+      "ref": "Vayakhel 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "66b70086c9977979452065f46fffe398fe2bcc3320c6d8d91d538611473c07fe"
+    },
+    {
+      "ref": "Vayakhel 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "059c1061ad6668ee033921c424d157a5c9d378ccea1c41bc0346bd0620c6e9fb"
+    },
+    {
+      "ref": "Vayakhel 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "9370901f12038f5e0329bb34f6158253537c2d6fbc5c4d5e983fccee0a3f0a60"
+    },
+    {
+      "ref": "Vayakhel 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "918d7a65f655666f0fb94b1655ba1cff800d4815cd0e2be76858b718903c08b6"
+    },
+    {
+      "ref": "Vayakhel 6:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bb84c464ea1ec272f324c5cf52d621f7aeea2e84a9347255d132894757c17378"
+    },
+    {
+      "ref": "Vayakhel 7:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "871d7a85d9768bad2489fd2312821f313f299fdad05af82ab781037d77f497fb"
+    },
+    {
+      "ref": "Vayakhel 7:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "ce2ba2676b54f10a1cdad83e5f5919c9b3f7f1eebb2c40fdd7ac1a716ec8faa0"
+    },
+    {
+      "ref": "Vayakhel 8:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "51ee8bc257203c849c23578f3935b18c1fbb816facf758c8376b438e9008ca22"
+    },
+    {
+      "ref": "Vayakhel 8:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cbb4cdfc38165505d6c61e9687d6850672903628218639811a6b5302c08fb57d"
+    },
+    {
+      "ref": "Pekudei 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b6bbcaf1c12b5a1cc99263e183846b5dd5dcd981c4fa6d59daaa3e75411a1d0d"
+    },
+    {
+      "ref": "Pekudei 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "26bf3139ff0ae3c9eac669657643f80893d74bf761d5d284a9bb9ca292bf8e8b"
+    },
+    {
+      "ref": "Pekudei 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "16c5560f23c17beee092d5d02c38fa60962d462f9c91e29e0f684d015b01279a"
+    },
+    {
+      "ref": "Pekudei 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f5d2b55ff8c2b81908c3b5b8d1914e1c550c1e8d06c8f420e54b6cbf5656b354"
+    },
+    {
+      "ref": "Pekudei 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b62b6707de4d5b1238f65443ff4a101a528cf2827afbf6d59bff1df2ad4570d1"
+    },
+    {
+      "ref": "Pekudei 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0566c6ebf1f13c557e6c36e9fb40a914e050e1185033d23d3a61613e6484ed4"
+    },
+    {
+      "ref": "Pekudei 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c5be3f86845b834a2d7ac4603006e35934a26603e9dcc7c3e87fce837c47e9c5"
+    },
+    {
+      "ref": "Pekudei 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "77baae07d23ae5786fa151329c8ba9de1f9d9d94cd5e260ef081a22f89f9188c"
+    },
+    {
+      "ref": "Pekudei 5:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "808f0314e672a139210bacfd55848f089398e9d7cd09ada554f4176cafb4d8a1"
+    },
+    {
+      "ref": "Pekudei 5:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1141185f2a3af1162c282b88ad1d99eae7f2622f09150713608b81f5a192cd48"
+    },
+    {
+      "ref": "Pekudei 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3297183dfbe65428b8a8d225ea3a742877f53633b501f3a72b389ddec71433f8"
+    },
+    {
+      "ref": "Pekudei 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "95a688dfd8634bd2f1e32e677c043e690c5586f4d284745a3f073603013e28f6"
+    },
+    {
+      "ref": "Pekudei 6:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bd8b982a0ebd29ccb3b9a949a4bd15d52c1a6fb1a9cbcfb67d0d87b39d3612e0"
+    },
+    {
+      "ref": "Pekudei 6:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4a81bf41916f363f7d17cbeb51d1f54424595593d1a11065e8ec379ebcd3787f"
+    },
+    {
+      "ref": "Pekudei 6:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5005e1e007345bac61717f2f6f218744538e86ee8f0e001f7c731bec92ba57f8"
+    },
+    {
+      "ref": "Pekudei 6:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cb88dd67f4c6df8a1b2f5630dff4aa9985186b683a4c6e3bda3d9ed9b14597fa"
+    },
+    {
+      "ref": "Pekudei 6:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6870624f7dd02ca54b4c4bbb1c8661413bef1b4497f7b0e248cf6b8ed6fe1c34"
+    },
+    {
+      "ref": "Pekudei 6:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7b4161e3fc7b45b6411064e186b13babb6342fc5ad406e3b9aa6ee610c57dc52"
+    },
+    {
+      "ref": "Pekudei 6:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "19407bdfd9d324202104945ec55801da0222756f1473121e0e04cd07d24c4079"
+    },
+    {
+      "ref": "Pekudei 6:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e15465b0afbd40103dcce678625206882c95855a5bdf19f10dbe9269594b9fd9"
+    },
+    {
+      "ref": "Pekudei 6:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7c8197878c3fd3bffdfda2f51f46e8014d7ebef98bbff79e9df654144daf7f5d"
+    },
+    {
+      "ref": "Pekudei 6:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "96cf8c3b6d918767fbd93b7fa074ffeee47d3266edd18d16adfd95ebe2568889"
+    },
+    {
+      "ref": "Pekudei 6:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2567eaf01ca3daf8ea7d0ea1bc14a12d1ad7955f921702c6d50a7f7885b70de8"
+    },
+    {
+      "ref": "Pekudei 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "23552e198314d3f09d14cea0442d371265c04e9a32c90b31231f7d56329f28ac"
+    },
+    {
+      "ref": "Pekudei 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5de2e9c86abda732565a226cfc48acd95ce5c8b519485c357e6aa0edbc1c7c3e"
+    },
+    {
+      "ref": "Vayikra 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "a4866b40cbc58d62f4ca64862496a5ef0013291d43f5761fe7c5184658c95670"
+    },
+    {
+      "ref": "Vayikra 1:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bf725e25cb17f0217fff1d385ab4c9c3c4d69aac35b24eb765fa75b7ead3c091"
+    },
+    {
+      "ref": "Vayikra 1:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "7016f6b120257626d8ac7d6dfcb3311a43ead7bc17241d66fcda6ea621785efb"
+    },
+    {
+      "ref": "Vayikra 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "6e5f4ebfe5d940d46417e35bd4c5b26fbbd213363d4862478df0d73c365240b8"
+    },
+    {
+      "ref": "Vayikra 2:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "72e334aec2fb3bb4051dd2d56a97d676ffd4447db8f56bc1683e0c0c5a22c144"
+    },
+    {
+      "ref": "Vayikra 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "1fd5f3c7629f8cdb8e4e3f3d4940907ca09515014ce53a10107888385de16a92"
+    },
+    {
+      "ref": "Vayikra 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "aaaeaa9a2afc84c85097a3beda182771546c347b829f61b9f9262890dda5e65a"
+    },
+    {
+      "ref": "Vayikra 4:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f5891be4c0dd110166527573d0316e60a1832dc071735fd0b8b9d9090b414fb8"
+    },
+    {
+      "ref": "Vayikra 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "6dba5977fead65b606adad40e0f6e5740457f2ed6338cc5ac9850d7d4dd97ea6"
+    },
+    {
+      "ref": "Vayikra 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "23b4e62d76bf1abc6740b0c4f48ce7d0a290e5b9ea426a1cd96550fc5f8859e0"
+    },
+    {
+      "ref": "Vayikra 7:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "59692f712bb78e5e8136c402d2fc992f84a139d43be09cec86bafb5579721043"
+    },
+    {
+      "ref": "Tzav 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b53e554556331a69545b65de656a2c94cef13790ae0ed8914d030925ae5b52e6"
+    },
+    {
+      "ref": "Tzav 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f99c67b9460c9baee25995470528764732f96fede72e19ba2a4ffc8282fa35cf"
+    },
+    {
+      "ref": "Tzav 2:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3df456e1b31ff5c8fcb5e0675f46973bccfc87b895ee0dadd816ae2e0f2d343e"
+    },
+    {
+      "ref": "Tzav 2:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b8528616bb4bac1a83ae72d1f479e4fd6b599d9ce039ac52fa444204b34c576f"
+    },
+    {
+      "ref": "Tzav 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7c72231a69bab74ade163e6803028159a3cf729290d631ae592ec5c50fb880fd"
+    },
+    {
+      "ref": "Tzav 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a546418be0b6a9f7f325ee67f4423216645bf6a055149ac5c3a8b17d18f939b8"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1df8f0b6290bac174233bbdb6c67072147dd91796d9e67265f943956bb023a57"
+    },
+    {
+      "ref": "Tzav 4:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4f07f25d72516694794b048149225a98c4d5c1872eb5110b8e4efbf78727b0ed"
+    },
+    {
+      "ref": "Tzav 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dfffd2b6c6c5395f27e8753c72601e10f9956bc7c7991967ff65c182848d69cc"
+    },
+    {
+      "ref": "Tzav 5:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6aca83eb13f7bb4b26a95cccfda5ad18dc56271af2748a9d2a3c72fb59a35899"
+    },
+    {
+      "ref": "Tzav 5:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bcef72235bf1566472cd4ab2f60586ee72a147f1817193e549dc32570db1afbb"
+    },
+    {
+      "ref": "Tzav 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "69432cec84d039d352c1f6016dd446f5e03180327955f6e2a616233d5251e1b1"
+    },
+    {
+      "ref": "Tzav 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e0b15ba2d390bc14f40c3f4725af0aafe5f91a16dbb7619c583d08fd50b3c3bd"
+    },
+    {
+      "ref": "Tzav 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0e180683df8989fdd6989d9c4ef86abfbac87cd7a236db4648d0f5b4ccec8db9"
+    },
+    {
+      "ref": "Tzav 7:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "50cc5d79a41ee11edbb27961b462cd16a0211f409b4f11c5e1898a3b9d53c5b6"
+    },
+    {
+      "ref": "Tzav 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e54a34c97e9f9a6a9bef03f33aca39d905a93c667ffc7a61f90c58c4fcf3bc4d"
+    },
+    {
+      "ref": "Tzav 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6b0efddfba9bb33e3370dd3f614b84fbaafcdd46e61cd2edace4603a339d5a9e"
+    },
+    {
+      "ref": "Tzav 8:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f58749344d81193d0965f7b49c3a7b2299a82bc5c15e16a8d4540f88ed583acd"
+    },
+    {
+      "ref": "Tzav 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "08da9c33fd42f77a7a81d1a9f95f82b24f1940f2cb905f5535a45bb00c9ddf33"
+    },
+    {
+      "ref": "Tzav 9:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a7263db4356c81b68ce2ec80c059eec38fba7468a28f01a81c3f7cb35493e517"
+    },
+    {
+      "ref": "Tzav 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "58dc68c0763298fd1dcae7d43be128492bbc3b34588dec164aece8fc02d720c1"
+    },
+    {
+      "ref": "Tzav 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d8be16c4124d0f3ec5ce0f868d96803d094b1b4e4a5206d367bede29e09ec25b"
+    },
+    {
+      "ref": "Tzav 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "035363723b175bdc916cd2c65f22a6e0a66faccfec23b8e9aa811ff2a67adb32"
+    },
+    {
+      "ref": "Tzav 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c13d8167384376ac129e281f4a12f76df9cffe5c87fc8f757912c35544e97883"
+    },
+    {
+      "ref": "Tzav 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b5fa7d1cc90fb14f082e2e41eca6febdb58f1892c082c9fad01e2ee47bb52938"
+    },
+    {
+      "ref": "Tzav 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "95886015ba29201c733861a5e9317444f1c955d9ce03988917ac578752530520"
+    },
+    {
+      "ref": "Tzav 14:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "89eef05d7a489ec9e1bc69c0dad158cbc520f3703cb0035b876e60a92ee98b1e"
+    },
+    {
+      "ref": "Tzav 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c7e64ce7c4f8dd37698b3d61e864a1a62c3330d4d0d84e4dc42783f8552ec671"
+    },
+    {
+      "ref": "Bamidbar 1:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "763d4328c2c84b90ab84f8be0ea5c7a5916d8149e5d2dbb2d681d7f8595fed2e"
+    },
+    {
+      "ref": "Bamidbar 2:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "c6640c6fc1bb728ac472669b4b697d075ca38b21cd4c69b42da59f3e6259e97a"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "abc6873388f6d20c1abf534788955ee3c512c63123c653c1650ddfa4290fd1bc"
+    },
+    {
+      "ref": "Bamidbar 4:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "c920ebf7b3fa8e781bc312c7e63fe6a8fe25817d4f40116cc5935e63f401782b"
+    },
+    {
+      "ref": "Bamidbar 5:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "931ff946fa354d88c1e12079870007d84671f485218acc973d8e365eae4aba2a"
+    },
+    {
+      "ref": "Bamidbar 5:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "d60d3961a1a32320a37b1faa86f00561d7eebb3f6d458b6bead95af16b3e9472"
+    },
+    {
+      "ref": "Bamidbar 6:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "525d408a1382bafae1a1bd00b1b1358b4aa898c53ef232db23e7e7419a4abcde"
+    },
+    {
+      "ref": "Bamidbar 7:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "def00db89e50d653ef70bb394ce1287d464f9061705f55e17238dfbe54c66b47"
+    },
+    {
+      "ref": "Bamidbar 8:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "8cdad44f6f619dd2fabdb09412370c8d4c08c178a7a05b9cfa80e88ce8ae37eb"
+    },
+    {
+      "ref": "Bamidbar 9:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "a57991ac3f0adfbec12b34d98b612d9ee0df7f3e07044cbc6b448f745d6a6028"
+    },
+    {
+      "ref": "Bamidbar 9:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "94a1a0e170930fb4b7d856e005e2c3009bc9663e828bcd3acc139675425e3463"
+    },
+    {
+      "ref": "Bamidbar 10:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "e1767dc2bf9343a74d981714ee521ce3b1b2e047de54ff9c35cf1d0d267b2f53"
+    },
+    {
+      "ref": "Bamidbar 10:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f08f6503300071976de84121e2d7eb0de5e43412b469fe8d7efc907acd0f0020"
+    },
+    {
+      "ref": "Bamidbar 11:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "08b5a7b058661af51ac63e81f02eb4dd4965700d7369544849c752949a31f3d1"
+    },
+    {
+      "ref": "Bamidbar 12:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "edb8010c397d935a150e3b8a88461c58d51f6dc0a384ae9b92a50b13faa72a3d"
+    },
+    {
+      "ref": "Bamidbar 12:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "fe3daee1fda9d367836a5f54877830c5b89b5d6617d781812eb58ff88b5dd19a"
+    },
+    {
+      "ref": "Bamidbar 13:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "f506ce460b8d848c5a94c07f61ab3dabf0bb4b49dc8aa3340a8e856b5ecf4ccb"
+    },
+    {
+      "ref": "Bamidbar 14:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "54a518fa8bcfdf75699125fd08e805b3e19ca23c83714c962de8fef5621102f6"
+    },
+    {
+      "ref": "Bamidbar 14:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "0184a6e90b59ca1deaf3c1d8d9de85cdc451133cbf139f71807d95a2572fec3e"
+    },
+    {
+      "ref": "Bamidbar 14:3",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5ff51cea4e01392728e6dfe16280a0f59837e5c41740961949e0c7afe55b946d"
+    },
+    {
+      "ref": "Bamidbar 15:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "2634234b738769e251e46e48c659ffb145a40664d07d5abd209b5fe9b87df2bc"
+    },
+    {
+      "ref": "Bamidbar 15:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "894275e86b0288dc2e3c3d281874676b31d51f5b2015bf8093ae280b5a149fc5"
+    },
+    {
+      "ref": "Bamidbar 16:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "cada8c6291a8da380e7b56effa8ee2cedad862b6acd6ce9fba4f8c964d61bf10"
+    },
+    {
+      "ref": "Bamidbar 16:2",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "5a84b76539650cabb2018be7a4285559294b3fd17d02d939cedd0e71b90696bd"
+    },
+    {
+      "ref": "Bamidbar 17:1",
+      "status": "GELESEN_MIT_BEFUNDEN",
+      "sha256_text": "bc5cfd360a37a871cc736c33f7644a569dfd05f74650c6ccc6be2487ef7c7f83"
+    },
+    {
+      "ref": "Shoftim 1:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6fe1d3b8cfddfae509fe1e7dfadfb40f32c89de2125dcdfb78457a57e4e76cdc"
+    },
+    {
+      "ref": "Shoftim 2:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "79be0cd2a828e5cd780899573ffaeb9a48a1f66483004bf8faec1c2904920beb"
+    },
+    {
+      "ref": "Shoftim 3:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f012e8a8ef9afe6d2414d4fbea2dd53e84e5df884d6a60da8efa160d351dfd48"
+    },
+    {
+      "ref": "Shoftim 3:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bf45e314c779d7da104bbd4dac5e5213252f28a5d4c46e35b675fd6762c8a764"
+    },
+    {
+      "ref": "Shoftim 4:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2a4e69128aa2b35b832beb5d435042c0637b9c7d7eb0aee997913ddc89f9f5e5"
+    },
+    {
+      "ref": "Shoftim 5:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "969ffb826ac416a49a04bf464fd96fcbe05e946eaef71d631211881f199c1d0d"
+    },
+    {
+      "ref": "Shoftim 6:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6960f9fb714b08d348de57194b2d1f2c4fea0c1b58a7d0364bd1edcd1f968e5a"
+    },
+    {
+      "ref": "Shoftim 6:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "9754d6d8f5d66e550bf075ca8eae8cf463edee8567a4f40718fa8dc245668188"
+    },
+    {
+      "ref": "Shoftim 7:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0bb7000eb94156328e1672bf0295638b3d54851857bacfef7f5bb38de6c2c9fd"
+    },
+    {
+      "ref": "Shoftim 7:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "169d3113a6463682a6570c0418338daaba29ac51fd17d16f7052daf2a8e46b72"
+    },
+    {
+      "ref": "Shoftim 8:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d8490374cff8a08743bfee0d339a5a4f9b68dc152ac1733dc93f55479ffd5869"
+    },
+    {
+      "ref": "Shoftim 8:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dcfb2cc60d428e752727a867e0a4da21fdf229d605d9ae90b8d5bbe28c5093e8"
+    },
+    {
+      "ref": "Shoftim 8:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "28ecbc46de5f22fbe839bb171dd7a85aa1ac6e80d880750fcc394df39d90bbb2"
+    },
+    {
+      "ref": "Shoftim 9:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "21952d62c30c3a265ac4eea4a2807974880139a6b3ad224beea223041835be19"
+    },
+    {
+      "ref": "Shoftim 10:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4e252f4e33bb75dd22f6c9cb53d3b4574e61e559b4d822e4bf4024f44067e758"
+    },
+    {
+      "ref": "Shoftim 10:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "fae85a1a942aa7ea714a8e6d78c357a7e2a1426c2c13354c48abd37454e5a0b2"
+    },
+    {
+      "ref": "Shoftim 11:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8a67fa1753ea069c4bebe6439641797fabb7745c31336ad16190151916fc7a5b"
+    },
+    {
+      "ref": "Shoftim 12:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a312c5aa68c6cb9b08503666d352b465db3f08010829628c2bc8784d6f6438ef"
+    },
+    {
+      "ref": "Shoftim 13:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4d0bd8719824df4c94f6afda034b631dc66a1d94b5570c0f366752b5ed809bb8"
+    },
+    {
+      "ref": "Shoftim 14:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cba02f54069ed218f4729e5806caa5f4641009de8fc385ef7d50e250df31b56a"
+    },
+    {
+      "ref": "Shoftim 15:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3da28b1c720e66a18a6712682f719e89f102c642ae3b86784f9ea0b447749136"
+    },
+    {
+      "ref": "Shoftim 16:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "74f3277e8750bc8b174348a4f71b764686ec845726c98dd9b809cf2a472ba689"
+    },
+    {
+      "ref": "Shoftim 17:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "662fc7e79e758d66257f842d662dcba5395bef1e5e481b0b7bc5fa13ea1a9a80"
+    },
+    {
+      "ref": "Shoftim 18:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a6f64c06f0d570bf6213c36265dcfd1a14bd38d314be8e7c7418f1c39ab27060"
+    },
+    {
+      "ref": "Shoftim 19:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "84bd690cadf983dfdfd4d1859404ac91888a99e21404a30c876d1f2d0c1678e0"
+    },
+    {
+      "ref": "Shoftim 20:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "beba6402bfab5c3a3257cd26d280d28d45de62cc58771463c55b67c8e64536df"
+    },
+    {
+      "ref": "Shoftim 21:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b58d720d3772c44a06daeed3659bd39321863849f7363ef67be442e7c5a55561"
+    },
+    {
+      "ref": "Shoftim 21:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "740c0d79d3d7d823872cbcc8c83498abad91d3b3efcf4a0a4d0d82af7c887584"
+    },
+    {
+      "ref": "Shoftim 22:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c0b07357ae3825a4b3903d5397ad8e97d07da76ff61f2c338f24c02c5da948fb"
+    },
+    {
+      "ref": "Shoftim 22:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "0662b89afdec49a624b34201b2d758b9a4c1cd0264d95d755401cc0769a1f166"
+    },
+    {
+      "ref": "Shoftim 22:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5c692bb9944d7ef2ae77368d6e7342f98dfaae1da79d70a4a6ad9cbc65558c2e"
+    },
+    {
+      "ref": "Shoftim 22:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "462a2090fcf58f10a052cee9e79335db91e4b47f6d87c856d996907fd75a37d7"
+    },
+    {
+      "ref": "Shoftim 22:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5955cf929a30dc60d8d7f6ed3a7a84a27c9a61d9cf023b7bd7cbbe4f401c8b99"
+    },
+    {
+      "ref": "Shoftim 22:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8c9a3b38a52b4685da58bed52fa3cdd56c0fec8c75fdba050eccd44324d870af"
+    },
+    {
+      "ref": "Shoftim 23:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "396fdc179b867442165774bffeba06016bdb85b6a907a93bb034c97f6d3a8c70"
+    },
+    {
+      "ref": "Shoftim 23:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "259b15f01a0136b531354e5a6b196b23d06fe0772679c855050ddbaf7da4f990"
+    },
+    {
+      "ref": "Shoftim 24:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c567af2a2f079a03f38091093d4fac2ffa76e5ad9a18672b42bfb4dc93a1a889"
+    },
+    {
+      "ref": "Shoftim 24:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "bb4b0e397f50f61bf4d722499fb9960412a934a47e1e57f817bad7da42a6c553"
+    },
+    {
+      "ref": "Shoftim 24:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b2476943da43a6895c4aca270c22c9e9683104d5e7a079efb86170986cb4a900"
+    },
+    {
+      "ref": "Shoftim 25:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7b70a2f1fe66ca914ba4b8b1c1bc1b7ab817bb829ea98b5f149f101cc561a04d"
+    },
+    {
+      "ref": "Shoftim 26:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2bc4ffa075a0672d63a5d723b0092ff101969116f82d581b29287d4823b3a36e"
+    },
+    {
+      "ref": "Shoftim 27:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a4003f60657f603c205f65ab5a31d3a920d9f6e07b742fddc1ea6d9f65452b5d"
+    },
+    {
+      "ref": "Shoftim 28:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3fa9fc291ef48722c2324312ed6ad68c56d3dc11fce95728e5e5432ed88dea2e"
+    },
+    {
+      "ref": "Shoftim 29:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "25e826441a01555b1811a8107f678443b6f72a57a5565b7a2460717ad2307f8d"
+    },
+    {
+      "ref": "Shoftim 30:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "aa6b3a7ce15010cd6287cee83a0d615a8d50b04930a8c5afbc7c227269d2796b"
+    },
+    {
+      "ref": "Shoftim 31:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "4ed6057208a2d92306d2191f1768333099f71f544de5e36df35c0e21602edd27"
+    },
+    {
+      "ref": "Shoftim 31:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "f7b229da424abb3f3e2a08cd601e9973fddb3bb17618db4113300b865673386e"
+    },
+    {
+      "ref": "Shoftim 31:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "305e596165a5cf6c19cba0a61b6d211fc0ee5d550cc412b43f2359b85700c510"
+    },
+    {
+      "ref": "Shoftim 32:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "cf7bd859ff1138e06e5281ac5fa9c714e497ea1933f43fe76107949df4857674"
+    },
+    {
+      "ref": "Shoftim 32:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7666f2644454827c394ec6f2acf65757728c35f27b188fa984e5197adb448ab8"
+    },
+    {
+      "ref": "Shoftim 33:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dc6a85e18c7e6a3a5324631e74f7c6888c85b89f27494a24a5f0232c7ac0d9b7"
+    },
+    {
+      "ref": "Shoftim 33:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "492e8e289a7526e31b04116b6fa76383fcf3485f5e36f2df6d42e69c8c0ce6f6"
+    },
+    {
+      "ref": "Shoftim 33:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "53255e57843d0720b314ac2d1f815b62c8984e6f34cd212c9d388b39b9340793"
+    },
+    {
+      "ref": "Shoftim 34:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6baec20cd65ae413cced1d19b13c243f02b15b56843866a41e1082e6ffb18571"
+    },
+    {
+      "ref": "Shoftim 35:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "2b7d5620d2c9aef3bc6b9841c58f250581186b357c7ecf1f4371635cf6204caa"
+    },
+    {
+      "ref": "Shoftim 36:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6e893f4469c0007e6e90390f50110ca3618d79b4253393586b5d2c81e2b587f7"
+    },
+    {
+      "ref": "Shoftim 36:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d2cd0b8e385704c5adb5c36c9bcf0f89bbf8569f3258e3ccce4b8b69ec0cdd71"
+    },
+    {
+      "ref": "Shoftim 37:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b53f994ea80a61e035ca0cb111b6a192316ef766e74ba94cad0fcafe2096cb7e"
+    },
+    {
+      "ref": "Shoftim 38:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "1b7695ed0414af783d7deaa1b226020805e8d93272ed97bdf82a53e4105d4397"
+    },
+    {
+      "ref": "Shoftim 39:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "72e2cb1f0e2e7c870db67ce0d9b04c3c0b5b9b33b60c7d7608d08f64459def38"
+    },
+    {
+      "ref": "Shoftim 40:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "be720078b846ed160369ddfd05534d9f59f78421f143fe4a515a46471ebcdcc4"
+    },
+    {
+      "ref": "Shoftim 41:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "b8ca11848de0ad48be1ac4f4bdd216f08f8ac102cd47d5088e6c8fec2e21f837"
+    },
+    {
+      "ref": "Shoftim 42:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "acc07a69818f7e93e6be84c92868f3cf5485a97c50b75a0a1ab8fa5ad07f307e"
+    },
+    {
+      "ref": "Shoftim 43:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "a779f14c64d2776e01501ef98000a25ca7e0871e19751c68e70cf486bcf4936f"
+    },
+    {
+      "ref": "Shoftim 44:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "d6d9e955433e90de68a37134bb91bebf0d301b8a60b5f65e536ee9997528d026"
+    },
+    {
+      "ref": "Shoftim 44:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c37edb226a6b8ff634111f806ce5ced2350cf637f16cdfc5e6859163a4983970"
+    },
+    {
+      "ref": "Shoftim 45:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "69c79de210e6a12ce1aaf0dc2cda3e804296bdb8d458a673ab98ba73fa31d599"
+    },
+    {
+      "ref": "Shoftim 46:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "17bce737320c6612673021ad80e03ac84992ea91e42f97efefae173554ceaadf"
+    },
+    {
+      "ref": "Shoftim 47:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "73ec846cb908ba9c8a6d125e1ce6ea808d1258b25cebc8252ec373ebdb8dc83d"
+    },
+    {
+      "ref": "Shoftim 47:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "c56303b87725eb5d9d540e6dcb97849edaa8509441285528b935b4d50dc360c5"
+    },
+    {
+      "ref": "Shoftim 47:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ec3d1792478db4bf1025bb45b10c393afe3bc0c59993cf189cc480017c7412f7"
+    },
+    {
+      "ref": "Shoftim 48:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3defb2e7b7e42549530bdd78e354f1b2dbb9a36e0687dd1d6e9439d1e97aefb4"
+    },
+    {
+      "ref": "Shoftim 48:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7266bc52099dd7a7196100f396c4ea971f8ea35ab8ba11a7d38cae6e9d62f622"
+    },
+    {
+      "ref": "Shoftim 49:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "548eb16b738755474f438fe0d5fa2065785ca9f9f8a189ac7efb9aa132024932"
+    },
+    {
+      "ref": "Shoftim 50:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "5fd0e5b71f06bc9dd362a4a82f412001d15d0b73806fcf602a483c13969ae77d"
+    },
+    {
+      "ref": "Shoftim 50:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "ad210b098bd42959731de22880c2ce6a0769c6aae5583214010006429ba60f01"
+    },
+    {
+      "ref": "Shoftim 51:1",
+      "status": "AUSSTEHEND",
+      "sha256_text": "dd1f1e946c89d95446c54eecd1411564eee9abf54ccf11c817ad62ff45c66859"
+    },
+    {
+      "ref": "Shoftim 51:2",
+      "status": "AUSSTEHEND",
+      "sha256_text": "6e4f7c1f5d2562d782f5605d154fa3048661d49deeb20198c3c9b603a5937430"
+    },
+    {
+      "ref": "Shoftim 51:3",
+      "status": "AUSSTEHEND",
+      "sha256_text": "7209bd07c0554d9e724113084a69cc0765f71093cf61ecb25a364241d8e2ab09"
+    },
+    {
+      "ref": "Shoftim 51:4",
+      "status": "AUSSTEHEND",
+      "sha256_text": "26f20c0b58a1569f44a161e556a8002dc1b0de7cf5251eb6355d0a8a5c0b5d3b"
+    },
+    {
+      "ref": "Shoftim 51:5",
+      "status": "AUSSTEHEND",
+      "sha256_text": "3d01cd949790919e21321132f5a08f29d4e82b1cfd154c82e839ec99db4d417e"
+    },
+    {
+      "ref": "Shoftim 51:6",
+      "status": "AUSSTEHEND",
+      "sha256_text": "787cb89a655f3d5b20908354d7af60f2f16fb3f7429af0e66c48aea8449b6340"
+    },
+    {
+      "ref": "Shoftim 51:7",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e3228379aea5b507b781c2e6183c8ed5bbec20ca666f0b90c564174537d3955b"
+    },
+    {
+      "ref": "Shoftim 51:8",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8820aa96d833080cd252d5de1eed8a6caf487d72fc670cc5a71f86b5b9e405c7"
+    },
+    {
+      "ref": "Shoftim 51:9",
+      "status": "AUSSTEHEND",
+      "sha256_text": "567befa7827fc5095751ee483584b43b86a9d64270f99839ea3c3b16a482026b"
+    },
+    {
+      "ref": "Shoftim 51:10",
+      "status": "AUSSTEHEND",
+      "sha256_text": "567befa7827fc5095751ee483584b43b86a9d64270f99839ea3c3b16a482026b"
+    },
+    {
+      "ref": "Shoftim 51:11",
+      "status": "AUSSTEHEND",
+      "sha256_text": "48ed4183f4de84589847c8fa6fe11c5de61f915a46554ed3a66600199b81f15f"
+    },
+    {
+      "ref": "Shoftim 51:12",
+      "status": "AUSSTEHEND",
+      "sha256_text": "e32cbdd3e36ba5b6df72874edf532d090ba55a002be11f17dda8c8ddd5a266ab"
+    },
+    {
+      "ref": "Shoftim 51:13",
+      "status": "AUSSTEHEND",
+      "sha256_text": "8cc2303b66750a557aa70c51c2ce2a7e0e38466893311e8a2fedc9154b0ef846"
+    }
+  ],
+  "offene_befunde": [
+    {
+      "ref": "Bo 6:1",
+      "text": "אתרוג וסוכה",
+      "status": "DRUCKLESUNG_BESTAETIGT_EDITORISCHE_PRUEFUNG_OFFEN",
+      "scan_seq": 385,
+      "hinweis": "Steht im Druck; Kontext legt עירוב nahe. Keine unbelegte Konsonantenemendation."
+    },
+    {
+      "ref": "Vayikra 2:1",
+      "text": "הולכת לציבור",
+      "status": "DRUCKLESUNG_BESTAETIGT_EDITORISCHE_PRUEFUNG_OFFEN",
+      "scan_seq": 402,
+      "hinweis": "Steht im Druck. Kontext legt verlorengehenden Stoff nahe. Keine stillschweigende Emendation."
+    },
+    {
+      "ref": "Lech Lecha 5:1",
+      "text": "עבאיי",
+      "status": "FREMDWORT_PUNKTIERUNG_OFFEN",
+      "scan_seq": 327,
+      "hinweis": "Suche bestätigt Abaya als Kleidungswort, liefert keinen hinreichenden Beleg für genau diese historische Lautung."
+    },
+    {
+      "ref": "Druckfehlerverzeichnis",
+      "text": "Halakhot-Nachträge auf Scanseiten 414–415",
+      "status": "ZUORDNUNG_UND_UEBERNAHME_NICHT_VOLLSTAENDIG_GEPRUEFT",
+      "scan_seq": 414,
+      "hinweis": "Bilder 413–415 gesichtet; insbesondere die Verweise Blatt 22a/22b und die langen Zusätze müssen zuverlässig zugeordnet und mit der Digitalbasis abgeglichen werden."
+    },
+    {
+      "ref": "Noach 15:1",
+      "text": "תחכם",
+      "status": "TEXTVERDACHT_OFFEN",
+      "hinweis": "Kontext: Fäden durch die Ecke ziehen; gegen Druck prüfen."
+    },
+    {
+      "ref": "Noach 19:7",
+      "text": "שבעתה",
+      "status": "TEXTVERDACHT_OFFEN",
+      "hinweis": "Kontext und genaue Drucklesung prüfen."
+    },
+    {
+      "ref": "Vayetzei 1:1",
+      "text": "הנכנם",
+      "status": "DRUCKBUCHSTABE_UNKLAR",
+      "scan_seq": 333,
+      "hinweis": "Druckbild gelesen, Endbuchstabe nicht hinreichend eindeutig für eine dokumentierte Emendation."
+    },
+    {
+      "ref": "Vayetzei 3:5",
+      "text": "להכנים",
+      "status": "DRUCKBUCHSTABE_UNKLAR",
+      "scan_seq": 334,
+      "hinweis": "Kontext: Nahrung einführen. Verlässliche Bestimmung von ס/ם am Original erforderlich."
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "text": "עירות",
+      "status": "TEXTVERDACHT_OFFEN",
+      "scan_seq": 334,
+      "hinweis": "Zwei Schichten der Harnblase. Lesung und Vokalisierung prüfen."
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "text": "התיבה",
+      "status": "DRUCKLESUNG_BEIBEHALTEN",
+      "scan_seq": 334,
+      "hinweis": "Auch der Druck bezeichnet das Gefäß hier als תיבה; nicht allein nach heutiger Erwartung zu קיבה ändern."
+    }
+  ],
+  "grenze": "Gesamtsuchen und technische Prüfungen ersetzen keine sprachliche Einzelprüfung der ausstehenden Absätze."
+}

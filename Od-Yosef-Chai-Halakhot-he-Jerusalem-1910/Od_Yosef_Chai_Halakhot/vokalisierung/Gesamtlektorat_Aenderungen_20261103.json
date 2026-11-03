@@ -1,0 +1,3158 @@
+{
+  "basis_commit": "5812c106ad1825baf0e53461fff045cdc2fffb4d",
+  "aenderungen": [
+    {
+      "ref": "Bereshit 1:3",
+      "wort_nr": 12,
+      "alt": "כָּהֵם",
+      "neu": "שֶׁהֵם",
+      "grund": "Digitaltext כ/ש verwechselt; Druck: נה״י שהם.",
+      "art": "TEXT",
+      "scan_seq": 322,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:1",
+      "wort_nr": 141,
+      "alt": "מוֹכֶרֶת",
+      "neu": "מוּכְרָח",
+      "grund": "Druck: אז מוכרח שיהיה שם; keine Verkäuferin.",
+      "art": "TEXT",
+      "scan_seq": 323,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bo 1:5",
+      "wort_nr": 22,
+      "alt": "אַפֵּינוּ",
+      "neu": "אֲפִילּוּ",
+      "grund": "Druck: אפילו פחות מטפח.",
+      "art": "TEXT",
+      "scan_seq": 384,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Bo 1:6",
+      "wort_nr": 71,
+      "alt": "נֶהְחַדֵּשׁ",
+      "neu": "נִתְחַדֵּשׁ",
+      "grund": "Druck: בדור הזה נתחדש; ת/ה im Digitaltext.",
+      "art": "TEXT",
+      "scan_seq": 384,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Bo 1:6",
+      "wort_nr": 59,
+      "alt": "וְעָשָׂה כְּמוֹ",
+      "neu": "וְנַעֲשָׂה כְּמוֹ",
+      "grund": "Druck: ונעשה כמו כפות ואצבעות היד; נ ausgefallen.",
+      "art": "TEXT",
+      "scan_seq": 384,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Bo 3:2",
+      "wort_nr": 26,
+      "alt": "אָכַל אִם",
+      "neu": "אֲבָל אִם",
+      "grund": "Druck: אבל אם יש לו חולי; ב/כ im Digitaltext.",
+      "art": "TEXT",
+      "scan_seq": 385,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Vayikra 6:1",
+      "wort_nr": 50,
+      "alt": "וְלַח סָמַכְתִּי",
+      "neu": "וְלֹא סָמַכְתִּי",
+      "grund": "Druck: ולא סמכתי על זה; א/ח im Digitaltext.",
+      "art": "TEXT",
+      "scan_seq": 403,
+      "datei": "OYC_26_Vayikra.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 106",
+      "wort_nr": 36,
+      "alt": "שֶׁקִּירְּאוּ",
+      "neu": "שֶׁקִּירְאוּ",
+      "grund": "Unzulässiges Dagesch im Resch entfernt; Schreibweise bleibt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil05.txt"
+    },
+    {
+      "ref": "Shemot 1:12",
+      "wort_nr": 53,
+      "alt": "הַרְּצוּנִית",
+      "neu": "הָרְצוֹנִית",
+      "grund": "Adjektiv רצונית (willentlich), kein Dagesch im Resch.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil01.txt"
+    },
+    {
+      "ref": "Vayakhel 1:1",
+      "wort_nr": 43,
+      "alt": "מַפָּאֵנוּ",
+      "neu": "מִפָּאנוֹ",
+      "grund": "Herkunftsname des Rema mi-Pano, nicht unser Etwas.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 1:1",
+      "wort_nr": 100,
+      "alt": "שִׁבְעַת",
+      "neu": "שֶׁבָּעֵת",
+      "grund": "Verknüpfung: dass zu jener Zeit; keine Siebenzahl.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 1:1",
+      "wort_nr": 115,
+      "alt": "דִּלְשַׁמָּשׁ",
+      "neu": "דִּלְשֶׁמֶשׁ",
+      "grund": "Der Sonne selbst gilt der Satz, nicht einem Diener.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 1:2",
+      "wort_nr": 18,
+      "alt": "וַיַּרְא",
+      "neu": "וַיֵּרָא",
+      "grund": "Name der Parascha Vayera.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 1:2",
+      "wort_nr": 60,
+      "alt": "לָהּ'",
+      "neu": "לַה'",
+      "grund": "Präposition mit abgekürztem Gottesnamen, kein feminines Objektsuffix.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 4:1",
+      "wort_nr": 135,
+      "alt": "וּלְאָומְרוֹ",
+      "neu": "וּלְאוֹמְרוֹ",
+      "grund": "Infinitiv לאומרו mit Cholam auf der Lesemutter Waw.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 4:1",
+      "wort_nr": 173,
+      "alt": "וּמַלְוֵי",
+      "neu": "וּמִלּוּי",
+      "grund": "Kabbalistisches Nomen מילוי, ausgeschriebener Gottesname, nicht Gläubiger.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 4:1",
+      "wort_nr": 178,
+      "alt": "יַהְבָּךְ",
+      "neu": "יְהָבְךָ",
+      "grund": "Gegenüber vorausgehendem Psalmzitat: derselbe Singular-Maskulin-Suffix.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 8:1",
+      "wort_nr": 17,
+      "alt": "וִיבָרֵךְ",
+      "neu": "וַיְבָרֶךְ",
+      "grund": "Überschrift des Gebets Vayevarech David, 1 Chronik 29,10.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 8:2",
+      "wort_nr": 13,
+      "alt": "בְּרֹאשָׁנָהּ",
+      "neu": "בְּרִאשֹׁנָה",
+      "grund": "Zeitadverb: anfangs; kein Suffix ihr.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 8:2",
+      "wort_nr": 70,
+      "alt": "בְּהִצְנִיעַ",
+      "neu": "בְּהַצְנֵיעַ",
+      "grund": "Adverbialer Hifil-Infinitiv: unauffällig/verborgen.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Mishpatim 1:1",
+      "wort_nr": 150,
+      "alt": "וְכִוֵּון",
+      "neu": "וְכִוּוּן",
+      "grund": "Substantiv in וכוון הדעת, Sammlung/Ausrichtung der Gedanken.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 6,
+      "alt": "הֶעָקְרִי",
+      "neu": "הָעִקְּרִי",
+      "grund": "Adjektiv עקרי, grundlegend.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 69,
+      "alt": "בְּהֵעָלוּתָהּ",
+      "neu": "בְּהֵעָלוֹתָהּ",
+      "grund": "Nifal-Infinitiv mit femininem Suffix: beim Aufsteigen der Schechina.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt",
+      "wort_nr_vor_lokalisierung": 70
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 91,
+      "alt": "עָנֵי",
+      "neu": "עָנִי",
+      "grund": "Sich arm machen; Wiederholung des vorausgehenden Zitats.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 6:1",
+      "wort_nr": 23,
+      "alt": "לָמָּה",
+      "neu": "לְמַה",
+      "grund": "Präposition: auf das achten, was der Vorbeter sagt; keine Frage warum.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Bamidbar 1:1",
+      "wort_nr": 27,
+      "alt": "מַפְגִּין",
+      "neu": "מְפִגִין",
+      "grund": "מפיגין טעם: Geschmack verlieren; defektive Hifil-Schreibung.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 4,
+      "alt": "פֵּרוֹת בְּבֵיתוֹ",
+      "neu": "פָּרוֹת בְּבֵיתוֹ",
+      "grund": "Milchgebende Kühe, keine Früchte.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 33,
+      "alt": "הַפֵּרוֹת לְגוֹי",
+      "neu": "הַפָּרוֹת לְגוֹי",
+      "grund": "Verkauf der Kühe.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 47,
+      "alt": "הַפֵּרוֹת שִׁיעוּר",
+      "neu": "הַפָּרוֹת שִׁיעוּר",
+      "grund": "Führen der Kühe als Erwerbshandlung.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 75,
+      "alt": "הַפֵּרוֹת מעיו\"ט",
+      "neu": "הַפָּרוֹת מעיו\"ט",
+      "grund": "Erworbene Kühe, aus deren Milch Joghurt bereitet wird.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 63,
+      "alt": "הֲיִשְׂרָאֵל קוֹנֶה",
+      "neu": "הַיִּשְׂרָאֵל קוֹנֶה",
+      "grund": "Bestimmter Artikel, keine Fragepartikel.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 3:1",
+      "wort_nr": 89,
+      "alt": "הֲיִשְׂרָאֵל כְּלוּם",
+      "neu": "הַיִּשְׂרָאֵל כְּלוּם",
+      "grund": "Bestimmter Artikel, keine Fragepartikel.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 8:1",
+      "wort_nr": 5,
+      "alt": "בְּבֻצִּים",
+      "neu": "בְּבֵצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 8:1",
+      "wort_nr": 15,
+      "alt": "בְּצִים",
+      "neu": "בֵּצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 8:1",
+      "wort_nr": 67,
+      "alt": "לְבֻצִּים",
+      "neu": "לְבֵצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 9:1",
+      "wort_nr": 22,
+      "alt": "בְּלִבְּדָה",
+      "neu": "בִּלְבַדָּהּ",
+      "grund": "Sie allein; feminines Suffix.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 9:1",
+      "wort_nr": 25,
+      "alt": "הַבֻּצִּים",
+      "neu": "הַבֵּצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 9:2",
+      "wort_nr": 33,
+      "alt": "בְּבֻצִּים",
+      "neu": "בְּבֵצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 10:1",
+      "wort_nr": 5,
+      "alt": "בְּצִים",
+      "neu": "בֵּצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 12:1",
+      "wort_nr": 51,
+      "alt": "מַכִּין",
+      "neu": "מֵכִין",
+      "grund": "Vorbereiten für den Feiertag, nicht schlagen.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 14:1",
+      "wort_nr": 23,
+      "alt": "שֶׁנּוֹלַדְתָּ",
+      "neu": "שֶׁנּוֹלֶדֶת",
+      "grund": "Feminines Partizip: das Ei wird gelegt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 14:3",
+      "wort_nr": 3,
+      "alt": "הֲנִקָּחֵים",
+      "neu": "הַנִּקָּחִים",
+      "grund": "Passives Partizip Plural mit bestimmtem Artikel.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 15:2",
+      "wort_nr": 31,
+      "alt": "בְּבֻצִּים",
+      "neu": "בְּבֵצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 16:2",
+      "wort_nr": 8,
+      "alt": "הַבֻּצִּים",
+      "neu": "הַבֵּצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 16:2",
+      "wort_nr": 30,
+      "alt": "שֶׁלַּהִגּוּי",
+      "neu": "שֶׁלְּהַגּוֹי",
+      "grund": "Dass dem Nichtjuden kein Vorteil zufällt; גוי statt היגוי.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 17:1",
+      "wort_nr": 6,
+      "alt": "בְּצִים",
+      "neu": "בֵּצִים",
+      "grund": "Eier, defektive Schreibung בצים.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Mishpatim 3:1",
+      "wort_nr": 10,
+      "alt": "גִּבָּרָוָותָא",
+      "neu": "גִּבַּרְוָותָא",
+      "grund": "Aramäisch גברוותא; Jastrow https://www.sefaria.org/Jastrow%2C_%D7%92%D6%B0%D6%BC%D7%91%D6%B7%D7%A8_II.1",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Beshalach 10:1",
+      "wort_nr": 14,
+      "alt": "וִיקִיאֵנוּ",
+      "neu": "וַיְקִיאֶנּוּ",
+      "grund": "Ijob 20,15: Singularobjekt, nicht uns; Bibelzitat in Plene-Schreibung.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 10:1",
+      "wort_nr": 66,
+      "alt": "מַבָּטֵנוּ",
+      "neu": "מִבִּטְנוֹ",
+      "grund": "Ijob 20,15: aus seinem Bauch, nicht unser Blick.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Tzav 14:2",
+      "wort_nr": 31,
+      "alt": "יִדְחֵנוּ",
+      "neu": "יַדִּחֶנּוּ",
+      "grund": "Hifil waschen/abspülen mit maskulinem Singularobjekt, defektive Schreibung ידחנו.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Bereshit 10:1",
+      "wort_nr": 6,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "wort_nr": 26,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "wort_nr": 41,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "wort_nr": 79,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "wort_nr": 88,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Bereshit 10:2",
+      "wort_nr": 112,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_01_Bereshit.txt"
+    },
+    {
+      "ref": "Noach 1:1",
+      "wort_nr": 59,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 10:1",
+      "wort_nr": 79,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 16:1",
+      "wort_nr": 18,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:1",
+      "wort_nr": 65,
+      "alt": "וְכַנַּז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:4",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:4",
+      "wort_nr": 117,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:12",
+      "wort_nr": 35,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil02.txt"
+    },
+    {
+      "ref": "Noach 19:13",
+      "wort_nr": 102,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil02.txt"
+    },
+    {
+      "ref": "Vayera 5:5",
+      "wort_nr": 85,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_04_Vayera.txt"
+    },
+    {
+      "ref": "Chayei Sara 5:1",
+      "wort_nr": 17,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_05_Chayei_Sara.txt"
+    },
+    {
+      "ref": "Chayei Sara 5:3",
+      "wort_nr": 3,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_05_Chayei_Sara.txt"
+    },
+    {
+      "ref": "Chayei Sara 9:1",
+      "wort_nr": 15,
+      "alt": "וְכַנַּז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_05_Chayei_Sara.txt"
+    },
+    {
+      "ref": "Toldot 4:1",
+      "wort_nr": 62,
+      "alt": "וְכנז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_06_Toldot.txt"
+    },
+    {
+      "ref": "Toldot 6:2",
+      "wort_nr": 46,
+      "alt": "וְכַנַּז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_06_Toldot.txt"
+    },
+    {
+      "ref": "Toldot 7:1",
+      "wort_nr": 71,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_06_Toldot.txt"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "wort_nr": 147,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 4:1",
+      "wort_nr": 166,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayishlach 1:2",
+      "wort_nr": 35,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil01.txt"
+    },
+    {
+      "ref": "Vayishlach 1:25",
+      "wort_nr": 118,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil02.txt"
+    },
+    {
+      "ref": "Vayishlach 1:33",
+      "wort_nr": 16,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil02.txt"
+    },
+    {
+      "ref": "Vayishlach 1:47",
+      "wort_nr": 70,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil02.txt"
+    },
+    {
+      "ref": "Vayishlach 1:54",
+      "wort_nr": 4,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil03.txt"
+    },
+    {
+      "ref": "Vayishlach 1:54",
+      "wort_nr": 121,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil03.txt"
+    },
+    {
+      "ref": "Vayishlach 1:55",
+      "wort_nr": 11,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil03.txt"
+    },
+    {
+      "ref": "Vayishlach 2:19",
+      "wort_nr": 55,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_08_Vayishlach_Teil03.txt"
+    },
+    {
+      "ref": "Vayeshev 2:1",
+      "wort_nr": 72,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 3:1",
+      "wort_nr": 68,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 6:1",
+      "wort_nr": 84,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 6:2",
+      "wort_nr": 8,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 8:2",
+      "wort_nr": 18,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 8:3",
+      "wort_nr": 19,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 8:6",
+      "wort_nr": 20,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil01.txt"
+    },
+    {
+      "ref": "Vayeshev 12:1",
+      "wort_nr": 166,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil02.txt"
+    },
+    {
+      "ref": "Vayeshev 14:1",
+      "wort_nr": 70,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil02.txt"
+    },
+    {
+      "ref": "Vayeshev 15:1",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil02.txt"
+    },
+    {
+      "ref": "Vayeshev 17:2",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_09_Vayeshev_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 7",
+      "wort_nr": 103,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil01.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 15",
+      "wort_nr": 12,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil01.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 15",
+      "wort_nr": 110,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil01.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 22",
+      "wort_nr": 105,
+      "alt": "בְּחַי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 23",
+      "wort_nr": 42,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 23",
+      "wort_nr": 197,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 23",
+      "wort_nr": 239,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 31",
+      "wort_nr": 52,
+      "alt": "בְּחַי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 37",
+      "wort_nr": 110,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 42",
+      "wort_nr": 60,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 42",
+      "wort_nr": 117,
+      "alt": "כְּבַחַי'",
+      "neu": "כבחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 53",
+      "wort_nr": 123,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 62",
+      "wort_nr": 9,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 62",
+      "wort_nr": 26,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 64",
+      "wort_nr": 69,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 65",
+      "wort_nr": 9,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 65",
+      "wort_nr": 18,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 65",
+      "wort_nr": 32,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 70",
+      "wort_nr": 3,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 70",
+      "wort_nr": 29,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 73",
+      "wort_nr": 26,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 74",
+      "wort_nr": 173,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 77",
+      "wort_nr": 45,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 79",
+      "wort_nr": 36,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 79",
+      "wort_nr": 40,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 80",
+      "wort_nr": 77,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 80",
+      "wort_nr": 120,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 84",
+      "wort_nr": 66,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 90",
+      "wort_nr": 23,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 106",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil05.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 106",
+      "wort_nr": 116,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil05.txt"
+    },
+    {
+      "ref": "Miketz 3:5",
+      "wort_nr": 38,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:1",
+      "wort_nr": 57,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:1",
+      "wort_nr": 74,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:1",
+      "wort_nr": 162,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:1",
+      "wort_nr": 105,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:2",
+      "wort_nr": 88,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 4:8",
+      "wort_nr": 26,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 5:2",
+      "wort_nr": 181,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 5:2",
+      "wort_nr": 195,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 6:1",
+      "wort_nr": 69,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 6:1",
+      "wort_nr": 92,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 6:1",
+      "wort_nr": 105,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil01.txt"
+    },
+    {
+      "ref": "Miketz 7:1",
+      "wort_nr": 135,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil02.txt"
+    },
+    {
+      "ref": "Miketz 7:2",
+      "wort_nr": 140,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil02.txt"
+    },
+    {
+      "ref": "Miketz 15:5",
+      "wort_nr": 97,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil02.txt"
+    },
+    {
+      "ref": "Miketz 16:2",
+      "wort_nr": 18,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_11_Miketz_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 1:1",
+      "wort_nr": 24,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 1:4",
+      "wort_nr": 64,
+      "alt": "וְכנז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 1:4",
+      "wort_nr": 132,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 3:2",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 3:3",
+      "wort_nr": 9,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 3:3",
+      "wort_nr": 99,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 5:2",
+      "wort_nr": 68,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 5:3",
+      "wort_nr": 40,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 6:2",
+      "wort_nr": 41,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 6:2",
+      "wort_nr": 111,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 7:1",
+      "wort_nr": 45,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:2",
+      "wort_nr": 25,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:2",
+      "wort_nr": 32,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:4",
+      "wort_nr": 11,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:4",
+      "wort_nr": 60,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:4",
+      "wort_nr": 104,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:4",
+      "wort_nr": 82,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:7",
+      "wort_nr": 88,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:8",
+      "wort_nr": 19,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:8",
+      "wort_nr": 43,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:9",
+      "wort_nr": 36,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:9",
+      "wort_nr": 45,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:9",
+      "wort_nr": 63,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:10",
+      "wort_nr": 63,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:11",
+      "wort_nr": 26,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:11",
+      "wort_nr": 37,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:12",
+      "wort_nr": 17,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:12",
+      "wort_nr": 54,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:12",
+      "wort_nr": 37,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:12",
+      "wort_nr": 48,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil01.txt"
+    },
+    {
+      "ref": "Vayigash 8:13",
+      "wort_nr": 43,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 8:13",
+      "wort_nr": 66,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 8:13",
+      "wort_nr": 58,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 8:13",
+      "wort_nr": 72,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 9:1",
+      "wort_nr": 4,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 9:2",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 12:2",
+      "wort_nr": 36,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 12:2",
+      "wort_nr": 38,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 13:6",
+      "wort_nr": 9,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 13:8",
+      "wort_nr": 12,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayigash 13:8",
+      "wort_nr": 94,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_12_Vayigash_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 1:2",
+      "wort_nr": 23,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 1:3",
+      "wort_nr": 32,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 3:1",
+      "wort_nr": 4,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 3:1",
+      "wort_nr": 42,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 4:1",
+      "wort_nr": 6,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 5:1",
+      "wort_nr": 60,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil01.txt"
+    },
+    {
+      "ref": "Vayechi 12:3",
+      "wort_nr": 56,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 13:1",
+      "wort_nr": 29,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 14:1",
+      "wort_nr": 60,
+      "alt": "בְּחַי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 15:1",
+      "wort_nr": 55,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:2",
+      "wort_nr": 50,
+      "alt": "כְּנָז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:3",
+      "wort_nr": 115,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:4",
+      "wort_nr": 109,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:4",
+      "wort_nr": 144,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:4",
+      "wort_nr": 162,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Vayechi 16:4",
+      "wort_nr": 167,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_13_Vayechi_Teil02.txt"
+    },
+    {
+      "ref": "Shemot 1:10",
+      "wort_nr": 94,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil01.txt"
+    },
+    {
+      "ref": "Shemot 1:13",
+      "wort_nr": 93,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil01.txt"
+    },
+    {
+      "ref": "Shemot 6:4",
+      "wort_nr": 8,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Shemot 7:2",
+      "wort_nr": 41,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Shemot 10:2",
+      "wort_nr": 83,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Shemot 10:2",
+      "wort_nr": 86,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Shemot 10:2",
+      "wort_nr": 132,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 4:1",
+      "wort_nr": 70,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil01.txt"
+    },
+    {
+      "ref": "Vaera 7:2",
+      "wort_nr": 206,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil01.txt"
+    },
+    {
+      "ref": "Vaera 12:1",
+      "wort_nr": 56,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil01.txt"
+    },
+    {
+      "ref": "Vaera 12:2",
+      "wort_nr": 41,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil01.txt"
+    },
+    {
+      "ref": "Vaera 12:2",
+      "wort_nr": 66,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil01.txt"
+    },
+    {
+      "ref": "Vaera 12:5",
+      "wort_nr": 176,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 13:1",
+      "wort_nr": 5,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 13:1",
+      "wort_nr": 73,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 13:2",
+      "wort_nr": 36,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 16:3",
+      "wort_nr": 91,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 17:1",
+      "wort_nr": 100,
+      "alt": "וְכַנַּז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 18:9",
+      "wort_nr": 28,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:1",
+      "wort_nr": 81,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:2",
+      "wort_nr": 88,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:2",
+      "wort_nr": 130,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:2",
+      "wort_nr": 140,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:2",
+      "wort_nr": 161,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Vaera 19:3",
+      "wort_nr": 19,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_15_Vaera_Teil02.txt"
+    },
+    {
+      "ref": "Bo 1:6",
+      "wort_nr": 180,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Bo 6:1",
+      "wort_nr": 59,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_16_Bo.txt"
+    },
+    {
+      "ref": "Beshalach 1:1",
+      "wort_nr": 65,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 12:1",
+      "wort_nr": 19,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 12:1",
+      "wort_nr": 32,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 14:1",
+      "wort_nr": 16,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 17:1",
+      "wort_nr": 58,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil01.txt"
+    },
+    {
+      "ref": "Beshalach 19:2",
+      "wort_nr": 78,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil02.txt"
+    },
+    {
+      "ref": "Beshalach 19:3",
+      "wort_nr": 101,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_17_Beshalach_Teil02.txt"
+    },
+    {
+      "ref": "Yitro 5:1",
+      "wort_nr": 44,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_18_Yitro.txt"
+    },
+    {
+      "ref": "Yitro 6:2",
+      "wort_nr": 88,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_18_Yitro.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 11,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 87,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 102,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Mishpatim 1:2",
+      "wort_nr": 116,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_19_Mishpatim.txt"
+    },
+    {
+      "ref": "Terumah 2:1",
+      "wort_nr": 67,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_20_Terumah.txt"
+    },
+    {
+      "ref": "Terumah 2:2",
+      "wort_nr": 140,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_20_Terumah.txt"
+    },
+    {
+      "ref": "Terumah 2:4",
+      "wort_nr": 35,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_20_Terumah.txt"
+    },
+    {
+      "ref": "Terumah 2:5",
+      "wort_nr": 106,
+      "alt": "בְּחַי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_20_Terumah.txt"
+    },
+    {
+      "ref": "Terumah 6:1",
+      "wort_nr": 100,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_20_Terumah.txt"
+    },
+    {
+      "ref": "Ki Tisa 1:4",
+      "wort_nr": 34,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil01.txt"
+    },
+    {
+      "ref": "Ki Tisa 5:1",
+      "wort_nr": 88,
+      "alt": "כְּנָז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil01.txt"
+    },
+    {
+      "ref": "Ki Tisa 11:1",
+      "wort_nr": 60,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil01.txt"
+    },
+    {
+      "ref": "Ki Tisa 18:1",
+      "wort_nr": 22,
+      "alt": "וְכַנַּז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil01.txt"
+    },
+    {
+      "ref": "Ki Tisa 20:4",
+      "wort_nr": 26,
+      "alt": "בְּחַי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil02.txt"
+    },
+    {
+      "ref": "Ki Tisa 20:5",
+      "wort_nr": 10,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil02.txt"
+    },
+    {
+      "ref": "Ki Tisa 20:5",
+      "wort_nr": 32,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_23_Ki_Tisa_Teil02.txt"
+    },
+    {
+      "ref": "Vayakhel 1:4",
+      "wort_nr": 27,
+      "alt": "בַּגַּי'",
+      "neu": "בגי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 7:2",
+      "wort_nr": 86,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 8:2",
+      "wort_nr": 45,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 8:2",
+      "wort_nr": 91,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Pekudei 2:1",
+      "wort_nr": 64,
+      "alt": "בְּחֵי'",
+      "neu": "בחי'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 5:2",
+      "wort_nr": 77,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:4",
+      "wort_nr": 3,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:4",
+      "wort_nr": 49,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:4",
+      "wort_nr": 54,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:5",
+      "wort_nr": 88,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:6",
+      "wort_nr": 62,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:7",
+      "wort_nr": 141,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:8",
+      "wort_nr": 9,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:10",
+      "wort_nr": 7,
+      "alt": "כַּנָּז'",
+      "neu": "כנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:10",
+      "wort_nr": 28,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:11",
+      "wort_nr": 74,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:11",
+      "wort_nr": 100,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Pekudei 6:13",
+      "wort_nr": 41,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_25_Pekudei.txt"
+    },
+    {
+      "ref": "Vayikra 5:1",
+      "wort_nr": 71,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_26_Vayikra.txt"
+    },
+    {
+      "ref": "Vayikra 7:1",
+      "wort_nr": 60,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_26_Vayikra.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 44,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 48,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 50,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 76,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 84,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 123,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:2",
+      "wort_nr": 133,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 4:3",
+      "wort_nr": 17,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 7:3",
+      "wort_nr": 85,
+      "alt": "וְכַנֲז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 8:3",
+      "wort_nr": 30,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Tzav 14:1",
+      "wort_nr": 56,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_27_Tzav.txt"
+    },
+    {
+      "ref": "Bamidbar 7:1",
+      "wort_nr": 61,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 10:2",
+      "wort_nr": 89,
+      "alt": "וְכנז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Bamidbar 17:1",
+      "wort_nr": 75,
+      "alt": "וְכָנָז'",
+      "neu": "וכנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_28_Bamidbar.txt"
+    },
+    {
+      "ref": "Shoftim 3:2",
+      "wort_nr": 68,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil01.txt"
+    },
+    {
+      "ref": "Shoftim 3:2",
+      "wort_nr": 118,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil01.txt"
+    },
+    {
+      "ref": "Shoftim 8:2",
+      "wort_nr": 50,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil01.txt"
+    },
+    {
+      "ref": "Shoftim 19:1",
+      "wort_nr": 69,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil01.txt"
+    },
+    {
+      "ref": "Shoftim 20:1",
+      "wort_nr": 41,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil01.txt"
+    },
+    {
+      "ref": "Shoftim 47:3",
+      "wort_nr": 11,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil02.txt"
+    },
+    {
+      "ref": "Shoftim 47:3",
+      "wort_nr": 97,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil02.txt"
+    },
+    {
+      "ref": "Shoftim 47:3",
+      "wort_nr": 149,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil02.txt"
+    },
+    {
+      "ref": "Shoftim 47:3",
+      "wort_nr": 156,
+      "alt": "הֲנֵז'",
+      "neu": "הנז'",
+      "grund": "Typografische Entscheidung: eindeutig abgekürzte Verweisformen bleiben unpunktiert. Beseitigt unzutreffende Wortlesungen wie הֲנֵז für הנזכר.",
+      "art": "NIKUD_ABKUERZUNG",
+      "scan_seq": null,
+      "datei": "OYC_29_Shoftim_Teil02.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 6",
+      "wort_nr": 120,
+      "alt": "אֲחֵרוֹת אֶחָד",
+      "neu": "אַחְדוּת אֶחָד",
+      "grund": "Druck: ונעשה הכל אחדות אחד; ר/ד verwechselt.",
+      "art": "TEXT",
+      "scan_seq": 347,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil01.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 54",
+      "wort_nr": 108,
+      "alt": "עוֹנֶה ז\"א",
+      "neu": "עוֹלֶה ז\"א",
+      "grund": "Druck: עתה במנחת שבת עולה ז״א במקום גבוה.",
+      "art": "TEXT",
+      "scan_seq": 353,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 54",
+      "wort_nr": 169,
+      "alt": "כְּמוֹ ס\"א",
+      "neu": "כְּמוֹ א\"א",
+      "grund": "Druck: ונעשה ז״א כמו א״א; א/ס verwechselt, Abkürzung nicht eigenmächtig gedeutet.",
+      "art": "TEXT",
+      "scan_seq": 353,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil03.txt"
+    },
+    {
+      "ref": "Kuntres Chut HaMeshulash 82",
+      "wort_nr": 32,
+      "alt": "לִדְהֵגֶא",
+      "neu": "לְדַרְגָּא",
+      "grund": "Druck: מדרגא לדרגא; ר/ה verwechselt.",
+      "art": "TEXT",
+      "scan_seq": 356,
+      "datei": "OYC_10_Kuntres_Chut_HaMeshulash_Teil04.txt"
+    },
+    {
+      "ref": "Shemot 10:3",
+      "wort_nr": 52,
+      "alt": "וְקִרַבְתְלוּ",
+      "neu": "וְקֵרַבְתָּנוּ",
+      "grund": "Druck wiederholt וקרבתנו מלכנו; נ/ל verwechselt.",
+      "art": "TEXT",
+      "scan_seq": 377,
+      "datei": "OYC_14_Shemot_Teil02.txt"
+    },
+    {
+      "ref": "Vayakhel 1:3",
+      "wort_nr": 46,
+      "alt": "הַמְשַׁבֵּחַ",
+      "neu": "הַמִּזְבֵּחַ",
+      "grund": "Druck: אפרו צבור ע״ג המזבח; Altar, nicht Lobender.",
+      "art": "TEXT",
+      "scan_seq": 399,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Vayakhel 7:1",
+      "wort_nr": 79,
+      "alt": "נִשְׁאַר תְּפִילּוֹת",
+      "neu": "כִּשְׁאָר תְּפִילּוֹת",
+      "grund": "Druck: דומה כשאר תפלות נעילה; כ/נ verwechselt.",
+      "art": "TEXT",
+      "scan_seq": 399,
+      "datei": "OYC_24_Vayakhel.txt"
+    },
+    {
+      "ref": "Noach 3:1",
+      "wort_nr": 76,
+      "alt": "הֲיִשְׂרָאֵל",
+      "neu": "הַיִּשְׂרָאֵל",
+      "grund": "Bestimmter Artikel, keine Fragepartikel.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 15:1",
+      "wort_nr": 29,
+      "alt": "שַׁחַתְכֶם",
+      "neu": "שֶׁחֲתָכָם",
+      "grund": "Dass er die Fäden durchgeschnitten hat, maskulines Pluralobjekt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 18:2",
+      "wort_nr": 3,
+      "alt": "לִתְפְּרוּ",
+      "neu": "לְתָפְרוֹ",
+      "grund": "Infinitiv mit Singularobjekt, das Annähen.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 18:3",
+      "wort_nr": 22,
+      "alt": "מוּתָּר לִתְפְּרוּ",
+      "neu": "מוּתָּר לְתָפְרוֹ",
+      "grund": "Infinitiv mit Singularobjekt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt",
+      "wort_nr_vor_lokalisierung": 21
+    },
+    {
+      "ref": "Noach 18:3",
+      "wort_nr": 30,
+      "alt": "וְיִזָּהֵר לִתְפְּרוּ",
+      "neu": "וְיִזָּהֵר לְתָפְרוֹ",
+      "grund": "Infinitiv mit Singularobjekt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt",
+      "wort_nr_vor_lokalisierung": 29
+    },
+    {
+      "ref": "Noach 19:2",
+      "wort_nr": 1,
+      "alt": "וְהַשְּׂעוֹרִים",
+      "neu": "וְהַשִּׁעוּרִים",
+      "grund": "Maße, nicht Gerste; defektive Schreibung erhalten.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:7",
+      "wort_nr": 24,
+      "alt": "דַּעְתָּהּ",
+      "neu": "דְּעַתָּה",
+      "grund": "Denn jetzt; keine Meinung einer Frau.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:8",
+      "wort_nr": 65,
+      "alt": "דַּעְתָּהּ",
+      "neu": "דְּעַתָּה",
+      "grund": "Denn jetzt; kein feminines Suffix.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil01.txt"
+    },
+    {
+      "ref": "Noach 19:12",
+      "wort_nr": 20,
+      "alt": "תּוּפְרוּ",
+      "neu": "תּוֹפְרוֹ",
+      "grund": "Partizip mit Singularobjekt: wenn er ihn näht.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_02_Noach_Teil02.txt"
+    },
+    {
+      "ref": "Vayetzei 3:2",
+      "wort_nr": 146,
+      "alt": "שֶׁטָּבְעוּ",
+      "neu": "שֶׁטִּבְעוֹ",
+      "grund": "Dessen Natur, nicht sie versanken.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:2",
+      "wort_nr": 152,
+      "alt": "שֶׁמְּעֻכָּלוֹ",
+      "neu": "שֶׁמְּעַכְּלוֹ",
+      "grund": "Bis die Kraft die Nahrung verdaut, aktives Partizip mit Objekt.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:3",
+      "wort_nr": 1,
+      "alt": "וְהַחַמְשֵׁי",
+      "neu": "וְהַחֲמִשִׁי",
+      "grund": "Ordnungszahl: die fünfte Kraft.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "wort_nr": 168,
+      "alt": "וְהָעוֹנֶה",
+      "neu": "וְהָעוֹנָה",
+      "grund": "Die geeignete Zeit, keine antwortende Person.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "wort_nr": 180,
+      "alt": "וּפֹה",
+      "neu": "וּפֶה",
+      "grund": "Der Mund/die Öffnung der Harnblase; keine Ortsangabe.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "wort_nr": 189,
+      "alt": "מֵעֵבֶר",
+      "neu": "מַעֲבַר",
+      "grund": "Durch den Harnkanal, Substantiv מעבר.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 3:7",
+      "wort_nr": 209,
+      "alt": "וּמִכָּווּץ",
+      "neu": "וּמְכַוֵּוץ",
+      "grund": "Aktives Partizip מכווץ.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    },
+    {
+      "ref": "Vayetzei 4:1",
+      "wort_nr": 69,
+      "alt": "דְּהַשֵּׁם",
+      "neu": "דְּהַשָּׁם",
+      "grund": "Wer seine Wege abwägt, nicht der Gottesname.",
+      "art": "NIKUD",
+      "scan_seq": null,
+      "datei": "OYC_07_Vayetzei.txt"
+    }
+  ]
+}

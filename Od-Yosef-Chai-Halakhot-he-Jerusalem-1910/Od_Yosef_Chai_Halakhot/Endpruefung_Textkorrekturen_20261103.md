@@ -1,3 +1,5 @@
+> Historischer Zwischenstand. Aktueller Fortsetzungsstand: [Gesamtlektorat_Status_20261103.md](Gesamtlektorat_Status_20261103.md).
+
 # Endprüfung nach Freigabe der sechs Textkorrekturen · 03.11.2026
 
 **Die sechs freigegebenen Berichtigungen sind aktiv. Eine vollständige sprachliche Satzfreigabe ist weiterhin nicht erteilt.**
