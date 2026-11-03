@@ -1,0 +1,457 @@
+[
+ {
+  "ref": "Shemot 1:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "9a518ab39b9e5691b954ef47c9db63594d3610b59e4ad24dc6d59faee7f59013",
+  "sha256_nachher": "9a518ab39b9e5691b954ef47c9db63594d3610b59e4ad24dc6d59faee7f59013",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "7b389bc0886eb684d8eac797522686bfd3f79790f8bd848e1fde1df900aa7a13",
+  "sha256_nachher": "7b389bc0886eb684d8eac797522686bfd3f79790f8bd848e1fde1df900aa7a13",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "0b3e972f676757b1958c0dd67c6c28ece72c53f1b4a7cc128efe0e8c13e55d38",
+  "sha256_nachher": "4a6155e6dde6f849688bb7992f025303342cbe3fa2e1a9990d479d17ef96e7c7",
+  "textverdacht": [
+   {
+    "text": "פרק צרי ז'",
+    "hinweis": "Unklare Kapitelangabe; צרי darf nicht als gesicherte Lesung gelten."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:4",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "c6af1a5c91ad3a02ab1f736f3d681c8c4a6d3e5d55a4a7349ae9246845b64905",
+  "sha256_nachher": "dc101d6e84e6357356055f7a037dfb92c3f11702b5d7c1a44c09abc50ca48e49",
+  "textverdacht": [
+   {
+    "text": "שיהה",
+    "hinweis": "Im Kontext verstrichener Zeit; genaue Druckschreibung und Vokalisierung offen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:5",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "fcbb1f11f3cd6bd9f8b14134d45f7562c9e42de04438b3d7029b2a1222b7226a",
+  "sha256_nachher": "01b20cc76ac3631eba5cbc0ff1d48c96596eb51cac57ce0609ba0dcd8c6d671c",
+  "textverdacht": [
+   {
+    "text": "לשם היום",
+    "hinweis": "Im Kontext Beginn des Tages an einem Ort; genaue Drucklesung offen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:6",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "f750dec3d7b7d25321142351c9f76b462793577cafe05f6e6c4637bd0f91ed47",
+  "sha256_nachher": "52d0491aa25476ac6954aec4136d1572124cbd4a612abebcfc1a2dee9c1363fa",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:7",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "4841bcac1dfa217158587da66889083aeadd91ec69b6d119fceec3b6a9a46f6a",
+  "sha256_nachher": "4841bcac1dfa217158587da66889083aeadd91ec69b6d119fceec3b6a9a46f6a",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:8",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "349c68d8a24f9a1132d629909058895fbfec071daa1b7ae398c217bd31859bec",
+  "sha256_nachher": "b091d8af939a189c826136ab9f845b20f3b388d87b77e4e9c495493eaf571075",
+  "textverdacht": [
+   {
+    "text": "כלים מיירי השעות",
+    "hinweis": "Gemeint sind Zeitmesser; מיירי gegen Druck prüfen."
+   },
+   {
+    "text": "מקום תכינתנו / המירה על אופק",
+    "hinweis": "Ortsbezeichnung und Beschreibung des Uhrzeigers: Digitalwortlaut gegen Druck prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:9",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "0bd10b3646a1108de461a289edccba31a13ecc005f1da58b56a26aabe51d9255",
+  "sha256_nachher": "792aa4751b3c813d78b9f68e96e10c25cfcc0051087e45ca5c2ede12b1593c90",
+  "textverdacht": [
+   {
+    "text": "שמוכרת להיות שינוי",
+    "hinweis": "Kontext erwartet eine Notwendigkeitsform; keine unbelegte Konsonantenänderung."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:10",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "f8f8084948bfa720145c193c750d490ff48f5a2afa64b1732f8c3f05de97f77a",
+  "sha256_nachher": "2a901745858bda1c1d8460828dee8f50dd8d824844516c644beca537f17c78c0",
+  "textverdacht": [
+   {
+    "text": "כפי בינה לבב העם",
+    "hinweis": "Grammatisch auffälliger Wortlaut; genaue Drucklesung offen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:11",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "95acc5a2d2e24485269c8e3d4c58912be06042cf8a5a4b19712d8272ce7b9d1d",
+  "sha256_nachher": "d572b42b3949ac196e02bc49c0138df4f69b477bcbd762d2ccc8e8d080d07b3c",
+  "textverdacht": [
+   {
+    "text": "עתותי השנה / ממזרח למערב הפך תנועת הרקיע",
+    "hinweis": "Sowohl die Wortform als auch die Richtungsangabe gegen Druck und zitiertes Werk prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:12",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "1bc01d97d6c019ed59faefc61520f5f094d81d5911b2e3081266e8fe512115a4",
+  "sha256_nachher": "11904c485da00c623de229092e18e54df31b5bc78397c49119877b5e47adaa96",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:13",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "ca75bac1277bbc12648561aef4b0e82642ccf2b65235b7a7f4530419459bf359",
+  "sha256_nachher": "ca75bac1277bbc12648561aef4b0e82642ccf2b65235b7a7f4530419459bf359",
+  "textverdacht": [
+   {
+    "text": "פינוסין / פינוסין / פנוסין",
+    "hinweis": "Historische Fremdwortlesungen; Punktierung der verschiedenen Schreibungen bleibt gesondert zu prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 1:14",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "b412dcfa5ba8d479feda87e8615c7cf0d2f15076a6f8da7b4ad28e31cf48a44b",
+  "sha256_nachher": "b412dcfa5ba8d479feda87e8615c7cf0d2f15076a6f8da7b4ad28e31cf48a44b",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:15",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "5c70eb7e79aeadc73c67dc5ab8344648f41f7eb2879ac8cc9a3ab053b90941ae",
+  "sha256_nachher": "453356df48fbaf31b280325005e6f3710762ccc7271b0baf34eb28c6c5e3197a",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 1:16",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "4dd99dd338a24e848e21227bdc2d8de06e3f1d35371c4ee8ffe48a6d4a38eaea",
+  "sha256_nachher": "5bc10a06add65c5a63b210053dda4523f673eb5fd1dcceb71d9a5484044e1fbb",
+  "textverdacht": [
+   {
+    "text": "ואדני שפת תפתח",
+    "hinweis": "Gebetszitat mit auffälligem Konsonantenwortlaut; Druck und zitierte Quelle prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 2:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "87565d628b13f625ac12504994ca4262e3287d4443d5f84af46c25e7836af256",
+  "sha256_nachher": "87565d628b13f625ac12504994ca4262e3287d4443d5f84af46c25e7836af256",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 2:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "df54c59b1a65597c3a617c63a9c3c7f3f46569ba940885e51a3fc1e9d1886bf5",
+  "sha256_nachher": "c2bbf805712384304a2f62ea2da8e7c567d50545ac1bdde29b23207c9ab33a3d",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 2:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "a80024092b2d5d36926e808d6db32e5491bcb33364642a201b6eaccc64f2c593",
+  "sha256_nachher": "2fbfdbb52308ebd3e727721763c202e5e7a520a39c8794b099c2f9c56b649608",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 3:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "8c2cf49076cdc102a14452c91fc6ce0ae5635aa33a7ab5bbedd360c6392971f2",
+  "sha256_nachher": "8c2cf49076cdc102a14452c91fc6ce0ae5635aa33a7ab5bbedd360c6392971f2",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 4:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "6107366479b0952acae2f7f3b0b6ad579d837a051c45001ccea237fbcd924aa3",
+  "sha256_nachher": "6107366479b0952acae2f7f3b0b6ad579d837a051c45001ccea237fbcd924aa3",
+  "textverdacht": [
+   {
+    "text": "בפ' פקידי",
+    "hinweis": "Paraschaname an dieser Stelle gegen Druck prüfen; Konsonanten unverändert."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 4:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "6694cbb319ce26ceb62ae8cabc5efdf331a183187d0472b38d5d7d1cbc4977dd",
+  "sha256_nachher": "74ec3f1d3ffd791cb1d1645aa7beafe59395b4448c06e8788e832ebf47f7987d",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 4:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "a6371c9889c9be84a17acc69e7de48cc0500ab0423f02032e8f69c0a8b2d0c00",
+  "sha256_nachher": "a6371c9889c9be84a17acc69e7de48cc0500ab0423f02032e8f69c0a8b2d0c00",
+  "textverdacht": [
+   {
+    "text": "(עפשט) [מתפשט] / מלא כל הארון כבודו",
+    "hinweis": "Vorhandene Klammerkorrektur bleibt; הארון im Zitat gegen Druck und Quelle prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 4:4",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "b1211c7b9f37684b28c4ca47c174fa4c092b76e2cf87d7b5879d35bc5816cae1",
+  "sha256_nachher": "f191d59d57821a4c8fa050262abede711306e79e8abd35006ab2c2ca52156396",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 4:5",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "9dd0237f38ffa477bee97bbd859a1837fe07603e1d9a5ee230bf53902fcc6517",
+  "sha256_nachher": "9dd0237f38ffa477bee97bbd859a1837fe07603e1d9a5ee230bf53902fcc6517",
+  "textverdacht": [
+   {
+    "text": "להקדים את המלכות",
+    "hinweis": "Im Kontext des Erhebens der Malkhut; Lesung gegen Druck prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 4:6",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "55ec7351f2a26caad1a9b314feb0f5c19771627f17efe08ab20320be87dc767e",
+  "sha256_nachher": "361f01739b0b80e41dd94f24377378a030e73a79b12738343109e0200592e13d",
+  "textverdacht": [
+   {
+    "text": "וקרוש ג'",
+    "hinweis": "Parallelfolge קדוש א', קדוש ב'; fragliches Wort gegen Druck prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 4:7",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "7f831de72f31968576318fe954f68a4cff96f089d90070c03e6e67ab2cf7c709",
+  "sha256_nachher": "5315a8f503e1e8d246d4cc2c080f75b80da06e564975a127b802ac09b0359282",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 4:8",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "e20a9c3ca979c42b94e3230ff923a179ac355211dc3cc20102a790ef53193be0",
+  "sha256_nachher": "e20a9c3ca979c42b94e3230ff923a179ac355211dc3cc20102a790ef53193be0",
+  "textverdacht": [
+   {
+    "text": "ג' קדושות האלי",
+    "hinweis": "Demonstrativform auffällig; Originalschreibung offen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 4:9",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "fcaf3087bf098f95020f1bb9352ddd4f3f32649013401ea73ceb299e3e8efff4",
+  "sha256_nachher": "fcaf3087bf098f95020f1bb9352ddd4f3f32649013401ea73ceb299e3e8efff4",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 5:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "c77a9b7069fce335bf29e5000e91c2e7614e441cd861253a6eb8027b478c9181",
+  "sha256_nachher": "c77a9b7069fce335bf29e5000e91c2e7614e441cd861253a6eb8027b478c9181",
+  "textverdacht": [
+   {
+    "text": "כי האופים הם בעשיה",
+    "hinweis": "Im unmittelbaren Kontext der אופנים; fehlender Buchstabe darf erst nach Beleg berichtigt werden."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 6:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "624ed97aefa7f26a2cf62559917db9b51dabcf39f98bcd35fed55fa26ea45e2f",
+  "sha256_nachher": "624ed97aefa7f26a2cf62559917db9b51dabcf39f98bcd35fed55fa26ea45e2f",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 6:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "cc2baf6f5831e0c54de45d425e19821f16d003cf73a70012d6108b2bcffcb8ca",
+  "sha256_nachher": "cc2baf6f5831e0c54de45d425e19821f16d003cf73a70012d6108b2bcffcb8ca",
+  "textverdacht": [
+   {
+    "text": "כל מלוי דעלמא עלאה",
+    "hinweis": "Aramäische Lesung מִלּוֹי statt automatisch מִלּוּי naheliegend; vor Änderung lexikalisch prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 6:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "c3ac0b4a05fda086cc35d380f0df9a914872d09c99ddafca6308200bb13c667b",
+  "sha256_nachher": "c3ac0b4a05fda086cc35d380f0df9a914872d09c99ddafca6308200bb13c667b",
+  "textverdacht": [
+   {
+    "text": "קדושתה אחרא / עליה",
+    "hinweis": "Aramäische Flexion und Pronomina im Zohar-Zitat gezielt kollationieren; keine Konsonantenänderung."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 6:4",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "38d25caf9d67f047c6f2377932ae76ca9c35bdd712f28c116073cd9239e6923f",
+  "sha256_nachher": "2c2baf2d969409b3a2041cac929354fd7117a3625c14c608444c493be6b44f3c",
+  "textverdacht": [
+   {
+    "text": "בלשון הקודם",
+    "hinweis": "Parallelzitat hat הקודש; Druckabgleich erforderlich."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 6:5",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "2173281a606f6c4a37b74bf317bc482408387ad2199384f895d55a3a9e196159",
+  "sha256_nachher": "2173281a606f6c4a37b74bf317bc482408387ad2199384f895d55a3a9e196159",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 7:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "9848c24d9cf0bc6e3ddccc6de2e5f120840444b6091f367c5c0c04ad422d4dcb",
+  "sha256_nachher": "9848c24d9cf0bc6e3ddccc6de2e5f120840444b6091f367c5c0c04ad422d4dcb",
+  "textverdacht": [
+   {
+    "text": "קק\"ק יכו'",
+    "hinweis": "Abschluss des Zitats unklar; Druckabgleich erforderlich."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 7:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "c0d18e633aac6741cee801e316cbfdbec863a72c96dae19e6fcc2bec4f4359e8",
+  "sha256_nachher": "c0d18e633aac6741cee801e316cbfdbec863a72c96dae19e6fcc2bec4f4359e8",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 7:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "c6623e30aedcb10ae8ab02cc6e98ba0cd1b3654c3356d11e9174d47af844f230",
+  "sha256_nachher": "c6623e30aedcb10ae8ab02cc6e98ba0cd1b3654c3356d11e9174d47af844f230",
+  "textverdacht": [
+   {
+    "text": "ביגון וטעמים",
+    "hinweis": "Parallelstellen im selben Abschnitt haben בניגון וטעמים; gegen Druck prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 7:4",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "e4afad2ee3dfeb8b99f6b475fd92f6f67594bdfc5645e7ceb60af6b0b0bfeb5c",
+  "sha256_nachher": "e4afad2ee3dfeb8b99f6b475fd92f6f67594bdfc5645e7ceb60af6b0b0bfeb5c",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 7:5",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "4b4dc8c1866b7b1e4991497406bf5e249dbd6425eac5bcb01445aac46163eb4f",
+  "sha256_nachher": "4b4dc8c1866b7b1e4991497406bf5e249dbd6425eac5bcb01445aac46163eb4f",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 8:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "2682bc28e7ba818d5909bc768fab0f37868fc91ae04459fd5ab84a658f1d30e2",
+  "sha256_nachher": "2682bc28e7ba818d5909bc768fab0f37868fc91ae04459fd5ab84a658f1d30e2",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 9:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "ee3fda95654107aadeb5d801a38661912bc7c1ec745d0adec3cf463989db593c",
+  "sha256_nachher": "c2a31e2c428cbf3a87e6412149f908c5ebbc9df5de9aa9f77fd7d1e12e6ce8fd",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 9:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "451efbad18d0732c3370549d41440a84afef71893a9393c93f8be6390fc50a43",
+  "sha256_nachher": "08fd548d16f3d91b889f954d8f2e91ebface2332c6ef35e9dd1807995a7f60bf",
+  "textverdacht": [
+   {
+    "text": "זריעותיו / ומי כהוא",
+    "hinweis": "Im Kontext der Arme und Vergleich der Seelenwurzeln; Digitalwortlaut gegen Druck prüfen."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 9:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "f46a785bb9b978494d92a49705af3024b59335e930b515294ee705e83247087f",
+  "sha256_nachher": "f46a785bb9b978494d92a49705af3024b59335e930b515294ee705e83247087f",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 10:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "57811c8fa5797d864dedc0ddcc1b5a5a5a8d84dc574cab8bb7b7a136d6a5a948",
+  "sha256_nachher": "679192a8a1fb022f150210dcac2062aa9a4b879505bbbd7a44b0d9df1f9eb3a9",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 10:2",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "03e982a2e9f063d3f97ccf7fd588f502beb2cc8ba05177186f13b5f315b6f6d8",
+  "sha256_nachher": "03e982a2e9f063d3f97ccf7fd588f502beb2cc8ba05177186f13b5f315b6f6d8",
+  "textverdacht": [
+   {
+    "text": "חג השבועית",
+    "hinweis": "Festname gegen Druck prüfen; keine stillschweigende Ersetzung durch שבועות."
+   }
+  ]
+ },
+ {
+  "ref": "Shemot 10:3",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "d4b54f531fa98e5c98e9bc9705a2d902d734b51eb43bdbd7c062a3daba53be19",
+  "sha256_nachher": "65f4a7e451f5ceadd6ec3d415a7e1772b146a278639c8352d65bc020ab57df44",
+  "textverdacht": []
+ },
+ {
+  "ref": "Shemot 11:1",
+  "status": "GELESEN_MIT_OFFENEM_DRUCKABGLEICH",
+  "sha256_vorher": "1e95c21973d16df0e4e764a5edfe9d3b75ccf8e370269c65610040020ad9e057",
+  "sha256_nachher": "1e95c21973d16df0e4e764a5edfe9d3b75ccf8e370269c65610040020ad9e057",
+  "textverdacht": [
+   {
+    "text": "ולא ואמרו פעם שנית אמת",
+    "hinweis": "Verbform gegen Druck prüfen; jetzigen Wortlaut unverändert lassen."
+   }
+  ]
+ }
+]

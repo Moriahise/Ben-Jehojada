@@ -4,7 +4,7 @@ Basis: Od_Yosef_Chai_Halakhot_-_he_-_Jerusalem_1910.json (1024 Absaetze)
 Zeuge nakdan : 1024 von 1024 Absaetzen · Konsonanten abweichend in 15 Absaetzen
 Zeuge meine  : 1024 von 1024 Absaetzen · Konsonanten abweichend in 0 Absaetzen
 
-Befunde gesamt: TEXT_N 20, UNVOK_M 25, VOK 3118
+Befunde gesamt: TEXT_N 20, UNVOK_M 25, VOK 3165
 
 Abschnitt                    Abs. Woerter     VOK UNVOK_M  TEXT_M  TEXT_N
 Bereshit                       22    1641      71       0       0       3
@@ -20,7 +20,7 @@ Kuntres Chut HaMeshulash      107   11669     361       0       0       4
 Miketz                         52    5410     198       3       0       0
 Vayigash                       58    5297     187       2       0       0
 Vayechi                        54    5095     163       2       0       2
-Shemot                         48    4512     212       1       0       1
+Shemot                         48    4512     259       1       0       1
 Vaera                          68    6190     196       0       0       0
 Bo                             16    1218      68       0       0       4
 Beshalach                      38    3097      90      12       0       0
