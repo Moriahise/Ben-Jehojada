@@ -1,0 +1,109 @@
+[
+ {
+  "ref": "Vayera 11:1",
+  "art": "NIKUD",
+  "alt": "אֲבָל בְּיוֹם",
+  "neu": "אָבֵל בְּיוֹם",
+  "vorkommen": 1,
+  "grund": "Ein Trauernder, nicht die Konjunktion aber. Absatzgegenstand und Druck S. 328, Ot יא bestätigen den Bezug.",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_NEU_ZUGEORDNET"
+ },
+ {
+  "ref": "Vayera 19:1",
+  "art": "TEXT",
+  "alt": "חוֹצֵךְ",
+  "neu": "חוֹצֵץ",
+  "vorkommen": 1,
+  "grund": "Originaldruck, rechte Spalte Ot יט: שלא יהיה דבר חוצץ בין התפילין לבשר. Digitaltext verwechselt ץ/ך.",
+  "scan_seq": 329,
+  "scan_fl_id": "FL244210493",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT"
+ },
+ {
+  "ref": "Vayera 21:1",
+  "art": "NIKUD",
+  "alt": "בִּקְבוּרַת",
+  "neu": "בַּקִּבּוֹרֶת",
+  "vorkommen": 1,
+  "grund": "Oberarmmuskel beim Anlegen der Tefillin, nicht Begräbnis. Defektive Konsonantenschreibung קבורת erhalten.",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_NEU_ZUGEORDNET"
+ },
+ {
+  "ref": "Chayei Sara 5:1",
+  "art": "TEXT",
+  "alt": "הַכִּים",
+  "neu": "הַכִּיס",
+  "vorkommen": 1,
+  "grund": "Originaldruck, linke Spalte Ot ה erster Absatz: לא ינערם מן הכיס. Digitaltext verwechselt ס/ם.",
+  "scan_seq": 330,
+  "scan_fl_id": "FL244210571",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT"
+ },
+ {
+  "ref": "Chayei Sara 5:2",
+  "art": "TEXT",
+  "alt": "הַכִּים",
+  "neu": "הַכִּיס",
+  "vorkommen": 1,
+  "grund": "Originaldruck, linke Spalte Ot ה zweiter Absatz: אלא הכיס יאחזנו בידו. Digitaltext verwechselt ס/ם.",
+  "scan_seq": 330,
+  "scan_fl_id": "FL244210571",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_AM_DRUCK_NEU_BESTAETIGT"
+ },
+ {
+  "ref": "Toldot 10:2",
+  "art": "NIKUD",
+  "alt": "הַשָּׂכָר",
+  "neu": "הַשֵּׁכָר",
+  "vorkommen": 1,
+  "grund": "Getränk Bier im Kontext יד לגיגית, nicht Entlohnung.",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_NEU_ZUGEORDNET"
+ },
+ {
+  "ref": "Toldot 10:2",
+  "art": "NIKUD",
+  "alt": "בְּשָׂכָר",
+  "neu": "בְּשֵׁכָר",
+  "vorkommen": 1,
+  "grund": "Dasselbe Getränk beim Berühren mit der Hand, nicht Lohn.",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_NEU_ZUGEORDNET"
+ },
+ {
+  "ref": "Beshalach 13:7",
+  "art": "NIKUD",
+  "alt": "וּתְפַרְנְסֶנּוּ",
+  "neu": "וּתְפַרְנְסֵנוּ",
+  "vorkommen": 2,
+  "grund": "Gebet in der ersten Person Plural: versorge uns. Beide Vorkommen im Absatz.",
+  "herkunft": "HISTORISCH_GEMELDETE_KORREKTURART_NEU_ZUGEORDNET"
+ },
+ {
+  "ref": "Beshalach 13:7",
+  "art": "NIKUD",
+  "alt": "תְּכַלְכְּלֶנּוּ",
+  "neu": "תְּכַלְכְּלֵנוּ",
+  "vorkommen": 1,
+  "grund": "Gleicher Gebetszusammenhang: ernähre/versorge uns, nicht ihn.",
+  "herkunft": "NEU_BEI_REKONSTRUKTION_ERKANNT_KEIN_NACHWEIS_DER_DAMALIGEN_ANWENDUNG"
+ },
+ {
+  "ref": "Tetzaveh 1:1",
+  "art": "TEXT",
+  "alt": "שְׁמוֹ עַל בְּנֵי",
+  "neu": "שְׁמִי עַל בְּנֵי",
+  "vorkommen": 1,
+  "grund": "Originaldruck, rechte Spalte Ot א: ושמו את שמי על בני ישראל ואני אברכם. Digitaltext hat שמו statt שמי; Übereinstimmung mit Numeri 6,27.",
+  "scan_seq": 393,
+  "scan_fl_id": "FL244209946",
+  "herkunft": "NEU_BEI_REKONSTRUKTION_ERKANNT_KEIN_NACHWEIS_DER_DAMALIGEN_ANWENDUNG"
+ },
+ {
+  "ref": "Tetzaveh 1:1",
+  "art": "NIKUD",
+  "alt": "וּשְׁמוֹ אֶת",
+  "neu": "וְשָׂמוּ אֶת",
+  "vorkommen": 1,
+  "grund": "Gebetszitat aus Numeri 6,27: sie sollen setzen, nicht sein Name. Konsonanten ושמו unverändert.",
+  "herkunft": "NEU_BEI_REKONSTRUKTION_ERKANNT_KEIN_NACHWEIS_DER_DAMALIGEN_ANWENDUNG"
+ }
+]
