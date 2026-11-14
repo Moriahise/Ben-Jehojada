@@ -1,0 +1,520 @@
+{
+  "_meta": {
+    "zweck": "Waehrend der Uebersetzung geklaerte Kuerzel (Regel 43 / Regel 24 NEU). lc_glossar.py uebernimmt die Eintraege als Status GEKLAERT bzw. SHEM in GLOSSAR.tsv und Glossar_NEU.json.",
+    "felder": "he = Aufloesung, en = englische Wiedergabe, status = GEKLAERT | SHEM | KONTEXT, beleg = erste Stelle, grund = Begruendung",
+    "stand": "Teil I und Teil II vollständig übersetzt"
+  },
+  "eintraege": {
+    "פו\"ר": {
+      "he": "פְּרִיָּה וּרְבִיָּה",
+      "en": "being fruitful and multiplying",
+      "status": "GEKLAERT",
+      "beleg": "Part I 9:4",
+      "grund": "„שערי פו״ר בתורה ובבנים“; vgl. 10:37 „שערי פריה ורביה“ ausgeschrieben"
+    },
+    "באר\"י": {
+      "he": "בְּאֶרֶץ יִשְׂרָאֵל",
+      "en": "in the Land of Israel",
+      "status": "GEKLAERT",
+      "beleg": "Part I 9:4",
+      "grund": "„ישוב טוב באר״י“; ב + אר״י (ארץ ישראל)"
+    },
+    "זר\"ק": {
+      "he": "",
+      "en": "",
+      "status": "SHEM",
+      "beleg": "Part I 9:4",
+      "grund": "Teil der Buchstabenfolge „זר״ק של״ק לעיתש״ל“ in der Reihe der Tore; kein Wortsinn, hebraeisch belassen"
+    },
+    "של\"ק": {
+      "he": "",
+      "en": "",
+      "status": "SHEM",
+      "beleg": "Part I 9:4",
+      "grund": "Nur hier, Teil von „זר״ק של״ק לעיתש״ל“; die Ableitung „ש + לא קשיא“ trifft nicht zu"
+    },
+    "לעיתש\"ל": {
+      "he": "",
+      "en": "",
+      "status": "SHEM",
+      "beleg": "Part I 9:4; Part II 48:4; Part II 50:62",
+      "grund": "Teil von „זר״ק של״ק לעיתש״ל“; hebraeisch belassen; in Part II 48:4 und 50:62 als Schlussformel ebenfalls hebräisch in Klammern belassen"
+    },
+    "במוצש\"ק": {
+      "he": "בְּמוֹצָאֵי שַׁבָּת קֹדֶשׁ",
+      "en": "at the departure of the holy Shabbat",
+      "status": "GEKLAERT",
+      "beleg": "Part I 10:11",
+      "grund": "Verweis auf den Brauch am Schabbatausgang (Kapitel 8)"
+    },
+    "לחטו\"ל": {
+      "he": "לְחַיִּים טוֹבִים וּלְשָׁלוֹם",
+      "en": "for good life and for peace",
+      "status": "GEKLAERT",
+      "beleg": "Part I 15:7",
+      "grund": "Formel wie 9:4 und 10:2 ausgeschrieben („לחיים טובים ולשלום“)"
+    },
+    "כעזה\"ד": {
+      "he": "וְכֵן עַל זֶה הַדֶּרֶךְ",
+      "en": "and so on in this manner",
+      "status": "GEKLAERT",
+      "beleg": "Part I 13:7",
+      "grund": "Rubrik zur Anpassung der Bakashah an die Zahl der gelesenen Buecher"
+    },
+    "הו\"ר": {
+      "he": "הוֹשַׁעְנָא רַבָּה",
+      "en": "Hoshana Rabbah",
+      "status": "GEKLAERT",
+      "beleg": "Part I 13:2",
+      "grund": "„בליל הו״ר וביום חג השבועות“ (Tehillim-Lesung)"
+    },
+    "או\"א": {
+      "he": "אַבָּא וְאִמָּא | אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ",
+      "en": "Abba and Imma | our G-d and G-d of our fathers",
+      "status": "KONTEXT",
+      "beleg": "Part I 11:27; Part I 12:2",
+      "grund": "11:27/11:29 in Partzufim-Aufzaehlung = Abba ve-Imma; 12:2 vor „זכרנו בזכרון טוב“ = Gebetseinleitung"
+    },
+    "תעא\"ו": {
+      "he": "תִּפֹּל עֲלֵיהֶם אֵימָתָה וָפַחַד",
+      "en": "(initials of „let terror and dread fall upon them“)",
+      "status": "SHEM",
+      "beleg": "Part I 13:7",
+      "grund": "Initialen von Exodus 15:16 als Kavvanah; hebraeisch belassen und beschrieben"
+    },
+    "ר\"ש": {
+      "he": "רַבִּי שִׁמְעוֹן",
+      "en": "R. Shimon",
+      "status": "GEKLAERT",
+      "beleg": "Part I 12:2",
+      "grund": "Zohar-Zitat „רבי אבא הוה יתיב קמיה דר״ש“"
+    },
+    "בד\"ת": {
+      "he": "בְּדִבְרֵי תוֹרָה",
+      "en": "words of Torah",
+      "status": "GEKLAERT",
+      "beleg": "Part I 10:119",
+      "grund": "„בעת שהשליח צבור דורש בד״ת“"
+    },
+    "בהמ\"ז": {
+      "he": "בִּרְכַּת הַמָּזוֹן",
+      "en": "Grace after Meals",
+      "status": "GEKLAERT",
+      "beleg": "Part I 10:72",
+      "grund": "„ואכילה קודם בהמ״ז“"
+    },
+    "מש\"ה": {
+      "he": "מַה שֶּׁאָמַר הַכָּתוּב",
+      "en": "what Scripture says",
+      "status": "GEKLAERT",
+      "beleg": "Part I 10:116",
+      "grund": "„לקיים בעצמו … מש״ה וגילו ברעדה“ (Psalms 2:11)"
+    },
+    "ור\"מ": {
+      "he": "וְרַעְיָא מְהֵימְנָא",
+      "en": "and the Ra'aya Meheimna",
+      "status": "KONTEXT",
+      "beleg": "Part I 21:2",
+      "grund": "„מלוקט מזוה״ק ור״מ“: neben dem Zohar = Ra'aya Meheimna; die Ableitung „Rabbi Meir“ trifft hier nicht zu"
+    },
+    "א\"ה": {
+      "he": "אָמַר הַמַּגִּיהַּ / אָמַר הַמְּסַדֵּר",
+      "en": "editor's note",
+      "status": "GEKLAERT",
+      "beleg": "Part I 6:4; Part I 18:5",
+      "grund": "Klammerbemerkung im Text („(א״ה זו היא תפלת רבי תנחום)“)"
+    },
+    "פב\"ב": {
+      "he": "פְּלוֹנִי בֶּן פְּלוֹנִי (Druckfehler für פב״פ)",
+      "en": "N. son of N.",
+      "status": "GEKLAERT",
+      "beleg": "Part I 17:6",
+      "grund": "Platzhalter für den Namen des Betenden; Schreibung wie פב״פ"
+    },
+    "יו\"כ": {
+      "he": "יוֹם כִּפּוּר",
+      "en": "Yom Kippur",
+      "status": "GEKLAERT",
+      "beleg": "Part I 21:9",
+      "grund": "„יו״כ אקרי יומא דנקיותא“, Nebenform zu יוה״כ"
+    },
+    "הושע\"ר": {
+      "he": "הוֹשַׁעְנָא רַבָּה",
+      "en": "Hoshana Rabbah",
+      "status": "GEKLAERT",
+      "beleg": "Part I 32:2",
+      "grund": "„בליל הושע״ר קודם לימוד משנה תורה“; vgl. 32:10 ausgeschrieben"
+    },
+    "ותומ\"י": {
+      "he": "וְתֵיכֶף וּמִיָּד",
+      "en": "and immediately",
+      "status": "GEKLAERT",
+      "beleg": "Part I 32:15",
+      "grund": "Rubrik „ותומ״י יתחיל ללמוד ספר דברים“"
+    },
+    "אכי\"ר": {
+      "he": "אָמֵן כֵּן יְהִי רָצוֹן",
+      "en": "Amen, may it be His will",
+      "status": "GEKLAERT",
+      "beleg": "Part I 23:2",
+      "grund": "Schlussformel; vgl. 19:4 „אמן כן יהי רצון“ ausgeschrieben"
+    },
+    "ויה\"ר": {
+      "he": "וִיהִי רָצוֹן",
+      "en": "and may it be His will",
+      "status": "GEKLAERT",
+      "beleg": "Part I 23:2",
+      "grund": "Formel vor „זכותו … יגן בעדינו“"
+    },
+    "הי\"ת": {
+      "he": "הַשֵּׁם יִתְבָּרַךְ",
+      "en": "HaShem, blessed be He",
+      "status": "GEKLAERT",
+      "beleg": "Part I 23:6",
+      "grund": "„על קדושת הי״ת“, Nebenform zu השי״ת"
+    },
+    "ויהר\"מ": {
+      "he": "וִיהִי רָצוֹן מִלְּפָנֶיךָ",
+      "en": "And may it be Your will",
+      "status": "GEKLAERT",
+      "beleg": "Part I 24:10",
+      "grund": "Verweis auf die Bakashah 17:6 („ויהר״מ ה׳ או״א שיהיה הריח העולה מפי“)"
+    },
+    "ע\"כ": {
+      "he": "עַד כָּאן | עַל כֵּן",
+      "en": "thus far | therefore",
+      "status": "KONTEXT",
+      "beleg": "Part I 22:4; Part I 22:5",
+      "grund": "Am Ende eines Zitats (Midrash Mishlei, Sha'ar HaKavanot) = „עד כאן“; die Tabelle gibt nur „therefore“"
+    },
+    "לעת\"ל": {
+      "he": "לֶעָתִיד לָבוֹא",
+      "en": "in the time to come",
+      "status": "GEKLAERT",
+      "beleg": "Part I 22:4",
+      "grund": "„מקום בגן עדן לעת״ל“"
+    },
+    "ב\"ש": {
+      "he": "(אַתְבַּ״שׁ) בֵּית־שִׁין",
+      "en": "(part of Atbash)",
+      "status": "KONTEXT",
+      "beleg": "Part I 35:3",
+      "grund": "„בחלוף אותיות א״ת ב״ש“ = Atbash-Permutation, zusammen mit א״ת"
+    },
+    "בע\"ה": {
+      "he": "בַּעַל הַנֵּס",
+      "en": "Ba'al HaNes",
+      "status": "KONTEXT",
+      "beleg": "Part I 57:4",
+      "grund": "„רבי מאיר בע״ה“ = R. Meir Ba'al HaNes; die Tabelle leitet „ב + עליו השלום“ ab, was hier nicht passt"
+    },
+    "ענט\"י": {
+      "he": "עַל נְטִילַת יָדַיִם",
+      "en": "(the blessing) over the washing of the hands",
+      "status": "GEKLAERT",
+      "beleg": "Part I 53:9",
+      "grund": "„ויברך ענט״י“ vor dem Essen der Mazza"
+    },
+    "ליקבה\"ו": {
+      "he": "לְשֵׁם יִחוּד קוּדְשָׁא בְּרִיךְ הוּא",
+      "en": "For the sake of the unification of the Holy One, blessed be He",
+      "status": "GEKLAERT",
+      "beleg": "Part I 53:9",
+      "grund": "Verweis auf die Einleitungsformel"
+    },
+    "דרה\"ם": {
+      "he": "דִּרְהָם",
+      "en": "dirhams",
+      "status": "GEKLAERT",
+      "beleg": "Part I 53:9",
+      "grund": "Gewichtsangabe für das Kesajit Maror („תשעה דרה״ם“)"
+    },
+    "בקו\"ר": {
+      "he": "בְּקוֹל רָם",
+      "en": "in a loud voice",
+      "status": "GEKLAERT",
+      "beleg": "Part I 44:4; Part II 50:3",
+      "grund": "„כל חמירא … בקו״ר שלשה פעמים“"
+    },
+    "בילאו\"א": {
+      "he": "",
+      "en": "",
+      "status": "OFFEN",
+      "beleg": "Part I 54:7",
+      "grund": "„בתלת סטרין בילאו״א“ nicht sicher aufzulösen; hebräisch belassen und als Prüffall gemeldet"
+    },
+    "ב\"מ": {
+      "he": "בַּר מִינַן | ?",
+      "en": "may it be far from us | ?",
+      "status": "KONTEXT",
+      "beleg": "Part I 67:2; Part II 46:2",
+      "grund": "Part II 46:2 „חרם או נידוי ב״מ“ = „בר מינן“; Part I 67:2 weiterhin offen, hebräisch belassen; die Tabellenauflösung „Bava Metzia“ passt an beiden Stellen nicht"
+    },
+    "בזא\"ז": {
+      "he": "בָּזֶה אַחַר זֶה",
+      "en": "one after the other",
+      "status": "GEKLAERT",
+      "beleg": "Part I 66:4",
+      "grund": "Rubrik „שני פעמים בזא״ז“"
+    },
+    "ער\"ח": {
+      "he": "עֶרֶב רֹאשׁ חֹדֶשׁ",
+      "en": "the eve of Rosh Chodesh",
+      "status": "GEKLAERT",
+      "beleg": "Part I 66:29",
+      "grund": "„תיקון כרת בכל ליל ער״ח … יתענה בכל ער״ח“"
+    },
+    "אנס\"ו": {
+      "he": "אָמֵן נֶצַח סֶלָה וָעֶד",
+      "en": "Amen, forever, Selah, for evermore",
+      "status": "GEKLAERT",
+      "beleg": "Part I 66:26; Part II 50:60",
+      "grund": "Schlussformel der Bakashah"
+    },
+    "בעזה\"ו": {
+      "he": "בְּעֶזְרַת הַשֵּׁם",
+      "en": "with the help of HaShem",
+      "status": "GEKLAERT",
+      "beleg": "Part I 67:3; Part II 49:21",
+      "grund": "Schluss der Rubrik („יעשה פדיון בזה הסדר בעזה״ו“)"
+    },
+    "וישסו\"ת": {
+      "he": "וְיִשְׂרָאֵל סָבָא וּתְבוּנָה",
+      "en": "and Yisrael Sava and Tevunah",
+      "status": "GEKLAERT",
+      "beleg": "Part I 65:14",
+      "grund": "Neben או״א als Partzufim, die Zeir Anpin und Nukva nähren"
+    },
+    "בעוה\"ר": {
+      "he": "בַּעֲוֹנוֹתֵינוּ הָרַבִּים",
+      "en": "through our many sins",
+      "status": "GEKLAERT",
+      "beleg": "Part I 67:2",
+      "grund": "„כי יש נכשלים בעוה״ר בעון זה“"
+    },
+    "ע\"ז": {
+      "he": "עֲבוֹדָה זָרָה | הַמִּסְפָּר 77",
+      "en": "idolatry | the number 77",
+      "status": "KONTEXT",
+      "beleg": "Part I 65:3",
+      "grund": "In „בועז, ב׳ ע״ז“ Zahl 77 (70 + 7), sonst Götzendienst"
+    },
+    "ספב\"ל": {
+      "he": "סְפֵק בְּרָכוֹת לְהָקֵל",
+      "en": "in a doubt concerning blessings one is lenient",
+      "status": "GEKLAERT",
+      "beleg": "Part II 50:2",
+      "grund": "Halachische Regel; 50:3 ausgeschrieben „ספביל“"
+    },
+    "מחב\"ר": {
+      "he": "מַחֲזִיק בְּרָכָה",
+      "en": "Machazik Berakhah",
+      "status": "GEKLAERT",
+      "beleg": "Part II 50:2",
+      "grund": "Werktitel (Chida), mit Siman und Se'if-Katan zitiert"
+    },
+    "יהר\"מ": {
+      "he": "יְהִי רָצוֹן מִלְּפָנֶיךָ",
+      "en": "“May it be Your will”",
+      "status": "GEKLAERT",
+      "beleg": "Part II 33:6; Part II 38:11",
+      "grund": "Gebetsanfang; 38:11 „יהר״מ ה׳ או״א“; vgl. ויהר״מ (Part I 24:10)"
+    },
+    "ו\"א": {
+      "he": "וֵאלֹהֵי אֲבוֹתֵינוּ",
+      "en": "and G-d of our fathers",
+      "status": "GEKLAERT",
+      "beleg": "Part II 27:7",
+      "grund": "„יהוה אלהינו ו״א“"
+    },
+    "בעה\"י": {
+      "he": "בְּעֶזְרַת הַשֵּׁם יִתְבָּרַךְ",
+      "en": "with the help of HaShem",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:45",
+      "grund": "Variante von בעזה״ו"
+    },
+    "בעהי\"ז": {
+      "he": "בְּעֶזְרַת הַשֵּׁם",
+      "en": "with the help of HaShem",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:51",
+      "grund": "Variante von בעזה״ו; Schlussbuchstabe unklar"
+    },
+    "בעהי\"ו": {
+      "he": "בְּעֶזְרַת הַשֵּׁם",
+      "en": "with the help of HaShem",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:57",
+      "grund": "Variante von בעזה״ו; Schlussbuchstabe unklar"
+    },
+    "עזה\"ד": {
+      "he": "עַל זֶה הַדֶּרֶךְ",
+      "en": "in this manner",
+      "status": "GEKLAERT",
+      "beleg": "Part II 44:2",
+      "grund": "wie כעזה״ד (Part I 13:7)"
+    },
+    "יר\"ש": {
+      "he": "יְרֵא שָׁמַיִם",
+      "en": "G-d-fearing",
+      "status": "GEKLAERT",
+      "beleg": "Part II 46:3",
+      "grund": "„ת״ח יר״ש“"
+    },
+    "מלה\"ש": {
+      "he": "מַלְאֲכֵי הַשָּׁרֵת",
+      "en": "the ministering angels",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:132",
+      "grund": "Otiyot de-Rabbi Akiva"
+    },
+    "שערוה\"ק": {
+      "he": "שַׁעַר רוּחַ הַקֹּדֶשׁ",
+      "en": "Sha'ar Ruach ha-Kodesh",
+      "status": "GEKLAERT",
+      "beleg": "Part II 22:10",
+      "grund": "Werktitel (R. Chayyim Vital), „דט״ל ע״ב“"
+    },
+    "כנצפ\"ך": {
+      "he": "כנצפ״ך",
+      "en": "the five final letters",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:81",
+      "grund": "Variante von מנצפ״ך; Zahlwert 280"
+    },
+    "אדמו\"ר": {
+      "he": "אֲדוֹנֵנוּ מוֹרֵנוּ וְרַבֵּנוּ",
+      "en": "our master, teacher and rabbi",
+      "status": "GEKLAERT",
+      "beleg": "Part II 43:32",
+      "grund": "Titel des Autors im Nachtrag des Korrektors"
+    },
+    "נדנה\"י": {
+      "he": "נרנח״י (Druckfehler)",
+      "en": "nefesh, ruach, neshamah, chayah and yechidah",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:3",
+      "grund": "Druckfehler; Parallelstelle 2:4 hat נרנח״י"
+    },
+    "ה\"ח": {
+      "he": "חֲמִשָּׁה חֲסָדִים",
+      "en": "the five chasadim",
+      "status": "GEKLAERT",
+      "beleg": "Part II 1:114; Part II 49:20",
+      "grund": "stets neben ה״ג (fünf Gevurot)"
+    },
+    "יוה\"ך": {
+      "he": "יוֹם הַכִּפּוּרִים",
+      "en": "Yom Kippur",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:186",
+      "grund": "Schreibvariante von יוה״כ"
+    },
+    "ג\"ע": {
+      "he": "גַּן עֵדֶן",
+      "en": "the Garden of Eden",
+      "status": "GEKLAERT",
+      "beleg": "Part II 49:133",
+      "grund": "Otiyot de-Rabbi Akiva"
+    },
+    "ה\"ג": {
+      "he": "חָמֵשׁ גְּבוּרוֹת | מִסְפָּר 8",
+      "en": "the five gevurot | numerical value 8",
+      "status": "KONTEXT",
+      "beleg": "Part I 65:7; Part II 49:62",
+      "grund": "In Kavvanah-Texten neben ה״ח = fünf Gevurot; als Zahl 8"
+    },
+    "ר\"ח": {
+      "he": "רֹאשׁ חֹדֶשׁ | רַבִּי חִיָּא",
+      "en": "Rosh Chodesh | Rabbi Chiyya",
+      "status": "KONTEXT",
+      "beleg": "Part I 7:12; Part II 22:11; Part II 47:7",
+      "grund": "Part II 22:11 („עובדא ר״ח ובניו“) und 47:7 („ר״ח ור״י“) = R. Chiyya"
+    },
+    "מ\"א": {
+      "he": "מַיִם אַחֲרוֹנִים | 41 | מורי אבי (?)",
+      "en": "mayim acharonim | 41 | my master and father (?)",
+      "status": "KONTEXT",
+      "beleg": "Part I 2:41; Part I 67:63; Part II 49:38",
+      "grund": "Part I: Initialen bzw. Zahl; Part II 49:38, 49:81, 49:82 „מ״א ז״ל“ = Person, Auflösung unsicher"
+    },
+    "רח\"ר": {
+      "he": "",
+      "en": "",
+      "status": "OFFEN",
+      "beleg": "Part II 49:31",
+      "grund": "„לסוד רח״ר רחבו י״ו אמה“ nicht aufzulösen; hebräisch belassen"
+    },
+    "צמ\"ח": {
+      "he": "בֶּן־צֶמַח (?)",
+      "en": "Ben-Tzemach (?)",
+      "status": "KONTEXT",
+      "beleg": "Part II 43:31",
+      "grund": "„אמר המגיה בן-צמ״ח“: Name des Korrektors, Auflösung unsicher"
+    },
+    "יב\"ק": {
+      "he": "",
+      "en": "(initials of „יעננו ביום קראנו“, 112)",
+      "status": "SHEM",
+      "beleg": "Part I 67:56; Part II 43:14",
+      "grund": "Initialen von Psalms 20:10 als Kavvanah; hebräisch belassen"
+    },
+    "עו\"ף": {
+      "he": "",
+      "en": "(initials of Psalms 86:15–17, = יוסף 156)",
+      "status": "SHEM",
+      "beleg": "Part II 2:19; Part II 49:9",
+      "grund": "Initialen; hebräisch belassen"
+    },
+    "הנ\"ך": {
+      "he": "",
+      "en": "(letters left over in At-Bach; letters of כהן)",
+      "status": "SHEM",
+      "beleg": "Part II 49:17; Part II 49:72",
+      "grund": "Buchstabengruppe; hebräisch belassen"
+    },
+    "גי\"פ": {
+      "he": "",
+      "en": "(letter group of the Achas-Beta alphabet)",
+      "status": "SHEM",
+      "beleg": "Part II 49:60",
+      "grund": "Buchstabengruppe des Alphabets אח״ס בט״ע; hebräisch belassen"
+    },
+    "דכ\"ץ": {
+      "he": "",
+      "en": "(letter group of the Achas-Beta alphabet)",
+      "status": "SHEM",
+      "beleg": "Part II 49:61",
+      "grund": "Buchstabengruppe des Alphabets אח״ס בט״ע; hebräisch belassen"
+    },
+    "ומ\"ר": {
+      "he": "",
+      "en": "(letter group of the Achas-Beta alphabet)",
+      "status": "SHEM",
+      "beleg": "Part II 49:63",
+      "grund": "Buchstabengruppe des Alphabets אח״ס בט״ע; hebräisch belassen"
+    },
+    "זנש\"ת": {
+      "he": "",
+      "en": "(letter group of the Achas-Beta alphabet)",
+      "status": "SHEM",
+      "beleg": "Part II 49:64",
+      "grund": "Buchstabengruppe des Alphabets אח״ס בט״ע; hebräisch belassen"
+    },
+    "ד\"ק": {
+      "he": "",
+      "en": "(number 104 | letter group of At-Bash)",
+      "status": "SHEM",
+      "beleg": "Part I 1:5; Part II 49:53",
+      "grund": "Zahlwert bzw. Buchstabengruppe; hebräisch belassen"
+    },
+    "ס\"ה": {
+      "he": "שֵׁם ס״ה | 65",
+      "en": "the Name of value 65 | 65",
+      "status": "KONTEXT",
+      "beleg": "Part I 69:70; Part II 49:46",
+      "grund": "Part II 49:46 der gefüllte Name אדנ״י (ס״ה); sonst Zahl"
+    }
+  }
+}

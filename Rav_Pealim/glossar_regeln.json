@@ -1,0 +1,100 @@
+{
+ "_meta": {
+  "stand": "2026-11-04",
+  "zweck": "Ergaenzende Regeln fuer lc_glossar.py. Die Glossarbasis bleibt die Repository-glossary_he.json (Ben Jehojada); sie wird nicht automatisch veraendert.",
+  "shem": "Gottesnamen-Kombinationen und Kavvanot-Kuerzel (Name der 42 Buchstaben, Namensverbindungen). Status SHEM: keine Glossar-Fussnote, keine Aufloesung im Fliesstext; Wiedergabe nach Uebersetzungsanweisung LC (Gottesnamen, Kavvanot). Praefixe ו ה ב ל מ כ ש werden abgetrennt.",
+  "lokal": "Aufloesungen nur fuer Leshon Chakhamim (Status LOKAL): im LC-Kontext eindeutig, im Gesamtkorpus aber mehrdeutig und deshalb nicht in glossary_he.json. Stand 2026-11-04: 13 weitere, korpusweit eindeutige Vorschlaege wurden mit Beleg in glossary_he.json uebernommen (siehe dort _meta.stand, Leshon Chakhamim)."
+ },
+ "shem": [
+  "אב\"ג",
+  "ית\"ץ",
+  "קר\"ע",
+  "שט\"ן",
+  "נג\"ד",
+  "יכ\"ש",
+  "בט\"ר",
+  "צת\"ג",
+  "חק\"ב",
+  "טנ\"ע",
+  "יג\"ל",
+  "פז\"ק",
+  "שק\"ו",
+  "צי\"ת",
+  "יאהדונה\"י",
+  "אהדונה\"י",
+  "יאהדונ\"י",
+  "יאקדונק\"י",
+  "אהי\"ה",
+  "שד\"י",
+  "אדנ\"י",
+  "יהו\"ה",
+  "יה\"ו",
+  "מצפ\"ץ",
+  "כוז\"ו",
+  "במוכס\"ז",
+  "אלהי\"ם",
+  "אל\"ד",
+  "סא\"ל",
+  "קס\"א",
+  "קנ\"א",
+  "קמ\"ג",
+  "ע\"ב",
+  "ס\"ג",
+  "מ\"ה",
+  "ב\"ן"
+ ],
+ "shem_nur_im_kontext": {
+  "_hinweis": "Kuerzel, die auch lexikalisch vorkommen (ע\"ב = 72 / 'auf Grund', מ\"ה = 45 / 'was'): SHEM nur, wenn im Umkreis von 40 Zeichen eines dieser Woerter steht.",
+  "kuerzel": [
+   "ע\"ב",
+   "ס\"ג",
+   "מ\"ה",
+   "ב\"ן"
+  ],
+  "kontext": [
+   "הוי\"ה",
+   "הויה",
+   "מילוי",
+   "במילוי",
+   "שם",
+   "שמות",
+   "יודי\"ן",
+   "יודין",
+   "אלפי\"ן",
+   "אלפין",
+   "ההי\"ן",
+   "ההין"
+  ]
+ },
+ "mehrdeutig": {
+  "או\"א": "Abba ve-Imma (Partzufim, Part I 12:2) oder \"אלהינו ואלהי אבותינו\" nach יהר״מ ה׳ (Part I 24:10): je Stelle entscheiden",
+  "ה\"י": "BY: \"HaShem yishmerehu\" (nach Personennamen); in den Kavvanot von LC meist die Buchstaben He–Yod eines Namens (BY alt): je Stelle entscheiden",
+  "יו\"ד": "Buchstabenname Yod (Kavvanot, Milui) oder Zahl 20 (Gematria-Kontext): je Stelle entscheiden"
+ },
+ "lokal": {
+  "פב\"פ": {
+   "he": "פְּלוֹנִי בֶּן פְּלוֹנִית",
+   "en": "N. son of N. (one’s own name and one’s mother’s name)",
+   "beleg": "LC 115x in Bitten und Tikkunim, z. B. Part I 13:7, Part II 29:12, 42:3",
+   "grund": "OYC 8x = פָּנִים בְּפָנִים (Kavvanot, z. B. זו״ן פב״פ)"
+  },
+  "ע\"ל": {
+   "he": "עֲשֵׂה לְמַעַן",
+   "en": "do it for the sake of",
+   "beleg": "Part I 68:159–161 (Reihe עשה למען … ע״ל …)",
+   "grund": "sonst gebraeuchlich: עיין לעיל"
+  },
+  "ההי\"ן": {
+   "he": "הֵהִי״ן (מִלּוּי)",
+   "en": "the He-filling (milui) of the Name",
+   "beleg": "Part I 17:6, Part II 4:4, 6:4 (מלוי ההי״ן)",
+   "grund": "Senlake auch Plural des Buchstabens He (שני ההי״ן), vgl. alt bei יודי״ן"
+  },
+  "אלפי\"ן": {
+   "he": "אַלְפִי״ן (מִלּוּי)",
+   "en": "the Alef-filling (milui) of the Name",
+   "beleg": "Part I 68:193 (מלוי אלפי״ן)",
+   "grund": "Senlake auch Plural des Buchstabens Alef (ארבעה אלפי״ן)"
+  }
+ }
+}
