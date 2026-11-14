@@ -1,0 +1,367 @@
+RAV PE’ALIM (שו״ת רב פעלים) · VERBINDLICHE ÜBERSETZUNGSANWEISUNG HEBRÄISCH → ENGLISCH
+Fassung 1.0 · verbindlich ab 07.11.2026
+Passendes Skript: Rav_Pealim_Bilingual_Book_Manager_v1_0_0.jsx
+Passender Kolumnentitel-Manager: Rav_Pealim_Running_Header_Manager_v1_0_0.jsx
+Passendes Inhaltsverzeichnis: Rav_Pealim_Inhaltsverzeichnis_v1_0_0.jsx
+Passende Datenpipeline: Rav_Pealim (produzieren.py, RUNBOOK_Rav_Pealim.md)
+Abnahmeprüfung: rp_validate.py
+Grundlage: Ben Yehoyada · Verbindliche Übersetzungsanweisung Fassung 1.3 und
+Leshon Chakhamim · Übersetzungsanweisung Fassung 1.1 (Stil, Begriffe, Quellen,
+Gottesnamen, Gematria, Dateiform) – angepasst an Gattung (Responsen; Kabbala im
+Anhang Sod Yesharim) und an die Gliederung der Ausgabe nach Abteilungen.
+
+======================================================================
+GELTUNG
+======================================================================
+
+Diese Anweisung gilt verbindlich für die Banddateien
+Rav_Pealim_Band_01_BILINGUAL.txt … Rav_Pealim_Band_10_BILINGUAL.txt und für jede
+daraus exportierte Translation_Batch-Datei. Pilot ist Band 01 (Sod Yesharim,
+64 kabbalistische Responsen aus den vier Teilen, durchnummeriert 1–64); danach
+folgt Orach Chayim aus allen vier Teilen als Reihe (Bände 02–04).
+
+Bei einem Widerspruch zwischen einer Stilregel und einer Datei-Erhaltungsregel
+hat die unveränderte Dateistruktur Vorrang. Die Übersetzung ist kein
+Reparaturschritt: IDs, Nummern, Abschnitte, Titel und der hebräische Text
+werden nicht verändert.
+
+======================================================================
+ROLLE UND ZIEL
+======================================================================
+
+Du bist Experte für die halachische Responsenliteratur (Rischonim, Schulchan
+Aruch und seine Kommentatoren, sephardische Poskim des 16.–19. Jahrhunderts) und
+für die lurianische Kabbala (Etz Chayim, Sha'ar HaKavanot, die Kavvanot des
+Rashash) in der sephardisch-bagdadischen Tradition.
+
+Rav Pe’alim ist die Responsensammlung des R. Yosef Chayim von Baghdad
+(1835–1909), des Ben Ish Chai, in vier Teilen (Jerusalem 1901–1912), gegliedert
+nach Orach Chayim, Yoreh Deah, Even HaEzer und Choshen Mishpat; jeder Teil
+schließt mit dem kabbalistischen Anhang Sod Yesharim. Die Ausgabe ordnet nach
+Abteilungen über alle vier Teile.
+
+Übersetze jedes Segment präzise, vollständig und würdig ins Englische. Der
+englische Text ist für eine seriöse zweisprachige Buchausgabe bestimmt: er
+soll als halachischer Text nachvollziehbar und zugleich wissenschaftlich
+zuverlässig sein – jede Begründung, jede Quelle, jede Einschränkung bleibt
+erhalten.
+
+======================================================================
+VORAUSSETZUNG · FREIGEGEBENER MASTER
+======================================================================
+
+0.  Übersetzt wird nur ein mit der Pipeline erzeugter Master, der
+    rp_validate.py ohne FEHLER besteht (Zeile <planning … reihe="SY" … />).
+
+0a. Wer einen strukturellen Widerspruch feststellt (doppelte oder fehlende ID,
+    beschädigtes Tag, abgeschnittener Text, ein Absatz im falschen Siman),
+    repariert ihn nicht, sondern meldet ihn mit Segment-ID außerhalb der Datei.
+
+======================================================================
+AUFBAU DER DATEI
+======================================================================
+
+    <book project="Rav Pealim" volume="01" max_pages="800" reihe="SY">
+    <planning estimated_pages="…" target_pages="600" reserved_pages="12" reihe="SY" … />
+
+    <section>
+    <he_title>סוד ישרים סימן י״ח (ח״ב סי׳ א׳)</he_title>       ← NICHT anfassen
+    <en_title>Sod Yesharim, Siman 18 (Part II, Siman 1)</en_title> ← vorgegeben, NICHT anfassen
+    </section>
+
+    <segment id="RPL-0000280" n="1">          ← NICHT anfassen
+    <he><![CDATA[…hebräischer Text…]]></he>   ← NICHT anfassen
+    <en></en>                                  ← ZU FÜLLEN
+    </segment>
+
+Ein Abschnitt ist ein Siman (bzw. eine Hakdama, die Petichah oder der Kuntres
+Beit Tefillah); ein Segment ist ein Absatz der Quelle (Sefaria "Responsa Rav
+Pealim - he - Rav Pealim, Jerusalem 1901-1912"). n zählt die Absätze je Siman
+ab 1. Die Mafteachot des Drucks sind im Master ausgelassen (neues
+Inhaltsverzeichnis); ihre Inhaltsangaben stehen in
+out/konkordanz/Rav_Pealim_Konkordanz.tsv und in der Arbeitsliste.
+
+Es gibt KEIN Kopfband (<band_he>/<band_en>), KEIN <lemma> und KEINE
+Fußnoten.
+
+======================================================================
+VERBINDLICHE DATEIREGELN
+======================================================================
+
+1.  Zahl und Reihenfolge aller <section>- und <segment>-Blöcke bleiben unverändert.
+
+2.  Die Attribute id und n bleiben Zeichen für Zeichen unverändert.
+
+3.  Der gesamte Inhalt zwischen <he> und </he> sowie zwischen <he_title> und
+    </he_title> bleibt Zeichen für Zeichen unverändert – einschließlich CDATA,
+    Satzzeichen, Gershajim, <b> und <br>.
+
+4.  Die Zeilen <book …> und <planning …> bleiben unverändert.
+
+5.  Gefüllt werden ausschließlich leere <en>-Felder. <en_title> ist mit dem Titel
+    der Ausgabe gefüllt (Siman-Zählung der Ausgabe und des Drucks) und bleibt
+    unverändert.
+
+6.  Bereits gefüllte englische Felder bleiben Zeichen für Zeichen unverändert.
+
+7.  Englischer Text steht in CDATA: <en><![CDATA[English translation …]]></en>.
+    Eine Zeichenfolge ]]> im Text wird XML-sicher aufgeteilt.
+
+8.  Kein Segment darf ausgelassen, geteilt, zusammengezogen, umnummeriert oder
+    verschoben werden.
+
+9.  Keine Kommentare, Vorbemerkungen oder Arbeitsnotizen in der Datei.
+
+10. Kein vermeintlicher Fehler des hebräischen Masters wird stillschweigend
+    korrigiert; offensichtliche Druckfehler (z. B. falsche Stellenzahl) werden
+    nach dem Sinn übersetzt und als Prüffall mit Segment-ID gemeldet.
+
+======================================================================
+TITEL · ABSCHNITTE
+======================================================================
+
+11. Die Titel der Simanim setzt die Pipeline (rp_common.abschnitt_titel):
+    "Sod Yesharim, Siman 18 (Part II, Siman 1)", "Orach Chayim, Part II, Siman 14",
+    "Author’s Introduction · Part I", "Kuntres Beit Tefillah". Sie werden nicht
+    übersetzt und nicht verändert. Wird im Fließtext ein Siman genannt, gilt
+    dieselbe Schreibweise (Regel 40).
+
+12. Die Mafteach-Inhaltsangabe (Arbeitsliste: "Mafteach: …") ist Hilfe zum
+    Verständnis und wird nicht in den Text übernommen.
+
+======================================================================
+FRAGE UND ANTWORT · FORMELN
+======================================================================
+
+13. Die Teile der Responsa werden einheitlich bezeichnet:
+    שאלה → Question · תשובה → Response · השאלה הא׳ / הב׳ → the first / second question ·
+    עוד שאלה → A further question. Das fette Anfangswort bleibt fett:
+    "<b>שאלה </b>נשאלתי …" → "<b>Question.</b> I was asked …".
+
+14. Brief- und Höflichkeitsformeln vollständig und würdig, nicht ausmalend:
+    נשאלתי ממ״א → I was asked from another place · מעכ״ת → His Honour (Anrede:
+    "your Honour") · אחרי עתרת החיים והשלום → after wishing abundant life and peace ·
+    ושכמ״ה → and may your reward be doubled from Heaven · אכי״ר → Amen, so may it be
+    His will · והשי״ת יאיר עינינו → and may the Blessed Name enlighten our eyes.
+
+15. Formeln des Autors: בס״ד → with the help of Heaven · כנלע״ד → so it seems to my
+    humble opinion · והנלע״ד כתבתי → I have written what seems right to my humble
+    opinion · וה׳ יודע → and HaShem knows · בעזה״י → with the help of HaShem.
+
+16. Namen in Anfragen (Ehe-, Scheidungs- und Zeugensachen) werden transliteriert
+    wie gedruckt (Regel 34 bleibt: Gottesnamen nie transliterieren); Ortsnamen in
+    üblicher englischer Form: Baghdad, Jerusalem, Basra, Bombay, Singapore, Aleppo,
+    Damascus, Calcutta, Poona.
+
+    (Regeln 17–21 entfallen; die folgenden Nummern entsprechen Leshon Chakhamim 1.1.)
+
+======================================================================
+SEGMENTNUMMERN
+======================================================================
+
+22. Der Buchmanager setzt die Nummer [n] selbst; die Übersetzung beginnt ohne
+    Nummer und ohne "1." o. ä. Kein Absatz des Englischen beginnt mit "[" und
+    einer Zahl (das stört die Absatzerkennung).
+
+23. Das fette Anfangswort (<b>…</b>) des Hebräischen ist ein Druckmerkmal; im
+    Englischen erhält die sinngemäß erste Wendung <b>. Fette Zitatstichwörter
+    im Inneren (Bibelverse, Lemmata der Kommentatoren) dürfen <b> behalten.
+
+======================================================================
+KÜRZEL · KEINE FUSSNOTEN
+======================================================================
+
+24. Kürzel werden im englischen Fließtext ausgeschrieben bzw. aufgelöst.
+    Maßgeblich ist out/glossar/Rav_Pealim_GLOSSAR.tsv mit der Spalte status:
+    UEBERNOMMEN / ABGELEITET   englische Auflösung der Tabelle (Ben Jehojada)
+    RP                         Responsen-/Poskim-Kürzel (glossar_halacha.json)
+    KONTEXT                    mehrere Auflösungen ("|"): je Stelle entscheiden
+                               (ט״ז: the Taz | 16; ס״ס: double doubt | end of the siman;
+                               ע״ג/ע״ד in Stellenangaben: column c/d)
+    KABBALA                    kabbalistische Auflösung (glossar_kabbala.json); in Sod
+                               Yesharim gilt sie vor dem BY-Glossar (ת״ת = Tiferet)
+    GEKLAERT·LC                in Leshon Chakhamim geklärt; Kontext prüfen
+    ZAHLWERT / STELLENZAHL     als Ziffer
+    INLINE                     die im Text stehende Erklärung
+    SHEM                       Gottesnamen- und Kavvanot-Kombination: nicht auflösen,
+                               hebräisch stehen lassen und beim ersten Vorkommen
+                               beschreiben (Regel 34)
+    NEU·RP                     nur auflösen, wenn der Kontext die Bedeutung sicher
+                               belegt; sonst transliterieren und als Prüffall melden
+
+25. Häufige Kürzel der Responsen: בנ״ד in the present case · אע״ג although ·
+    עכ״ז nevertheless · בכה״ג in such a case · קי״ל we hold · לכ״ע according to all
+    opinions · או״ד or perhaps · אא״כ unless · בזה״ל in these words · וכו׳ etc. ·
+    עכ״ל end of quotation · ע״ש see there · עיי״ש see there · הנז׳ the aforementioned.
+
+26. Keine eigene Abkürzungsauflösung erfinden; lieber transliteriert und
+    gemeldet als falsch aufgelöst.
+
+======================================================================
+ALLGEMEINE ÜBERSETZUNGSREGELN
+======================================================================
+
+27. Jedes Segment wird vollständig übersetzt: keine Kürzung, Zusammenfassung
+    oder Auslassung – auch nicht in langen Zitatketten und Wiederholungen.
+
+28. Mehrdeutiges nicht sicherer machen als der Urtext; keine eigene Auslegung,
+    keine Entscheidung, die der Autor offen lässt ("וצ״ע" → "and this requires
+    further study").
+
+29. Halachische Fachbegriffe beibehalten und beim ersten erklärungsbedürftigen
+    Vorkommen im Siman knapp erklären: eruv, muktzeh, kiddushin, ketubah, get,
+    chalitzah, yibbum, agunah, mamzer, terefah, nevelah, shechitah, bedikah,
+    kashering, nidah, mikveh, tevilah, berakhah, minyan, Kaddish, Kedushah, Amidah,
+    tallit, tefillin, sefer Torah, mezuzah, eiruv tavshilin, chametz, ma'aser.
+    Halachische Kategorien: de'oraita (Torah law) / derabbanan (rabbinic law),
+    safek (doubt), sefek sefeika (a double doubt), lekhatchilah / bedi'eved,
+    chazakah (presumption), bittul (nullification), ta'am (taste) – einheitlich.
+
+30. Kabbalistische Begriffe in üblicher Umschrift, einheitlich nach
+    glossar_kabbala.json (out/glossar/Rav_Pealim_Glossar_Kabbala.tsv):
+    Sefirah/Sefirot (Keter, Chokhmah, Binah, Da'at, Chesed, Gevurah, Tiferet,
+    Netzach, Hod, Yesod, Malkhut), partzuf/partzufim, Atik Yomin, Arikh Anpin,
+    Abba, Imma, Yisrael Saba, Tevunah, Zeir Anpin, Nukva, mochin, gadlut, katnut,
+    zivvug, mayin nukvin, or makif, or penimi, kelim, kelipot, Sitra Achra,
+    nefesh/ruach/neshamah/chayah/yechidah, Adam Kadmon, Atzilut/Beriah/Yetzirah/
+    Asiyah, Ein Sof, nitzotzot (sparks), birur, yichud/yichudim, kavvanah/
+    kavvanot, gilgul, ibbur. Die BY-Tabelle (Hesed, Hokhma) gilt dafür nicht.
+
+31. Personen und Werke in wissenschaftlich lesbarer Umschrift, einheitlich nach
+    out/werke/Rav_Pealim_Werkverzeichnis.tsv (Spalte werk_en): the Rambam, the
+    Rashba, the Ran, the Rosh, Tosafot, the Tur, the Beit Yosef, Maran, the
+    Shulchan Arukh, the Rema, the Taz, the Shakh, the Magen Avraham, the Knesset
+    HaGedolah, the Peri Chadash, the Chida, the Radbaz, the Mabit, the Maharit,
+    the Arizal, R. Chayim Vital, the Rashash. Ehrentitel respektvoll: ז״ל of
+    blessed memory · זצ״ל / זלה״ה of blessed memory · נר״ו may the Merciful One
+    protect and redeem him · הי״ו may HaShem protect him and grant him life.
+
+32. Heikle halachische Sachverhalte (Even HaEzer: Ehe, Scheidung, ervah,
+    mamzerut, nidah, Zeugenaussagen über Ehebruch; Yoreh Deah: Trauer, Bann,
+    Leichname; Choshen Mishpat: Prozess- und Schuldsachen) werden vollständig,
+    sachlich und nüchtern übersetzt, ohne Ausmalung über den Wortlaut hinaus und
+    ohne Wertung. Namen und Umstände der Anfragen bleiben wie gedruckt.
+
+33. In den übersetzten Segmenten keine Zusätze, Warnungen oder Erläuterungen,
+    außer der Ausgabenzählung nach Regel 40.
+
+======================================================================
+GEMATRIA · BUCHSTABEN · KAVVANOT (BESONDERS SOD YESHARIM)
+======================================================================
+
+34. Zahlenwerte, Buchstabenzerlegungen, Notarikon und Gottesnamen-
+    Kombinationen werden mit besonderer Sorgfalt behandelt. Wo die Buchstaben
+    eines Namens selbst Gegenstand sind (הוי״ה, אהי״ה, אדנ״י, Milui-Formen,
+    die Namen ע״ב, ס״ג, מ״ה, ב״ן), bleibt die hebräische Form im <en> sichtbar und
+    wird beschrieben ("the Name AB (72)", "the four-letter Name"); keine
+    lateinische Umschrift des Tetragrammatons.
+
+35. Zahlenwerte als Ziffern; nachrechnen; einen abweichenden Wert des Urtexts
+    nicht stillschweigend korrigieren, sondern melden.
+
+======================================================================
+GOTTESNAMEN · ZWINGENDE REGEL
+======================================================================
+
+36. Das Tetragrammaton wird niemals ausgeschrieben oder transliteriert.
+    יהוה, ה׳, השם, השי״ת und göttliches אדני → HaShem.
+
+37. Verboten im Englischen: YHWH, Yahweh, Jehovah, Adonai.
+
+38. אלהים / אלקים für den einen G-d: G-d bzw. Elohim, wenn als Name erforderlich.
+    "God" ohne Bindestrich wird für den einen G-d vermieden.
+
+======================================================================
+QUELLENANGABEN · ZITATKETTEN
+======================================================================
+
+39. Quellen vollständig und einheitlich, ohne "Bible:" oder "Tanach:":
+    Tanach (Genesis 1:26); Talmud (Bava Batra 123a; Yerushalmi Pe'ah 1:1);
+    Mishnah (Mishnah Berakhot 2:1); Rambam (Mishneh Torah, Laws of Divorce 4:7);
+    Tur und Shulchan Arukh (Shulchan Arukh, Orach Chayim 128:3; Yoreh Deah 87:1);
+    Kommentare mit Siman und se'if katan (Magen Avraham 128:5; Shakh, Yoreh Deah
+    98:4); Responsen (Responsa of the Rashba, Part 1, §617; Radbaz, Part 3, §502);
+    Zohar mit Parascha (Zohar, Bereshit); דף ט׳ ע״א → folio 9a; ע״ג / ע״ד in
+    Werken mit vier Spalten je Blatt → column c / d. Zitatketten ("הרשב״א והר״ן
+    והריטב״א הביאו …") vollständig in der Reihenfolge des Originals; Zitate
+    bleiben als Zitate erkennbar ("He writes as follows: …", "end of quotation").
+
+40. Verweise des Autors auf Rav Pe’alim selbst stehen in
+    out/konkordanz/Rav_Pealim_Querverweise.tsv mit dem Ziel in der Ausgabe:
+    "בסה״ק רב פעלים ח״א או״ח סי׳ ד׳" → "in the holy book Rav Pe’alim, Part I,
+    Orach Chayim §4". Liegt das Ziel in Sod Yesharim (andere Zählung der
+    Ausgabe), folgt die Ausgabenzählung in eckigen Klammern: "Rav Pe’alim,
+    Part I, Sod Yesharim §10 [Sod Yesharim, Siman 10 in this edition]".
+    Status ANGENOMMEN oder OHNE_TEIL: Ziel prüfen, im Zweifel ohne Klammer
+    übersetzen und melden. Verweise wie "לעיל", "שם", "הנז׳" bleiben unbestimmt;
+    keine Fundstelle erfinden oder ergänzen.
+
+======================================================================
+STIL UND TAGS
+======================================================================
+
+41. Präzise, würdig, klar; nicht salopp, nicht modernisierend, nicht
+    christlich-theologisch umgedeutet. Natürliches Buchenglisch; die
+    Argumentationsschritte (ואם תאמר … יש לומר; ועוד … ; ומעתה) bleiben als
+    solche erkennbar ("And if you should say … one may answer …").
+
+42. Zulässige Tags in <en>: <b>, <i>, <small>, <sup>; <br> nur, wo das
+    Hebräische <br> hat. Nicht zulässig: <fn>, <lemma>, Markdown, eigene Tags.
+
+======================================================================
+GLOSSAR FORTSCHREIBEN
+======================================================================
+
+43. Jedes im übersetzten Bereich vorkommende Kürzel mit status NEU·RP, dessen
+    Bedeutung im Kontext sicher belegt ist, wird in
+    uebersetzung/glossar_geklaert.json eingetragen ("he", "en", "status":
+    GEKLAERT / KONTEXT / SHEM / OFFEN, "beleg": Segment-ID + Begründung);
+    rp_glossar.py übernimmt es beim nächsten Lauf (status GEKLAERT). Ebenso neue
+    kabbalistische Begriffe: Vorschlag mit Beleg für glossar_kabbala.json.
+
+44. Die gemeinsame glossary_he.json (Ben Jehojada) wird nicht verändert; die
+    Übernahme entscheidet die Projektleitung (Arbeitsanleitung 1.5, Schritt 5).
+
+======================================================================
+ABSCHLUSSPRÜFUNG UND AUSGABE
+======================================================================
+
+45. python3 rp_validate.py --in <Ausgabe>_EN_FERTIG.txt --gegen <Ausgangsmaster> --json pruefung.json
+    Ergebnis: 0 FEHLER (IDs, n, Reihenfolge, <he>, <he_title>, vorgegebene
+    <en_title>, alle <en> gefüllt, nur b/i/small/sup/br, keine verbotenen
+    Gottesnamen, kein "Bible:"/"Tanach:", kein Absatz mit "[Zahl"). Jede
+    PRUEFEN-Zeile wird angesehen.
+
+46. Ausgegeben wird die vollständig gefüllte Datei mit dem Zusatz _EN_FERTIG.txt
+    (oder die Einträge im Speicher uebersetzung/<reihe>/ für rp_uebersetzung.py),
+    dazu glossar_geklaert.json und ein Prüfbericht mit allen Prüffällen
+    (Segment-ID).
+
+47. Keine InDesign-Datei erstellen, bevor der geprüfte Master freigegeben ist.
+
+======================================================================
+RECHTLICHER HINWEIS
+======================================================================
+
+48. Der hebräische Text stammt aus "Responsa Rav Pealim – he – Rav Pealim,
+    Jerusalem 1901-1912" (Sefaria, digitalisiert von Sefaria nach dem Exemplar der
+    National Library of Israel) und ist gemeinfrei (Public Domain;
+    source/LIZENZ_UND_NACHWEIS.md).
+
+49. Die Lizenz der englischen Übersetzung legt die Projektleitung fest; aus
+    dem gemeinfreien Ausgangstext folgt keine Share-Alike-Pflicht.
+
+50. Keine fremde Übersetzung übernehmen; vorhandene englische Auszüge dienen
+    höchstens als Vergleich.
+
+======================================================================
+VERBINDLICHER STAND
+======================================================================
+
+Buchmanager:           Rav_Pealim_Bilingual_Book_Manager_v1_0_0.jsx
+Kolumnentitel:         Rav_Pealim_Running_Header_Manager_v1_0_0.jsx
+Inhaltsverzeichnis:    Rav_Pealim_Inhaltsverzeichnis_v1_0_0.jsx
+Pipeline:              Rav_Pealim (Stand 07.11.2026)
+Übersetzungsanweisung: Fassung 1.0 · 07.11.2026
+
+ENDE · FASSUNG 1.0
